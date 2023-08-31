@@ -1,8 +1,11 @@
 const fs = require("fs")
 const ffmpeg = require("fluent-ffmpeg")
+
+ffmpeg.setFfmpegPath("../ffmpeg")
+
 const path = require("path")
 
-let tempFilePath = "R:/Temp"
+let tempFilePath = "/Temp"
 let fileStoragePath = './stream_128k'
 
 let speakerId = 47
