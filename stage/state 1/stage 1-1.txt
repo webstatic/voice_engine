@@ -1,0 +1,89 @@
+stage 1,1.
+
+分かりますか。//Do you understand?
+今日は暑いですねえ。//It’s hot today, isn’t it
+今日はいやな天気ですねえ。//Terrible weather today, isn’t it?
+
+私はずんだもんです。//I am Zundamon.
+こちらはずんだもんさんです。//This is Zundamon-san.
+
+今日は寒いです。//It’s cold today.
+今日は暑いです。//It’s hot today.
+
+今日は本当に寒いです。//It’s really cold today.
+今日はとても暑いです。//It’s very hot today.
+今日、日本はとても暑いです。//It’s very hot in Japan today.
+
+分かりますか。//Do you understand?
+ええ、よく分かります。//Yes, I understand well.
+ずんだもんさんは分かりますか。//Do you understand, Zundamon-san?
+ええ、（私は）よく分かります。//Yes, I understand well.
+
+ナースロボさんは日本語がよく分かります。//Naasurobo-san understands Japanese well.
+
+私は日本語を勉強します。//I will study Japanese.
+
+僕は日本に行きます。//I will go to Japan.
+
+ずんだもんさんは一年生ですか。//Are you a freshman, Zundamon-san?
+三年生ですか。//Are you in the third grade?
+
+今日は寒いですか。//Is it cold today?
+ナースロボさんは日本語が分かりますか。//Do you understand Japanese, Naasurobo-san?
+
+ずんだもんさんは一年生ですか。//Are you a freshman, Zundamon-san?
+はい、（私は）一年生です。//Yes, I am a freshman.
+今日は寒いですか。//Is it cold today?
+ええ、（今日は）寒いです。//Yes, it’s cold today.
+
+ナースロボさんは分かりますか。//Do you understand, Naasurobo-san?
+ええ、（僕は）分かります。//Yes, I understand.
+
+（あなたは）ずんだもんさんですか。//Are you Zundamon-san?
+ええ、そうです。//Yes, that’s right.
+いいえ、違います。//No, I am not.
+いいえ、違います。（私は）時雨です。//No, I’m not. I’m Shigure.
+いいえ。（私は）時雨です。//No. I’m Shigure.
+
+ずんだもんさんは一年生です。//Zundamon-san is a freshman.
+ずんだもんさんは一年生ではありません。//Zundamon-san is not a freshman.
+ずんだもんさんは一年生じゃありません。//Zundamon-san is not a freshman.
+
+今日は寒いです。//It’s cold today.
+今日は寒くありません。//It’s not cold today.
+
+これはいいです。//This is good.
+それはよくありません。//That is not good.
+
+ずんだもんさんはいい学生ですか。//Is Zundamon-san a good student?
+いいえ、（ずんだもんさんは）いい学生じゃありません。//No, she is not a good student.
+
+ナースロボさんは分かりますか。//Do you understand, Naasurobo-san?
+いえ、（僕は）よく分かりません。//No, I don’t understand very well.
+
+ずんだもんさんは一年生です。アリスさんも一年生です。//Zundamon-san is a freshman. Alice-san is also a freshman.
+ずんだもんさんもアリスさんも一年生です。//Both Zundamon-san and Alice-san are freshmen.
+エイミーさんもずんだもんさんもアリスさんも一年生ではありません。//Neither Amy-san, nor Zundamon-san, nor Alice-san is a freshman.
+ナースロボさんは日本語が分かります。（ナースロボさんは）中国語も分かります。//Naasurobo-san understands Japanese. She understands Chinese, too.
+
+ナースロボさんとアリスさんは学生です。//Naasurobo-san and Alice-san are students.
+アリスさんとナースロボさんは学生です。//Alice-san and Naasurobo-san are students.
+
+私はずんだもんです。そして、こちらは時雨さんです。//I’m Zundamon. And this is Shigure-san.
+僕は時雨です。そして、（僕は）学生です。//I am Shigure. And I am a student.
+
+ナースロボさんは一年生です。でも、アリスさんは一年生ではありません。//Naasurobo-san is a freshman, but Alice-san is not.
+私はずんだもんです。でも、（私は）日本人じゃありません。//I’m Zundamon; however, I am not Japanese.
+
+時雨さん！とってもひさしぶりですねえ。//Shigure-san! It’s been a while, hasn’t it?
+ええ、そうですねえ。本当にひさしぶりですねえ。//It really has. It’s been a long time.
+
+今日は本当に暑いですねえ。//It’s really hot today, isn’t it?
+本当にそうですねえ。//It’s really hot today, isn’t it?
+
+ナースロボさん、お元気ですか。//How have you been, Naasurobo-san?
+ええ、おかげさまで、とっても元気です。時雨さんは？//Quite well, thank you. How about you, Shigure-san?
+おかげさまで、元気です。//I’m quite well, thank you.
+
+そちらは時雨さんですか。//Is that Shigure-san?
+いいえ、こちらはずんだもんさんですよ。//No, actually, it’s Zundamon-san.

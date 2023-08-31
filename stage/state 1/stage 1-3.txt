@@ -1,0 +1,201 @@
+stage １，３。
+/// positive and negative imperfectives
+
+私は明日、本を読みます。//I will read a book tomorrow.
+私は毎日、本を読みます。//I read books every day.
+
+私は明日、本を読みません。//I will not read a book tomorrow.
+私は毎日、本を読みません。//I don’t read books every day.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// non-action predicates
+
+僕は一年生です。//I am a freshman.
+僕は一年生じゃありません。//I am not a freshman.
+
+今日は寒いです。//It is cold today.
+今日は寒くありません。//It is not cold today.
+
+ナースロボさんは日本語が話せます。//Naasurobo-san can speak Japanese.
+ナースロボさんは日本語が話せません。//Naasurobo-san cannot speak Japanese.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// aspects of nominal predicates
+
+私は学生です。//I’m a student.
+私は学生でした。//I was a student.
+
+私は一年生ではありませんでした。//I wasn’t a freshman.
+私は一年生じゃありませんでした。//I wasn’t a freshman.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// aspects of adjectival
+
+大きいです。大きかったです。//is big. was big.
+いいです。よかったです。//is good. was good.
+
+昨日は寒くありませんでした。//It wasn’t cold yesterday.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// aspects of verbal predicates
+
+昨日、私は日本語を勉強しました。//I studied Japanese yesterday.
+
+日本語が話せました。//I used to be able to speak Japanese.
+
+昨日、勉強しませんでした。//I didn’t study yesterday.
+
+日本語が話せませんでした。//I wasn’t able to speak Japanese.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// continuous aspect
+
+僕は本を読みます。//I will read a book. I normally read a book.
+僕は本を読んでいます。//I am reading a book (now). I have been reading a book.
+僕は本を読んでいません。//I’m not reading a book now. I have not been reading a book.
+僕は本を読んでいました。//I was reading a book then. I had been reading a book.
+僕は本を読んでいませんでした。//I wasn’t reading a book then. I had not been reading a book.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// volitional aspect
+
+行きます。//will go
+行きましょう。//Let’s go.
+行きましょうか。//Shall we go?
+
+あの人は学生でしょう。//That person is probably a student.
+
+多分このかばんは高いでしょう。//This backpack is probably expensive.
+
+ナースロボさんは日本語が分かるでしょう。//Naasurobo-san probably understands Japanese.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// a summary of aspectual forms
+
+一年生です。//I’m a freshman.
+一年生ではありません。//I’m not a freshman.
+一年生でした。//I was a freshman.
+一年生ではありませんでした。//I wasn’t a freshman.
+一年生でしょう。//[Someone else] is probably a freshman.
+
+今日は寒いです。//It is cold today.
+今日は寒くありません。//It is not cold today.
+今日は寒かったです。//It was cold today.
+今日は寒くありませんでした。//It was not cold today.
+今日は寒いでしょう。//It is probably cold today.
+
+日本語が話せます。//I can speak Japanese.
+日本語が話せません。//I can’t speak Japanese.
+日本語が話せました。//I could speak Japanese.
+日本語が話せませんでした。//I couldn’t speak Japanese.
+日本語が話せるでしょう。//[Someone] can probably speak Japanese.
+
+日本語を勉強します。//I (will) study Japanese.
+日本語を勉強しません。//I don’t study Japanese.
+日本語を勉強しました。//I studied Japanese.
+日本語を勉強しませんでした。//I didn’t study, Japanese.
+日本語を勉強しましょう。//Let’s study Japanese.
+
+日本語を勉強しています。//I’m studying Japanese.
+日本語を勉強していません。//I’m not studying Japanese.
+日本語を勉強していました。//I was studying Japanese.
+日本語を勉強していませんでした。//I wasn’t studying Japanese.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// sentential conjunctions
+
+私は去年、日本に行きました。その前（に）、日本語を勉強しました。//I went to Japan last year. Before that, I studied Japanese.
+映画を見ました。その後（で）、ハンバーグを食べました。//I watched a movie. After that, I ate a hamburger.
+去年、日本に行きました。その時（に）、日本語を勉強しました。//I went to Japan last year. At that time, I studied Japanese.
+
+朝ご飯の前（に）、勉強しました。//Before breakfast, I studied.
+朝ご飯の後（で）、勉強しました。//After breakfast, I studied.
+朝ご飯の時（に）、勉強しました。//During breakfast, I studied.
+ーーーーーーーーーーーーーーーーーーーー
+私は日本語が分かりませんでした。だから、英語を話しました。//I didn’t understand Japanese, so I spoke English.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// joining predicates with conjunctive forms
+
+先生はずんだもん先生と時雨先生です。//The teachers are Zundamon-sensei and Shigure-sensei.
+ーーーーーーーーーーーーーーーーーーーー
+/// first predicate as nominal predicate
+
+僕はナースロボで、日本語の学生です。//I’m Naasurobo, and I’m a student of Japanese.
+エイミーさんは元気で、きれいです。//Amy-san is cheerful and pretty.
+ーーーーーーーーーーーーーーーーーーーー
+/// first predicate as adjectival predicate
+
+中国は大きくて、遠いです。//China is large. It’s also far away.
+日本語の授業はよくて、楽しいです。//My Japanese class is good as well as fun.
+ーーーーーーーーーーーーーーーーーーーー
+/// first predicate as verbal predicate
+
+私は勉強して、運動します。//I will study and then exercise.
+私は勉強して、運動しました。//I studied and then exercised.
+
+あの人は英語も話せて、漢字も読めます。//That person can speak English as well as read kanji.
+あの人は漢字も読めて、英語も話せます。//That person can read kanji as well as speak English.
+
+昨日、僕は勉強して、時雨さんは運動しました。//I studied yesterday, but Shigure-san exercised.
+
+寮の部屋はきれいで、小さいです。//The dorm room is clean and small.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// particle thematic
+
+私は明日、日本について話します。//I will talk about Japan tomorrow.
+ーーーーーーーーーーーーーーーーーーーー
+/// particle accompaniment
+
+私はナースロボさんと映画に行きます。//I will go to a movie with Naasurobo-san.
+昨日、（僕は）ずんだもん先生と話しました。//I talked with Zundamon-sensei yesterday.
+ーーーーーーーーーーーーーーーーーーーー
+/// particle instrumental
+
+日本人は箸で食べます。//Japanese people eat with chopsticks.
+私は学校にいつも歩いて行きます。//I always go to school on foot.
+
+チャンさんは新聞を図書館で読みます。//Chang-san will read the newspaper at the library.
+チャンさんは図書館に行きます。//Chang-san will go to the library.
+
+ーーーーーーーーーーーーーーーーーーーー
+///  topic and contrastive
+
+来年もナースロボさんは日本語を勉強しますか。//Naasurobo-san, will you study Japanese next year as well?
+中国語は勉強しませんが、日本語を勉強します。//[As for Chinese,] I will not study it, but I will study Japanese.
+
+これは私の本ですが、あれはエミリーさんのです。//This book is mine, but that one is EmiLy-san’s.
+私は、本は読みますが、新聞は読みません。//I will read a book, but not a newspaper.
+
+今日は、日本語の授業には行きません。//I will not go to Japanese class today.
+
+ーーーーーーーーーーーーーーーーーーーー
+ーーーーーーーーーーーーーーーーーーーー
+stage 1,3. カンバセーション.
+
+アリスさんは二年生ですね。//Alice-san, you’re a sophomore, right?
+ええ、そうです。//Yes, I am.
+
+アリスさんは二年生ですね。//Alice-san, you’re a sophomore, right?
+いえ、僕は三年生ですが・・・。//No, I’m a third grader, but . . . [why do you ask?]
+
+日本語は難しくありませんか。//Isn’t Japanese hard for you?
+難しいです。//You’re right. It is difficult.
+
+日本語は難しくありませんか。//Isn’t Japanese hard for you?
+いいえ。易しいです。//I don’t think so. It’s easy.
+
+この本は高くありませんか。//This book is expensive, isn’t it?
+ええ。高いです。//You’re right. It is expensive.
+いいえ。高くありません。//You are incorrect. It is not expensive.
+
+日本語は易しくありませんねえ。//Japanese isn’t easy, don’t you think so?
+ええ、本当に易しくありませんねえ。//You’re right, it’s not easy.
+
+この本は高くありませんねえ。//This book is not expensive, don’t you agree?
+ええ、そんなに高くありませんねえ。//You are right. It is not that expensive.
+そうですか。高いです。//Really? It is expensive.
+
+日本語は易しくありませんねえ。//Japanese isn’t easy, don’t you think so?
+そうですか。あんまり難しくありませんが・・・。//Really? It’s not that difficult, but . . .

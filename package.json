@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "async": "^3.2.4",
+    "elevenlabs-node": "^1.1.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "lokijs": "^1.5.12",
+    "node-cmd": "^5.0.0",
+    "node-fetch": "^3.3.1",
+    "request": "^2.88.2",
+    "tiktok-tts": "^1.1.9"
+  }
+}

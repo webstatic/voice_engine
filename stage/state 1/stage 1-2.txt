@@ -1,0 +1,159 @@
+stage 1,2.
+
+/// forming an alternative question sentence
+
+あなたは雪ノ下さんですか、（あなたは）時雨さんですか。//Are you Yukinoshita-san or Shigure-san?
+あなたは雪ノ下さんですか、（それとも）（あなたは）時雨さんですか。//Are you Yukinoshita-san or Shigure-san?
+
+ナースロボさんは三年生ですか、（それとも）（ナースロボさんは）四年生ですか。//Naasurobo-san, are you a third grader, or are you a fourth grader?
+ナースロボさんは三年生か四年生ですか。//Is Naasurobo-san a third or fourth year student?
+今日か明日、行きます。//I will go today or tomorrow.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// responses to alternative questions
+
+あなたは雪ノ下さんですか、時雨さんですか。（私は）雪ノ下です。//Are you Yukinoshita-san or Shigure-san? I'm Yukinoshita.
+今日は暖かいですか、涼しいですか。（今日は）とても暖かいです。//Is it warm or cool today? It’s very warm (today).
+アメリカに行きますか、日本に帰りますか。アメリカに行きます。//Will you go to America or return to Japan? I will go to America.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// negating both predicates
+
+あなたは雪ノ下さんですか、時雨さんですか。//Are you Yukinoshita-san or Shigure-san?
+いいえ。（僕は）ナースロボです。//No. I’m Naasurobo.
+（僕は）雪ノ下でも時雨でもありません。（僕は）ナースロボです。//I’m neither Yukinoshita nor Shigure. I’m Naasurobo.
+
+今日は暖かいですか、涼しいですか。//Is it warm or cool today?
+暖かくも涼しくもありません。とても暑いです。//It’s neither warm nor cool. It’s very hot
+どちらでもありません。//Neither is the case.
+
+明日、勉強しますか、運動しますか。//Will you study tomorrow, or exercise?
+勉強も運動もしません。//I will neither study nor exercise.
+
+家に帰りますか、勉強しますか。//Will you go home or study?
+どちらもしません。//I will do neither.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// information-seeking question sentences
+
+こちらは時雨さんです。//This is Shigure-san.
+こちらはだれですか。//Who is this person?
+こちらはどなたですか。//Who is this person?
+時雨さんです。//This is Shigure-san.
+
+ナースロボさんは何が分かりますか。//What does Naasurobo-san understand?
+ナースロボさんは何語が分かりますか。//What language does Naasurobo-san understand?
+ナースロボさんは日本語が分かります。//Naasurobo-san understands Japanese.
+
+ナースロボさんは何年生ですか。//What year student is Naasurobo-san?
+ナースロボさんは一年生です。//Naasurobo-san is a freshman.
+
+それは何ですか。//What is that?
+（これは）本です。//This is a book.
+
+ナースロボさんはどこに行きますか。//Where will Naasurobo-san go?
+（ナースロボ さんは）日本に行きます。//Naasurobo-san will go to Japan.
+
+英語はどうですか。//How is English?
+英語は難しいです。//English is difficult.
+
+明日、僕は勉強します。//I will study tomorrow.
+僕は明日、勉強します。//I will study tomorrow.
+
+いつナースロボさんは日本語を勉強しますか。//When will you study Japanese, Naasurobo-san?
+ナースロボさんはいつ日本語を勉強しますか。//When will you study Japanese, Naasurobo-san?
+ナースロボさんは日本語をいつ勉強しますか。//When will you study Japanese, Naasurobo-san?
+明日、（日本語を）勉強します。//I will study Japanese tomorrow.
+
+どうして明日、日本に行きますか。//Why will you go to Japan tomorrow?
+なぜ明日、日本に行きますか。//Why will you go to Japan tomorrow?
+勉強するからです。//It is because I will study.
+
+雪ノ下さんは何語が分かりますか。//What language does Yukinoshita-san understand?
+（雪ノ下さんは）日本語が分かります。//She understands Japanese.
+
+だれが日本語が分かりますか。//Who understands Japanese?
+雪ノ下さんが（日本語が）分かります。//Yukinoshita-san does.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// modifying nouns
+
+今日はいい天気です。//The weather is good today.
+
+これは本です。//This is a book.
+この本は雪ノ下さんの本です。//This book is Yukinoshita-san’s book.
+
+これは私の本です。それはあなたのです。//This is my book. That is yours.
+それは私のではありません。//That is not mine.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// adjectival nouns
+
+元気ですか。元気です。//How are you? I am fine.
+元気ではありません。//I am not well.
+元気じゃありません。//I am not well.
+
+今日はいい天気です。//It’s really nice weather today.
+今日はいやな天気ですねえ。//It’s really bad weather today, isn’t it?
+
+雪ノ下さんは元気な学生です。//Yukinoshita-san is an energetic student.
+あの学生は元気です。//That student is full of energy.
+
+こんな本は高いですか。はい、とても高いです。//Is this kind of book expensive? Yes, it is very expensive.
+あの本はどんな本ですか。//What kind of book is that book over there?
+
+あなたのかばんはどれですか。//Which one is your backpack?
+あなたのかばんはどのかばんですか。//Which backpack is your backpack?
+あなたのかばんはどちらですか。//Which one (of two) is your backpack?
+あなたのかばんはどちらのかばんですか。//Which backpack  (of two)  is your backpack?
+
+アリスさんはどんな人ですか。//What kind of person is Alice-san?
+（アリスさんは）元気な人です。//Alice-san is a cheerful person.
+
+アリスさんは どの人ですか。//Which person is Alice-san?
+（アリスさんは）あの人です。//Alice-san is that person over there.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// conjunctions
+
+私は日本人ですが、ナースロボさんはアメリカ人です。//I am Japanese, but Naasurobo-san is American.
+私は雪ノ下ですが、（私は）日本人じゃありません。//I am Yukinoshita, but I am not Japanese.
+
+私は日本人ですけれども、ナースロボさんはアメリカ人です。//I am Japanese, but Naasurobo-san is American.
+私は雪ノ下ですけれども、（私は）日本人じゃありません。//I am Yukinoshita, but I am not Japanese.
+
+私は日本人です。けれども、ナースロボさんはアメリカ人です。//I am Japanese, but Naasurobo-san is American.
+私は雪ノ下です。けれども、（私は）日本人じゃありません。//I am Yukinoshita, but I am not Japanese.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// adverbs with negative predicates
+
+あの先生はいい先生ですか。//Is that teacher a good teacher?
+とてもいい先生です。//She is a very good teacher.
+あまりいい先生ではありません。//She is not a very good teacher.
+あまりいい先生じゃありません。//She is not a very good teacher.
+
+雪ノ下さんは本当にいい学生ですねえ。//Yukinoshita-san is really a good student, isn’t she?
+雪ノ下さんはそんなにいい学生じゃありません。//Yukinoshita-san is not that good.
+
+日本は寒いですか。//Is it cold in Japan?
+全然、寒くありません。//It is not cold at all.
+
+ーーーーーーーーーーーーーーーーーーーー
+ーーーーーーーーーーーーーーーーーーーー
+カンバセーション。
+
+あなた達は二年生ですか、三年生ですか。//Are you sophomores or a third grader?
+二年生でも三年生でもありません。一年生ですよ。//Neither. Actually, we’re freshmen.
+一年生ですか。//You’re freshmen, are you?
+
+花澤さんの大学はどこですか。//Which university do you go to?
+京都の大学です。//I go to a university in Kyoto.
+
+それは何ですか。//What is that?
+かばんです。でも、僕のじゃありません。//It’s a backpack. But it’s not mine.
+じゃ、これは？//How about this one, then?
+ああ、それは僕のです。//Oh, that one’s mine.
+
+雪ノ下さんの専攻は何ですか。//What is your major, Naasurobo-san?
+専攻ですか。日本語です。//My major? It’s Japanese.
