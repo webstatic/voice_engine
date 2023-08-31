@@ -5,7 +5,7 @@ require("./EngineInterface.js")
 
 let postStrUrl = "127.0.0.1"
 //let postStrUrl = "192.168.1.34"
-let inputPath = "./stage/state 2/"
+let inputPath = "./stage/state 1/"
 
 readAndSynthesisRecursive = function (filePath, finishCallBack) {
 
@@ -21,10 +21,15 @@ readAndSynthesisRecursive = function (filePath, finishCallBack) {
                 callback()
             } else {
                 text = text.split("//")[0]
-                console.log(`${count}/${length}`, text);
-                synthesis(postStrUrl, text, function (err) {
+                if (text != '') {
+                    console.log(`${count}/${length}`, text);
+                    synthesis(postStrUrl, text, function (err) {
+                        callback()
+                    })
+                }else{
                     callback()
-                })
+                }
+
             }
         } else {
             console.log('err something wrong');
