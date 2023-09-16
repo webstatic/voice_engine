@@ -58,6 +58,8 @@ stage １，５。
 私は母にメールを書きました。//I wrote an e-mail message to my mother.
 私はメールを母に書きました。//I wrote an e-mail message to my mother.
 ーーーーーーーーーーーーーーーーーーーー
+/// intransitive
+
 エイミーさんは明日、日本に行きます。//Amy-san will go to Japan tomorrow.
 エイミーさんは明日、日本へ行きます。//Amy-san will go to Japan tomorrow.
 
@@ -72,6 +74,8 @@ stage １，５。
 
 明日、学校を休みます。//I will not come to school tomorrow.
 ーーーーーーーーーーーーーーーーーーーー
+/// semi-transitive
+
 ナースロボさんはいつもずんだもんさんに日本語を話します。//Naasurobo-san always speaks Japanese to Zundamon-san.
 ナースロボさんは日本語が話せます。//Smith-san can speak Japanese.
 
@@ -108,7 +112,10 @@ stage １，５。
 私は花を妹に（から）もらいました。//I received some flowers from my younger sister.
 
 私はナースロボ先生に花を頂きました。//I received some flowers from Naasurobo-sensei.
+
 ーーーーーーーーーーーーーーーーーーーー
+/// particles
+
 友達の手紙。//my friend’s letter.
 友達からの手紙。//a letter from my friend.
 友達への手紙。//a letter to my friend.
@@ -126,7 +133,10 @@ stage １，５。
 私はニューヨークにしか行きません。//I don’t go anywhere except to New York.
 
 あの人は高校をしか卒業していません。//That person only graduated from high school.
+
 ーーーーーーーーーーーーーーーーーーーー
+/// interrogative pronouns 
+
 誰もお茶を飲みませんでした。//No one drank tea.
 今朝、私は何も食べませんでした。//I didn’t eat anything this morning.
 
