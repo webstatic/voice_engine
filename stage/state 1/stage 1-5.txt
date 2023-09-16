@@ -1,4 +1,5 @@
 stage １，５。
+/// expressing existence in Japanese
 
 学生は家にいます。//The student is at home.
 本は家にあります。//The book is at home.
@@ -15,7 +16,10 @@ stage １，５。
 ーーーーーーーーーーーーーーーーーーーー
 私の鞄は椅子の前にあります。//My backpack is in front of the chair.
 私の鞄は椅子の後ろにあります。//My backpack is behind of the chair.
+
 ーーーーーーーーーーーーーーーーーーーー
+/// word order and particles
+
 鞄に本があります。//There is a book in my bag.
 本は鞄にあります。//The book is in the bag.
 
@@ -25,20 +29,30 @@ stage １，５。
 本はどこにありますか。//Where is the book?
 （本は）鞄にあります。//The book is in the bag.
 ーーーーーーーーーーーーーーーーーーーー
+/// noun phrasal conjunction
+
 ここにコーヒーとお茶があります。//There is coffee and tea here.
 ここにコーヒーやお茶があります。//There is coffee and tea here (and other things as well).
+
 ーーーーーーーーーーーーーーーーーーーー
+// abbreviated predicate
+
 私の本はどこにありますか。//Where’s my book?
 ここです。//It’s here.
 
 昨日、どこに行きましたか。//Where did you go yesterday?
 ニューヨークです。//New York.
+
 ーーーーーーーーーーーーーーーーーーーー
+/// the honorific
+
 母はアメリカにいます。//My mother is in America.
 エイミー先生はアメリカにいらっしゃいます。//Amy-sensei is in America.
 
 先生は大学にいらっしゃいました。//The teacher was at the college.
 ーーーーーーーーーーーーーーーーーーーー
+/// transitivity of predicates
+
 毎日、学生は本を読みます。//Students read books every day.
 
 私は母にメールを書きました。//I wrote an e-mail message to my mother.
@@ -65,7 +79,10 @@ stage １，５。
 僕は犬が怖いです。//I’m afraid of dogs.
 
 私は寿司が好きです。//I like sushi.
+
 ーーーーーーーーーーーーーーーーーーーー
+/// verbs of giving
+
 私は友達に本を上げます。//I will give my friend a book.
 時雨さんは小夜さんにお茶を上げます。//Shigure-san will give Sayo-san some money.
 
@@ -87,6 +104,7 @@ stage １，５。
 
 ずんだもん先生は誕生日に何を下さいましたか。//What did Zundamon-sensei give you for your birthday?
 ーーーーーーーーーーーーーーーーーーーー
+/// verbs of receiving
 私は花を妹に（から）もらいました。//I received some flowers from my younger sister.
 
 私はナースロボ先生に花を頂きました。//I received some flowers from Naasurobo-sensei.
