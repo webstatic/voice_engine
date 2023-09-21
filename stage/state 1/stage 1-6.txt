@@ -1,5 +1,7 @@
 stage １，６。
 
+/// adverbs
+
 アメリカはとても大きいです。中国はもっと大きいです。//America is very big. China is bigger.
 ーーーーーーーーーーーーーーーーーーーー
 僕は明日、授業に行きます。//I will go to class tomorrow.
@@ -35,7 +37,10 @@ stage １，６。
 
 日本語で話してください。//Please speak in Japanese.
 ここに来てください。//Please come here
+
 ーーーーーーーーーーーーーーーーーーーー
+/// onomatopoeia
+
 雨がぜーせー（と）降ります。//It’s raining heavily.
 
 ずんだもんさんは「この寿司は美味しいです。」と言いました。//Zundamon-san said, ‘This sushi is delicious.’
@@ -57,15 +62,21 @@ stage １，６。
 
 試験の前はいつもどきどきします。//I always get nervous before examinations.
 ーーーーーーーーーーーーーーーーーーーー
+/// making a choice of decision
+
 （あなたは）何にしますか。//What will you have?
 （私は）寿司にします。//I’ll have sushi.
 
 僕は専攻を日本語にしました。//I chose Japanese as my major.
 
+/// making A into B
+
 試験をもっと易しくしました。//I made the exam easier.
 教室をきれいにしましょう。//Let’s make the classroom beautiful.
 この本をこのクラスの教科書にします。//I have selected this book as the textbook for this class.
 ーーーーーーーーーーーーーーーーーーーー
+/// expresses a change of situation
+
 外は寒くなりました。//It’s gotten cold outside.
 クリスさんは元気になりました。//Kurisu-san has gotten healthy.
 メアリーさんは先生になります。//Mary is going to be a teacher.
@@ -74,21 +85,29 @@ stage １，６。
 去年は漢字が読めませんでしたが、今年、読めるようになりました。//I could not read kanji last year, but this year, I’m able to read it.
 うちの子は勉強するようになりました。//Our child studies now.
 ーーーーーーーーーーーーーーーーーーーー
+/// transitive-intransitive pairs of verbs
+
 毎朝、私は店を九時に開けます。//I open the store at 9 o’clock every morning.
 毎朝、この店は九時に開きます。//This store opens at 9:00 every morning.
 ーーーーーーーーーーーーーーーーーーーー
+/// year
+
 今年は何年ですか。//What year is it this year?
 今年は２００９年です。//This year is the year 2009.
 
 今年は平成何年ですか。//What year of the Heisei era is this?
 （今年は平成）２１年です。//It’s Heisei 21 this year.
 ーーーーーーーーーーーーーーーーーーーー
+/// ages
+
 あの子供はいくつですか。//How old is that child?
 七つです。//He’s seven.
 
 妹さんは何才ですか。//How old is your sister?
 十八です。//She’s 18 years old.
 ーーーーーーーーーーーーーーーーーーーー
+/// amount of time or money
+
 東京から京都まで電車で三時間ぐらいかかります。//It takes about three hours to get from Tokyo to Kyoto by train.
 日本まで二千ドルぐらいかかります。//It costs about 2,000 dollars to go to Japan.
 
