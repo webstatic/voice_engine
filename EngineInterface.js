@@ -7,7 +7,7 @@ const path = require("path")
 ffmpeg.setFfmpegPath("../ffmpeg/ffmpeg.exe")
 
 let tempFilePath = "./temp"
-let fileStoragePath = './stream_128k'
+let fileStoragePath = './stream_128k_slow'
 
 let speakerId = 47
 
@@ -66,7 +66,7 @@ synthesis = function (postStrUrl, text, cb) {
         }
     }, function (err, httpResponse, query) {
         let queryObj = JSON.parse(query)
-        // queryObj.speedScale = 0.5
+        queryObj.speedScale = 0.7
         queryObj.volumeScale = 2.5
         //console.log(queryObj);
         query = JSON.stringify(queryObj)
