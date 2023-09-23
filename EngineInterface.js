@@ -6,9 +6,13 @@ const path = require("path")
 
 ffmpeg.setFfmpegPath("../ffmpeg/ffmpeg.exe")
 
-let tempFilePath = "./temp"
+let tempFilePath = "../temp"
 let fileStoragePath = './stream_128k_slow'
+//let fileStoragePath = './stream_128k'
 
+
+//"name":"ナースロボ＿タイプＴ"
+//{"name":"ノーマル","id":47},{"name":"楽々","id":48},
 let speakerId = 47
 
 if (!fs.existsSync(tempFilePath)) {

@@ -2,7 +2,7 @@ const fs = require("fs")
 const ffmpeg = require("fluent-ffmpeg")
 const path = require("path")
 
-let tempFilePath = "R:/Temp"
+let tempFilePath =  "../temp"
 let fileStoragePath = './streamEn'
 
 if (!fs.existsSync(tempFilePath)) {

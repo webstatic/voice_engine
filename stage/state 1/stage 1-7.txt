@@ -1,11 +1,15 @@
 stage １，７。
 
+/// adverb position
+
 エイミーさんはとても頭がいいです。//Amy-san is very smart.
 エイミーさんは頭がとてもいいです。//Amy-san is very smart.
 
 パクさんは本当に背が高いです。//Park-san is really tall.
 パクさんは背が本当に高いです。//Park-san is really tall.
 ーーーーーーーーーーーーーーーーーーーー
+/// subject and object
+
 ナースロボさんは目が大きいです。//Naasurobo-san has large eyes.
 ナースロボさんは自分の目が嫌いです。//Naasurobo-san doesn’t like her [own] eyes.
 ーーーーーーーーーーーーーーーーーーーー
@@ -19,9 +23,16 @@ stage １，７。
 
 メアリーさんは犬が怖いと言いました。//Mary-san said that she (or he) is afraid of dogs.
 メアリーさんは犬が怖いようです。//It looks to me like Mary-san is afraid of dogs.
+
 ーーーーーーーーーーーーーーーーーーーー
+/// making verbs into nouns
+
+あの学生は日本語が上手です。//That student is good at Japanese.
 あの学生は日本語を話すことが上手です。//That student is good at speaking Japanese.
 ーーーーーーーーーーーーーーーーーーーー
+/// expressing a desire to do things
+
+私は寿司が欲しいです。//I want some sushi.
 私は寿司が食べたいです。//I want to eat some sushi.
 私は寿司が食べたくありません。//I don’t want to eat sushi.
 私は寿司が食べたかったです。//I wanted to eat sushi.
@@ -31,10 +42,15 @@ stage １，７。
 メアリーさんは寿司が食べたいと言いました。//Mary-san said that she wants to eat sushi.
 メアリーさんは寿司が食べたいようです。//It looks to me like Mary-san wants to eat sushi.
 ーーーーーーーーーーーーーーーーーーーー
+/// expressing the speaker's plan
+
 メアリーさんは明日、何をするつもりですが。//What do you plan to do tomorrow, Mary-san?
 家に帰るつもりです。//I plan to go home.
 メアリーさんは家に帰るつもりだと言いました。//Mary-san said that she plans to go home.
+
 ーーーーーーーーーーーーーーーーーーーー
+/// when new information is the subject or comment
+
 昨日、だれが授業に来ませんでしたか。//Who did not come to the class yesterday?
 ずんだもんさんが来ませんでした。//Zundamon-san is the one who did not come.
 ーーーーーーーーーーーーーーーーーーーー
@@ -51,19 +67,27 @@ stage １，７。
 授業は何時に始まりますか。//What time will the class begin?
 （授業は）九時に始まります。//It will begin at 9:00.
 ーーーーーーーーーーーーーーーーーーーー
+/// the topicalized subject 
+
 だれが来ましたか。//Who came?
 先生がいらっしゃいました。//The teacher was the one who came.
 先生はどこからいらっしゃいましたか。//Where did the teacher come from?
 （先生は）京都からいらしゃいました。//The teacher came from Kyoto.
+
 ーーーーーーーーーーーーーーーーーーーー
+/// comparing two things
+
 アメリカは日本より大きいです。//America is bigger than Japan.
 アメリカは日本よりもっと大きいです。//America is bigger than Japan.
 
 アメリカは日本よりずっと大きいです。//America is much bigger than Japan.
 ーーーーーーーーーーーーーーーーーーーー
+/// comparative question sentences
+
 アメリカと日本と、どちらが大きいですか。//America and Japan, which of the two is big?
 アメリカと日本とでは、どちらの方が大きいですか。//America and Japan, which side is big?
 ーーーーーーーーーーーーーーーーーーーー
+/// answering comparative questions
 アメリカと中国とでは、どちら（の方）が大きいですか。//Which is bigger, America or China?
 中国の方が大きいです。//China is bigger.
 
@@ -76,6 +100,8 @@ stage １，７。
 私にはカタカナは漢字よりもっと難しいです。//Katakana is more difficult for me than kanji.
 あの人の話は私にはよく分かりません。//That person’s talk is quite incomprehensible to me.
 ーーーーーーーーーーーーーーーーーーーー
+/// comparing more then two things
+
 この大学は日本で一番大きい大学です。//This university is the biggest one in Japan.
 
 これとそれとあれの中で、どれが一番、安いですか。//Out of this one, that one, and that one over there, which is the cheapest?

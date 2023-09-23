@@ -35,7 +35,7 @@ stage １，５。
 ここにコーヒーやお茶があります。//There is coffee and tea here (and other things as well).
 
 ーーーーーーーーーーーーーーーーーーーー
-// abbreviated predicate
+/// abbreviated predicate
 
 私の本はどこにありますか。//Where’s my book?
 ここです。//It’s here.

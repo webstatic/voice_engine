@@ -20,10 +20,12 @@ String.prototype.replaceAll = function (search, replacement) {
 };
 
 
-let outputPathBase = "./output/"//"./outputEn/"
+let outputPathBase = "./output_withSlow/"//"./outputEn/"
 let isCreateEnglishSound = false
+let isCreateSlowSound = true
 
 let jpSoundSourcefileStoragePath = './stream_128k'
+let jpSoundSourcefileStoragePathSlow = './stream_128k_slow'
 
 
 
@@ -66,11 +68,19 @@ db.loadDatabase({}, function () {
                 let meaningManual = text.split("//")[1]
                 text = text.split("//")[0]
 
+                if (!text && meaningManual && meaningManual.indexOf("/") == 0) {
+                    //title english sound
+                    let tes = meaningManual.split("/")[1]
+                    console.log("title", tes);
+                    callback()
+                    return
+                }
+
                 let fileTarget = `${jpSoundSourcefileStoragePath}/${text}.mp3`
                 //console.log(fileTarget);
                 if (fs.existsSync(fileTarget)) {
                     count++
-                    let targetFileName = `${outputPath}/${toString000(count)} -${text}.mp3`
+                    let targetFileName = `${outputPath}/${toString000(count)}sp -${text}.mp3`
                     console.log(targetFileName);
 
                     if (fs.existsSync(targetFileName)) {
@@ -79,7 +89,13 @@ db.loadDatabase({}, function () {
 
                     if (meaningManual) {
                         //lyrics description
-                        cmd.runSync(`.\\ffmpeg.exe -i "${fileTarget}" -c copy -metadata title="${text}" -metadata artist="${meaningManual}" -metadata album="${fileText}" "${targetFileName}"`);
+                        cmd.runSync(`..\\ffmpeg\\ffmpeg.exe -i "${fileTarget}" -c copy -metadata title="${text}" -metadata artist="${meaningManual}" -metadata album="${fileText}" "${targetFileName}"`);
+
+                        if (isCreateSlowSound) {
+                            let fileTarget_Slow = `${jpSoundSourcefileStoragePathSlow}/${text}.mp3`
+                            let targetFileName_slow = `${outputPath}/${toString000(count)}s -${text}.mp3`
+                            cmd.runSync(`..\\ffmpeg\\ffmpeg.exe -i "${fileTarget_Slow}" -c copy -metadata title="${text}" -metadata artist="${meaningManual}" -metadata album="${fileText}" "${targetFileName_slow}"`);
+                        }
 
                         if (isCreateEnglishSound) {
                             let enSoundOutputFile = `${outputPath}/${toString000(count)}.${0}-${meaningManual.replaceAll(":", '.')}.mp3`
@@ -146,12 +162,13 @@ db.loadDatabase({}, function () {
                         // })
                         //console.log(meaningObj);
                     } else {
+                        targetFileName = `${outputPath}/${toString000(count)} -${text}.mp3`
                         fs.copyFileSync(fileTarget, targetFileName)
                         callback()
                     }
 
                 } else {
-                    console.log(fileTarget, "don't exit");
+                    console.log(fileTarget, "don't exit", meaningManual, text.length);
                     //readRecursive()
                 }
             } else {
