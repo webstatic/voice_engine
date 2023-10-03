@@ -1,5 +1,7 @@
 stage ２，１。
 
+/// the continuous aspect
+
 日本語を勉強しています。//I am currently studying Japanese.
 
 私はいい辞書がいります。//I need a good dictionary.
@@ -9,13 +11,15 @@ stage ２，１。
 
 あの人のことはよくわかっています。//I have heard a lot about that person, and I now have a good understanding of him.
 ーーーーーーーーーーーーーーーーーーーー
+/// the continuous aspect of non-repeatable verbs
+
 起きています。
 
 私はあの人の名前を知っています。
 私はあの人の名前を知りません。
 
 あの人の電話番号を知りませんか。
-あの人の電話番号をしっていますか。
+あの人の電話番号を知っていますか。
 
 あの人は何を持っていますか。
 鞄を持っています。

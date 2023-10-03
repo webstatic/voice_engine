@@ -1,5 +1,7 @@
 stage １，９。
 
+/// nominalizing verbs
+
 私は日本語が好きです。//I like the Japanese language.
 私は日本語ができます。//I have some ability in Japanese.
 日本語は易しいです。//Japanese is easy.
@@ -8,18 +10,23 @@ stage １，９。
 私は日本語を話すことができます。//I can speak Japanese.
 日本語を話すことは易しいです。//Speaking Japanese is easy.
 ーーーーーーーーーーーーーーーーーーーー
+/// reporting what others have said
+
 時雨さんは日本語が好きだと言いました。//Shigure-san said that she likes the Japanese language.
 時雨さんは日本語は易しくないと言いました。//Shigure-san said that Japanese isn’t easy.
 時雨さんは日本語ができたと言いました。//Shigure-san said that he once was able to speak Japanese.
 
 時雨さんは何と言いましたか。//What did Shigure-san say?
 ーーーーーーーーーーーーーーーーーーーー
+/// conveying the speaker's thought
+
 私はあの人は日本人だと思います。//I think that that person is Japanese.
 日本語は易しいと思います。//I think that Japanese is easy.
 ずんだまんさんは明日、日本に行くと思います。//I think that Zundamon-san will go to Japan tomorrow.
 
 ずんだもんさんは日本語についてどう思いますか。//What do you think of Japanese, Zundamon-san?
 ーーーーーーーーーーーーーーーーーーーー
+/// hearing
 私はあの人は日本人だと聞きました。//I heard that that person is Japanese.
 日本語の試験は易しかったと聞きました。//I heard that the Japanese examination was easy.
 ずんだまんさんは昨日、日本に行かなかったと聞きました。//I heard that Zundamon-san didn’t go to Japan yesterday.
@@ -28,6 +35,7 @@ stage １，９。
 あなたはずんだまんさんに何を聞きましたか。//What did you hear from Zundamon-san?
 あなたはずんだまんさんから何を聞きましたか。//What did you hear from Zundamon-san?
 ーーーーーーーーーーーーーーーーーーーー
+/// asking
 私はルームメートに日本語の試験は易しかったか聞きました。//I asked my roommate if the Japanese examination was easy.
 私はずんだまんさんに明日、日本に行くか聞きました。//I asked Zundamon-san if she would go to Japan tomorrow.
 
@@ -39,6 +47,8 @@ stage １，９。
 あなたはどんなことを聞きましたか。//What kinds of things did you ask?
 日本について聞きました。//I asked him about Japan.
 ーーーーーーーーーーーーーーーーーーーー
+/// adjectival clauses
+
 私は昨日、買った本を読みました。//I read the book that I bought yesterday.
 私は昨日、ずんだもんさんが買った本を読みました。//I read the book that Zundamon-san bought yesterday.
 ーーーーーーーーーーーーーーーーーーーー
@@ -70,6 +80,8 @@ stage １，９。
 私は雪ノ下さんに会った後で、先生にメールを書きました。//After I met Yukinoshita-san, I wrote an e-mail message to my teacher.
 私は雪ノ下さんに会った後で、先生にメールを書きます。//After I meet Yukinoshita-san, I will write an e-mail message to my teacher.
 ーーーーーーーーーーーーーーーーーーーー
+/// complex predicates
+
 チャンさんは明日、何をするつもりですか。宿題をするつもりですか。//What are you planning to do tomorrow, Chang-san? Are you going to do your homework?
 宿題はしないつもりですが、買い物に行くつもりです。//I’m not planning to do my homework, but I’m going to go shopping.
 
@@ -84,7 +96,10 @@ stage １，９。
 あの学生はもしかしたら、三年生かもしれません。//Perhaps that student is a third grader.
 もしかしたら、チャンさんは日本語が上手に話せないかもしれません。//Chang-san may not be able to speak Japanese well.
 去年の日本語の授業はもっと易しかったかもしれません。//The Japanese class last year might have been easier.
+
 ーーーーーーーーーーーーーーーーーーーー
+/// conjunctive forms
+
 私はこの大学の学生で、二年生です。//I am a student at this college and a sophomore.
 このコンピュータは安くて、とてもいいです。//This computer is cheap and also very good.
 私は朝、早く起きて、宿題をしました。//I got up early in the morning and did my homework.
@@ -92,17 +107,24 @@ stage １，９。
 今学期、日本語を勉強しています。//I’m studying Japanese this semester.
 明日の朝、九時にここに来てください。//Please come here at 9:00 tomorrow morning.
 ーーーーーーーーーーーーーーーーーーーー
+/// stems
+
 明日、どこに行きたいですか。町に行きたいですか。//Where do you want to go? Would you like to go to town?
 町には行きたくありませんが、図書館に行きたいです。//I don’t want to go to town; I want to go to the library.
 
 私達はあの町に寿司を食べに行きました。//We went to that town to eat sushi.
 新聞を読みに図書館に行きました。//I went to the library to read the newspaper.
 ーーーーーーーーーーーーーーーーーーーー
+/// potential verbs
+
 パクさんは日本語が話せます。//Park-san can speak Japanese.
 ーーーーーーーーーーーーーーーーーーーー
+/// passive verbs
 この大学では、日本語は多くの学生に勉強されている。//Japanese is studied by many students at this college.
 この本は有名な人に書かれました。//This book was written by a famous person.
 ーーーーーーーーーーーーーーーーーーーー
+/// causative verbs
+
 日本語の先生は毎週、学生に作文を書かせます。//The Japanese teacher makes her students write a composition every week.
 両親は晩ご飯の後、私に宿題をさせます。//My parents make me do my homework after dinner.
 

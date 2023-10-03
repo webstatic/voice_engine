@@ -2,6 +2,8 @@ stage １，８。
 
 彼は日本語を話すことが上手です。//He is good at speaking Japanese.
 ーーーーーーーーーーーーーーーーーーーー
+/// base forms
+
 僕は一年生だ。//I am a freshman.
 この部屋はきれいだ。//This room is clean.
 
@@ -10,6 +12,8 @@ stage １，８。
 
 私は毎日、日本語を話す。//I speak Japanese every day.
 ーーーーーーーーーーーーーーーーーーーー
+/// plain positive imperfectives
+
 私は学生だ。//I am a student.
 この部屋は静かだ。//This room is quiet.
 
@@ -21,6 +25,8 @@ stage １，８。
 私は毎日テレビを見る。//I watch TV every day.
 パクさんは明日、日本に行く。//Park-san will go to Japan tomorrow.
 ーーーーーーーーーーーーーーーーーーーー
+/// plain negative imperfectives
+
 僕は学生ではない。//I am not a student.
 僕は学生じゃない。//I am not a student.
 これは大切じゃない。//This is not important.
