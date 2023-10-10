@@ -50,7 +50,7 @@ stage ２，３。
 林さんが来たら、困ります。//I’ll be in trouble if Hayashi-san comes here.
 ーーーーーーーーーーーーーーーーーーーー
 春に成ると、暖かく成ります。//Once spring comes, it will get warmer.
-もっと漢字を勉強すると、日本語は易し＜成ります。//Once you study more kanji, Japanese will get easier.
+もっと漢字を勉強すると、日本語は易しく成ります。//Once you study more kanji, Japanese will get easier.
 
 日本に行くと、井上さんに会います。//Whenever I go to Japan, I see Inoue-san.
 クラスが終わると、いつも図書館で宿題をします。//After class, I always do my homework in the library.

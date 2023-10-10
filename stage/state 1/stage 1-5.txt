@@ -91,7 +91,7 @@ stage １，５。
 時雨さんは小夜さんにお茶を上げます。//Shigure-san will give Sayo-san some money.
 
 友達は本を（私に）くれました。//My friend gave me a book.
-友達は本を妹に＜れました。//My friend gave my younger sister a book.
+友達は本を妹にくれました。//My friend gave my younger sister a book.
 
 妹は姉にセーターを上げました。//My little sister gave my big sister a sweater.
 
