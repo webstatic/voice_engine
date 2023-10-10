@@ -9,135 +9,151 @@ stage ２，１。
 
 私は日本語が分かります。//I understand Japanese.
 
-あの人のことはよくわかっています。//I have heard a lot about that person, and I now have a good understanding of him.
+あの人のことはよく分かっています。//I have heard a lot about that person, and I now have a good understanding of him.
 ーーーーーーーーーーーーーーーーーーーー
 /// the continuous aspect of non-repeatable verbs
 
-起きています。
+起きています。//I am up.
 
-私はあの人の名前を知っています。
-私はあの人の名前を知りません。
+私はあの人の名前を知っています。//I know that person’s name.
+私はあの人の名前を知りません。//I don’t know that person’s name.
 
-あの人の電話番号を知りませんか。
-あの人の電話番号を知っていますか。
+あの人の電話番号を知りませんか。//Do you know that person’s phone number?
+あの人の電話番号を知っていますか。//Do you know that person’s phone number?
 
-あの人は何を持っていますか。
-鞄を持っています。
+あの人は何を持っていますか。//What does that person have?
+鞄を持っています。//He has a bag.
 
-今日、僕は時間がたくさんあります。
+今日、僕は時間がたくさんあります。//I have a lot of time today.
 
-あの人はいい考えをたくさん持っています。
+あの人はいい考えをたくさん持っています。//He has a lot of good ideas.
 
-時雨さんはお金をたくさん持っています。
-時雨さんはお金がたくさんあります。
-時雨さんの家はお金がたくさんあります。
+時雨さんはお金をたくさん持っています。//Shigure-san has possesses a lot of money.
+時雨さんはお金がたくさんあります。//Shigure-san has a lot of money.
+時雨さんの家はお金がたくさんあります。//The Shigure estate has a lot of money.
 ーーーーーーーーーーーーーーーーーーーー
-パクさんは日本に行っています。
-加藤さんはここに来ています。
-父は家に帰っています。
+/// the continuous aspect of directional verbs
+
+パクさんは日本に行っています。//Park-san has gone to Japan.
+加藤さんはここに来ています。//Kato-san has arrived.
+父は家に帰っています。//My father has come home.
+
 ーーーーーーーーーーーーーーーーーーーー
-私はクリスで、日本語の学生です。
-中国は大きくて、遠いです。
-あの人は英語も話せて、漢字も読めます。
+/// joining two predicates
 
-私は勉強して、運動します。
-私は勉強して、運動しました。
+私はクリスで、日本語の学生です。//I’m Kurisu, a student of Japanese.
+中国は大きくて、遠いです。//China is both large and far away.
+あの人は英語も話せて、漢字も読めます。//That person can speak English, and can read kanji too.
 
-昨日、僕は勉強して、時雨さんは運動しました。
+私は勉強して、運動します。//I will study and then exercise.
+私は勉強して、運動しました。//I studied and then exercised.
 
-この本は小さくて、高いです。
+昨日、僕は勉強して、時雨さんは運動しました。//I studied, but Shigure-san exercised yesterday.
 
-私の鞄は赤と黒です。
-あの鞄は赤くて、この鞄は黒いです。
+この本は小さくて、高いです。//This is a small, expensive book.
+
+私の鞄は赤と黒です。//My bag is black and red.
+あの鞄は赤くて、この鞄は黒いです。//That bag is red, and this bag is black.
 ーーーーーーーーーーーーーーーーーーーー
-私は日本人じゃなくて、中国人です。
-この寿司は美味しくなくて、高いです。
+/// when the first nominal or adjectival predicate is negative
+
+私は日本人じゃなくて、中国人です。//I’m not Japanese, I’m Chinese.
+この寿司は美味しくなくて、高いです。//This sushi doesn’t taste good, but it’s expensive.
 ーーーーーーーーーーーーーーーーーーーー
-朝ご飯を食べないで、学校に行きました。
-勉強しないで、試験を受けました。
+/// when the first verbal predicate is negative
 
-この宿題が分からないて、困っています。
+朝ご飯を食べないで、学校に行きました。//I went to school without eating breakfast first.
+勉強しないで、試験を受けました。//I took an exam without studying first.
+
+この宿題が分からないて、困っています。//I’m worried because I don’t understand this assignment.
 ーーーーーーーーーーーーーーーーーーーー
-私は朝ご飯を食べました。それから、走りました。
-私は朝ご飯を食べてから、走りました。
+私は朝ご飯を食べました。それから、走りました。//I ate breakfast. After that, I went running.
+私は朝ご飯を食べてから、走りました。//After eating breakfast, I went running.
 
-私は図書館に行って、本を読みました。
-私は図書館に行ってから、本を読みました。
+私は図書館に行って、本を読みました。//I went to the library, where I read a book.
+私は図書館に行ってから、本を読みました。//After visiting the library, I read a book.
 
-加藤さんが勉強してから、私達は映画に行きました。
+加藤さんが勉強してから、私達は映画に行きました。//After Kato-san finished studying, we went to the movie.
 
-コーヒーを飲んだから、家を出ました。
-コーヒーを飲んでから、家を出ました。
+コーヒーを飲んだから、家を出ました。//Because I had drunk my coffee, I left the house.
+コーヒーを飲んでから、家を出ました。//After I had drunk my coffee, I left the house.
+
 ーーーーーーーーーーーーーーーーーーーー
-ここに名前を書いて下さい。
+/// Positive commands and requests
 
-日本語を話して下さい。
-日本語を話して下さいませんか。
+ここに名前を書いて下さい。//Write your name here.
 
-日本語を話さないで下さい。
-日本語を話さないで下さいませんか。
-
-明日、ここに五時までに来て下さい。
-今日、ここに五時までいます。
-
-ペンを下さい。
-ペンを下さいませんか。
+日本語を話して下さい。//Please speak Japanese.
+日本語を話して下さいませんか。//May I ask you to speak Japanese?
 ーーーーーーーーーーーーーーーーーーーー
-朝、起きて、走りました。
-私は歩いて、学校に行きます。
-ーーーーーーーーーーーーーーーーーーーー
-これを食べてもいいですか。
-ええ、いいですよ。どうぞ、食べてください。
+/// Negative commands and requests
 
-いいえ。ぞれは食べないでください。
-ーーーーーーーーーーーーーーーーーーーー
-これを食べてもいいですか。
-いいえ。それは食べてはいけません。
-ーーーーーーーーーーーーーーーーーーーー
-寿司を食べて見ました。
-寿司を食べて見ます。
-寿司を食べて見てください。
-ーーーーーーーーーーーーーーーーーーーー
-母からの手紙を机の中にしまいました。
+日本語を話さないで下さい。//Please do not speak Japanese.
+日本語を話さないで下さいませんか。//Would you please not speak Japanese?
 
-そのケーキを食べてしまって下さい。
-ルームメートはもう宿題をしてしまいました。
+明日、ここに五時までに来て下さい。//Please come here by 5:00 tomorrow.
+今日、ここに五時までいます。//I will stay here until 5:00 today.
 
-バスの中で寝てしまいました。
-今学期、日本語を勉強しなかったら、全部、漢字を忘れてしまいました。
+ペンを下さい。//Please give me a pen.
+ペンを下さいませんか。//Would you please give me a pen?
 ーーーーーーーーーーーーーーーーーーーー
-もうあの映画を見ました。
-もうあの映画を見ていません。
-まだあの映画を見ています。
-まだあの映画をみていません。
 
-朝ご飯をもう食べましたか。
-ええ、もう食べました。
-いいえ、まだ食べていません。
+朝、起きて、走りました。//In the morning I got up, and then I went running.
+私は歩いて、学校に行きます。//I go to school on foot.
+ーーーーーーーーーーーーーーーーーーーー
+これを食べてもいいですか。//May I eat this?
+ええ、いいですよ。どうぞ、食べてください。//Yes, you may. Please, go ahead and eat it.
+
+いいえ。ぞれは食べないでください。//No. Please don’t eat that.
+ーーーーーーーーーーーーーーーーーーーー
+これを食べてもいいですか。//May I eat this?
+いいえ。それは食べてはいけません。//No. You mustn’t eat that.
+ーーーーーーーーーーーーーーーーーーーー
+
+寿司を食べて見ました。//I tried eating sushi.
+寿司を食べて見ます。//I will try eating sushi.
+寿司を食べて見てください。//Try eating some sushi.
+ーーーーーーーーーーーーーーーーーーーー
+母からの手紙を机の中にしまいました。//I put the letters from my mother away inside the desk.
+
+そのケーキを食べてしまって下さい。//Please finish eating that cake.
+ルームメートはもう宿題をしてしまいました。//My roommate has already finished doing her homework.
+
+バスの中で寝てしまいました。//I accidentally fell asleep on the bus.
+今学期、日本語を勉強しなかったら、全部、漢字を忘れてしまいました。//I didn’t study Japanese this semester, and I completely forgot all the kanji.
+ーーーーーーーーーーーーーーーーーーーー
+もうあの映画を見ました。//I have already seen the movie.
+もうあの映画を見ていません。//I am no longer watching the movie.
+まだあの映画を見ています。//I am still watching the movie.
+まだあの映画をみていません。//I have not seen that movie yet.
+
+朝ご飯をもう食べましたか。//Have you eaten breakfast already?
+ええ、もう食べました。//Yes, I ate already.
+いいえ、まだ食べていません。//No, I haven’t eaten yet.
 
 ーーーーーーーーーーーーーーーーーーーー
 ーーーーーーーーーーーーーーーーーーーー
 カンバセーション。
 
-何、読んでますか。
-日本語の小説です。
+何、読んでますか。//What are you reading?
+日本語の小説です。//A Japanese novel.
 
-今、食べている。
-今、食べてる。
-今、たべています。
-今、食べてます。
+今、食べている。//I’m eating now.
+今、食べてる。//I’m eating now.
+今、たべています。//I’m eating now.
+今、食べてます。//I’m eating now.
 
-その本、難しくありませんか。
-難しいですが、来週、試験があるんです。
-試験ですか。大変ですね。頑張ってくださいね。
+その本、難しくありませんか。//Isn’t that book difficult?
+難しいですが、来週、試験があるんです。//It is, but we have an exam next week.
+試験ですか。大変ですね。頑張ってくださいね。//Really? Sounds tough. Good luck.
 
-ああ、お腹、すいた！
-先輩、まだ、食べてないんですか。
-うん、まだ。これ、食べていい？
-どうぞ、どうぞ。
-でも、これ、マイクさんのじゃないの？
-大丈夫ですよ。心配しないでください。さあ、食べてください。
+ああ、お腹、すいた！//Wow, I’m hungry!
+先輩、まだ、食べてないんですか。//Haven’t you eaten yet, Senpai?
+うん、まだ。これ、食べていい？//Not yet. Can I have this?
+どうぞ、どうぞ。//Oh sure, help yourself.
+でも、これ、マイクさんのじゃないの？//But doesn’t it belong to Mike?
+大丈夫ですよ。心配しないでください。さあ、食べてください。//It’s all right. Don’t worry. Please go ahead and eat it.
 
-「森ビル」までお腹いします。
-銀行の角を曲がってください。そして、そこをまっすぐ行ってください。
-あそこを右に曲がってください。あっ、あの建物の左に止まってください。
+「森ビル」までお腹いします。//Take me to the Mori Building, please.
+銀行の角を曲がってください。そして、そこをまっすぐ行ってください。//Please turn at the corner by the bank. And then go straight.
+あそこを右に曲がってください。あっ、あの建物の左に止まってください。//Please turn right there. Oh, please stop to the left of that building.

@@ -7,8 +7,14 @@ const path = require("path")
 ffmpeg.setFfmpegPath("../ffmpeg/ffmpeg.exe")
 
 let tempFilePath = "../temp"
-//let fileStoragePath = './stream_128k_slow'
-let fileStoragePath = './stream_128k'
+
+let useSlow = false
+
+let fileStoragePath = './stream'
+if (useSlow) {
+    fileStoragePath = './stream_slow'
+}
+
 
 
 //"name":"ナースロボ＿タイプＴ"
@@ -42,7 +48,7 @@ function convertWavToMp3(wavFilename, storePath, cb) {
 
         ffmpeg({
             source: wavFilename,
-        }).audioBitrate('128k')
+        }).audioBitrate('512k')
             .on("error", (err) => {
                 reject(err);
             }).on("end", () => {
@@ -70,8 +76,15 @@ synthesis = function (postStrUrl, text, cb) {
         }
     }, function (err, httpResponse, query) {
         let queryObj = JSON.parse(query)
-        //queryObj.speedScale = 0.7
+
+        if (useSlow) {
+            queryObj.speedScale = 0.7
+        }
+
         queryObj.volumeScale = 2.5
+
+        //queryObj.outputSamplingRate = 24000*2
+        //console.log(queryObj.outputSamplingRate);
         //console.log(queryObj);
         query = JSON.stringify(queryObj)
 

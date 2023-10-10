@@ -1,84 +1,103 @@
 stage ２，２。
 
-チャンさんは中国人ですが、私は日本人です。
-私は日本人ですが、チャンさんは中国人です。
+/// Predicates in the Non-Final Position
 
-私は日本人だが、チャンさんは中国人だ。
+チャンさんは中国人ですが、私は日本人です。//Chang-san is Chinese, and I’m Japanese.
+私は日本人ですが、チャンさんは中国人です。//I’m Japanese, and Chang-san is Chinese.
 
-私は昨日、買った本を読みました。
-先生と話している男の人は私のルームメートです。
+私は日本人だが、チャンさんは中国人だ。//I’m Japanese, and Chang-san is Chinese.
+
+私は昨日、買った本を読みました。//I read the book that I bought yesterday.
+先生と話している男の人は私のルームメートです。//The man who is speaking with the teacher is my roommate.
 ーーーーーーーーーーーーーーーーーーーー
-あの人は嫌な人です。
-これはいい本です。
+/// Modified Nouns
 
-私は昨日、買った本を読みました。
-私は昨日、クリスさんが買った本を読みました。
+あの人は嫌な人です。//That person is a nasty person.
+これはいい本です。//This is a good book.
 
-私は出身が日本の学生と友達になりました。
-私は目がとてもきれいな人と話しました。
-私は先生がとてもいい大学に行っています。
+私は昨日、買った本を読みました。//I read the book that I bought yesterday.
+私は昨日、クリスさんが買った本を読みました。//I read the book that Kurisu-san bought yesterday.
 
-私は日本語の上手な学生と話しました。
-昨日、名前の知らない学生と話しました。
+私は出身が日本の学生と友達になりました。//I made friends with a student from Japan.
+私は目がとてもきれいな人と話しました。//I talked to a person with pretty eyes.
+私は先生がとてもいい大学に行っています。//I go to a college that has good teachers.
+
+私は昨日クリスさんの買った本を読みました。//I read the book that Kurisu-san bought yesterday.
+私は目のとてもきれいな人と話しました。//I talked to a person with pretty eyes.
+私は先生のとてもいい大学に行っています。//I go to a college with good teachers.
+
+私は日本語の上手な学生と話しました。//I talked with a student who is good at Japanese.
+昨日、名前の知らない学生と話しました。//Yesterday I spoke to a student whose name is unknown to me.
 ーーーーーーーーーーーーーーーーーーーー
-面白いことを聞きました。
-面白い物を買いました。
-面白いものを習っています。
+面白いことを聞きました。//I heard an interesting thing.
+面白い物を買いました。//I bought an interesting thing.
+面白いものを習っています。//I am learning an interesting thing.
 
-私は本を読むことが好きです。
+私は本を読むことが好きです。//I like to read books.
 
-日本語を話すことは難しです。
-日本語を話すのは難しいです。
+彼は面白い本を買いました。でも、僕はつまらないの買いました。//He bought an interesting book, but I bought a boring one.
+私は本を読むのが好きです。//I like to read books.
 
-私は寿司を食べることが好きです。
-私は寿司を食べるのが好きです。
+日本語を話すことは難しいです。//Speaking Japanese is difficult.
+日本語を話すのは難しいです。//Speaking Japanese is difficult.
+
+私は寿司を食べることが好きです。//I like to eat sushi.
+私は寿司を食べるのが好きです。//I like to eat sushi.
 ーーーーーーーーーーーーーーーーーーーー
-僕は日本語ができます。
+僕は日本語ができます。//I have some Japanese ability.
 
-僕は日本語を話すことができます。
-この店で日本語を話すことが出来ます。
+僕は日本語を話すことができます。//I can speak Japanese.
+この店で日本語を話すことが出来ます。//It’s possible to speak Japanese at this store.
 
-僕は日本語が話せます。
-この店で日本語が話せます。
+僕は日本語が話せます。//I can speak Japanese.
+この店で日本語が話せます。//It is possible to speak Japanese at this store.
 ーーーーーーーーーーーーーーーーーーーー
-私は日本に行ったことがあります。
+私は日本に行ったことがあります。//I have been to Japan.
 
-寿司を食べたことがありますか。
-ええ、あります。
-いいえ、一度もありません。
+寿司を食べたことがありますか。//Have you ever eaten sushi?
+ええ、あります。//Yes, I have.
+いいえ、一度もありません。//No. Not even once.
 ーーーーーーーーーーーーーーーーーーーー
-昨日、行った方がいいですよ。
-昨日、行かない方がいいですよ。
+明日、行った方がいいですよ。//You’d better go tomorrow.
+明日、行かない方がいいですよ。//It would be better if you didn’t go tomorrow.
 ーーーーーーーーーーーーーーーーーーーー
-私はナンシーという学生に会いました。
-高校の先生は鈴木という先生でした。
+私はナンシーという学生に会いました。//I met a student called Nancy.
+高校の先生は鈴木という先生でした。//I had a high school teacher called Suzuki
 
-旅行という言葉は英語で何ですか。
-旅行というのは英語で何ですか。
-旅行というのはtravelという意味です。
+旅行という言葉は英語で何ですか。//What is the word for 'Ryokou' in English?
+旅行というのは英語で何ですか。//What’s the word for 'Ryokou' in English?
+旅行というのはトラベルという意味です。//'Ryokou' means ‘travel.’
 
-読書というのはどういう意味ですか。
-読書というのは本を読むということです。
+読書というのはどういう意味ですか。//What does 'Dokusho' mean?
+読書というのは本を読むということです。//'Dokusho' means to read a book.
 ーーーーーーーーーーーーーーーーーーーー
-私はあの人はー年生だということを聞きました。
-私は昨日のテストは易しかったということを聞きました。
+私はあの人はー年生だということを聞きました。//I heard someone saying that he was a freshman.
+私は昨日のテストは易しかったということを聞きました。//I heard someone saying that yesterday’s test was easy.
 
-私はあの人は一年生だと聞きました。
-私は昨日のテストは易しかったということを聞きました。
+私はあの人は一年生だと聞きました。//I heard someone saying that guy was a freshman.
+私は昨日のテストは易しかったと聞きました。//I heard someone saying that yesterday’s test was easy.
 
 ーーーーーーーーーーーーーーーーーーーー
 ーーーーーーーーーーーーーーーーーーーー
 カンバセーション。
 
-お母さん、何て？
-うん。あまり好きじゃないって。
+/// What did she say?
 
-それ、どういうこと？　行かないっていうこと？
-まあ、そういうこと。
+お母さん、何て？//What did Mom say?
+うん。あまり好きじゃないって。//Um, she said she didn’t like it all that much.
 
-登山って、どういう意味？
-山に登るってことよ。
+/// What do you mean?
 
-彼、何て行ってた？
-行かないって。
-そう。残念だけど、しかたないね。
+それ、どういうこと？　行かないっていうこと？//What do you mean by that? Does that mean you won’t go?
+まあ、そういうこと。//Yeah, pretty much.
+
+/// What does it mean?
+
+登山って、どういう意味？//What does 'tosan' mean?
+山に登るってことよ。//It means to climb mountains.
+
+/// That’s too bad
+
+彼、何て行ってた？//What did he say?
+行かないって。//He said he’s not going.
+そう。残念だけど、しかたないね。//Really. That’s too bad, but what can we do?

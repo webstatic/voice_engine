@@ -1,12 +1,24 @@
 {
   "dependencies": {
     "async": "^3.2.4",
+    "chatgpt": "^5.2.5",
     "elevenlabs-node": "^1.1.0",
     "fluent-ffmpeg": "^2.1.2",
+    "gpt3": "^2.1.1",
+    "japanese": "^1.2.0",
+    "jisho": "^2.0.1",
+    "kanji": "^0.3.1",
+    "kuroshiro": "^1.2.0",
+    "kuroshiro-analyzer-kuromoji": "^1.1.0",
     "lokijs": "^1.5.12",
     "node-cmd": "^5.0.0",
     "node-fetch": "^3.3.1",
+    "openai": "^4.11.1",
+    "readline-sync": "^1.4.10",
     "request": "^2.88.2",
-    "tiktok-tts": "^1.1.9"
-  }
+    "romanize-japanese": "^2.1.0",
+    "tiktok-tts": "^1.1.9",
+    "wanakana": "^5.2.0"
+  },
+   "type": ""
 }

@@ -24,13 +24,13 @@ let outputPathBase = "./output_withSlow/"//"./outputEn/"
 let isCreateEnglishSound = false
 let isCreateSlowSound = true
 
-let jpSoundSourcefileStoragePath = './stream_128k'
-let jpSoundSourcefileStoragePathSlow = './stream_128k_slow'
+let jpSoundSourcefileStoragePath = './stream'
+let jpSoundSourcefileStoragePathSlow = './stream_slow'
 
 
 
 // let inputPath = "./stage/state 1/stage 1-4.txt"
-let inputPath = "./stage/state 2/"
+let inputPath = "./stage/state 1/"
 
 if (process.argv[2]) {
     inputPath = process.argv[2]
@@ -87,17 +87,23 @@ db.loadDatabase({}, function () {
                         fs.unlinkSync(targetFileName)
                     }
 
+                    console.log('meaningManual', meaningManual);
                     if (meaningManual) {
                         //lyrics description
                         cmd.runSync(`..\\ffmpeg\\ffmpeg.exe -i "${fileTarget}" -c copy -metadata title="${text}" -metadata artist="${meaningManual}" -metadata album="${fileText}" "${targetFileName}"`);
 
                         if (isCreateSlowSound) {
                             let fileTarget_Slow = `${jpSoundSourcefileStoragePathSlow}/${text}.mp3`
-                            let targetFileName_slow = `${outputPath}/${toString000(count)}s -${text}.mp3`
+                            let targetFileName_slow = `${outputPath}/${toString000(count)}sl -${text}.mp3`
+
+                            if (fs.existsSync(targetFileName_slow)) {
+                                fs.unlinkSync(targetFileName_slow)
+                            }
                             cmd.runSync(`..\\ffmpeg\\ffmpeg.exe -i "${fileTarget_Slow}" -c copy -metadata title="${text}" -metadata artist="${meaningManual}" -metadata album="${fileText}" "${targetFileName_slow}"`);
                         }
 
                         if (isCreateEnglishSound) {
+                            
                             let enSoundOutputFile = `${outputPath}/${toString000(count)}.${0}-${meaningManual.replaceAll(":", '.')}.mp3`
                                 .replaceAll("?", "？").replace('"', '”').replace('"', '”')
                             if (fs.existsSync(enSoundOutputFile)) {
@@ -154,6 +160,12 @@ db.loadDatabase({}, function () {
 
                         } else {
                             fs.copyFileSync(fileTarget, targetFileName)
+
+                            //for now
+                            let fileTarget_Slow = `${jpSoundSourcefileStoragePathSlow}/${text}.mp3`
+                            let targetFileName_slow = `${outputPath}/${toString000(count)}sl -${text}.mp3`
+                            fs.copyFileSync(fileTarget_Slow, targetFileName_slow)
+
                             callback()
                         }
                         // jpToEn(text, function (result) {
@@ -164,6 +176,7 @@ db.loadDatabase({}, function () {
                     } else {
                         targetFileName = `${outputPath}/${toString000(count)} -${text}.mp3`
                         fs.copyFileSync(fileTarget, targetFileName)
+
                         callback()
                     }
 

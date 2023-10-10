@@ -1,0 +1,214 @@
+1	一	one
+2	丨	rod
+3	丶	dot
+4	丿	(diagonal stroke)
+5	乙, 乚	No. 2, B, fishhook
+6	亅	barb
+7	二	two
+8	亠	lid, top; up
+9	人, 亻	man, human being
+10	儿	legs, human being
+11	入	enter
+12	八	eight
+13	冂	enclose
+14	冖	cover
+15	冫	ice
+16	几	table
+17	凵	container, open box
+18	刀, 刂	knife, sword
+19	力	power, strong
+20	勹	wrap
+21	匕	spoon
+22	匚	box
+23	匸	conceal, hiding
+24	十, ナ	ten
+25	卜	oracle
+26	卩	stamp, seal
+27	厂	cliff
+28	厶	private, I
+29	又	again; hand
+30	口	mouth
+31	囗	border; enclosure
+32	土	earth
+33	士	man; scholar; samurai
+34	夂	follow; winter
+35	夊	go slowly
+36	夕	evening
+37	大	large, big
+38	女	woman
+39	子	child, son
+40	宀	roof
+41	寸	inch
+42	小	small, little
+43	尢	lame; crooked big
+44	尸	corpse
+45	屮	sprout; old grass
+46	山	mountain
+47	川	river
+48	工	work
+49	己	self, oneself
+50	巾	cloth
+51	干	dry; shield
+52	幺	young; slight; shot thread
+53	广	slanting roof
+54	廴	move, long stride
+55	廾	folded hands
+56	弋	javelin; ceremony
+57	弓	bow (in archery)
+58	奇，彐, ヨ, ⺕, 彑	pig’s head; hand
+59	彡	hair-style; light rays; shot hair
+60	彳	step, stride; going person
+61	心, 忄, ⺗	heart
+62	戈	spear
+63	戶,戸	weapon; door
+64	手, 扌	hand
+65	支	branch
+66	攴, 攵  strike, hit
+67	文	literature
+68	斗	(unit of volume)
+69	斤	ax
+70	方	direction
+71	无, 旡	not
+72	日	sun; day
+73	曰	say
+74	月	moon; month
+75	木	tree, wood
+76	欠	lack
+77	止	stop
+78	歹	decompose, death
+79	殳	lance shaft
+80	毋	mother; not
+81	比	compare
+82	毛	hair
+83	氏	family, clan
+84	气	breath, air, steam
+85	水, 氵	water
+86	火, 灬	fire
+87	爪, 爫	claw, nail
+88	父	father
+89	爻	mix
+90	爿, 丬	split wood (left half)
+91	片	split wood (right half)
+92	牙	fang, canine tooth, tusk
+93	牛	cow
+94	犬, 犭	dog, animal
+95	玄	darkness, blackness
+96	玉, 王	jewel
+97	瓜	melon
+98	瓦	tile
+99	甘	sweet
+100	生	be born, live, birth
+101	用	use
+102	田	rice paddy
+103	疋, ⺪	roll of cloth
+104	疒	sickness
+105	癶	outspread legs
+106	白	white
+107	皮	skin, hide
+108	皿	bowl, dish
+109	目	eye
+110	矛	halberd, spear
+111	矢	arrow
+112	石	stone
+113	示, ネ, 礻	show; altar
+114	禸	footprint
+115	禾	grain
+116	穴	hole
+117	立	stand
+118	竹	bamboo
+119	米	rice
+120	糸	thread
+121	缶	earthen jar
+122	罒, 网	net
+123	羊	sheep
+124	羽，羽	feather
+125	老, 耂	old
+126	而	and also, and then
+127	耒	plow
+128	耳	ear
+129	聿	writing brush
+130	肉，月	flesh, meat
+131	臣	retainer, minister
+132	自	self, oneself
+133	至	arrive, reach
+134	臼	mortar
+135	舌	tongue
+136	舛	contrary, err
+137	舟	ship, boat
+138	艮, 長	stop; hard
+139	色	color
+140	艸 艹	grass, plant
+141	虍, 声	tiger
+142	虫	worm, insect
+143	血	blood
+144	行	go
+145	衣, 衤	clothing
+146	西, 襾, 覀	cover; west
+147	見	see
+148	角	horn; corner
+149	言	speak, say
+150	谷	valley
+151	豆	bean
+152	豕	pig
+153	豸	badger; reptile
+154	貝	shell, mussel; money
+155	赤	red
+156	走	run
+157	足	foot, leg
+158	身	body
+159	車	vehicle, wheel
+160	辛	bitter
+161	辰	(5th zodiac sign); 7–9 A.M.
+162	辶, 辶	advance, move ahead
+163	阝	community
+164	酉	wine jug; bird
+165	釆	separate
+166	里	(2.44 miles); village
+167	金	metal, gold
+168	長	long
+169	門	gate, door
+170	阜, 阝	hill
+171	隶	capture
+172	隹	small bird
+173	雨	rain
+174	靑, 青	green, blue
+175	非	wrong; non-
+176	面	face; surface
+177	革	leather
+178	韋	tanned leather
+179	韭	leek
+180	音	sound, noise
+181	頁	head; page
+182	風	wind
+183	飛	fly
+184	食	food, eat
+185	首	head, neck
+186	香	scent, perfume
+187	馬	horse
+188	骨	bone
+189	高	high
+190	髟	long hair
+191	鬥	fighting
+192	鬯	herbs
+193	鬲	tripod
+194	鬼	demon, devil
+195	魚	fish
+196	鳥	bird
+197	鹵	salt
+198	鹿	deer
+199	麥, 麦	wheat
+200	麻	hemp
+201	黃	yellow
+202	黍	millet
+203	黑, 黒	black
+204	黹	embroider
+205	黽	frog
+206	鼎	3-legged kettle
+207	鼓	drum
+208	鼠	rat, mouse
+209	鼻	nose
+210	齊, 斉	alike
+211	齒, 歯	tooth
+212	龍, 竜	dragon
+213	龜, 亀	turtle
+214	龠	flute

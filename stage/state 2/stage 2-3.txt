@@ -1,99 +1,113 @@
 stage ２，３。
 
-どうして、昨日、授業を休みましたか。
-昨日、私は、母が病気だったから、授業を休みました。
+/// Adverbial clauses with the causal conjunction
 
-昨日、私は病気だったので、授業を休みました。
+どうして、昨日、授業を休みましたか。//Why were you absent from class yesterday?
+昨日、私は、母が病気だったから、授業を休みました。//I didn’t go to class yesterday because my mother was sick.
+
+昨日、私は病気だったので、授業を休みました。//I was sick yesterday, so I didn’t go to class.
+
 ーーーーーーーーーーーーーーーーーーーー
-昨日、私は森さんに会います。ぞの時に、私達は日本語で話します。
-昨日、私が森さんに会った時に、私は日本語で話します。
+/// Temporal Adverbial Clauses
 
-寒い時、コートを着ます。
-寒い時、コートを着ました。
+昨日、私は森さんに会います。ぞの時に、私達は日本語で話します。//I’ll meet Mori-san tomorrow. At that time, we’ll speak in Japanese.
+昨日、私が森さんに会った時に、私は日本語で話します。//When I meet Mori-san tomorrow, we’ll speak in Japanese.
 
-日本に行く時、辞書を買います。
-日本に行った時、辞書を買います。
-日本に行く時、辞書を買いました。
-日本に行った時、辞書を買いました。
+寒い時、コートを着ます。//I wear a coat when it’s cold.
+寒い時、コートを着ました。//I wore a coat when it was cold.
+
+日本に行く時、辞書を買います。//I will buy a dictionary before going to Japan.
+日本に行った時、辞書を買います。//I will buy a dictionary in Japan after I arrive there.
+日本に行く時、辞書を買いました。//I bought a dictionary before I arrived in Japan.
+日本に行った時、辞書を買いました。//I bought a dictionary in Japan after I arrived there.
 ーーーーーーーーーーーーーーーーーーーー
-ルームメートが１０時に寝る前に、私はテレビを見ます。
-ルームメートが１０時に寝る前に、私はテレビを見ました。
+ルームメートが１０時に寝る前に、私はテレビを見ます。//I’ll watch TV before my roommate goes to bed at 10:00.
+ルームメートが１０時に寝る前に、私はテレビを見ました。//I watched TV before my roommate went to bed at 10:00.
 
-ルームメートが１０時に寝た後で、私はテレビを見ます。
-ルームメートが１０時に寝た後で、私はテレビを見ました。
+ルームメートが１０時に寝た後で、私はテレビを見ます。//I’ll watch TV after my roommate goes to bed at 10:00.
+ルームメートが１０時に寝た後で、私はテレビを見ました。//I watched TV after my roommate went to bed at 10:00.
 ーーーーーーーーーーーーーーーーーーーー
-三年前に日本に行きました。
-三年後で日本に行きました。
-三年後に日本に行きました。
+三年前に日本に行きました。//I went to Japan three years ago.
+三年後で日本に行きました。//I went to Japan three years later.
+三年後に日本に行きました。//I went to Japan three years later.
+
 ーーーーーーーーーーーーーーーーーーーー
-日本に行ったら、日本語が上手に成ると思います。
-車がもっと安かったら、買います。
-あの部屋が静かだったら、あそこで勉強します。
+/// Situational Adverbial Clauses
+
+日本に行ったら、日本語が上手に成ると思います。//If you go to Japan, I believe your Japanese will improve.
+車がもっと安かったら、買います。//If cars were cheaper, I would buy one.
+あの部屋が静かだったら、あそこで勉強します。//If that room is quiet, I will study there.
 ーーーーーーーーーーーーーーーーーーーー
-家に帰ったら、母が来ていました。
-クラスに行ったら、だれもいませんでした。
+家に帰ったら、母が来ていました。//To my surprise, when I returned home, my mother was there.
+クラスに行ったら、だれもいませんでした。//To my surprise, when I went to class, no one was there.
 ーーーーーーーーーーーーーーーーーーーー
-いつ聞きましょうか。
-林さんが来た時に、聞きましょう。
-林さんが来たら、聞きましょう。
+いつ聞きましょうか。//When shall we ask him?
+林さんが来た時に、聞きましょう。//Let’s ask Hayashi-san when he gets here.
+林さんが来たら、聞きましょう。//If Hayashi-san comes, let’s ask him.
 
-林さんが来たら、どうしましょうか。
+林さんが来たら、どうしましょうか。//What should we do if Hayashi-san comes here?
 
-林さんが来たら、困ります。
+林さんが来たら、困ります。//I’ll be in trouble if Hayashi-san comes here.
 ーーーーーーーーーーーーーーーーーーーー
-春に成ると、暖かく成ります。
-もっと漢字を勉強すると、日本語は易し＜成ります。
+春に成ると、暖かく成ります。//Once spring comes, it will get warmer.
+もっと漢字を勉強すると、日本語は易し＜成ります。//Once you study more kanji, Japanese will get easier.
 
-日本に行くと、井上さんに会います。
-クラスが終わると、いつも図書館で宿題をします。
+日本に行くと、井上さんに会います。//Whenever I go to Japan, I see Inoue-san.
+クラスが終わると、いつも図書館で宿題をします。//After class, I always do my homework in the library.
 
-家に帰ると、友達から電話がありました。
-朝ご飯を食べると、すぐ大学に行きました。
+家に帰ると、友達から電話がありました。//As soon as I returned home, I got a phone call from a friend.
+朝ご飯を食べると、すぐ大学に行きました。//As soon as I ate breakfast, I went to college.
 ーーーーーーーーーーーーーーーーーーーー
-昨日、何をしましたか。
-昨日、料理したり、映画に行ったりしました。
+/// Representative Expressions
 
-昨日、料理したり、映画に行ったりします。
-土曜日には、料理したり、映画に行ったりしてください。
+昨日、何をしましたか。//What did you do yesterday?
+昨日、料理したり、映画に行ったりしました。//I cooked, and went to a movie—things like that.
 
-日本語のテストは難しかったり、易しかったりします。
-この店のケーキは美味しかったり、美味しくなかったりです。
+昨日、料理したり、映画に行ったりします。//Tomorrow I will cook, and go to the movies, and do other things like that.
+土曜日には、料理したり、映画に行ったりしてください。//Please cook, and go to the movies, and do other things like that on Saturday.
 
-この学校の先生は優しかったり、優しくなかったりします。
+日本語のテストは難しかったり、易しかったりします。//Sometimes Japanese exams are difficult and sometimes they’re easy.
+この店のケーキは美味しかったり、美味しくなかったりです。//Cakes at this store sometimes taste great, but sometimes they’re not so good.
 
-今年の日本語のテストの日は月曜日だったり火曜日だったりしています。
-今年の日本語のテストの日は月曜日だったり火曜日だったりします。
+この学校の先生は優しかったり、優しくなかったりします。//Some teachers at this school are lenient and some are not.
+
+今年の日本語のテストの日は月曜日だったり火曜日だったりしています。//The day of this year’s Japanese tests has sometimes been Monday and sometimes Tuesday.
+今年の日本語のテストの日は月曜日だったり火曜日だったりします。//The day of this year’s Japanese tests is sometimes Monday and sometimes Tuesday.
+
+日本語の先生はアメリカ人の先生だったり日本人の先生だったりです。//Some of the Japanese teachers are American, and some are Japanese.
 ーーーーーーーーーーーーーーーーーーーー
-あの人は、頭もいいし、顔もきれいですね。
+/// Conjunctions
 
-あの人は、頭もいいし、顔もきれいだし、私は大好きです。
-あの人は、頭もいいですし、顔もきれいですし、私は大好きです。
-ーーーーーーーーーーーーーーーーーーーー
-あの人は本当に頭がいいです。その上、顔もきれいです。
-ーーーーーーーーーーーーーーーーーーーー
-部屋に入った。すると、電話が鳴った。
+あの人は、頭もいいし、顔もきれいですね。//That person is not only smart, but she also has a very pretty face.
 
-病気で学校を休んだ。そしたら、先生から電話があった。
-妹にケーキを上げた。そしたら、妹は泣いた。
+あの人は、頭もいいし、顔もきれいだし、私は大好きです。//I like her a lot because she is smart and pretty.
+あの人は、頭もいいですし、顔もきれいですし、私は大好きです。//I like her a lot because she is smart and pretty.
+ーーーーーーーーーーーーーーーーーーーー
+あの人は本当に頭がいいです。その上、顔もきれいです。//That person is really smart. On top of that, she’s pretty, too.
+ーーーーーーーーーーーーーーーーーーーー
+部屋に入った。すると、電話が鳴った。//I entered the room. Immediately after that, the phone rang.
+
+病気で学校を休んだ。そしたら、先生から電話があった。//I was sick, so I didn’t go to school. My teacher surprised me by calling me on the phone because I was absent.
+妹にケーキを上げた。そしたら、妹は泣いた。//I gave my sister a piece of cake. She surprised me by bursting into tears in response.
 
 ーーーーーーーーーーーーーーーーーーーー
 ーーーーーーーーーーーーーーーーーーーー
 カンバセーション。
 
-さっきね、うちに帰ったら、姉から電話があったんですよ。明日、帰るって。
-へえ、何かあったんですか。
-別にたいしたことないと思うんですけどね。
-でも、もう一度、電話してあげたら、どうですか。
+さっきね、うちに帰ったら、姉から電話があったんですよ。明日、帰るって。//My sister suddenly called me when I got home. She said she’s coming home tomorrow.
+へえ、何かあったんですか。//Really? Did something happen?
+別にたいしたことないと思うんですけどね。//I don’t think it’s anything serious.
+でも、もう一度、電話してあげたら、どうですか。//But maybe you should call her again, don’t you think?
 
-これは別に美味しくありません。
+これは別に美味しくありません。//This is not especially tasty.
 
-友達と一緒に勉強したら、どうですか。
+友達と一緒に勉強したら、どうですか。//Why don’t you study with a friend?
 
-昨日、姉に電話したら、ちょっと具合が悪いから、帰りたいって。
-やっぱり。何でもないと、いいですね。
+昨日、姉に電話したら、ちょっと具合が悪いから、帰りたいって。//When I called my sister yesterday, she said she wanted to come home because she wasn’t feeling well.
+やっぱり。何でもないと、いいですね。//I thought so. I hope it’s nothing serious.
 
-もう、行く準備できた？
-わるいけど、もうちょっとだけ待ってくれない？
-間に会わないと、困るんです。しかられますから。
-じゃ、先に行ってて。
-じゃ、申し訳ないけど、さきに行ってるね。
+もう、行く準備できた？//Are you ready to go?
+わるいけど、もうちょっとだけ待ってくれない？//Sorry, but can you wait for me a little longer?
+間に会わないと、困るんです。しかられますから。//I don’t want to be late—I’ll really be in trouble.
+じゃ、先に行ってて。//OK, then go ahead.
+じゃ、申し訳ないけど、さきに行ってるね。//Sorry, but I think I should go now.
