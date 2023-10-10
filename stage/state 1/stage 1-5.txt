@@ -169,5 +169,3 @@ stage １，５。
 
 明日、一緒に映画に行きませんか。//Would you like to go to a movie together tomorrow?
 いいですね。ええ、行きましょう。//Sounds great. Sure, let’s go.
-
-///end
