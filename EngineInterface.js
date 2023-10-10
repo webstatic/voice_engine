@@ -8,7 +8,7 @@ ffmpeg.setFfmpegPath("../ffmpeg/ffmpeg.exe")
 
 let tempFilePath = "../temp"
 
-let useSlow = true
+let useSlow = false
 
 let fileStoragePath = './stream'
 if (useSlow) {

@@ -1,78 +1,126 @@
 stage ２，４。
 
-クリスさんは日本語が上手に話せます。
-私は運転出来ません。
+/// Potential Verbs and Sentences
 
-明日は日本語の授業に行けません。
-ナンシーさんは明日から図書館でアルバイト出来ます。
-日本に三週間いられます。
+クリスさんは日本語が上手に話せます。//Kurisu-san can speak Japanese well.
+私は運転出来ません。//I cannot drive.
 
-この店では日本語が話せます。
+明日は日本語の授業に行けません。//I cannot go to Japanese class tomorrow.
+ナンシーさんは明日から図書館でアルバイト出来ます。//It will be possible for Nancy to work at the library starting tomorrow.
+日本に三週間いられます。//I can stay in Japan for three weeks.
 
-あの人はお金がたくさんあるかもしれません。
-あの人は日本語が分かるかもしれません。
+この店では日本語が話せます。//In this store, we can speak Japanese.
 
-あの人はお金がたくさんあるでしょう。
-あの人は日本語が分かるでしょう。
+あの人はお金がたくさんあるかもしれません。//It’s possible that that person has a lot of money.
+あの人は日本語が分かるかもしれません。//It’s possible that that person understands Japanese.
 
-あの店では日本語が話せるかもしれません。
+あの人はお金がたくさんあるでしょう。//I’m quite certain that that person has a lot of money.
+あの人は日本語が分かるでしょう。//I’m sure that that person understands Japanese.
+
+あの店では日本語が話せるかもしれません。//You may be able to speak Japanese at that store.
+
 ーーーーーーーーーーーーーーーーーーーー
-日本語は日本でだけ話されています。
+/// Passive Verbs and Sentences
+/// Regular passive sentences
 
-この大学では、多くの学生が日本語を勉強しています。
-この大学では、日本語は多くの学生に勉強されています。
+日本語は日本でだけ話されています。//Japanese is spoken only in Japan.
 
-この本は有名な作家に書かれました。
+この大学では、多くの学生が日本語を勉強しています。//Many students study Japanese at this college.
+この大学では、日本語は多くの学生に勉強されています。//At this college, Japanese is studied by many students.
 
-日本の生徒は先生に時々、叱られます。
+この本は有名な作家に書かれました。//This book was written by a famous writer.
+
+日本の生徒は先生に時々、叱られます。//Students in Japan are occasionally scolded by their teachers.
 ーーーーーーーーーーーーーーーーーーーー
-雨が降りました。
-私は雨に降られました。
+/// Affective passive sentences
 
-去年、私達は犬に死なれました。
-私は映画館で子供に泣かれました。
-私は先生に私の家に来られました。
+雨が降りました。//It rained.
+私は雨に降られました。//I was affected by the fact that rain fell.
 
-友達はボーイフレンドからの手紙を読みました。
-私は友達にボーイフレンドからの手紙を読まれました。
+去年、私達は犬に死なれました。//Last year, we were saddened by the death of our dog.
+私は映画館で子供に泣かれました。//I was really annoyed by the child’s crying in the theater.
+私は先生に私の家に来られました。//I was shocked that my teacher came to my house.
 
-先生は私を叱りました。
-私は先生に叱られました。
+友達はボーイフレンドからの手紙を読みました。//My friend read my boyfriend’s letter.
+私は友達にボーイフレンドからの手紙を読まれました。//I was upset about being scolded by the teacher.
 
-昨日、先生に叱られてしまいました。
-卒業式で雨に降られてしまいました。
-ーーーーーーーーーーーーーーーーーーーー
-このケーキが食べられますか。
-私は妹にケーキを食べられました。
+先生は私を叱りました。//The teacher scolded me.
+私は先生に叱られました。//I was upset about being scolded by the teacher.
 
-ここで日本語が話せます。
-日本語はここでも話されています。
+昨日、先生に叱られてしまいました。//I ended up being scolded by the teacher.
+卒業式で雨に降られてしまいました。//It turned out that it rained at the graduation ceremony.
 ーーーーーーーーーーーーーーーーーーーー
-私は母に英語の手紙を読んであげました。
-私は友達のおばあさんに新聞を読んでさしあげました。
-私は弟の宿題をしてやりました。
-ーーーーーーーーーーーーーーーーーーーー
-ルームメートがこの漢字を教えてくれました。
-伊藤先生がこの漢字を教えてくださいました。
-時雨さんが弟に本を読んでくれました。
-ーーーーーーーーーーーーーーーーーーーー
-僕はルームメートにこの漢字を教えてもらいました。
-マイクさんは鈴木先生にこの漢字を教えていただきました。
-ーーーーーーーーーーーーーーーーーーーー
-太郎さんが日本語の手紙を読んでくれました。
-私は日本語の手紙を太郎さんに読んでもらいました。
-ーーーーーーーーーーーーーーーーーーーー
-先生は学生に漢字を書かせました。
-先生は学生に漢字を書いてもらいました。
-ーーーーーーーーーーーーーーーーーーーー
-私は叔母さんのために店に行ってあげました。
-ーーーーーーーーーーーーーーーーーーーー
-漢字が難しくて、私はこの本が読めません。
+/// Passive and potential sentences
 
+このケーキが食べられますか。//Can you eat this cake?
+私は妹にケーキを食べられました。//I was upset that my sister ate my cake.
 
+ここで日本語が話せます。//We can speak Japanese here.
+日本語はここでも話されています。//Japanese is spoken even here.
 
+私は田中先生に日本語を教えていただきました。//I was taught Japanese by Tanaka-sensei.
+ーーーーーーーーーーーーーーーーーーーー
+
+私は母に英語の手紙を読んであげました。//I read the letter in English for my mother.
+私は友達のおばあさんに新聞を読んでさしあげました。//I read the newspaper for my friend’s grandmother.
+私は弟の宿題をしてやりました。//I did my younger brother’s homework for him.
+ーーーーーーーーーーーーーーーーーーーー
+ルームメートがこの漢字を教えてくれました。//My roommate is the one who taught me this kanji.
+伊藤先生がこの漢字を教えてくださいました。//Ito-sensei is the one who taught me this kanji.
+時雨さんが弟に本を読んでくれました。//Shigure-sensei is the one who taught me this kanji.
+ーーーーーーーーーーーーーーーーーーーー
+僕はルームメートにこの漢字を教えてもらいました。//I had my roommate teach me this kanji.
+マイクさんは鈴木先生にこの漢字を教えていただきました。//Mike asked Professor Suzuki to teach him this kanji.
+ーーーーーーーーーーーーーーーーーーーー
+太郎さんが日本語の手紙を読んでくれました。//Taro read the Japanese letter for me.
+私は日本語の手紙を太郎さんに読んでもらいました。//I had Taro read the Japanese letter for me.
+ーーーーーーーーーーーーーーーーーーーー
+先生は学生に漢字を書かせました。//The teacher made the students write kanji.
+先生は学生に漢字を書いてもらいました。//The teacher had a student write kanji for him.
+ーーーーーーーーーーーーーーーーーーーー
+私は叔母さんのために店に行ってあげました。//I went to the store for my grandmother.
+
+私はおばあさんのためにおいしいケーキを作ってあげました。//I made a great cake for my grandmother.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// Different causes
+
+漢字が難しくて、私はこの本が読めません。//I can’t read this book because the kanji are too difficult.
+雨が降って、困りました。//It rained, and that caused me some problems.
+ーーーーーーーーーーーーーーーーーーーー
+/// Apologizing
+
+昨日、授業に来なくて、すみません（でした）。//I’m sorry I didn’t come to class yesterday.
+ーーーーーーーーーーーーーーーーーーーー
+/// Thanking
+
+面白い本をありがとうございます。//Thank you for the interesting book.
+手伝ってくれて、ありがとう。//Thank you for helping me.
+手伝ってくださって、ありがとうございます。//Thank you for helping me.
 
 ーーーーーーーーーーーーーーーーーーーー
 ーーーーーーーーーーーーーーーーーーーー
 カンバセーション。
+
+/// Thanking someone for advice
+
+今日も授業で皆に笑われたんです。//People laughed at me again today in class.
+ええ？ そうなんですか。どうしたんですか。//Really? Tell me what happened.
+全然、知りませんでした。教えてくださって、本当にありがとうございます。//I didn’t know that at all. Thank you very much for telling me.
+
+/// How did you get here?
+
+どうやってここまで来られたんですか。//How did you manage to get here?
+父に乗せてもらって来たんです。//I asked my father to give me a ride.
+
+彼は私を車に乗せてくれた。//He gave me a ride in his car.
+
+/// Feeling upset about a bad grade
+
+中間試験、ものすごく悪い点をつけられました。//I got a really bad grade on the midterm.
+勉強しなかったんですか。僕もあまりいい成績はもらいませんでした。//Was it because you didn’t study for it? I didn’t do very well, either.
+一生懸命、勉強したんですが、ちょっと風邪をひいていたんです。//I studied as hard as I could, but I caught a bit of a cold.
+それはいけませんね。気をつけてください。//That’s too bad [about the cold]. Please do take care.
+
+車に気をつけてください。//Watch out for cars, please.
 
