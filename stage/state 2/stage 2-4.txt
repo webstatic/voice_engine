@@ -34,7 +34,7 @@ stage ２，４。
 ーーーーーーーーーーーーーーーーーーーー
 /// Affective passive sentences
 
-雨が降りました。//It rained.
+雨がふりました。//It rained.
 私は雨に降られました。//I was affected by the fact that rain fell.
 
 去年、私達は犬に死なれました。//Last year, we were saddened by the death of our dog.
