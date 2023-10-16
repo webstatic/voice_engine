@@ -1,0 +1,151 @@
+stage ２，７。
+/// Stage 2-7 Complex Predicates
+/// 1: Complex Predicates with つもりだ and はずだ
+/// (2) つもりだ
+
+私は来年、日本で勉強するつもりです。//I plan to study in Japan next year.
+来年、日本で勉強しないつもりです。//My plan is not to study in Japan next year.
+
+来年、日本で勉強するつもりじゃありません。//Actually, I don’t plan to go to Japan to study next year.
+
+/// Restriction on the use of the construction
+
+カーターさんは、来年、どこで勉強するつもりですか。//Where do you plan to study next year, Carter-san?
+私はイギリスで勉強するつもりです。//I plan to study in England.
+
+リンさんは来年、日本で勉強するつもりだと言っていました。//Lin-san said that he plans to study in Japan next year.
+ウィリアムズさんは来年、日本で勉強するつもりだと思います。//I believe Williams-san is planning to study in Japan next year.
+
+/// (3) はずだ
+
+カーターさんは来年、日本で勉強するはずです。//It is my understanding that Carter-san will study in Japan next year.
+私は来年、日本に行けるはずです。//I believe that I’ll be able to go to Japan next year.
+
+/// The difference between はず and 思（おも）う
+
+もうすぐ、先生はいらっしゃるはずです。//I expect the teacher to be here very soon.
+もうすぐ、先生はいらっしゃると思います。//I think the teacher will be here soon.
+
+日本語を勉強しているんですか。//Is it true that you’re studying Japanese?
+ええ、日本語は難しいですが、本当におもしろい言葉だと思います。//Yes. Japanese is difficult, but I think it’s a very interesting language.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// 2: Complex Predicates with のだ
+/// (1) In questions
+/// Situation 1
+
+天ぷらが好きなんですか。//I guess you like tempura, don’t you?
+
+/// Situation 2
+
+どこへ行くんですか。//Would you tell me where you’re going?
+
+どこに行きますか。//Where are you going?
+
+/// Situation 3
+
+何があったんですか。//Tell me, what happened?
+何かあったんですか。//Did something happen? – Tell me.
+どうしたんですか。//Tell me what happened. Is something wrong?
+
+ーーーーーーーーーーーーーーーーーーーー
+/// (2) In statements
+
+来年、日本に行きたいと思っているのですが、お金がありません。//You may know that I’d like to go to Japan next year, but I don’t have any money.
+来年、日本に行きたいのですが、どの学校がいいでしょうか。//I’d like to go to Japan next year. What school do you think is good?
+
+どうして、授業を休んだんですか。//Tell me why you were absent from the class.
+頭が痛かったんです。//It was because I had a headache.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// 3: Complex Predicates with そうだ
+
+午後、雨が降るそうです。//My source tells me that it will rain this afternoon.
+あの店のお茶はおいしいそうです。//I’ve heard/read/learned that tea at that shop is delicious.
+
+ここは静かだそうです。//I’ve heard/read/learned that this place is quiet.
+あの人は日本人だそうです。//I’ve heard/read/learned that that person is Japanese.
+
+/// (1) Information source
+
+テレビによると、今日は雨が降るそうです。//According to the TV, it’s going to rain today.
+林さんの話によると、去年、東京は雪が降ったそうです。//According to Hayashi-san, it snowed in Tokyo last year.
+
+/// (2) Complex predicates with そうだ and quotative sentences with 聞（き）く
+
+午後、雨が降ると聞きました。//I heard that it would rain in the afternoon.
+あの人は日本人だと聞きました。//I heard that that person is Japanese.
+
+家に帰った時に、弟が日本に留学をすると聞いた。//When I went home, I heard that my brother was going to study abroad in Japan.
+
+/// (3) Two different そう
+
+このケーキはおいしそうですね。//This cake looks delicious!
+このケーキはおいしいそうですね。//I hear that this cake is delicious.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// 4: Conjunctive Forms and Other Verbs
+/// (1) ~てくる and ~ていく
+/// The verb くる to indicate returning
+
+コーヒーを買ってきます。//I’ll go and get some coffee.
+
+コーヒーを買います。//I’ll buy some coffee.
+走ってきました。//I went running, but I’m back now.
+
+何をしたんですか。//Tell me what you did.
+コーヒーを買ったんです。//I bought coffee.
+どこに行ったんですか。//Tell me where you’ve been.
+コーヒーを買ってきたんです。//I just went out to get coffee.
+
+/// Verbs くる and いく to indicate the beginning of an event
+
+雨が降ってきました。//It’s started raining.
+晴れてきました。//It’s beginning to clear up.
+曇ってきました。//It’s starting to cloud over.
+
+ルームメートが明日ここから出ていきます。//My roommate is moving away tomorrow.
+
+/// Metaphorical meanings
+
+分かってきました。//I’m beginning to understand.
+
+日本語を忘れていきます。//I’m starting to forget Japanese.
+
+/// (2) ~ておく
+
+私はかばんを机の上に置きました。//I put my backpack on the desk.
+
+明日、パーティーがありますから、今日、食べ物と飲み物を買っておきました。//We’re having a party tomorrow, so I bought food and drinks for it today.
+
+金曜日に試験がありますから、よく勉強しておいてください。//We’ll have an exam on Friday, so study the material well.
+
+
+ーーーーーーーーーーーーーーーーーーーー
+ーーーーーーーーーーーーーーーーーーーー
+カンバセーション。
+
+/// (1) I fell asleep again!
+
+あの先生の講義、本当につまらなくて、また寝ちゃった！//That teacher’s lectures are so boring, I fell asleep again.
+いつも寝てると、悪い成績をつけられちゃいますよ。//You’re going to get a bad grade if you’re always sleeping.
+本当にそうですよね。これから、気をつけます。//Yeah, you’re right. I’ll try to do better from now on.
+
+宿題、忘れちゃった!//I completely forgot about my assignment!
+
+/// (2) I’ll call and take care of it later
+
+ああ、また、電話するの、忘れちゃった！//Oh, I forgot to call again.
+後で、僕が電話しとくよ。//I’ll call and take care of it later.
+
+/// (3) Saying goodbye when leaving home
+
+ちょっと出てきます。いってきます。//I’m going out for a bit. I’ll be back.
+いってらっしゃい。//OK, bye.
+
+/// (4) Greeting when coming home
+
+ただいま！//I’m home.
+あっ、お帰りなさい。何か、買ってきたの？//Oh, hi! Did you get anything?
+何も。ちょっと、散歩に行ってきたの。//No, I just went for a walk.
+

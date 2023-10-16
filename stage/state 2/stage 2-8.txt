@@ -1,0 +1,181 @@
+stage ２，８。
+/// Stage 2-8 も and は
+/// (1) Expressing permission with ~てもいい
+/// Positive adverbials
+
+飲み物は水でもいいですか。//Is water OK for a drink?
+晩ご飯は少し早くてもいいですか。//Is it all right if we have dinner a little early?
+宿題は月曜日に出してもいいですか。//Is it all right if I submit my assignment on Monday?
+
+/// Negative adverbials
+
+飲み物は水じゃなくてもいいですか。//Is it all right if the drink isn’t water?
+晩ご飯は早くなくてもいいですか。//Is it all right if we don’t have dinner early?
+宿題は月曜日に出さなくてもいいですか。//Is it all right if I don’t submit my assignment on Monday?
+ーーーーーーーーーーーーーーーーーーーー
+/// (2) Expressing permission with ~てもかまわない
+
+子供は早くお腹がすくと思いますから、早くそちらに行かせてもかまいませんか。//I think the children will be hungry early; would it be all right for them to go there earlier?
+月曜日に出してくださいと言われましたが、月曜日じゃなくてもかまいませんか。//I was told to submit it on Monday, but would it be all right not to do so?
+
+/// Combination of positive and negative adverbials
+
+この薬は飲んでも、飲まなくてもいいです（かまいません）よ。//You can take this medicine or not; either way is fine.
+ーーーーーーーーーーーーーーーーーーーー
+/// (3) Non-fixed use of the ても-adverbials
+
+リンさんが私に日本語で話してくれても、分かりませんでした。//Even though Lin-san spoke to me in Japanese, I still did not understand it.
+三時間、待っても、あの人は来ませんでした。//Even though I waited for him for three hours, he didn’t show up.
+そんなに野菜をたくさん食べても、すぐには元気になりませんよ。//Even though you’re eating lots of vegetables, you aren’t going to get better right away.
+ーーーーーーーーーーーーーーーーーーーー
+/// (4) Using the ても-adverbial twice (or more)
+
+言っても、言っても、彼は分かりませんでした。//No matter how many times I told him, he didn’t understand.
+食べても、食べても、食べても、お腹がいっぱいになりませんでした。//No matter how much I ate, I didn’t get full.
+ーーーーーーーーーーーーーーーーーーーー
+/// (5) Interrogative pronouns with ~ても
+
+今日は、何を食べても、おいしくありません。//No matter what I eat today, it doesn’t taste good.
+この問題は、だれに聞いても、分からないと言われました。//No matter who I asked about this problem, no one knew the answer.
+どんなにお腹がすいていても、すしは食べられません。//No matter how hungry I am, I can’t eat sushi.
+どう考えても、彼の意見には賛成できない。//No matter how I think about it, I still can’t agree with his opinion.
+
+/// Interrogative pronouns with counters
+
+何度、電話しても、あの人は電話に出ませんでした。//No matter how many times I called him, he didn’t answer the phone.
+この漢字は何回、書いても、覚えられません。//No matter how many times I write this kanji, I just can’t memorize it.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// 2: も in Phrases
+/// (1) Indefinite amount
+/// 何（なん） (with an appropriate counter) or いくつ and も
+
+この本は何度も読みましたが、全然、分かりません。//I’ve read this book several times, but I don’t get it at all.
+あの人に何日も滞在されて、とても困りました。//He inconvenienced us greatly by staying at our house for several days.
+お土産をいくつも買いましたが、もう全部、あげてしまいました。//Although I bought several souvenirs, I have already given them all away.
+
+/// 何（なん） (with an appropriate counter) or いくつ and か
+
+この漢字の意味を何人かに聞きましたが、だれも分かりませんでした。//I asked a few people about the meaning of this kanji, but no one knew it.
+かばんをいくつか買ってみましたが、好きなかばんはありませんでした。//I bought a few bags, but I didn’t find one that I really liked.
+ーーーーーーーーーーーーーーーーーーーー
+/// (2) Number (with an appropriate counter) も
+
+母はトーストを三枚も食べてしまいました。//Mom went and ate three pieces of toast.
+日本に四回も行ったことがあるんですか。//You mean you’ve been to Japan four times?
+
+/// Comparison between も and は
+
+母はトーストを三枚は食べたと思います。//I think Mom ate at least three pieces of toast.
+あの人は日本に四回は行ったことがあると思いますよ。//I believe that person has been to Japan at least four times.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// (3) 一 (with an appropriate counter) も
+
+日本に行ったことがありますか。//Have you been to Japan?
+いいえ、一度もありません。//No. Not even once.
+本を買うつもりでしたが、一円も持っていませんでした。//I was going to buy a book, but I didn’t have a single yen on me.
+ーーーーーーーーーーーーーーーーーーーー
+/// (4) Interrogative pronoun でも
+/// Fixed expression: interrogative pronoun with でもいい（かまわない）
+
+パーティーの日は、いつでもいいです。//Any day would do for us to have a party.
+一緒に住むのはだれでもいいとは言えません。//I can’t say that I’d be able to live with just anyone.
+
+/// Non-fixed usages
+
+あの人は何でも食べます。//That person will eat anything.
+あの人に言われたら、どこにでも行きます。//I’ll go anywhere that person tells me to.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// 3: ては-Adverbials
+/// (1) Expressing prohibition with ~てはいけない or ~てはだめ
+
+この試験では、辞書を使ってはいけません。//You may not use a dictionary for this test.
+お客さんに出すお茶は古くてはだめです。//You mustn’t serve old tea to guests.
+学生に出す宿題は簡単な宿題ではいけません。//The homework you give to students shouldn’t be easy.
+ーーーーーーーーーーーーーーーーーーーー
+/// (2) Non-fixed ては-adverbials
+
+そんなことを言っては、失礼です。//It’s rude to say such a thing.
+そんなことを言うのは、失礼です。//Saying such a thing would be rude.
+ーーーーーーーーーーーーーーーーーーーー
+/// (3) Expressing obligation with ~なくては
+
+すぐに行かなくてはなりません（いけません・だめです）。//I’d better go soon.
+靴は日本製じゃなくてはなりません（いけません・だめです）。//Shoes should be Japan-made.
+この部屋の机は新しくなくてはなりません（いけません・だめです）。//The desk in this room should be new.
+ーーーーーーーーーーーーーーーーーーーー
+/// (4) Expressing obligation with ~なければ
+
+すぐに行かなければはなりません（いけません・だめです）。//I’d better go soon.
+靴は日本製じゃなければはなりません（いけません・だめです）。//Shoes should be Japan-made.
+この部屋の机は新しくなければなりません（いけません・だめです）。//The desk in this room should be new.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// 4: Conditional Adverbial Clauses with ~ば
+/// (1) Creating the ば-formation
+/// である as the copula
+
+姉は医者だ。姉は医者である。//My older sister is a medical doctor.
+
+/// (2) Using the ば-conditional
+
+夕食が和食であれば、私は行きません。//If Japanese food is on the menu for dinner, I’m not going.
+
+もし、明日、彼が来なければ、大変なことになります。//If by any chance he did not come here tomorrow, it would be tragic.
+
+/// (3) The difference between ~たら and ~ば
+
+家に帰ったら、母が来ていました。//When I went home, I was surprised to find my mother there.
+
+/// (4) Subjunctive use
+
+もし、私があなただったら、そんなことはしていなかっただろう。//If I were you, I wouldn’t have done such a thing.
+
+/// (5) Fixed expressions with the ば-forms
+/// どうすれば
+
+どうすれば、漢字がもっと覚えられるでしょうか。//What’s the best way for me to memorize more kanji?
+あの人に連絡できないのですが、どうすればいいと思いますか。//I can’t get in touch with him, so what do you think I should do?
+
+/// ~ば…ほど
+
+この本は、読めば読むほど、面白くなってきますね。//The more I read this book, the more interesting it gets.
+日本語は、勉強すればするほど、難しくなってきます。//The more we study Japanese, the more difficult it becomes.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// 5: Adverbial Phrases with として, としても, and としては
+/// (1) として
+
+加藤先生は日本語の先生として、この大学で教えています。//Kato-sensei teaches at this college as a professor of Japanese.
+田中先生は日本語の先生として有名です。//Tanaka-sensei is famous as a Japanese teacher.
+
+/// (2) としても vs. としては
+/// Situation 1
+
+ウィリアムズさんは、アメリカ人としては、背が低いですね。//Williams-san is short for an American.
+
+/// Situation 2
+
+ウィリアムズさんは、アメリカ人としても、背が高いですね。//Williams-san is tall even for an American.
+
+ーーーーーーーーーーーーーーーーーーーー
+ーーーーーーーーーーーーーーーーーーーー
+カンバセーション。
+
+/// (1) Do you want tea or something?
+
+お茶でも、飲む？//Do you want tea or something?
+ううん、今はちょっと・・・。//No, not now.
+じゃ、何か食べる？//Then, do you want to eat something?
+あんまり食べる気しない。//I don’t feel like eating.
+そう？だって、何でも食べなきゃ、元気にならないわよ。//Really? But you’re not going to get better unless you eat.
+うん。そうだけど。//Yeah, I know, but . . .
+
+(2) What an awesome guy!
+
+森っていうやつ、知れば知るほど、すごいやつだなあと思うよ。何でも、できるんだよ、本当に。君は、森ってやつ、知ってる？//The more I get to know Mori, the more awesome I think he is. He can do anything, really. Do you know him?
+いや、俺は会ったことない。例えば、すごいって、どんなこと？//No, I haven’t met him. What do you mean by awesome?
+うん、例えば、外国語だったら、何語でも話せるんだよ。ヨーロッパ言語でも、アジアの言葉でも。韓国語とか中国語とか、ものすごく、ペラペラなんだよ。//Uh, for example, he can speak many foreign languages: European languages and Asian languages. He’s totally fluent in languages like Korean and Chinese.
+なるほど。それはすごいな。//WOW! You’re right – he is awesome.
