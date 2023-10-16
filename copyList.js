@@ -100,10 +100,16 @@ db.loadDatabase({}, function () {
                                 fs.unlinkSync(targetFileName_slow)
                             }
                             cmd.runSync(`..\\ffmpeg\\ffmpeg.exe -i "${fileTarget_Slow}" -c copy -metadata title="${text}" -metadata artist="${meaningManual}" -metadata album="${fileText}" "${targetFileName_slow}"`);
+
+                            // let fileTarget_Slow_conv = `${jpSoundSourcefileStoragePathSlow}/${text}.mp3`
+                            // let targetFileName_slow_conv = `${outputPath}/${toString000(count)}sl -${text}.mp3`
+
+                            // const stats = fs.statSync('./my-file.txt');
+                            // const fileSizeInBytes = stats.size;
                         }
 
                         if (isCreateEnglishSound) {
-                            
+
                             let enSoundOutputFile = `${outputPath}/${toString000(count)}.${0}-${meaningManual.replaceAll(":", '.')}.mp3`
                                 .replaceAll("?", "？").replace('"', '”').replace('"', '”')
                             if (fs.existsSync(enSoundOutputFile)) {

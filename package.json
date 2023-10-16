@@ -18,7 +18,8 @@
     "request": "^2.88.2",
     "romanize-japanese": "^2.1.0",
     "tiktok-tts": "^1.1.9",
+    "underscore": "^1.13.6",
     "wanakana": "^5.2.0"
   },
-   "type": ""
+  "type": ""
 }

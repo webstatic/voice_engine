@@ -1,34 +1,58 @@
 const fs = require("fs")
 const ffmpeg = require("fluent-ffmpeg")
-
+const _ = require('underscore')
 
 const path = require("path")
 
 ffmpeg.setFfmpegPath("../ffmpeg/ffmpeg.exe")
 
+//"name":"ナースロボ＿タイプＴ"
+//{"name":"ノーマル","id":47},{"name":"楽々","id":48 },
+let speakerId = 47
+
 let tempFilePath = "../temp"
 
-let useSlow = true
+let useSlow = false
 
-let fileStoragePath = './stream'
+let fileStoragePath = './stream_test'
 if (useSlow) {
     fileStoragePath = './stream_slow'
 }
 
 
+let isPrepared = false
 
-//"name":"ナースロボ＿タイプＴ"
-//{"name":"ノーマル","id":47},{"name":"楽々","id":48},
-let speakerId = 47
+let configOption = {}
+prepare_synthesis = function (option, cb) {
 
-if (!fs.existsSync(tempFilePath)) {
-    fs.mkdirSync(tempFilePath, { recursive: true })
+    if (option) {
+        if (option.useSlow) {
+            useSlow = option.useSlow
+            fileStoragePath = './stream_slow'
+        }
+
+        if (option.fileStoragePath) {
+            fileStoragePath = option.fileStoragePath
+        }
+
+        if (option.speakerId) {
+            speakerId = option.speakerId
+        }
+    }
+
+    if (!fs.existsSync(tempFilePath)) {
+        fs.mkdirSync(tempFilePath, { recursive: true })
+    }
+
+    if (!fs.existsSync(fileStoragePath)) {
+        fs.mkdirSync(fileStoragePath, { recursive: true })
+    }
+    isPrepared = true
+    configOption = option
+    if (cb) cb()
 }
 
-if (!fs.existsSync(fileStoragePath)) {
-    fs.mkdirSync(fileStoragePath, { recursive: true })
-}
-
+prepare_synthesis()
 
 function isAudioFile(wavFilename) {
     const ext = path.extname(wavFilename);
@@ -58,6 +82,139 @@ function convertWavToMp3(wavFilename, storePath, cb) {
     });
 }
 
+
+function request_audio_query(postStrUrl, speakerId, text, cb) {
+    require('request').post({
+        url: `http://${postStrUrl}:50021/audio_query?text=${encodeURI(text)}&speaker=${speakerId}`,
+        headers: {
+            'Content-Type': 'application/json'
+        }
+    }, function (err, httpResponse, body) {
+        cb(err, httpResponse, body)
+    })
+}
+
+
+const Kuroshiro = require("kuroshiro").default
+const KuromojiAnalyzer = require("kuroshiro-analyzer-kuromoji");
+const kuroshiro = new Kuroshiro();
+
+let isKuroshroInited = false
+
+function initKuroshro(cb) {
+    kuroshiro.init(new KuromojiAnalyzer())
+        .then(function () {
+            isKuroshroInited = true
+            if (cb) cb()
+        })
+
+}
+
+//fix problem of wrong interpret kanji from voicevox
+//compare kana with own lib
+//if it same then noting wrong
+//  if it different then
+//  1.easy way is just use own lib but accent_phrases may be wrong
+//  2.compare witch part is different and just change that one
+
+function checkKana(text, kana, cb) {
+
+    if (isKuroshroInited) {
+        kuroshiro.convert(text, { mode: "normal", to: "katakana" }).then(function (result) {
+            console.log('result == kana', toKanaOnly(result) == toKanaOnly(kana), toKanaOnly(result), toKanaOnly(kana));
+            if (toKanaOnly(result) == toKanaOnly(kana)) {
+                cb()
+            } else {
+                kuroshiro.convert(text, { mode: "normal", to: "hiragana" }).then(function (result) {
+                    console.log('convert to hiragana', result);
+                    cb(result)
+                })
+            }
+        })
+    } else {
+        initKuroshro(function (params) {
+            checkKana(text, kana, cb)
+        })
+    }
+
+}
+
+const wanakana = require('wanakana');
+function toKanaOnly(kanaStr) {
+    return _.filter(kanaStr.split(''), function (char) {
+        return wanakana.isKana(char)
+    }).join('')
+}
+
+function convertToKana(text, cb, isPass) {
+    if (isPass) {
+        cb(text)
+        return
+    }
+
+    if (isKuroshroInited) {
+        kuroshiro.convert(text, { mode: "normal", to: "hiragana" }).then(function (result) {
+            console.log('convertToKana', text, result);
+            cb(result)
+        })
+    } else {
+        initKuroshro(function () {
+            convertToKana(text, cb)
+        })
+    }
+}
+function request_synthesis(postStrUrl, speakerId, query, outputTempFile, cb) {
+
+    require('request').post({
+        url: `http://${postStrUrl}:50021/synthesis?speaker=${speakerId}&enable_interrogative_upspeak=true`,
+        headers: {
+            'Content-Type': 'application/json',
+            'accept': 'audio/wav',
+            'responseType': "stream"
+        },
+        "body": query,
+
+    }, function (err, httpResponse, body) {
+        if (cb) cb(err, httpResponse, body)
+    }).pipe(fs.createWriteStream(outputTempFile));
+
+}
+
+function startSynthesis(postStrUrl, queryObj, text, timeStart, cb) {
+
+    if (useSlow) {
+        queryObj.speedScale = 0.7
+    }
+
+    queryObj.volumeScale = 2.5
+
+    //queryObj.outputSamplingRate = 24000*2
+    //console.log(queryObj.outputSamplingRate);
+    //console.log(queryObj);
+    query = JSON.stringify(queryObj)
+
+
+    let outputTempFile = `${tempFilePath}/${text}.wav`
+
+    request_synthesis(postStrUrl, speakerId, query, outputTempFile, function (err, httpResponse, body) {
+        //console.log(JSON.parse(body).data.signal);
+        // cb(JSON.parse(body).data.signal)
+        // console.log(err);
+        //console.log(body);
+
+        let timeEnd = new Date()
+        console.log('use time', (timeEnd - timeStart) / 1000);
+
+        if (!err) {
+            convertWavToMp3(outputTempFile, fileStoragePath, function () {
+                fs.unlink(outputTempFile, cb)
+            })
+        } else {
+            if (cb) cb(err)
+        }
+    })
+}
+
 synthesis = function (postStrUrl, text, cb) {
 
     console.log('synthesis', postStrUrl, text);
@@ -67,60 +224,49 @@ synthesis = function (postStrUrl, text, cb) {
         if (cb) cb()
         return;
     }
-
     let timeStart = new Date()
-    require('request').post({
-        url: `http://${postStrUrl}:50021/audio_query?text=${encodeURI(text)}&speaker=${speakerId}`,
-        headers: {
-            'Content-Type': 'application/json'
-        }
-    }, function (err, httpResponse, query) {
-        let queryObj = JSON.parse(query)
 
-        if (useSlow) {
-            queryObj.speedScale = 0.7
-        }
-
-        queryObj.volumeScale = 2.5
-
-        //queryObj.outputSamplingRate = 24000*2
-        //console.log(queryObj.outputSamplingRate);
-        //console.log(queryObj);
-        query = JSON.stringify(queryObj)
-
-        if (!err) {
-            let outputTempFile = `${tempFilePath}/${text}.wav`
-            require('request').post({
-                url: `http://${postStrUrl}:50021/synthesis?speaker=${speakerId}&enable_interrogative_upspeak=true`,
-                headers: {
-                    'Content-Type': 'application/json',
-                    'accept': 'audio/wav',
-                    'responseType': "stream"
-                },
-                "body": query,
-
-            }, function (err, httpResponse, body) {
-                //console.log(JSON.parse(body).data.signal);
-                // cb(JSON.parse(body).data.signal)
-                // console.log(err);
-                //console.log(body);
-
-                let timeEnd = new Date()
-                console.log('use time', (timeEnd - timeStart) / 1000);
-
+    if (_.has(configOption, 'convertToKana')) {
+        convertToKana(text, function (newText) {
+            let timeStart = new Date()
+            request_audio_query(postStrUrl, speakerId, newText, function (err, httpResponse, query) {
                 if (!err) {
-                    convertWavToMp3(outputTempFile, fileStoragePath, function () {
-                        fs.unlink(outputTempFile, cb)
-                    })
+                    let queryObj = JSON.parse(query)
+                    startSynthesis(postStrUrl, queryObj, text, timeStart, cb)
+
                 } else {
                     if (cb) cb(err)
                 }
-            })
-                //.pipe(fs.createWriteStream(`R:\\Temp\\${text}.wav`));
-                .pipe(fs.createWriteStream(outputTempFile));
+            });
+        }, !configOption.convertToKana)
+        
+    } else {
+        request_audio_query(postStrUrl, speakerId, text, function (err, httpResponse, query) {
+            if (!err) {
+                //console.log(query);
+                let queryObj = JSON.parse(query)
 
-        } else {
-            if (cb) cb(err)
-        }
-    });
+                checkKana(text, queryObj.kana, function (result) {
+                    if (result) {
+                        request_audio_query(postStrUrl, speakerId, result, function (err, httpResponse, query) {
+                            if (!err) {
+                                let queryObj = JSON.parse(query)
+                                startSynthesis(postStrUrl, queryObj, text, timeStart, cb)
+                            } else {
+                                if (cb) cb(err)
+                            }
+                        });
+                    } else {
+                        startSynthesis(postStrUrl, queryObj, text, timeStart, cb)
+                    }
+                })
+
+
+            } else {
+                if (cb) cb(err)
+            }
+
+        });
+    }
+
 }

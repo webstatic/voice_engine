@@ -1,0 +1,84 @@
+stage ２，６。
+/// Complex Adjectives
+/// Stem with やすい -> express that the speaker can easily perform the act named by the verb
+
+この漢字は書きやすいですが、その漢字はあまり書きやすくありません。//This kanji is easy to write, but that one is not so easy to write.
+この人の書いた手紙は読みやすかったです。//This person’s letters were easy to read.
+この新しい外国のペンは書きやすくありませんでした。//The new, foreign pen wasn’t easy to write with.
+
+この書きやすいペンはだれのですか。//Who owns this pen that’s so easy to write with?
+ーーーーーーーーーーーーーーーーーーーー
+/// Stem with にくい -> indicates that the topic poses some kind of difficulty for the speaker.
+
+この本は分かりにくいです。//This book is hard to understand.
+あの先生には本当に話しにくかったです。//That teacher was very difficult to talk to.
+
+この分かりにくい本は父が書いた物です。//This hard-to-understand book was written by my father.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// Complex Verbs
+/// Stem with 過（す）ぎる -> the action denoted by the first element is performed in excess
+
+昨日、食べ過ぎました。//I ate too much yesterday.
+パーティーで飲みすぎないでください。//Please don’t drink too much at the party.
+
+/// The stems of adjectives are formed by dropping the final い
+
+今日は、私には、寒過ぎます。//It’s too cold for me today.
+あの人は頭がよすぎると皆に言われています。//Everyone says that he’s too smart.
+
+この部屋は静か過ぎます。//This room is too quiet.
+
+あの学生は子供過ぎます。//That student is too childish.
+あの学生は金持ち過ぎて、貧乏な人の気持ちは分からないでしょうね。//That student has too much money, so he probably doesn’t understand how poor people feel.
+
+///negative predicates ない with 過（す）ぎる produces なさ過（す）ぎる
+
+うちの子は元気がなさ過ぎます。//Our child is too unwell these days.
+ここには頭のいい人がいなさ過ぎます。//There are too few smart people here.
+ーーーーーーーーーーーーーーーーーーーー
+/// Stem with 始（はじ）める ->“to begin something.” indicates the beginning of an event
+
+晩ご飯を作り始めましょうか。//Shall we begin making supper?
+宿題をし始めました。//I have begun doing my homework.
+
+/// Stem with 出（だ）す -> “to take something out”
+
+ああ、あの人の名前を思い出しました。//Oh, now I remember that person’s name.
+
+雨が降り出しました。//It started to rain.
+
+/// When the speaker anticipates the beginning of an event, 始（はじ）める may be used; while an unanticipated event may be expressed with 出（だ）す
+
+あの人はゆっくり話し出しました。//The person slowly began speaking.
+あの人はゆっくり話し始めました。//The person slowly began speaking.
+
+あの子供は泣き出しました。//The child began to cry.
+あの子供は泣き始めました。//The child began to cry.
+
+/// Stem with 直（なお）す -> “to correct” or “to repair.” implies that an action is repeated
+
+コンピュータを直しました。//I fixed the computer.
+この本を読み直しました。//I re-read this book.
+手紙を書き直しました。//I re-wrote the letter.
+
+/// Stem with 忘（わす）れる -> “to forget.”
+
+かさを学校に忘れました。//I forgot my umbrella at school.
+
+母に電話し忘れました。//I forgot to call my mother.
+母に電話するのを忘れました。//I forgot to call my mother.
+
+/// When the action indicated is from one point to a goal, use the nominalized verb with の
+
+図書館に行くのを忘れました。//I forgot to go to the library.
+今日、歩くのを忘れた。//I forgot to go for a walk today.
+
+ーーーーーーーーーーーーーーーーーーーー
+/// Complex Nouns with 方（かた）
+
+
+ーーーーーーーーーーーーーーーーーーーー
+ーーーーーーーーーーーーーーーーーーーー
+カンバセーション。
+

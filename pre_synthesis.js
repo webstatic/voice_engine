@@ -7,6 +7,30 @@ let postStrUrl = "127.0.0.1"
 //let postStrUrl = "192.168.1.34"
 let inputPath = "./stage/state 2/"
 
+// prepare_synthesis({
+//     useSlow: false,
+//     speakerId: 48,
+//     fileStoragePath: './stream_楽々',
+//     convertToKana: false
+// })
+
+
+// prepare_synthesis({
+//     useSlow: false,
+//     speakerId: 47,
+//     fileStoragePath: './stream',
+//     convertToKana: false
+// })
+
+prepare_synthesis({
+    useSlow: true,
+    speakerId: 47,
+    fileStoragePath: './stream_slow_conv',
+    convertToKana: true
+})
+
+
+
 readAndSynthesisRecursive = function (filePath, finishCallBack) {
 
     let textList = fs.readFileSync(filePath).toString().split('\r\n')
@@ -26,7 +50,7 @@ readAndSynthesisRecursive = function (filePath, finishCallBack) {
                     synthesis(postStrUrl, text, function (err) {
                         callback()
                     })
-                }else{
+                } else {
                     callback()
                 }
 
