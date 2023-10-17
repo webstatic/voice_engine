@@ -1,6 +1,7 @@
 stage ２，７。
 /// Stage 2-7 Complex Predicates
 /// 1: Complex Predicates with つもりだ and はずだ
+/// (1) Complex Predicates -> is a predicate consisting of two or more elements
 /// (2) つもりだ
 
 私は来年、日本で勉強するつもりです。//I plan to study in Japan next year.
