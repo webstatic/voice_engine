@@ -2,17 +2,22 @@ stage ２，７。
 /// Stage 2-7 Complex Predicates
 /// 1: Complex Predicates with つもりだ and はずだ
 /// (1) Complex Predicates -> is a predicate consisting of two or more elements
-/// (2) つもりだ
+
+/// (2) つもりだ-> to a predicate to indicate the speaker’s plan
 
 私は来年、日本で勉強するつもりです。//I plan to study in Japan next year.
 来年、日本で勉強しないつもりです。//My plan is not to study in Japan next year.
 
+/// By negating the copula, the speaker corrects the other person’s positive assumption.
+
 来年、日本で勉強するつもりじゃありません。//Actually, I don’t plan to go to Japan to study next year.
 
-/// Restriction on the use of the construction
+/// Restriction on the use of the construction - This construction therefore is not used to discuss a third person’s plan or intention.
 
 カーターさんは、来年、どこで勉強するつもりですか。//Where do you plan to study next year, Carter-san?
 私はイギリスで勉強するつもりです。//I plan to study in England.
+
+/// A third person’s intent may be expressed by reporting what he or she has said, by expressing the speaker’s belief with the verb 思（おも）う, or by using other complex predicates.
 
 リンさんは来年、日本で勉強するつもりだと言っていました。//Lin-san said that he plans to study in Japan next year.
 ウィリアムズさんは来年、日本で勉強するつもりだと思います。//I believe Williams-san is planning to study in Japan next year.
