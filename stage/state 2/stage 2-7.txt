@@ -18,25 +18,31 @@ stage ２，７。
 私はイギリスで勉強するつもりです。//I plan to study in England.
 
 /// A third person’s intent may be expressed by reporting what he or she has said, by expressing the speaker’s belief with the verb 思（おも）う, or by using other complex predicates.
+/// This construction indicates that the speaker is expressing his or her understanding of the third person’s intent.
 
 リンさんは来年、日本で勉強するつもりだと言っていました。//Lin-san said that he plans to study in Japan next year.
 ウィリアムズさんは来年、日本で勉強するつもりだと思います。//I believe Williams-san is planning to study in Japan next year.
 
-/// (3) はずだ
+/// (3) はずだ -> expresses the speaker’s expectation of a certain event; the event need not relate directly to the speaker.
 
 カーターさんは来年、日本で勉強するはずです。//It is my understanding that Carter-san will study in Japan next year.
 私は来年、日本に行けるはずです。//I believe that I’ll be able to go to Japan next year.
 
 /// The difference between はず and 思（おも）う
+/// they each convey a different nuance. 思う expresses the speaker’s personal opinion, but はずだ an objective expectation the speaker infers from some source.
 
 もうすぐ、先生はいらっしゃるはずです。//I expect the teacher to be here very soon.
 もうすぐ、先生はいらっしゃると思います。//I think the teacher will be here soon.
+
+/// はずだ expresses the speaker’s belief regarding a certain fact or event, but it may not be used to express a specific personal opinion arising from direct experience. In the latter case, 思（おも）う would be used.
 
 日本語を勉強しているんですか。//Is it true that you’re studying Japanese?
 ええ、日本語は難しいですが、本当におもしろい言葉だと思います。//Yes. Japanese is difficult, but I think it’s a very interesting language.
 
 ーーーーーーーーーーーーーーーーーーーー
 /// 2: Complex Predicates with のだ
+/// The underlying notion of the use of の (or ん in more casual conversation) and the copula だ in complex predicates gives the sense that the statement or question includes the speaker’s personal interpretation.
+
 /// (1) In questions
 /// Situation 1
 
