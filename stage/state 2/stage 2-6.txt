@@ -1,6 +1,6 @@
 stage ２，６。
 /// 1: Complex Adjectives
-/// (2) [Stem + やすい] -> express that the speaker can easily perform the act named by the verb
+/// (2) [Stem + やすい(易い)] -> express that the speaker can easily perform the act named by the verb
 
 この漢字は書きやすいですが、その漢字はあまり書きやすくありません。//This kanji is easy to write, but that one is not so easy to write.
 この人の書いた手紙は読みやすかったです。//This person’s letters were easy to read.
@@ -8,7 +8,7 @@ stage ２，６。
 
 この書きやすいペンはだれのですか。//Who owns this pen that’s so easy to write with?
 ーーーーーーーーーーーーーーーーーーーー
-/// (3) [Stem + にくい] -> indicates that the topic poses some kind of difficulty for the speaker.
+/// (3) [Stem + にくい(難い)] -> indicates that the topic poses some kind of difficulty for the speaker.
 
 この本は分かりにくいです。//This book is hard to understand.
 あの先生には本当に話しにくかったです。//That teacher was very difficult to talk to.
