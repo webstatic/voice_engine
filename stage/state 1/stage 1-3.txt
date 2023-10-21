@@ -1,4 +1,9 @@
 stage １，３。
+/// Stage 1-3 Aspects of Predicates
+/// 1: Four Aspects
+/// In Japanese, the forms of the predicate indicate aspect rather than tense.
+/// Rather than referring to the time of an action or event, aspect refers to such things as whether an action or event is completed, continuous, etc.
+
 /// positive and negative imperfectives
 
 私は明日、本を読みます。//I will read a book tomorrow.

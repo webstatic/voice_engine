@@ -194,6 +194,16 @@ stage ２，６。
 はあい。ああ、林さん、いらっしゃい（ませ）。どうぞ、お上がりください。//Yes? Oh, Hayashi-san, welcome. Please do come in.
 お邪魔します。//Thank you.
 
+/// ごめんください can be used to announce one’s arrival when visiting people at their home.
+/// It is used at the entrance, when the speaker is afraid the host has not noticed that he or she is there.
+/// can also be used as a closing phrase when talking on the phone.
+
+/// いらっしゃい（ませ）The host normally welcomes the guest with this greeting. 
+/// ませ makes this expression more polite.
+
+/// お邪魔（じゃま）します is used often when going into someone else’s house, room, or office.
+/// 邪魔（じゃま） is an adjectival noun that means “interference.”
+
 /// (2) I wonder…
 
 あの人、だれ？//Who’s that?
@@ -210,3 +220,6 @@ stage ２，６。
 
 あなたが嫌いな人って、どんな人？//What kind of people get on your nerves?
 そうねえ。例えば、話しすぎる人とか、いつも文句を言う人・・・。//Um, let’s see. For example, people who talk too much, or people who complain all the time.
+
+/// 文句を言う（もんくをいう）means “to complain.”
+/// The noun 文句（もんく）means “complaint.” The associated verb is 言（い）う, “to say.”

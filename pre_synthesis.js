@@ -25,9 +25,17 @@ let inputPath = "./stage/state 2/"
 prepare_synthesis({
     useSlow: true,
     speakerId: 47,
-    fileStoragePath: './stream_slow_conv',
-    convertToKana: true
+    fileStoragePath: './stream_slow',
+    convertToKana: false
 })
+
+// prepare_synthesis({
+//     useSlow: true,
+//     speakerId: 47,
+//     fileStoragePath: './stream_slow_conv',
+//     convertToKana: true
+// })
+
 
 
 
