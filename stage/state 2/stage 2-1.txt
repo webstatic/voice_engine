@@ -1,72 +1,185 @@
 stage ２，１。
+/// Stage 2-1 Conjunctive Forms and Their Uses
+/// 1: The Continuous Aspect
+/// (1) Conjunctive forms
+/// the rules for the conjunctive forms are exactly the same as those for the plain positive perfective forms except for the final syllable.
+/// Instead of ending the form with た or だ, as in the plain positive perfectives, the conjunctive forms end in て or で.
 
-/// the continuous aspect
+/// (2) The continuous aspect of repeatable (punctual) verbs
+/// The て-form and the verb いる together express the continuous aspect of an action, event, or state.
+/// whether the continuous meaning is one of action or state depends on the type of verb.
+
+/// Verbs such as “to eat” and “to study” denote actions that one can repeat or do continuously.
+/// For these verbs, the construction with ~て and いる indicates repeated actions.
+/// This construction therefore has two different meanings, as indicated below:
 
 日本語を勉強しています。//I am currently studying Japanese.
+/// or “I have been studying Japanese for some time.”
+
+/// - The continuous aspect of non-action verbs
+/// Some stative verbs, such as some semi-transitive verbs, do not use the ~ている construction.
+/// These verbs are stative in meaning, and thus are already continuous in nature.
 
 私はいい辞書がいります。//I need a good dictionary.
 私は日本語が話せます。//I am able to speak Japanese.
 
+/// ~ている may not be used to express ideas above, as shown in the following incorrect sentences:
+
+/// - When a verb has more than one meaning
+/// A single word often has multiple meanings. One such example is the verb 分（わ）かる.
+/// The following sentence indicates that the topic has a specific ability; the verb therefore has a stative meaning.
+
 私は日本語が分かります。//I understand Japanese.
+//// [ = I have the ability to understand Japanese.]
+
+/// The idea in the sentence above cannot be expressed with ~ている, because having the ability to do something refers to a state or condition, rather than an action or an event.
+
+/// The verb 分（わ）かる has a second meaning, however: “to figure something out.”
+/// This verb may also be used to talk about having obtained knowledge about a specific thing or person.
+/// This meaning indicates a process, rather than a state. When the verb carries this meaning, the ~ている construction can be used.
 
 あの人のことはよく分かっています。//I have heard a lot about that person, and I now have a good understanding of him.
 ーーーーーーーーーーーーーーーーーーーー
-/// the continuous aspect of non-repeatable verbs
+/// (3) The continuous aspect of non-repeatable (punctual) verbs
+/// Verbs such as the second meaning of 分（わ）かる “to figure something out” and 起（お）きる “to get up” denote a one-time, non-repeatable action.
+/// This type of verb is sometimes termed a “punctual verb.”
+/// The て-form of these verbs, when used with いる, indicates that the action has been completed, and the topic is currently in the state of maintaining the completed action.
 
 起きています。//I am up.
 
+// /The sentence above does not refer to the process of getting up, but rather the state of being awake after the action of getting up has been completed.
+/// With a punctual verb such as 起（お）きる, Japanese speakers normally use either the positive imperfective to say “I will get up soon,” or use ~ている to say “I am up already.”
+/// They will seldom utter a sentence that is equivalent to “I am in the process of getting up.”
+
+/// - The verb 知（し）る
+/// The verb 知（し）る, often translated as “to know,” and the verb 分（わ）かる, translated as “to understand,” are similar in meaning.
+/// 知（し）る implies obtaining information, while 分（わ）かる implies having an ability to figure things out, and also refers to the process of figuring things out.
+
+/// The ~ている construction with the verb 知（し）る is used to talk about the possession of knowledge.
+
 私はあの人の名前を知っています。//I know that person’s name.
+
+/// the ~ている construction cannot be used as the negative of 知（し）っている
+/// To say that a person does not possess knowledge of something, the imperfective negative is used, rather than the negative of the ~ている construction:
+
 私はあの人の名前を知りません。//I don’t know that person’s name.
+
+/// When asking whether a person possesses a certain piece of information, the negative 知（し）りませ んか is used as often as the positive 知（し）っていますか.
 
 あの人の電話番号を知りませんか。//Do you know that person’s phone number?
 あの人の電話番号を知っていますか。//Do you know that person’s phone number?
 
+/// - 持（も）つ vs. ある
+/// Both 持（も）つ and ある are normally translated into English as the verb “to have.”
+/// One significant difference between the two is that 持（も）つ implies that the topic is physically holding something; ある does not include this implication.
+/// For instance, if someone is carrying a bag, the verb 持（も）つ must be used, rather than ある:
+
 あの人は何を持っていますか。//What does that person have?
 鞄を持っています。//He has a bag.
 
+/// To talk about possession of an abstract item at a specific time, ある is normally used.
+
 今日、僕は時間がたくさんあります。//I have a lot of time today.
 
+/// When talking about possessing abstract things such as 考（かんが）え “thoughts” or “ideas” at a non-specific time, 持（も）つ may also be used:
+
 あの人はいい考えをたくさん持っています。//He has a lot of good ideas.
+
+/// Both ある and 持（も）つ may be used to talk about possession of things, concepts, or ideas rather than physically carrying something:
 
 時雨さんはお金をたくさん持っています。//Shigure-san has possesses a lot of money.
 時雨さんはお金がたくさんあります。//Shigure-san has a lot of money.
 時雨さんの家はお金がたくさんあります。//The Shigure estate has a lot of money.
 ーーーーーーーーーーーーーーーーーーーー
-/// the continuous aspect of directional verbs
+/// (4) The continuous aspect of directional verbs
+/// The following sentence contains a directional verb in the ~ている aspect.
 
 パクさんは日本に行っています。//Park-san has gone to Japan.
+
+/// It means that the act of going to Japan has been completed
+
 加藤さんはここに来ています。//Kato-san has arrived.
 父は家に帰っています。//My father has come home.
 
 ーーーーーーーーーーーーーーーーーーーー
-/// joining two predicates
+/// 2: Joining Predicates
+/// (1) Joining two predicates
+/// the conjunctive form is used to join clauses.
+
+/// - Non-action (stative) predicates
 
 私はクリスで、日本語の学生です。//I’m Kurisu, a student of Japanese.
 中国は大きくて、遠いです。//China is both large and far away.
 あの人は英語も話せて、漢字も読めます。//That person can speak English, and can read kanji too.
 
+/// - Action verbs
+/// the order of actions is implied.
+/// the first action mentioned is understood as being completed before the action mentioned next begins.
+/// the aspect of the final verb determines the aspect of all the actions in the sentence.
+/// This is because the conjunctive form lacks aspectual forms.
+
 私は勉強して、運動します。//I will study and then exercise.
 私は勉強して、運動しました。//I studied and then exercised.
 
+/// When two clauses have different topics, however, the order of actions is not implicit, as it would be with a single topic:
+
 昨日、僕は勉強して、時雨さんは運動しました。//I studied, but Shigure-san exercised yesterday.
+
+/// - Color terms and how to join them
+/// most primary colors have both adjectival and nominal forms.
+/// For example, 赤（あか）, a noun, and 赤（あか）い, an adjective, are both words for “red.” Similarly, the adjectives 黒（くろ）い “black,” 青（あお）い “blue,” and 白（しろ）い “white” have the nominal forms 黒（くろ）, 青（あお）, and 白（しろ） respectively.
+
+/// When a nominal color term modifies a noun, the particle の must be used between the two nouns, with the color term being the first element.
+/// の is required because the color terms are nouns rather than adjectives.
+/// 赤のかばん  黒のペン
+
+/// Some color terms, such as 緑（みどり） and 緑色（みどりいろ）, which both mean “green,” do not have the adjectival options. These words are nouns.
+
+/// Japanese color terms sometimes differ from those in English regarding the range of color that each term refers to on the color spectrum.
+/// For instance, the green of a traffic light in Japan is referred to as 青（あお） “blue,” even though it is a greenish color. This is because the term 青（あお） covers a wider range of colors than the English term “blue.”
+
+/// When two descriptive predicates are applied to a single topic, it is understood that each of the predicates describes the topic completely.
 
 この本は小さくて、高いです。//This is a small, expensive book.
 
+/// When using more than one color term to describe an item, the nominal forms of the color terms with the conjunction と must be used.
+
 私の鞄は赤と黒です。//My bag is black and red.
+
+/// When two different color terms are used to describe two different topics in a single sentence, however, the conjunctive construction may be used.
+/// Each color describes only one topic.
+
 あの鞄は赤くて、この鞄は黒いです。//That bag is red, and this bag is black.
 ーーーーーーーーーーーーーーーーーーーー
-/// when the first nominal or adjectival predicate is negative
+/// (2) When the first nominal or adjectival predicate is negative
+/// Since all negative plain forms end with ~い (from ~ない), all negatives are conjugated according to the rules for adjectives.
+/// The following examples use the conjunctive forms of negative nominal and adjectival predicates to join other predicates:
 
 私は日本人じゃなくて、中国人です。//I’m not Japanese, I’m Chinese.
 この寿司は美味しくなくて、高いです。//This sushi doesn’t taste good, but it’s expensive.
 ーーーーーーーーーーーーーーーーーーーー
-/// when the first verbal predicate is negative
+/// (3) When the first verbal predicate is negative -> ["~ないで, ..."]
+/// When the initial predicate is a negative verbal predicate, it is joined differently to the predicate that follows.
+/// The meaning of the sentence is also different.
+/// In this case, the combination of the plain negative imperfective of a verb and the conjunctive of the copula で is used to join the negative verbal predicate to a second predicate.
+
+/// The meaning of the sentence is that the action described in the second predicate is, or will be, begun without completing the action described in the first predicate.
 
 朝ご飯を食べないで、学校に行きました。//I went to school without eating breakfast first.
 勉強しないで、試験を受けました。//I took an exam without studying first.
 
+/// When the conjunctive form of a negative imperfective verb is used, the clause takes on a causal meaning.
+/// The independent clause indicates naturally occurring consequences such as 困（こま）る “feel troubled; feel worried,” as seen below:
+
 この宿題が分からないて、困っています。//I’m worried because I don’t understand this assignment.
+
+/// two or more different types of predicates (e.g. nominal and adjectival predicates) may be joined by the conjunctive form to make a single sentence.
+/// However, in this case, action and non-action predicates may not be joined by the conjunctive form to make a single sentence, unless the sentence expresses a cause-consequence relation.
 ーーーーーーーーーーーーーーーーーーーー
+/// (4) Joining predicates with ~てから
+/// - The sentential conjunction それから
+/// adds the meaning of “from that point on,” or “after completing that action.”
+
 私は朝ご飯を食べました。それから、走りました。//I ate breakfast. After that, I went running.
 私は朝ご飯を食べてから、走りました。//After eating breakfast, I went running.
 
