@@ -6,27 +6,27 @@ stage １，８。
 /// Everything that can be expressed in the polite form can be expressed in the plain form and vice versa.
 
 /// (2) Polite forms
-/// - In speaking
+/// # In speaking
 /// Polite forms are used in formal situations such as classrooms, conferences, speeches, etc., in which the speaker judges it appropriate to maintain some kind of social or psychological distance between him/herself and the addressee(s).
 /// These forms are also used to address people whom the speaker does not know well, even when the situation is not that formal.
 
-/// - In writing
+/// # In writing
 /// The polite form is used in personal writing such as letters, postcards, or e-mail messages, although the plain form may also be used in these cases (see below). The polite form may be used in letters, etc. even when the writer knows the receiver of the mail quite well.
 /// This may be because things such as letters and postcards put some distance between the two parties involved.
 /// Novels or essays, which are normally written in an impersonal style by employing the plain form, may use the polite form in some cases.
 /// The use of the polite form in such works conveys the sense that the author is talking directly to the readers (i.e., narratives).
 
 /// (3) Plain forms
-/// - In speaking
+/// # In speaking
 /// Plain forms are used in casual conversations: when speaking to one’s family members and close friends, for instance.
 /// The use of the plain form indicates that there is little to no personal distance between the two parties involved.
 /// In some cases, an individual who is in an authoritative position may use the plain forms to her or his subordinates. This is particularly true of male speakers.
 
-/// - In writing
+/// # In writing
 /// The plain form is used in places where little to no personal relation is considered.
 /// It can be used in impersonal writing such as newspapers, essays, journals, etc. E-mail messages, or at times letters and postcards, to close friends and family members are like talking, so the plain form may be used.
 
-/// - Structural requirement
+/// # Structural requirement
 /// Using the plain form in some structures may be grammatically required regardless of the speech style.
 /// For instance, predicates used in the non-final position are normally in the plain form even when the speech is in the polite style.
 
@@ -47,13 +47,13 @@ stage １，８。
 /// Like dictionary forms, base forms do not have aspectual forms.
 /// But unlike dictionary forms, derived forms (potential, passive, causative, たい-forms, etc.) are the base form for further conjugations.
 
-/// - The copula
+/// # The copula
 /// The base form of the copula is だ. The copula is needed for conjugations of all nominal predicates.
 
 僕は一年生だ。//I am a freshman.
 この部屋はきれいだ。//This room is clean.
 
-/// - Adjectives
+/// # Adjectives
 /// Since adjectives conjugate (the last ~い being the element that goes through the changes), the copula is not needed for conjugation in the plain form.
 /// The base form of an adjective is that adjective without the copula.
 
@@ -63,7 +63,7 @@ stage １，８。
 
 日本に行きたい。//I want to go to Japan.
 
-/// - Verbs
+/// # Verbs
 /// Some base forms are the same as the dictionary forms, but not all base forms are dictionary forms.
 /// For instance, some base forms are derived by adding or inserting suffixes;
 /// these derived forms are the base forms for conjugations, but they are not dictionary forms.
@@ -83,7 +83,7 @@ stage １，８。
 ///          There are a small number of verbs that end with る and contain the vowels i or e in the syllable before る (same as Group 1), but nevertheless are Group 2 verbs
 /// Group 3: The two verbs する and くる and compound verbs with する and くる all belong to this group
 
-/// - Points to remember about verb grouping
+/// # Points to remember about verb grouping
 /// There are no exceptions to Group 3. The verbs that contain する and くる are always in Group 3.
 /// There are also no exceptions for verbs ending with a syllable other than る. These verbs are always in Group 2.
 /// When verbs end with る and the syllable immediately before る contains the vowels u, o, or a, they are always in Group 2. There are no exceptions to this rule. For instance, the following verbs are in Group 2: わかる, おこる, うる
@@ -97,7 +97,7 @@ stage １，８。
 /// The plain positive imperfective forms have the same form as the base forms.
 /// This particular aspect of these forms is called the “positive imperfective form.”
 
-/// - Nominal predicates
+/// # Nominal predicates
 /// Since nouns cannot change forms, the aspectual differentiation of the nominal predicate must rely on the conjugation of the copula.
 /// For the nominal predicate, therefore, use the base form of the copula, which is だ, to indicate the positive imperfective aspect.
 
@@ -107,7 +107,7 @@ stage １，８。
 
 この部屋は静かだ。//This room is quiet.
 
-/// - Adjectival predicates
+/// # Adjectival predicates
 /// While the copula だ in the nominal predicate is required for the plain positive imperfective aspect, it is not a necessary element in the adjectival predicate for this aspect.
 /// Since adjectives do conjugate for aspects, adjectival predicates do not need to rely on the conjugation of the copula.
 /// The copula in the adjectival predicate is necessary only for the polite form.
@@ -122,7 +122,7 @@ stage １，８。
 
 これは大きい本だ。//This is a big book.
 
-/// - Verbal predicates
+/// # Verbal predicates
 /// As mentioned above, the plain positive imperfective aspect of a verb in the predicate appears to be the same as the base form.
 
 私は毎日テレビを見る。//I watch TV every day.
@@ -130,7 +130,7 @@ stage １，８。
 
 ーーーーーーーーーーーーーーーーーーーー
 /// 4: Plain Negative Imperfectives
-/// - Nominal predicates -> [だ → ではない or じゃない]
+/// # Nominal predicates -> [だ → ではない or じゃない]
 /// The rule for changing the base form of the copula to the plain negative imperfective aspectual form is as follows. 
 /// As in the polite form, the use of じゃ here is a little more colloquial than では.
 
@@ -141,7 +141,7 @@ stage １，８。
 
 これは大切じゃない。//This is not important.
 
-/// - Adjectival predicates -> [~い → ~く ない]
+/// # Adjectival predicates -> [~い → ~く ない]
 /// To change the base form of an adjective to the plain negative imperfective aspectual form, use the following rule:
 
 この本は高くない。//This book is not expensive.
@@ -151,7 +151,7 @@ stage １，８。
 
 日本に行きたくない。//I don’t want to go to Japan.
 
-/// - Verbal predicates
+/// # Verbal predicates
 /// The following are the rules for changing the base form of a verb to its plain negative imperfective aspectual form.
 /// The verb group must first be identified before applying these rules.
 
@@ -163,7 +163,7 @@ stage １，８。
 テレビは見ない。//I won’t watch TV.
 お金を使わない。//I won’t use any money.
 
-/// - The verb ある
+/// # The verb ある
 /// The verb ある has a somewhat modified conjugation.
 /// Although ある is a Group 2 verb, its plain negative imperfective form is ない rather than あらない (the form that would result if ある followed the rule).
 
@@ -171,20 +171,20 @@ stage １，８。
 
 ーーーーーーーーーーーーーーーーーーーー
 /// 5: Plain Positive Perfectives
-/// - Nominal predicates - > [だ → だった]
+/// # Nominal predicates - > [だ → だった]
 /// The following rule changes the base form of the copula into the plain positive perfective form:
 
 私は学生だった。//I was a student.
 あの車はきれいだった。//The car was clean.
 
-/// - Adjectival predicates -> [~い → ~かった]
+/// # Adjectival predicates -> [~い → ~かった]
 /// The following rule changes the base form of an adjective into the plain positive perfective form:
 
 あの本は高かった。//That book was expensive.
 あの映画はよかった。//That movie was good.
 日本に行きたかった。//I wanted to go to Japan.
 
-/// - Verbal predicates
+/// # Verbal predicates
 /// The plain positive perfective forms of verbs have more rules than most other forms.
 /// However, since these same rules can be applied to other forms, it is very useful to learn them.
 
@@ -205,18 +205,18 @@ stage １，８。
 /// First change the base form of the predicate to the plain negative imperfective form, which always ends in ない. 
 /// Then change the final ~い to ~かった.
 
-/// - Nominal predicates
+/// # Nominal predicates
 
 私は学生じゃなかった。//I wasn’t a student.
 部屋はきれいじゃなかった。//The room was not clean.
 
-/// - Adjectival predicates
+/// # Adjectival predicates
 
 あの本は高くなかった。//That book wasn’t expensive.
 あの本はよくなかった。//That book wasn’t good.
 日本に行きたくなかった。//I didn’t want to go to Japan.
 
-/// - Verbal predicates
+/// # Verbal predicates
 
 昨日はテレビを見なかった。//I didn’t watch TV yesterday.
 去年、日本に行かなかった。//I didn’t go to Japan last year.
@@ -225,25 +225,25 @@ stage １，８。
 /// 7: Plain Volitional Forms
 /// sentences with the volitional copula express that something is highly probable.
 
-/// - Nominal predicates -> [だ → だろう]
+/// # Nominal predicates -> [だ → だろう]
 
 あの人は日本人だろう。//That person is probably Japanese.
 あの人は親切だろう。//That person is probably kind.
 
-/// - Adjectival predicates (reference only) -> [い → かろう]
+/// # Adjectival predicates (reference only) -> [い → かろう]
 /// The plain volitional forms of adjectives derived from base forms are not commonly used except for in some fixed expressions.
 /// The plain volitional form of adjectives is nevertheless introduced here to make its existence known, but this form need not be practiced, at least for the time being.
 
 /// 大きい 大きかろう, いい よかろう
 
-/// - Sentences with the plain volitional form of the copula
+/// # Sentences with the plain volitional form of the copula
 /// A sentence followed by the plain volitional form of the copula expresses the speaker’s inference of a high possibility:
 
 この本は高いだろう。//This book is probably expensive.
 ナースロボさんはアメリカ人じゃないだろう。//Naasurobo-san is probably not an American.
 ナースロボさんは日本に行かなかっただろう。//Naasurobo-san probably did not go to Japan.
 
-/// - Verbal predicates
+/// # Verbal predicates
 /// The plain volitional verb forms have other uses in addition to the meaning of “Let’s do such-and-such.”
 /// All verbs therefore have the volitional forms, although in some cases the volitional forms may not be used for the meaning of “Let’s do such-and-such.”
 
@@ -281,7 +281,7 @@ stage １，８。
 先生は今日は研究室にいらっしゃる。//The teacher is in her office today.
 先生は今日は研究室にいらっしゃいます。//The teacher is in her office today.
 
-/// - Talking with and about family members
+/// # Talking with and about family members
 /// When a speaker talks to a close friend or a family member, the plain form should be used.
 /// All family members are considered to be うち-group, so neither the polite form nor honorifics are used when talking to them or about them.
 
@@ -309,7 +309,7 @@ stage １，８。
 
 ーーーーーーーーーーーーーーーーーーーー
 /// 9: Overall Review
-/// - Summary of the conjugations of the five aspects (plain forms)
+/// # Summary of the conjugations of the five aspects (plain forms)
 
 /// Positive Imperfective
 /// Nominal: だ 
@@ -338,7 +338,7 @@ stage １，８。
 
 /// * Exception: positive perfective （いく→いった）
 
-/// - Summary of a nominal predicate (polite and plain forms)
+/// # Summary of a nominal predicate (polite and plain forms)
 
 一年生です。一年生だ。//I’m a freshman.
 一年生ではありません。一年生じゃない。//I’m not a freshman.
@@ -346,7 +346,7 @@ stage １，８。
 一年生ではありませんでした。一年生じゃなかった。//I wasn’t a freshman.
 一年生でしょう。一年生だろう。//(Someone) is probably a freshman.
 
-/// - Summary of a verbal predicate (polite and plain forms)
+/// # Summary of a verbal predicate (polite and plain forms)
 
 今日は寒いです。　今日はさむい。//It’s cold today.
 今日は寒くありません。今日は寒くない。//It’s not cold today.
@@ -354,7 +354,7 @@ stage １，８。
 今日は寒くありませんでした。今日は寒くなかった。//It wasn’t cold today.
 今日は寒いでしょう。今日は寒いだろう。//It will probably be cold today.
 
-/// - The verb ある
+/// # The verb ある
 
 日本語を勉強します。日本語を勉強する。//I will study Japanese.
 日本語を勉強しません。日本語を勉強しない。//I don’t study Japanese.
@@ -371,11 +371,11 @@ stage １，８。
 寿司、好き？//You like sushi?
 うん、もちろん、大好き。//Yeah, of course, I love it.
 
-/// - Particle deletion in casual speech
+/// # Particle deletion in casual speech
 /// Particles are often deleted in conversation, but they are deleted even more frequently in casual speech.
 /// Particles such as the topic は, the subject が, the object が, and the object を are deleted much more often than others such as に, で, and から.
 
-/// - Question sentences: absence of the copula and the question particle
+/// # Question sentences: absence of the copula and the question particle
 /// For both female and male speakers, the use of the copula or the question particle か is not necessary in question sentences.
 
 /// うん or ん is a very casual way to indicate agreement.
@@ -392,7 +392,7 @@ stage １，８。
 アメリカのじゃない？//Isn’t it American?
 うん、そうだよ。アメリカのだよ。//Yeah, you’re right. It’s American.
 
-/// - The sentence-final particle わ
+/// # The sentence-final particle わ
 /// The sentence-final particle わ is used only in conversation by female speakers.
 /// This particle conveys that the assertion of the speaker is a new discovery.
 /// In the case of a nominal predicate, だ must be used with わ.
@@ -404,7 +404,7 @@ stage １，８。
 /// じゃない？ at the end of a sentence indicates that the speaker is fairly sure, but not 100% certain, that the information is correct.
 /// Therefore, じゃない is used to obtain a confirmation from the listener. A rising intonation should be used.
 
-/// - Presence of だ
+/// # Presence of だ
 /// だ is used after a nominal predicate when another particle is present (よ in this case).
 /// The use of だ in the last line indicates that the speaker is a male.
 /// A female speaker would normally not use だ if it is the last element of a sentence (e.g. そうだ).

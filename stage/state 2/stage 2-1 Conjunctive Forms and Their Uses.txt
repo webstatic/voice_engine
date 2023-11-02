@@ -16,7 +16,7 @@ stage ２，１。
 日本語を勉強しています。//I am currently studying Japanese.
 /// or “I have been studying Japanese for some time.”
 
-/// - The continuous aspect of non-action verbs
+/// # The continuous aspect of non-action verbs
 /// Some stative verbs, such as some semi-transitive verbs, do not use the ~ている construction.
 /// These verbs are stative in meaning, and thus are already continuous in nature.
 
@@ -25,7 +25,7 @@ stage ２，１。
 
 /// ~ている may not be used to express ideas above, as shown in the following incorrect sentences:
 
-/// - When a verb has more than one meaning
+/// # When a verb has more than one meaning
 /// A single word often has multiple meanings. One such example is the verb 分（わ）かる.
 /// The following sentence indicates that the topic has a specific ability; the verb therefore has a stative meaning.
 
@@ -51,7 +51,7 @@ stage ２，１。
 /// With a punctual verb such as 起（お）きる, Japanese speakers normally use either the positive imperfective to say “I will get up soon,” or use ~ている to say “I am up already.”
 /// They will seldom utter a sentence that is equivalent to “I am in the process of getting up.”
 
-/// - The verb 知（し）る
+/// # The verb 知（し）る
 /// The verb 知（し）る, often translated as “to know,” and the verb 分（わ）かる, translated as “to understand,” are similar in meaning.
 /// 知（し）る implies obtaining information, while 分（わ）かる implies having an ability to figure things out, and also refers to the process of figuring things out.
 
@@ -69,7 +69,7 @@ stage ２，１。
 あの人の電話番号を知りませんか。//Do you know that person’s phone number?
 あの人の電話番号を知っていますか。//Do you know that person’s phone number?
 
-/// - 持（も）つ vs. ある
+/// # 持（も）つ vs. ある
 /// Both 持（も）つ and ある are normally translated into English as the verb “to have.”
 /// One significant difference between the two is that 持（も）つ implies that the topic is physically holding something; ある does not include this implication.
 /// For instance, if someone is carrying a bag, the verb 持（も）つ must be used, rather than ある:
@@ -106,13 +106,13 @@ stage ２，１。
 /// (1) Joining two predicates
 /// the conjunctive form is used to join clauses.
 
-/// - Non-action (stative) predicates
+/// # Non-action (stative) predicates
 
 私はクリスで、日本語の学生です。//I’m Kurisu, a student of Japanese.
 中国は大きくて、遠いです。//China is both large and far away.
 あの人は英語も話せて、漢字も読めます。//That person can speak English, and can read kanji too.
 
-/// - Action verbs
+/// # Action verbs
 /// the order of actions is implied.
 /// the first action mentioned is understood as being completed before the action mentioned next begins.
 /// the aspect of the final verb determines the aspect of all the actions in the sentence.
@@ -125,7 +125,7 @@ stage ２，１。
 
 昨日、僕は勉強して、時雨さんは運動しました。//I studied, but Shigure-san exercised yesterday.
 
-/// - Color terms and how to join them
+/// # Color terms and how to join them
 /// most primary colors have both adjectival and nominal forms.
 /// For example, 赤（あか）, a noun, and 赤（あか）い, an adjective, are both words for “red.” Similarly, the adjectives 黒（くろ）い “black,” 青（あお）い “blue,” and 白（しろ）い “white” have the nominal forms 黒（くろ）, 青（あお）, and 白（しろ） respectively.
 
@@ -177,88 +177,221 @@ stage ２，１。
 /// However, in this case, action and non-action predicates may not be joined by the conjunctive form to make a single sentence, unless the sentence expresses a cause-consequence relation.
 ーーーーーーーーーーーーーーーーーーーー
 /// (4) Joining predicates with ~てから
-/// - The sentential conjunction それから
+/// # The sentential conjunction それから
 /// adds the meaning of “from that point on,” or “after completing that action.”
 
 私は朝ご飯を食べました。それから、走りました。//I ate breakfast. After that, I went running.
+
+/// The two separate sentences above can be joined by putting the first predicate into the て-form followed by から (from それから).
+/// This does not change the meaning.
+
 私は朝ご飯を食べてから、走りました。//After eating breakfast, I went running.
+
+/// ~てから may not be used for a non-action predicate, because ~てから expresses the completion of an action.
+/// Non-action predicates have nothing to “complete.” Such an idea is impossible in English as well as in Japanese:
+
+/// # The difference between the use of ~て only and ~てから
 
 私は図書館に行って、本を読みました。//I went to the library, where I read a book.
 私は図書館に行ってから、本を読みました。//After visiting the library, I read a book.
 
+/// The only structural difference between the two sentences above is the use of から after the conjunctive form 行（い）って.
+/// The first sentence means that the topic went to the library; there in the library the next action—reading a book—took place.
+
+/// The second sentence, however, indicates that the visit to the library was completed at the time of speaking.
+/// The next action, reading a book, is expressed as a separate action.
+/// The sentence does not indicate that reading the book took place in the library (it could be either at the library or somewhere else).
+
 加藤さんが勉強してから、私達は映画に行きました。//After Kato-san finished studying, we went to the movie.
+
+/// When the two clauses have different topics, the topic of the clause with ~てから must be marked by が; the topic of the main clause must be marked by は.
+/// If the speaker wants to say that going to the movie took place only after Kato-san had finished studying, this cannot be expressed by simply joining the predicate with the て-form alone.
+/// In this case, から must follow the て-form between the two clauses.
+
+/// Compare also the Japanese sentence above with its English translation, in which the order of the dependent and independent clauses is not fixed.
+/// In Japanese, the dependent clause (which is the adverbial clause in the above case) must be expressed first, followed by the independent (main) clause.
+/// The clauses are never reversed except in casual conversation (with a specific meaning).
+
+/// Learners of Japanese often confuse sentences using the causal conjunction から with those using ~ てから, which indicates the completion of an action.
+/// The two have rather different meanings, however.
 
 コーヒーを飲んだから、家を出ました。//Because I had drunk my coffee, I left the house.
 コーヒーを飲んでから、家を出ました。//After I had drunk my coffee, I left the house.
 
 ーーーーーーーーーーーーーーーーーーーー
-/// Positive commands and requests
+/// 3: Polite Commands and Requests -> ["the conjunctive form of a verb" + 下さい]
+/// (1) Positive commands and requests
+/// Teachers of Japanese often use the conjunctive form of a verb and ください (the kanji 下さい may be used for ください) to instruct their students to do certain activities in class.
+/// This construction is used to indicate a polite command.
+/// The same structure may also be used for a polite request, depending on the situation.
+/// The difference between a command and a request is not cut-and-dried; it is based more on social context rather than any clear linguistic differentiation.
+
+/// The following sentence might be a command if it were used by an instructor; used by a store clerk, it could be a request.
 
 ここに名前を書いて下さい。//Write your name here.
 
+/// Regardless of any ambiguity, when ませんか is added to this construction, the request or command becomes more polite.
+
 日本語を話して下さい。//Please speak Japanese.
 日本語を話して下さいませんか。//May I ask you to speak Japanese?
-ーーーーーーーーーーーーーーーーーーーー
-/// Negative commands and requests
+
+/// The polite command is normally used in a formal setting, as when a teacher is addressing his or her students, or a customer is speaking to a taxi driver.
+/// This construction is too polite to be used by a parent to address his or her children.
+
+/// Polite requests may be used by a student to a teacher, by a store clerk to a customer, or when speaking to a stranger, for example.
+/// There are many levels of politeness in Japanese
+
+/// (2) Negative commands and requests -> ["the plain negative imperfective form" + で + ください  (+ ませんか)]
+/// The structure of the polite negative command or request is constructed with the plain negative imperfective form and the conjunctive form of the copula で, with ください added for a command and a request.
+/// くださいませんか is added for politeness with commands and requests.
+/// The conjunctive form of the negative imperfective form, ~なくて, should not be used to make a negative command or request.
 
 日本語を話さないで下さい。//Please do not speak Japanese.
 日本語を話さないで下さいませんか。//Would you please not speak Japanese?
 
+/// # Deadline particle までに
+/// The particle までに expresses the time required to complete an action.
+/// Do not confuse it with the particle まで, which indicates an ending point.
+
 明日、ここに五時までに来て下さい。//Please come here by 5:00 tomorrow.
 今日、ここに五時までいます。//I will stay here until 5:00 today.
 
+/// (3) ください（ませんか） with no preceding verbs
+/// ください（ませんか） can be used on its own without a verb to request something.
+
 ペンを下さい。//Please give me a pen.
 ペンを下さいませんか。//Would you please give me a pen?
+
 ーーーーーーーーーーーーーーーーーーーー
+/// 4: Other Functions of the て-form
+/// (1) Means
+/// the て-form of the verb in the first predicate can join the verb in the second predicate 
+/// to indicate that the actions in the two clauses take place in the same order as the verbs are mentioned.
 
 朝、起きて、走りました。//In the morning I got up, and then I went running.
+
+/// the conjunctive form of a certain verb may be used to express means
+
 私は歩いて、学校に行きます。//I go to school on foot.
-ーーーーーーーーーーーーーーーーーーーー
+
+/// The above sentence, however, cannot be construed to say “I walked first, and then I went to school.”
+/// Rather, the two actions—walking and going to school—take place simultaneously; the first verb expresses the means of going.
+
+/// (2) Permission ~てもいい
+/// The conjunctive form followed by the particle も and the adjective いい expresses “permission” to do something.
+
 これを食べてもいいですか。//May I eat this?
 ええ、いいですよ。どうぞ、食べてください。//Yes, you may. Please, go ahead and eat it.
 
+/// どうぞ is used to strongly encourage the addressee to do something.
+
+/// When the speaker wants to deny the request, the following construction may be used:
+
 いいえ。ぞれは食べないでください。//No. Please don’t eat that.
-ーーーーーーーーーーーーーーーーーーーー
+
+/// (3) Prohibition ~てはいけない
+/// The conjunctive form of a verb with the particle は and いけない together indicates that something is prohibited.
+
 これを食べてもいいですか。//May I eat this?
 いいえ。それは食べてはいけません。//No. You mustn’t eat that.
-ーーーーーーーーーーーーーーーーーーーー
 
-寿司を食べて見ました。//I tried eating sushi.
-寿司を食べて見ます。//I will try eating sushi.
-寿司を食べて見てください。//Try eating some sushi.
-ーーーーーーーーーーーーーーーーーーーー
+/// (4) ~てみる
+/// The verb 見る has a few different meanings such as “to see,” “to look,” or “to watch.”
+/// When this verb is combined with other verbs in the conjunctive form, its meaning becomes somewhat more abstract, expressing something like “examine the result of [the action expressed by the preceding verb].”
+/// みる is not normally written in kanji in such a construction.
+
+寿司を食べてみました。//I tried eating sushi.
+
+/// The final verb みる is changed to express aspect:
+
+寿司を食べてみます。//I will try eating sushi.
+寿司を食べてみてください。//Try eating some sushi.
+
+/// The construction ~てみる is frequently translated with the verb “try” in English.
+/// The English word “try,” however, has different meanings, not all of which can be conveyed by ~てみる.
+/// For instance, the verb “try” has a connotation of “making an effort.” So, if the speaker is asked to come home early tonight, he or she might say, “I will try to come home early.” In this case, the verb “try” does not convey the same meaning as it does in “I tried eating sushi.”
+/// ~てみる only focuses on examining the result of doing or having done the action expressed by the conjunctive form of the first verb.
+
+/// (5) ~てしまう
+/// The verb しまう means “to put things away.”
+/// It is used as a regular verb, as in the following:
+
 母からの手紙を机の中にしまいました。//I put the letters from my mother away inside the desk.
+
+/// # Intentional acts
+/// When combined with the て-form of a verb, especially when the verb indicates something that the topic has control over,
+/// the use of しまう in the predicate signifies the completion of an event.
 
 そのケーキを食べてしまって下さい。//Please finish eating that cake.
 ルームメートはもう宿題をしてしまいました。//My roommate has already finished doing her homework.
 
+/// # Unintentional events or unexpected results
+/// When the first verb indicates an uncontrollable event, 
+/// then the event expressed by the predicate with しまう is an unintended, or unexpected, result.
+
 バスの中で寝てしまいました。//I accidentally fell asleep on the bus.
 今学期、日本語を勉強しなかったら、全部、漢字を忘れてしまいました。//I didn’t study Japanese this semester, and I completely forgot all the kanji.
+
 ーーーーーーーーーーーーーーーーーーーー
+/// 5: Adverbs もう and まだ
+/// (1) Overall meanings
+/// もう and まだ have the following meanings depending on the aspect of the predicate:
+/// Positive predicate: もう -> already (done), まだ -> still (doing)
+/// Negative predicate: もう -> no longer (doing), まだ -> not yet (done)
+
 もうあの映画を見ました。//I have already seen the movie.
 もうあの映画を見ていません。//I am no longer watching the movie.
 まだあの映画を見ています。//I am still watching the movie.
 まだあの映画をみていません。//I have not seen that movie yet.
 
+/// (2) て-form with いない
+/// ~ていない is used to respond negatively to a question such as the following:
+
 朝ご飯をもう食べましたか。//Have you eaten breakfast already?
+
+/// If the speaker has eaten, the predicate is simply repeated:
+
 ええ、もう食べました。//Yes, I ate already.
+
+/// When the speaker has not eaten, then ~ていない must be used with the adverb まだ.
+
 いいえ、まだ食べていません。//No, I haven’t eaten yet.
 
 ーーーーーーーーーーーーーーーーーーーー
 ーーーーーーーーーーーーーーーーーーーー
 カンバセーション。
 
+/// (1) Using the polite form in speech
+
 何、読んでますか。//What are you reading?
 日本語の小説です。//A Japanese novel.
+
+/// ~ている is often shortened in casual speech by deleting the い, so that it becomes ~てる.
+/// The polite form can also follow this pattern: one may say ~てます rather than ~ています when speaking.
+/// Deleting this い gives a more casual sense in both cases.
 
 今、食べている。//I’m eating now.
 今、食べてる。//I’m eating now.
 今、たべています。//I’m eating now.
 今、食べてます。//I’m eating now.
 
+/// (2) Good wishes
+
 その本、難しくありませんか。//Isn’t that book difficult?
 難しいですが、来週、試験があるんです。//It is, but we have an exam next week.
 試験ですか。大変ですね。頑張ってくださいね。//Really? Sounds tough. Good luck.
+
+/// # 大変（たいへん）ですね
+/// 大変（たいへん）, an adjectival noun, can mean many things. It may mean “difficult; hard; laborious; dreadful; awful; immense” and so on.
+/// When used to describe a person, it may convey something like “difficult to deal with; unreasonable; unreal; awful” and similar ideas.
+/// 大変（たいへん）ですね is often used as a backchannel to express some kind of sympathy or empathy.
+
+/// # 頑張（がんば）ってください
+/// Japanese speakers use this phrase a great deal in conversation.
+/// It is used to convey good wishes, or wishes for a good result, with reference to a current or upcoming situation or endeavor which may be difficult for the addressee.
+/// In casual conversation, ください is deleted; 頑張（かんば）って alone is used.
+
+/// (3) 先輩（せんぱい） and 後輩（こうはい）
 
 ああ、お腹、すいた！//Wow, I’m hungry!
 先輩、まだ、食べてないんですか。//Haven’t you eaten yet, Senpai?
@@ -267,6 +400,40 @@ stage ２，１。
 でも、これ、マイクさんのじゃないの？//But doesn’t it belong to Mike?
 大丈夫ですよ。心配しないでください。さあ、食べてください。//It’s all right. Don’t worry. Please go ahead and eat it.
 
+/// # 先輩（せんぱい）・後輩（こうはい）
+/// 先輩（せんぱい） refers to an individual who is senior to the speaker within a group, such as an extracurricular group, a club, or any other organized group. It may also simply refer to the speaker’s mentor.
+/// 後輩（こうはい） is the junior in relation to 先輩（せんぱい）.
+/// Instead of using the person’s name, the junior speaker may address the senior person as 先輩（せんぱい）.
+/// Note, however, that the term 後輩（こうはい） may not be used to address another person.
+
+/// # 食べていい？
+/// も may be deleted in casual speech, as in the above sentence.
+/// 食べていい？ is therefore a casual way to say 食べてもいいですか.
+
+/// # どうぞ、どうぞ
+/// As explained earlier in this chapter, どうぞ is used to emphatically invite an addressee to do something (to eat, in the example above).
+/// Repeating the word makes it stronger.
+
+/// # の in question sentences
+/// When the sentence-final particle の is used in question sentences in casual conversation, it functions the same as んですか;
+/// that is, the speaker is confirming his or her understanding with the addressee.
+
+/// # 心配（しんぱい）しないでください
+/// 心配（しんぱい） is a noun that means “anxiety” or “worry.”
+/// 心配（しんぱい）しないでください is used to comfort the addressee.
+/// The phrase means something like “There is no need for you to worry”; or “Don’t worry.”
+/// In casual conversation, ください is deleted: 心配（しんぱい）しないで.
+
+/// (4) Giving a taxi driver directions
+
 「森ビル」までお腹いします。//Take me to the Mori Building, please.
 銀行の角を曲がってください。そして、そこをまっすぐ行ってください。//Please turn at the corner by the bank. And then go straight.
 あそこを右に曲がってください。あっ、あの建物の左に止まってください。//Please turn right there. Oh, please stop to the left of that building.
+
+/// # Vocabulary for giving directions in a taxi
+/// 右(みぎ) right side
+/// 左(ひだり) left side
+/// 角(かど) corner
+/// まっすぐ straight
+/// 曲がる(まがる) turn
+/// 止まる(とまる) stop

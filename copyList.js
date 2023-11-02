@@ -30,7 +30,7 @@ let jpSoundSourcefileStoragePathSlow = './stream_slow'
 
 
 // let inputPath = "./stage/state 1/stage 1-4.txt"
-let inputPath = "./stage/state 2/"
+let inputPath = "./stage/state 1/"
 
 if (process.argv[2]) {
     inputPath = process.argv[2]

@@ -6,7 +6,7 @@ stage １，７。
 /// The topic is described in the comment.
 /// The subject is described in the predicate.
 
-/// - The subject particle が
+/// # The subject particle が
 /// が has quite a few different functions. So far, が has been introduced as:
 /// a clausal conjunction;
 /// the marker for the topic when it is being questioned;
@@ -82,8 +82,9 @@ stage １，７。
 あの学生は日本語が上手です。//That student is good at Japanese.
 私はすしが欲しいです。//I want some sushi.
 
-/// (1) Nominalizing verbs with こと
 /// Because the element before a particle must be in a nominal form, using a verb alone in the object position would not make an acceptable sentence.
+
+/// (1) Nominalizing verbs with こと
 /// The following example shows that adding こと immediately after the plain form of the verb changes the verb to a nominal form.
 
 あの学生は日本語を話すことが上手です。//That student is good at speaking Japanese.
@@ -138,22 +139,22 @@ stage １，７。
 /// the comparison between は and が is made only for the subject が and the topic は. 
 
 /// (1) The topic は
-/// - The speaker may signal what she or he wants to talk about by bringing it into the topic position, marked by は.
+/// # The speaker may signal what she or he wants to talk about by bringing it into the topic position, marked by は.
 /// Just about anything can be brought to the topic position of a sentence.
 
-/// - When the speaker brings the topic into the sentence, the assumption is that the speaker knows that the audience or addressee understands the referent of the topic.
+/// # When the speaker brings the topic into the sentence,
+/// the assumption is that the speaker knows that the audience or addressee understands the referent of the topic.
 
-/// - What the speaker wants to convey to the audience or the addressee is the content described in the comment.
+/// # What the speaker wants to convey to the audience or the addressee is the content described in the comment.
 /// In other words, the comment is the new information, and the topic is the information in the sentence that is understood.
 
 /// (2) The subject が
-/// - In some expressions, the subject and the predicate together constitute a complete unit, called a comment.
-
-/// - In these structures, the predicate describes the subject, not the topic.
+/// # In some expressions, the subject and the predicate together constitute a complete unit, called a comment.
+/// In these structures, the predicate describes the subject, not the topic.
 /// The subject and the predicate together form a single entity, the comment, which describes the topic.
 
-/// - When the subject is used in a sentence, the new information is the subject; the predicate is the given (known) information in the sentence.
-
+/// # When the subject is used in a sentence,
+/// the new information is the subject; the predicate is the given (known) information in the sentence.
 /// In this context, in the question about the topic, as well as in the response (that is, when new information is asked for and provided) the noun phrase with が may be called the subject.
 
 昨日、だれが授業に来ませんでしたか。//Who did not come to the class yesterday?
@@ -169,7 +170,7 @@ stage １，７。
 
 /// The sentence above with the intransitive verb says what it was that began at 9:00 (the new information is the subject).
 
-/// - Other intransitive predicates
+/// # Other intransitive predicates
 /// In fact, the difference noted above can occur with any type of predicate, not just with transitive-intransitive verb pairs.
 
 ずんだもん先生は九時にいらっしゃいました。//Zundamon-sensei came here at 9:00.
@@ -196,13 +197,13 @@ stage １，７。
 （先生は）京都からいらしゃいました。//The teacher came from Kyoto.
 
 /// What this means is that:
-/// - Any subject may be topicalized;
-/// - Not all topics are derived from subjects.
+/// # Any subject may be topicalized;
+/// # Not all topics are derived from subjects.
 
 ーーーーーーーーーーーーーーーーーーーー
 /// 5: Comparisons
 /// (1) Comparing two things
-/// - Reference particle より
+/// # Reference particle より
 /// The particle より indicates that the preceding noun is an item or person being compared to the topic:
 
 アメリカは日本より大きいです。//America is bigger than Japan.
@@ -214,14 +215,14 @@ stage １，７。
 
 /// Using もっと does not change the meaning of the sentence, but it may make the comparative meaning stronger.
 
-/// - Adverb ずっと
+/// # Adverb ずっと
 /// When the speaker needs to strongly emphasize the degree of the description in the predicate, as in “America is much bigger than Japan,” the adverb ずっと “far more” may be used.
 
 アメリカは日本よりずっと大きいです。//America is much bigger than Japan.
 
 /// ずっと and もっと are generally not used together.
 
-/// - Comparative question sentences
+/// # Comparative question sentences
 /// When asking a question about the two items, the two things to be compared should be listed before forming the question.
 /// There are a few different ways to list the items to be compared.
 /// アメリカと日本と（とは・で・とで・では・とでは）
@@ -235,7 +236,7 @@ stage １，７。
 
 アメリカと日本とでは、どちらの方が大きいですか。//America and Japan, which side is big?
 
-/// - Answering comparative questions
+/// # Answering comparative questions
 /// When answering a question about a comparison, it is best to use a structure that parallels the structure of the question.
 /// In answering a question that compares two items, the use of 方（ほう）is required, although it is optional in the question sentence.
 
@@ -249,14 +250,14 @@ stage １，７。
 どちらも難しくありません。//Neither of them is difficult.
 /// [Literally, “Both are not difficult”]
 
-/// - Comparative sentences with negative predicates
+/// # Comparative sentences with negative predicates
 /// If a negative predicate is used in a statement that compares two things, the compared referent is marked by ほど rather than より, as in the following:
 
-日本はアメリカほで大きくありません。//Japan is not as big as America.
+日本はアメリカほど大きくありません。//Japan is not as big as America.
 
 /// In the above sentence, ほど literally means “degree.”
 
-/// - The experience particle に
+/// # The experience particle に
 /// The particle に has many functions, に is also used to refer to a person who directly experiences a certain feeling described in the predicate.
 /// The contrastive は is often used with this に to indicate that this experience is limited to that person (i.e., the one indicated by に).
 
@@ -269,7 +270,7 @@ stage １，７。
 
 この大学は日本で一番大きい大学です。//This university is the biggest one in Japan.
 
-/// - Forming and responding to a question comparing more than two items
+/// # Forming and responding to a question comparing more than two items
 /// When listing things at the beginning of a sentence, the following structures may be used:
 
 これとそれとあれの中で、どれが一番、安いですか。//Out of this one, that one, and that one over there, which is the cheapest?
@@ -328,11 +329,11 @@ stage １，７。
 /// In this case, the speaker is trying to come up with the correct answer.
 /// The first syllable of the word may be drawn out while the speaker tries to find the answer or something to say.
 
-/// - 大丈夫（だいじょうぶ）です
+/// # 大丈夫（だいじょうぶ）です
 /// When used in a question as in 大丈夫（だいじ ょうぶ） ですか “Are you all right?” the speaker asks if the addressee is all right (health, general circumstances, current state, etc.).
 /// 大丈夫（だいじょうぶ）です may either be the response to this question (“I’m OK”), or an expression used by the speaker to ease the worry of the addressee (“That’s OK”).
 
-/// - スミスさんに聞（き）きますから
+/// # スミスさんに聞（き）きますから
 /// This is almost like giving a reason as an afterthought.
 /// から is the conjunction used to give a reason, but the way it is used here is incomplete.
 /// If this clause came before 大丈夫（だいじょうぶ）です, it would mean “Because I’ll ask Smith-san, I’ll be all right.”

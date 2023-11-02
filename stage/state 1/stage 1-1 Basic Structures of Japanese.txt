@@ -1,4 +1,4 @@
-stage 1,1.
+stage １，１。
 /// Stage 1-1 Basic Structures of Japanese
 
 /// 1: Topic and Comment
@@ -22,17 +22,18 @@ stage 1,1.
 /// sentence-final particles, which are used at the end of sentences and indicate the speaker’s intent, view, interpretation, etc.;
 /// overriding particles, which add further meaning to the existing particles.
 
-/// - The topic particle は (overriding particle)
+/// # The topic particle は (overriding particle)
 /// whatever the speaker chooses to speak about or to pose a question about can be brought to the topic position in a sentence by marking it with the particle は.
 /// the topic of a sentence in Japanese is made up of a noun or a noun phrase, and is indicated by the topic particle は.
 
-/// - Question particle か and confirmation particle ねえ (sentence-final particle)
+/// # Question particle か and confirmation particle ねえ (sentence-final particle)
 /// か is used for question sentences while ねえ is used to confirm the speaker’s understanding or reaction with the addressee.
 
 分かりますか。//Do you understand?
 今日は暑いですねえ。//It’s hot today, isn’t it
 
-/// - Descriptive particle な (linking particle) -> is used between two nouns.
+/// # Descriptive particle な (linking particle)
+/// is used between two nouns.
 
 今日はいやな天気ですねえ。//Terrible weather today, isn’t it?
 
@@ -48,7 +49,7 @@ stage 1,1.
 私はずんだもんです。//I am Zundamon.
 こちらはずんだもんさんです。//This is Zundamon-san.
 
-/// - The copula です
+/// # The copula です
 /// is similar to, but not the same as, the linking verb “be”
 /// Another function of です is to indicate that the sentence is in the polite style.
 
@@ -58,7 +59,8 @@ stage 1,1.
 今日は寒いです。//It’s cold today.
 今日は暑いです。//It’s hot today.
 
-/// - Adverbs -> are words that modify adjectives, verbs, and other adverbs.
+/// # Adverbs
+/// are words that modify adjectives, verbs, and other adverbs.
 /// They normally express such concepts as quality, quantity, degree, or manner and are normally placed immediately before the words they modify.
 
 今日は本当に寒いです。//It’s really cold today.
@@ -77,13 +79,13 @@ stage 1,1.
 
 /// When the speaker judges that the addressee would know the referent, it is often deleted in Japanese. The referent can be the topic, the object, or some other noun or noun phrase in the sentence.
 
-/// - The direct object and the particle が (linking particle)
+/// # The direct object and the particle が (linking particle)
 /// The particle が is used after a certain kind of direct object to indicate that the preceding noun is the direct object of the predicate
 /// In Japanese, the direct object must be placed before the predicate.
 
 ナースロボさんは日本語がよく分かります。//Naasurobo-san understands Japanese well.
 
-/// - The direct object and the particle を (linking particle)
+/// # The direct object and the particle を (linking particle)
 /// を (pronounced “o” in modern Japanese when used in this way).
 /// を is used for the direct object of an action predicate
 /// が marks the direct object of a non-action predicate
@@ -104,16 +106,18 @@ stage 1,1.
 /// 僕（ぼく）, used exclusively by male speakers of all ages, is less formal and more conversational than 私（わたし） when used by male speakers.
 
 /// (2) Second-person
-/// - Use of the personal name -> is often used instead of a pronoun to refer to the addressee in Japanese.
+/// # Use of the personal name
+/// is often used instead of a pronoun to refer to the addressee in Japanese.
 
 ずんだもんさんは一年生ですか。//Are you a freshman, Zundamon-san?
 
-/// - Use of deletion -> is also frequently used in addressing someone.
+/// # Use of deletion
+/// is also frequently used in addressing someone.
 /// When speaking directly to the addressee, deletion is more common than using a pronoun or a personal name.
 
 三年生ですか。//Are you in the third grade?
 
-/// - Use of second-person pronouns (e.g., あなた)
+/// # Use of second-person pronouns (e.g., あなた)
 /// Most of the time, a speaker should avoid using あなた to address: an older person, a person who holds a professional position,
 /// あなた may be used: between people in a similar social situation, by a person who has more authority in a society to address someone with less power
 /// In most cases, it is more common to use the name of the addressee with the appropriate ending such as ~さん or ~先生（せんせい）, or to use deletion, rather than using あなた.
@@ -121,18 +125,18 @@ stage 1,1.
 /// (3) Third-person
 /// Use of the third-person personal pronouns 彼（かれ） for “he” and 彼女（かのじょ） for “she” is more frequent among younger speakers in informal situations.
 
-/// - Deleting elements in sentences
+/// # Deleting elements in sentences
 /// The speaker may delete an element, or more than one element, from sentences when he or she judges that the addressee will be able to identify the deleted element(s).
 
 /// (4) Demonstrative pronouns
 /// A speaker will use a demonstrative pronoun to point (literally or figuratively) to a particular person or a thing.
 
-/// - For people
+/// # For people
 /// こちら -> a person close to the speaker: “this person here”
 /// そちら -> a person close to the addressee: “that person near you”
 /// あちら -> a person far from both the speaker and the addressee: “that person over there”
 
-/// - For things
+/// # For things
 /// これ -> thing(s) close to the speaker: “this thing”
 /// それ -> thing(s) close to the addressee: “that thing”
 /// あれ -> hing(s) far from both the speaker and the addressee: “that thing over there”
@@ -142,7 +146,7 @@ stage 1,1.
 /// In personal pronouns, it is indicated by ~達（たち） and ~ら. The use of ~達（たち） is more formal than the use of ~ら. 
 /// Though it is not obligatory, ~ら can also be used with demonstrative pronouns for things.
 
-/// - Plural markers with regular nouns
+/// # Plural markers with regular nouns
 /// plural markers are used mainly for pronouns, but they can be used for some nouns (for animate things) as well: 学生達（がくせいたち） or 学生ら（がくせいら） “students,” for example. In 友達（ともだち） “friend,”
 /// Some nouns may be repeated to indicate that they are plural, but for the most part, nouns do not indicate number. Whether a noun is singular or plural is inferred from the use of words that indicate quantity and/or the context.
 
@@ -157,7 +161,7 @@ stage 1,1.
 ナースロボさんは日本語が分かりますか。//Do you understand Japanese, Naasurobo-san?
 
 /// (2) Positive responses
-/// - Responding positively by repeating the predicate
+/// # Responding positively by repeating the predicate
 /// One way to respond positively to a question is simply to repeat the predicate following the positive acknowledgement, はい or ええ, both of which mean “yes.” 
 /// はい is more formal than ええ, but ええ is more commonly used in conversation. 
 /// The topic is often deleted in responses.
@@ -170,7 +174,8 @@ stage 1,1.
 ナースロボさんは分かりますか。//Do you understand, Naasurobo-san?
 ええ、（僕は）分かります。//Yes, I understand.
 
-/// - The generic positive response そうです -> may be used as the generic positive response for the nominal predicate.
+/// # The generic positive response そうです
+/// may be used as the generic positive response for the nominal predicate.
 /// そう, which literally means “that way,” should be used alone without a topic. 
 /// そうです can be used only when responding to questions with nominal predicates, unless ねえ rather than か is used at the end of the predicate.
 
@@ -178,18 +183,20 @@ stage 1,1.
 ええ、そうです。//Yes, that’s right.
 
 /// (3) Negative responses
-/// - The generic negative response 違（ちが）います ->  is a verb that means “to differ from something.”
+/// # The generic negative response 違（ちが）います
+//  is a verb that means “to differ from something.”
 /// It can be used as a generic negative response to a question using the nominal predicate.
 /// should be used without a topic. It should only be used to respond a question with a nominal predicate.
 
 いいえ、違います。//No, I am not.
 
-/// - Giving the correct information
+/// # Giving the correct information
 
 いいえ、違います。（私は）時雨です。//No, I’m not. I’m Shigure.
 いいえ。（私は）時雨です。//No. I’m Shigure.
 
-/// - Negative responses -> may be given by negating predicates.
+/// # Negative responses
+/// may be given by negating predicates.
 
 ーーーーーーーーーーーーーーーーーーーー
 /// 5: Negating Predicates
@@ -270,7 +277,7 @@ stage 1,1.
 
 /// とても -> とっても is used only when speaking.
 
-/// - Sentence-final particle ねえ
+/// # Sentence-final particle ねえ
 /// is used only in conversation. When the speaker uses this particle with a rising intonation, he or she is expecting the addressee to confirm his or her impression.
 ///The addressee, therefore, often confirms the comment by also adding ねえ, but with a falling intonation to indicate his or her agreement.
 
@@ -288,6 +295,6 @@ stage 1,1.
 そちらは時雨さんですか。//Is that Shigure-san?
 いいえ、こちらはずんだもんさんですよ。//No, actually, it’s Zundamon-san.
 
-/// - Sentence-final particle よ
+/// # Sentence-final particle よ
 /// is used when the speaker assumes that the addressee does not possess the information the speaker is providing.
 /// Because of its assumption that the addressee may not have the information, this particle can sound a little condescending to the addressee if used inappropriately, and may even sound insulting at times.

@@ -2,18 +2,18 @@ stage １，９。
 /// Stage 1-9 Bridging Stage 1 and Stage 2
 /// 1: When to Use Plain Forms
 /// (1) Plain forms in the final and non-final positions
-/// - Final positions
+/// # Final positions
 /// Plain forms are used for different functions.
 /// In speaking, they are used in the final position of a sentence to indicate that the speaker and the addressee are in a close relationship (e.g., close friends, family members).
 
 /// When plain forms are used in the final position of a sentence in writing, it indicates that the writing is impersonal.
 /// That is, the writer is not addressing any particular individual (e.g., newspaper articles, essays).
 
-/// - Non-final positions
+/// # Non-final positions
 /// For predicates in the non-final position of a sentence, the plain predicate is used in most cases, regardless of the speech (or writing) style.
 
 /// (2) Examples of predicates in the non-final position
-/// - Nominalizing verbs
+/// # Nominalizing verbs
 /// when a verb is used in a non-final position, such as the topic or object position of a sentence, it must be in the plain form with the functional noun こと (this noun is therefore called a nominalizer).
 
 私は日本語が好きです。//I like the Japanese language.
@@ -27,7 +27,7 @@ stage １，９。
 /// the verb 話（はな）す is used in a non-final position in the same sentences.
 /// こと follows the verb 話（はな）す to nominalize it
 
-/// - Reporting what others have said
+/// # Reporting what others have said
 /// When reporting what others have said, the verb 言（い）う “to say” is used.
 /// The particle と connects the content of the quote and the final verb, 言（い）う.
 /// If it is not a direct quote, the content of the quote should be expressed in the plain form.
@@ -41,7 +41,7 @@ stage １，９。
 
 時雨さんは何と言いましたか。//What did Shigure-san say?
 
-/// - Conveying the speaker’s thought
+/// # Conveying the speaker’s thought
 /// the speaker’s opinion can be conveyed by the verb 思（おも）う “to think.”
 /// The content of the speaker’s thought must be in the plain form.
 /// Remember that this verb, 思（おも） う “to think,” is used by the speaker only to express his or her own thoughts or to ask another person directly about their opinion.
@@ -57,7 +57,7 @@ stage １，９。
 
 ずんだもんさんは日本語についてどう思いますか。//What do you think of Japanese, Zundamon-san?
 ーーーーーーーーーーーーーーーーーーーー
-/// - Hearing
+/// # Hearing
 /// The verb 聞（き）く has two meanings, “to hear” (or “to listen”) and “to ask.”
 /// When discussing something he or she heard, the speaker can report the content in the plain form.
 
@@ -77,7 +77,7 @@ stage １，９。
 
 日本語の試験は易しかったと聞きました。//I heard that the Japanese examination was easy.
 
-/// - Asking
+/// # Asking
 /// When reporting what one has asked others, the reported content must be in the form of a question sentence ending in the particle か.
 /// In this case, the use of the particle と between the content of the question and the final verb 聞（き）く becomes unnecessary.
 
@@ -123,7 +123,7 @@ stage １，９。
 
 /// A clause that modifies a noun or noun phrase is called an adjectival clause because of its function.
 
-/// - Two topics in one sentence
+/// # Two topics in one sentence
 /// A sentence that contains an adjectival or an adverbial clause consists of at least two clauses, one of them dependent and the other independent.
 /// Each of these clauses may have the same topic (subject, in the case of English) or a different one.
 
@@ -167,14 +167,14 @@ stage １，９。
 
 昨日、私は、子供が病気だったから、授業を休みました。//My child was sick, so I didn’t go to class yesterday.
 
-/// - Clauses in conversation
+/// # Clauses in conversation
 /// In responding to a question in actual conversation, the main clause is often deleted since it would be a repetition of the question.
 /// です in the second response abbreviates the entire independent clause.
 
 どうして、昨日、授業を休みましたか。//Why were you absent from class yesterday?
 子供が病気だったからです。//Because my child was sick.
 
-/// - In a more polite situation
+/// # In a more polite situation
 /// In a very polite situation, it is not incorrect to use the polite form of the predicate in the adverbial clause.
 /// However, this would be too polite for normal conversation.
 
@@ -253,13 +253,13 @@ stage １，９。
 /// The rules governing the conjunctive form are exactly the same as those for the plain positive perfective form, except for the last syllable:
 ///      instead of ending the form with た or だ, as in the plain positive perfective, the ending should be て or で.
 
-/// - Copula
+/// # Copula
 /// [だ → で]
 
-/// - Adjective
+/// # Adjective
 /// [い → くて]
 
-/// - Verb
+/// # Verb
 /// Group 1: [る → て]
 /// Group 2: [く → いて],
 ///          [ぐ → いで],
@@ -276,7 +276,7 @@ stage １，９。
 /// The conjunctive form is used with various elements; each combination has its own meaning.
 /// The following summarizes the combinations that have already been introduced in the earlier chapters.
 
-/// - Use of the conjunctive form 1
+/// # Use of the conjunctive form 1
 /// Because the conjunction と may not be used to join predicates, the conjunctive form of the predicate is used instead.
 /// The following examples illustrate the use of the conjunctive form in nominal, adjectival, and verbal predicates, in that order.
 
@@ -284,13 +284,13 @@ stage １，９。
 このコンピュータは安くて、とてもいいです。//This computer is cheap and also very good.
 私は朝、早く起きて、宿題をしました。//I got up early in the morning and did my homework.
 
-/// - Use of the conjunctive form 2
+/// # Use of the conjunctive form 2
 /// A construction consisting of the conjunctive form and いる is used to express a continuous aspect of the predicate.
 
 今学期、日本語を勉強しています。//I’m studying Japanese this semester.
 /// or “I’m studying Japanese this semester.”
 
-/// - Use of the conjunctive form 3
+/// # Use of the conjunctive form 3
 /// The conjunctive form can be combined with ください to express a polite command and request.
 
 明日の朝、九時にここに来てください。//Please come here at 9:00 tomorrow morning.
@@ -304,10 +304,10 @@ stage １，９。
 /// Group 3: Drop る and change the vowel {u} of the remaining syllable to the vowel {i}.
 ///          [する → し], [くる → き]
 
-/// - Use of the stem 1 -> [stem + ます]
+/// # Use of the stem 1 -> [stem + ます]
 /// The polite form of a verb is created by combining the stem and the suffix ~ます.
 
-/// - Use of the stem 2 -> [stem + たい]
+/// # Use of the stem 2 -> [stem + たい]
 /// When the stem is joined with the suffix ~たい, the combined form is an adjective that expresses the speaker’s desire.
 /// Like the complex predicate with つもりだ, the newly formed adjective can be used only to express the speaker’s own desire or to ask another person directly about their desire.
 /// It may not be used to express a third-person’s desire.
@@ -320,7 +320,7 @@ stage １，９。
 /// the positive perfective is 行きたかったです “I wanted to go”;
 /// and the negative perfective is 行きたくありませんでした “I did not want to go.”
 
-/// - Use of the stem 3 -> [stem + に]
+/// # Use of the stem 3 -> [stem + に]
 /// The stem and the particle に can be combined to express the topic’s purpose for going somewhere to do something.
 /// This construction is used as an adverbial phrase.
 
@@ -348,18 +348,18 @@ stage １，９。
 /// The rules for forming potential verbs were not introduced along with the verbs above.
 /// Of course, knowing how to derive potential verbs from the base forms is much more efficient than trying to learn them as separate verbs, so the rules are explained here.
 
-/// - Potential verb formation
+/// # Potential verb formation
 /// Group 1: [る → られる]
 /// Group 2: Change the final {u} to {e} and add る
 /// Group 3: [くる → こられる]
 
 /// There is no potential form for する; the corresponding verb that expresses ability and possibility is できる.
 
-/// - Verb grouping of potential verbs
+/// # Verb grouping of potential verbs
 /// All derived potential verbs conjugate as Group 1 verbs.
 /// For instance, the conjunctive form is conjugated from potential verbs as follows: たべられる→たべられて, はなせる→はなせて, こられる→こられ て.
 
-/// - が or を as the direct object marker with potential verbs
+/// # が or を as the direct object marker with potential verbs
 /// The use of が as the object marker of a potential verb has already been pointed out.
 
 パクさんは日本語が話せます。//Park-san can speak Japanese.
@@ -372,7 +372,7 @@ stage １，９。
 /// In English, a passive verb is constructed by combining an auxiliary verb such as “is” or “are” with a past participle such as “eaten” and “taken.” The thing or person who does the action is preceded by the preposition “by.”
 /// In Japanese, passive meanings are expressed with derived passive verbs, just as potential meanings are expressed with derived potential verbs.
 
-/// - Passive verb formation
+/// # Passive verb formation
 /// Group 1, 2: Change the final vowel u to the vowel a and add れる
 /// Group 3: [する → される], [くる → こられる]
 
@@ -394,7 +394,7 @@ stage １，９。
 /// In Japanese, causative verbs may be used to express causation in certain circumstances.
 /// There are also other constructions that also express “causation.”
 
-/// - Causative verb formation
+/// # Causative verb formation
 /// Group 1: Change る to させる
 /// Group 2: Change the final {u} to {a} and add せる
 /// Group 3: [する → させる], [くる → こさせる]
@@ -407,7 +407,7 @@ stage １，９。
 
 /// Causative verbs are often used when a person of greater authority makes another person with less authority do something.
 
-/// - Causative passive verbs
+/// # Causative passive verbs
 /// [Change the causative ending ~せる to ~せられる]
 
 /// Because they are transitive, it is possible to make causative sentences into passive sentences — that is, causative-passive sentences.

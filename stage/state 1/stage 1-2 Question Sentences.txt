@@ -1,4 +1,4 @@
-stage 1,2.
+stage １，２。
 /// Stage 1-2 Question Sentences
 
 /// 1: Alternative Questions
@@ -14,13 +14,13 @@ stage 1,2.
 
 あなたは雪ノ下さんですか、（あなたは）時雨さんですか。//Are you Yukinoshita-san or Shigure-san?
 
-/// - Clausal and sentential conjunction それとも
+/// # Clausal and sentential conjunction それとも
 /// the use of the conjunction それとも in alternative questions is optional.
 /// Using それとも makes the question sound more formal, so in a casual conversation, this conjunction is often omitted.
 
 あなたは雪ノ下さんですか、（それとも）（あなたは）時雨さんですか。//Are you Yukinoshita-san or Shigure-san?
 
-/// - Noun phrasal conjunction か
+/// # Noun phrasal conjunction か
 /// indicates that the speaker is making an approximate guess
 
 ナースロボさんは三年生ですか、（それとも）（ナースロボさんは）四年生ですか。//Naasurobo-san, are you a third grader, or are you a fourth grader?
@@ -30,7 +30,7 @@ stage 1,2.
 
 ーーーーーーーーーーーーーーーーーーーー
 /// (3) Responses to alternative questions
-/// - Choosing one predicate
+/// # Choosing one predicate
 /// If one of the options given in an alternative question is the correct answer, it should be used in the response.
 
 あなたは雪ノ下さんですか、時雨さんですか。（私は）雪ノ下です。//Are you Yukinoshita-san or Shigure-san? I'm Yukinoshita.
@@ -41,20 +41,20 @@ stage 1,2.
 /// (4) Negating both predicates
 /// If neither of the options stated in the question is true, give the correct response or state it after negating both options of the question.
 
-/// - Nominal predicates 
+/// # Nominal predicates 
 /// When negating both options -> でもありません.
 
 あなたは雪ノ下さんですか、時雨さんですか。//Are you Yukinoshita-san or Shigure-san?
 いいえ。（僕は）ナースロボです。//No. I’m Naasurobo.
 （僕は）雪ノ下でも時雨でもありません。（僕は）ナースロボです。//I’m neither Yukinoshita nor Shigure. I’m Naasurobo.
 
-/// - Adjectival predicates
+/// # Adjectival predicates
 
 今日は暖かいですか、涼しいですか。//Is it warm or cool today?
 暖かくも涼しくもありません。とても暑いです。//It’s neither warm nor cool. It’s very hot
 どちらでもありません。//Neither is the case.
 
-/// - Verbal predicates
+/// # Verbal predicates
 /// When verbs in an alternative question consist of a noun with します
 
 明日、勉強しますか、運動しますか。//Will you study tomorrow, or exercise?
@@ -157,7 +157,7 @@ stage 1,2.
 /// Since the first noun modifies the second noun, reversing the order of the nouns changes the meaning of the sentence.
 /// More than two nouns may be used to modify a noun. In all cases, the last noun is the main noun and all nouns preceding it modify it.
 
-/// - の and demonstrative pronouns
+/// # の and demonstrative pronouns
 /// The particle の must be placed after these demonstrative pronouns if they are followed by a noun. -> この, その, and あの
 
 これは本です。//This is a book.
@@ -182,7 +182,7 @@ stage 1,2.
 元気ではありません。//I am not well.
 元気じゃありません。//I am not well.
 
-/// - Descriptive particle な
+/// # Descriptive particle な
 /// the function of adjectives is to describe nouns; they can be used immediately before the nouns that they modify
 /// When an adjectival noun modifies a noun, the particle な must be placed between the two words
 
@@ -192,14 +192,14 @@ stage 1,2.
 雪ノ下さんは元気な学生です。//Yukinoshita-san is an energetic student.
 あの学生は元気です。//That student is full of energy.
 
-/// - Summary of how to modify nouns
+/// # Summary of how to modify nouns
 /// an adjective modifies a noun, use nothing between them;
 /// an adjectival noun modifies a noun, use な between them;
 /// a noun modifies another noun, use の between them;
 /// a verb modifies a noun, the verb must be in the plain form, and the noun follows immediately, with no particle between them.
 
 /// (2) Interrogative pronouns どれ (何れ), どの (何の) and どんな
-/// - Interrogative pronoun どんな
+/// # Interrogative pronoun どんな
 /// どんな is an interrogative pronoun related to the pronouns こんな, そんな, and あんな, meaning “this kind of,” “that kind of,” and “that kind of.” 
 /// どんな therefore means “what kind of.”
 /// They must be followed by nouns. な in this set is the same な that joins adjectival nouns and nouns.
@@ -207,7 +207,7 @@ stage 1,2.
 こんな本は高いですか。はい、とても高いです。//Is this kind of book expensive? Yes, it is very expensive.
 あの本はどんな本ですか。//What kind of book is that book over there?
 
-/// - Differences between どれ, どちら, and どの
+/// # Differences between どれ, どちら, and どの
 /// どれ “which one” is the interrogative pronoun related to the pronouns これ, それ, and あれ
 /// どの “which (noun)” is the interrogative pronoun related to the pronouns この, その, and あの.
 /// a noun must follow どの, while どれ is used in isolation. 
@@ -221,7 +221,7 @@ stage 1,2.
 あなたのかばんはどちらですか。//Which one (of two) is your backpack?
 あなたのかばんはどちらのかばんですか。//Which backpack  (of two)  is your backpack?
 
-/// - The difference between どんな and どの
+/// # The difference between どんな and どの
 /// Both どんな and どの must be followed by a noun. 
 /// However, どんな asks for a description, whereas どの only asks for an identification.
 
@@ -261,7 +261,7 @@ stage 1,2.
 /// More casual forms of けれども delete certain syllables: they are けれど, けど, and (less frequently) け ども.
 /// The fewer the number of syllables this conjunction has, the less formal it sounds.
 
-/// - Summary of でも, が, and けれども
+/// # Summary of でも, が, and けれども
 /// でも：must be used between two separate sentences
 /// が：must be used between two separate clauses
 /// けれども：may be used between two separate sentences or between two clauses
@@ -278,7 +278,7 @@ stage 1,2.
 /// Some adverbs are therefore used only with negative predicates.
 /// adverbs can soften or strengthen the negation.
 
-/// - あまり
+/// # あまり
 /// とても is used with a positive response while あまり is used with a negative one.
 
 あの先生はいい先生ですか。//Is that teacher a good teacher?
@@ -288,7 +288,7 @@ stage 1,2.
 
 /// There are cases in which あまり is used with positive predicates, but the meaning is quite Different
 
-/// - そんなに 
+/// # そんなに 
 /// is used with a negative predicate, corrects the degree to which a description is assumed or presented to be true.
 
 雪ノ下さんは本当にいい学生ですねえ。//Yukinoshita-san is really a good student, isn’t she?
@@ -297,7 +297,7 @@ stage 1,2.
 /// そんなに therefore refers back to some previously mentioned, or simply assumed, evaluation.
 /// This assumption may be made by the addressee as well as by the speaker. あまり does not imply such reference.
 
-/// - 全然 （ぜんぜん）
+/// # 全然 （ぜんぜん）
 /// negates the description in the predicate completely.
 
 日本は寒いですか。//Is it cold in Japan?

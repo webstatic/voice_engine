@@ -14,15 +14,15 @@ stage １，５。
 学生は家にいます。//The student is at home.
 本は家にあります。//The book is at home.
 
-/// - Animate vs. inanimate
+/// # Animate vs. inanimate
 /// いる (居る): living things that can move on their own (such as people and animals) are considered animate; 
 /// ある (有る, 在る): anything, living or not, that cannot move on its own (such as plants and household objects) is considered inanimate.
 /// The existence of animals that do not move, such as clams, is expressed with ある（あります） as well.
 
-/// - Place pronouns
+/// # Place pronouns
 /// ここ。here; そこ。there;あそこ。over there; どこ。an inquiry regarding place.
 
-/// - Location particle に
+/// # Location particle に
 /// The location of existence is marked by the particle に
 
 学生はここにいます。//The student is here.
@@ -36,7 +36,7 @@ stage １，５。
 
 パーティーはあの部屋であります。//The party will be held in that room.
 
-/// - Specific locations
+/// # Specific locations
 /// Specific locations are expressed with nouns such as 前（まえ） “front” and 後（うし）ろ “back.”
 /// These specific locations are usually modified by a reference point.
 /// The particle の is used between the two nouns, with the modifying noun followed by the modified noun.
@@ -46,13 +46,13 @@ stage １，５。
 
 ーーーーーーーーーーーーーーーーーーーー
 /// (2) Word order and particles
-/// - Definite vs. indefinite nouns
+/// # Definite vs. indefinite nouns
 /// In English, definite nouns (those that refer to a specific item) and indefinite nouns (those that refer to a non-specific item) can be identified by the use of the definite article “the” and the indefinite articles “a” and “an”:
 
 /// Japanese does not have articles to indicate whether a noun is definite or indefinite.
 /// Interpreting what is definite and indefinite is therefore related to what is known and new information.
 
-/// - Known vs. new information
+/// # Known vs. new information
 /// In Japanese, newer information (from the addressee’s point of view) tends to be placed at a later point in the sentence.
 
 鞄に本があります。//There is a book in my bag.
@@ -68,7 +68,7 @@ stage １，５。
 
 /// Indicating whether nouns are definite or indefinite in other grammatical structures may be accomplished by other means, such as the use of demonstrative pronouns （e.g., その本） or the context in which the nouns are used.
 
-/// - Noun phrasal conjunction や
+/// # Noun phrasal conjunction や
 /// と is used to join two or more nouns or noun phrases.
 /// The conjunction や functions in the same way; however, the implication when や is used is different than when と is used.
 /// When two or more nouns are joined by や, the implication is that more things are involved than those mentioned in the sentence.
@@ -76,7 +76,7 @@ stage １，５。
 ここにコーヒーとお茶があります。//There is coffee and tea here.
 ここにコーヒーやお茶があります。//There is coffee and tea here (and other things as well).
 
-/// - だ（です）as the abbreviated predicate
+/// # だ（です）as the abbreviated predicate
 /// The three functions of the copula include 
 /// 1. equating the topic and the predicate; 
 /// 2. providing the conjugations for the nominal predicate; 
@@ -126,13 +126,13 @@ stage １，５。
 
 /// It is important to note that classification of transitivity between two languages such as Japanese and English does not correlate directly.
 
-/// - Two-object transitive predicates
+/// # Two-object transitive predicates
 /// Some transitive predicates require two objects for a concept to be complete
 /// as in the English sentence “I wrote a letter to my mother.” 
 /// In such a case, what the subject wrote—a letter—is the direct object, because the subject operates on it directly.
 /// The person to whom the letter was addressed, “my mother,” is the indirect object; it receives the direct object and is thus affected indirectly by the action of the subject.
 
-/// - Indirect object particle に
+/// # Indirect object particle に
 /// the indirect object is marked by the particle に. This is similar to the directional particle に.
 /// thus the indirect object is related to destination.
 
@@ -152,7 +152,7 @@ stage １，５。
 
 エイミーさんは昨日、ここに来ました。//Amy-san came here yesterday.
 
-/// - を with intransitive verbs
+/// # を with intransitive verbs
 /// The particle を has been introduced as the direct object marker of transitive verbs.
 /// This particle is also used with intransitive verbs that express movement from the topic’s original location to another place (either outside of the original place or within that space).
 /// This function of を in this case is to mark where the topic “passes through the place.” Thus, the verbs associated with this particle are those that express directional movement, such as “to pass,” “to walk,” “to run,” “to go out,” “to drive,” etc.
@@ -196,7 +196,7 @@ stage １，５。
 /// そと (out-group): A group to which the speaker does not belong. The out-group may change from situation to situation.
 
 /// (2) Verbs of giving
-/// - 上（あ）げる（あげます）
+/// # 上（あ）げる（あげます）
 /// is used when the topic gives something to someone who is not of a higher social status and is not substantially older than the topic of the sentence.
 /// This restriction does not apply to the topic’s own family members, regardless of age.
 /// may not be used when the receiver is the speaker or a member of the speaker’s うち-group. 
@@ -204,7 +204,7 @@ stage １，５。
 私は友達に本を上げます。//I will give my friend a book.
 時雨さんは小夜さんにお茶を上げます。//Shigure-san will give Sayo-san some money.
 
-/// - くれる（くれます）
+/// # くれる（くれます）
 /// is used when the topic of the sentence, who is neither substantially older nor of a higher status, gives something to the speaker, or to a member of the speaker’s うち-group.
 /// When the receiver is the speaker rather than a member of the speaker’s うち-group, the use of 私 （わたし）に or 僕（ぼく）に is optional.
 /// The verb makes it clear that the speaker is the receiver.
@@ -221,7 +221,7 @@ stage １，５。
 
 ずんだもんさんは誕生日に何をくれました。//What did Zundamon-san give you for your birthday?
 
-/// - やる（やります）
+/// # やる（やります）
 /// is often used when the topic gives something to an inanimate thing or to an animal.
 /// This verb is also sometimes used when a family member, the topic of the sentence, gives something to a younger member of the same family.
 /// Using this verb with a human being is not considered insulting to the receiver in the context of Japanese culture.
@@ -229,7 +229,7 @@ stage １，５。
 私は毎週、花に水をやります。//I give the flowers water every week.
 僕は弟に本をやりました。//I gave my younger brother a book.
 
-/// - 差（さ）し上（あ）げる（さしあげます）
+/// # 差（さ）し上（あ）げる（さしあげます）
 /// is used when the topic gives something to someone who is substantially older and/or of higher status.
 /// This verb is sometimes also used for the sake of politeness when the topic gives something to someone who is a member of the そと-group, regardless of that person’s social status or age.
 /// This verb is never used to talk about giving between the speaker’s family members.
@@ -237,7 +237,7 @@ stage １，５。
 僕は先生に本を差し上げました。//I gave the teacher a book.
 小夜さんは先生に花を差し上げました。//Sayo-san gave her teacher some flowers.
 
-/// - 下（くだ）さる（くださいます）
+/// # 下（くだ）さる（くださいます）
 /// is used when the topic of the sentence—either someone of higher social status and/or of greater age, or a person in the そと-group—gives something to the speaker or to a member of the speaker’s うち-group.
 /// As with くれる（くれます）, when the receiver is the speaker, the use of 私（わたし）に or 僕（ぼく）に may be unnecessary.
 
@@ -250,7 +250,7 @@ stage １，５。
 ずんだもん先生は誕生日に何を下さいましたか。//What did Zundamon-sensei give you for your birthday?
 
 /// (3) Verbs of receiving
-/// - もらう（もらいます）
+/// # もらう（もらいます）
 /// is used when the topic of the sentence receives something from someone who is neither higher in social status nor an older member of the そと-group.
 /// The particle that indicates the source from whom something was received can be either に or から.
 
@@ -259,7 +259,7 @@ stage １，５。
 
 /// Using もらう （もらいます） to express that the third person receives something from the speaker sounds awkward, and should be avoided.
 
-/// - いただく（いただきます）
+/// # いただく（いただきます）
 /// is used when the topic of the sentence receives something from someone in the そと-group, from someone higher in social status, or from someone who is substantially older than the topic (any of these combinations).
 /// This verb is not used when the topic receives something from a family member, even when the member is older than the topic.
 
@@ -267,7 +267,7 @@ stage １，５。
 
 /// As is the case with もらう （もらいます）, the use of いただく（いただきます） to express that the third person receives something from the speaker sounds awkward even when the speaker is in a higher position than the topic.
 
-/// - A summary of giving/receiving verbs
+/// # A summary of giving/receiving verbs
 /// When the topic is the giver:
 /// Giver -> [さしあげる, あげる, やる]
 
@@ -293,7 +293,7 @@ stage １，５。
 友達についての手紙。//a letter about my friend.
 
 /// (2) Overriding particles だけ and しか
-/// - だけ
+/// # だけ
 /// makes the noun that precedes it exclusive.
 /// だけ overrides the particles は, が, and を, although this rule is not as strict for だけ as it is for the overriding particles は and も.
 /// That is, だけ may be used along with the original particles, but this usage is optional
@@ -306,7 +306,7 @@ stage １，５。
 私は日本にだけ行きました。//I went only to Japan.
 私は日本だけに行きました。//I went only to Japan.
 
-/// - しか
+/// # しか
 /// The overriding particles だけ and しか share a similar meaning, but when しか is used, the predicate must be in the negative form.
 /// The sentence with しか emphasizes the negative aspect of the sentence, while だけ highlights the positive aspect.
 
@@ -375,25 +375,25 @@ stage １，５。
 ありがとうございます。いただきます。//Thank you. It looks wonderful.
 ごちそうさまでした。//That was delicious.
 
-/// - 何（なに）もございませんが . . .
+/// # 何（なに）もございませんが . . .
 /// When offering food to a guest, this phrase is often used.
 
-/// - どうぞ、お召（め）し上（あ）がりください（ませ）
+/// # どうぞ、お召（め）し上（あ）がりください（ませ）
 /// When お, the stem of a verb, and ください are combined, the phrase is a polite way to suggest or invite someone to do a certain thing.
 /// Adding ませ makes the speech more polite.
 /// 召し上がる（めしあがる）（めしあがります） is used as the honorific form of the verbs 食（た）べる（たべます） and 飲（の）む（のみます）.
 
-/// - いただく （いただきます）
+/// # いただく （いただきます）
 /// is also used as the humble verb for the verbs 食（た）べる（たべます） and 飲（の）む（のみます）.
 /// This expression may also be used when the speaker has just received a gift or an offer.
 /// One is expected to say いただきます before beginning to eat or drink.
 
-/// - ごちそうさま（でした）
+/// # ごちそうさま（でした）
 /// This expression is used when the speaker is done eating, no matter how small the portion of food was.
 /// Deleting the final でした and simply saying ごちそうさま gives the expression a more casual tone.
 
 /// (3) Colloquial expressions
-/// - Example 1:
+/// # Example 1:
 
 それ、ものすごくきれいですねえ。//That’s very pretty, isn’t it?
 本当にすごくきれい！//It really is very pretty!
@@ -401,7 +401,7 @@ stage １，５。
 /// ものすごく and すごく are intensifying adverbs similar in meaning to とても, but with a more colloquial nuance.
 /// すごく may be used alone; it is a little less intense without もの.
 
-/// - Example 2:
+/// # Example 2:
 
 時雨さんはものすごいですねえ。//Shigure-san is quite a person, isn’t she?
 はい、本当にすごいですねえ。//Yes, she certainly is.
@@ -414,5 +414,5 @@ stage １，５。
 明日、一緒に映画に行きませんか。//Would you like to go to a movie together tomorrow?
 いいですね。ええ、行きましょう。//Sounds great. Sure, let’s go.
 
-/// - 行（い）きませんか
+/// # 行（い）きませんか
 /// Negative question sentences are a very common way of inviting or asking whether the addressee would like to do something.

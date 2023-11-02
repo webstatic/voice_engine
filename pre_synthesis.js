@@ -5,7 +5,7 @@ require("./EngineInterface.js")
 
 let postStrUrl = "127.0.0.1"
 //let postStrUrl = "192.168.1.34"
-let inputPath = "./stage/state 2/"
+let inputPath = "./stage/state 1/"
 
 // prepare_synthesis({
 //     useSlow: false,

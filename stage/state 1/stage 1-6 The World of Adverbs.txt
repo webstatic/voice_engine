@@ -18,7 +18,7 @@ stage １，６。
 あの先生の授業は早いです。//That teacher’s class is early.
 明日、ルームメートは、早く起きます。//My roommate will get up early tomorrow.
 
-/// - Adverbs derived from adjectives used as nouns
+/// # Adverbs derived from adjectives used as nouns
 /// Some adverbs derived from adjectives have a nominal function, such as 近（ちか）く from 近（ちか）い, 早（はや）く from 早い, and 遠（とお）く from 遠 （とお）い.
 
 妹は近くの大学に行きます。//My younger sister goes to a nearby college.
@@ -55,14 +55,15 @@ stage １，６。
 /// どうしましょう literally means something like “in what way shall we deal with (things)?” The meaning of the expression どうしましたか comes from “how did (something) happen?”
 
 /// summarizes the demonstrative pronoun series.
-/// thing    place   adverbial   way, person     thing, person   kind of
-/// これ      ここ        こう       こちら             この        こんな
-/// それ      そこ        そう       そちら             その        そんな
-/// あれ      あそこ      ああ       あちら             あの        あんな
-/// どれ      どこ        どう       どちら             どの        どんな
+/// thing: これ, それ, あれ, どれ
+/// place: ここ, そこ, あそこ, どこ
+/// adverbial: こう, そう, ああ, どう
+/// way, person: こちら, そちら, あちら, どちら
+/// thing, person: この, その, あの, どの
+/// kind of: こんな, そんな, あんな, どんな
 
 /// (7) Other facts about adverbs
-/// - もう with numbers and もっと
+/// # もう with numbers and もっと
 /// Both もう and もっと are translated into English as “more.”
 /// もう is used with a word or a number to indicate an additional number or degree of something.
 /// もっと is used to modify adjectives, adverbs, and verbs to indicate a greater amount or degree of something.
@@ -78,13 +79,13 @@ stage １，６。
 リンゴをもう一つ買いました。//I bought one more apple.
 授業にもう五十人、来ました。//Another fifty students came to class.
 
-/// - Using the conjunctive form adverbially
+/// # Using the conjunctive form adverbially
 
 僕は歩いて学校に行きます。//I go to school on foot.
 
 /// Using the conjunctive form adverbially
 
-/// - The conjunctive form with ください
+/// # The conjunctive form with ください
 /// Another example of the conjunctive form used adverbially is a fixed phrase consisting of a conjunctive form and ください.
 /// This construction expresses a polite command. Depending on the situation, it may also be used for making a request.
 
@@ -102,7 +103,7 @@ stage １，６。
 /// the quotative particle と connects the verb and the content of the quote, thoughts, or sounds.
 /// The use of this particle is optional when the onomatopoeia contains repeated syllables.
 
-/// - Quoting
+/// # Quoting
 /// in this quotation structure, と connects what someone has said and the verb 言（い）う（いいます） “to say.”
 
 ずんだもんさんは「この寿司は美味しいです。」と言いました。//Zundamon-san said, ‘This sushi is delicious.’
@@ -111,7 +112,7 @@ stage １，６。
 
 ずんだもんさんはこの寿司は美味しいと言いました。//Zundamon-san said the sushi was delicious.
 
-/// - Expressing thoughts
+/// # Expressing thoughts
 /// the speaker may express an opinion or idea by connect ing his or her own thought with と and the verb 思（おも）う（おもいます） “to think.”
 /// In this case, the predicate form before と must be in the plain form.
 /// This verb is used to express the speaker’s own thought; it is not used when the topic is in the third person.
@@ -132,13 +133,13 @@ stage １，６。
 この服はぼろぼろです。//This outfit is very old.
 
 /// (4) Examples of different onomatopoeia
-/// - Examples of sound onomatopoeiaa cat meowing
+/// # Examples of sound onomatopoeiaa cat meowing
 /// ワンワン a dog barking, ニャーニャー a cat meowing, ザーザー the sound of heavy rain, シトシト the sound of quiet rain, ペラペラ the sound of a foreign language spoken fluently, ガヤガヤ the noise made by a crowd of people
 
 僕の犬は外でワンワン（と）吠えています。//My dog is barking outside.
 あの人は日本語をペラペラ（と）話します。//That person speaks Japanese fluently.
 
-/// - Examples of manner onomatopoeia
+/// # Examples of manner onomatopoeia
 /// そ（う）quietly; soundlessly, じろじろ（ジロジロ）staring
 
 /// When the onomatopoeia そ（う） is combined with the particle と, the small つ is needed, forming either そうっと or そっと.
@@ -146,14 +147,14 @@ stage １，６。
 彼は部屋にぞうっと入ってきました。//He entered the room quietly.
 彼女は僕をじろじろ（と）見ました。//She stared at me.
 
-/// - Examples of descriptive onomatopoeia
+/// # Examples of descriptive onomatopoeia
 /// ぼろぼろ（ボロボロ）very old, ぴかぴか（ピカピカ）very shiny
 /// In addition to being used in the predicate, descriptive onomatopoeia may be used to modify nouns
 
 あのボロボロの服は私のです。//That old outfit is mine.
 あの人はいつもピカピカの車を運転します。//That person always drives a shiny car.
 
-/// - Descriptive onomatopoeia with する（します）
+/// # Descriptive onomatopoeia with する（します）
 /// Descriptive verbs may be created by adding する（します） to onomatopoeia.
 /// どきどきする “to be nervous” （どきどき is the sound of someone’s heart pounding）
 /// わくわくする “to be excited” （わくわく describes the feeling of being excited）
@@ -173,10 +174,10 @@ stage １，６。
 
 /// Within the context of Japanese culture, in some cases it is preferable to use situation-focused expressions because they are more indirect than person-focused expressions.
 
-/// (2) The verb する（します）
 /// する（します） for the person-focused and なる（なります） for the situation-focused.
 
-/// - する（します） for making a choice or decision
+/// (2) The verb する（します）
+/// # する（します） for making a choice or decision
 /// The verb する（します） may be used to talk about making a choice or decision.
 /// In this case, the particle に is used for the thing the speaker will choose (decide) or has chosen (decided).
 /// Chosen things are expressed adverbially.
@@ -186,7 +187,7 @@ stage １，６。
 
 僕は専攻を日本語にしました。//I chose Japanese as my major.
 
-/// - する（します） for making A into B
+/// # する（します） for making A into B
 /// This one expresses changing the function of a certain thing into another, or changing from one state to another.
 /// Changed functions or states are expressed adverbially.
 
@@ -199,14 +200,14 @@ stage １，６。
 /// The verb なる（なります） expresses a change of situation.
 /// The situation that will be or has been changed into is expressed adverbially.
 
-/// - When a change is expressed with an adjective or a nominal element
+/// # When a change is expressed with an adjective or a nominal element
 
 外は寒くなりました。//It’s gotten cold outside.
 クリスさんは元気になりました。//Kurisu-san has gotten healthy.
 メアリーさんは先生になります。//Mary is going to be a teacher.
 あの学生は日本語がペラペラになりました。//That student has become very fluent in Japanese.
 
-/// - When a change is expressed with a verb
+/// # When a change is expressed with a verb
 /// When a verb is used to express a change, the following structure should be used.
 /// The verb must be in the plain form, and ように must be added before なる（なります）.
 
@@ -214,7 +215,7 @@ stage １，６。
 うちの子は勉強するようになりました。//Our child studies now.
 
 /// (4) Transitive-intransitive pairs of verbs
-/// - What are transitive-intransitive verb pairs?
+/// # What are transitive-intransitive verb pairs?
 /// 開ける（あけます）open something <-> 開く（あきます）something opens
 /// 閉める（しめます）close something <-> 閉まる（しまります）something closes
 /// 始める（はじめます）begin something <-> 始まる（はじまります）something begins
@@ -273,7 +274,7 @@ stage １，６。
 /// There are two ways to count people’s age. 
 /// The first uses the native numbers with the counter つ; the other uses the Sino-Japanese numbers with the counter 才（さい） or 歳（さい）.
 
-/// - Ages with the native numbers
+/// # Ages with the native numbers
 /// the numbers one to nine in the native Japanese number system end with つ.
 /// This counter may be used with children’s ages.
 /// The interrogative pronoun for this counter is いくつ.
@@ -286,7 +287,7 @@ stage １，６。
 
 /// Twenty is a special age in Japan, as it marks the beginning of adulthood. It is written either 二十 or 二十歳, and pronounced either はた ち or にじゅっさい, both of which are used commonly.
 
-/// - Asking “how old are you?”
+/// # Asking “how old are you?”
 /// To ask someone’s age, either 何才（なんさい） or いくつ may be used, but いくつ is normally used for asking children their age.
 /// This does not mean that いくつ is not used to ask adults their ages. When asking adults, the polite prefix お is often used, as in おいくつですか.
 
@@ -297,21 +298,27 @@ stage １，６。
 /// The counters for specific time and for durational time may be different.
 /// The endings, 時（じ）, 曜日 （ようび）, and 月（がつ）, are only for specific time.
 
-/// - Specific vs. durational counters
-
-/// amount of time or money
+/// # Specific vs. durational counters
 /// The counters for minutes, days, and years cover both the specific and durational time.
 /// For these counters, 間（かん）, which means “interval,” may be added to these counters to indicate the duration, but its use is optional:
-/// Specific Time Minute 分（ふん・ぷん）Day 日（か・にち）Year 年（ねん）
-/// Durational Time Minute 分（ふん・ぷん） or 分間（かん） Day 日（か・にち） or 日間（かん） Year 年（ねん） or 年間（かん）
 
-/// - The verb かかる（かかります）
+/// Specific Time:
+/// Minute 分（ふん・ぷん）
+/// Day 日（か・にち）
+/// Year 年（ねん）
+
+/// Durational Time:
+/// Minute 分（ふん・ぷん） or 分間（ふんかん）
+/// Day 日（か・にち） or 日間（にっかん, ひあい） 
+/// Year 年（ねん） or 年間（ねんかん）
+
+/// # The verb かかる（かかります）
 /// literally means “it requires (someone) a certain amount of time or money.”
 
 東京から京都まで電車で三時間ぐらいかかります。//It takes about three hours to get from Tokyo to Kyoto by train.
 日本まで二千ドルぐらいかかります。//It costs about 2,000 dollars to go to Japan.
 
-/// - どのぐらい with かかる（かかります）
+/// # どのぐらい with かかる（かかります）
 /// The generic interrogative pronoun どのぐらい may be used with the verb かかる（かかります） to ask either about duration of time, or amount of money (cost).
 
 日本からアメリカまで飛行機でどのぐらいかかりますか。//About how much does it take to go from Japan to the United States by airplane?
@@ -319,7 +326,7 @@ stage １，６。
 
 /// If the meaning is not clear from context, more specific question words such as いくらぐらい “about how much does it cost” or 何時間（なんじかん）ぐらい “about how many hours” may be used in place of どのぐらい.
 
-日本からアメリカまで飛行機で何時ぐらいかかりますか。//About how many hours does it take to go from Japan to the United States by airplane?
+日本からアメリカまで飛行機で何時間ぐらいかかりますか。//About how many hours does it take to go from Japan to the United States by airplane?
 日本からアメリカまで飛行機でいくらぐらいかかりますか。//About how much does it cost to go from Japan to the United States by airplane?
 
 /// The specific thing that is required, such as 時間（じかん） or お金（かね）, is seldom expressed, although it may be explicitly stated if the sentence is ambiguous without it.
@@ -341,10 +348,10 @@ stage １，６。
 ナースロボさん、この頃、随分、日本語が上手になりましたねえ。//Naasurobo-san, your Japanese has gotten much better lately!
 いえいえ、まだまだです。//Oh, no. I still have a long way to go.
 
-/// - この頃（ごろ）
+/// # この頃（ごろ）
 /// This time adverb means “these days” or “recently.”
 
-/// - 日本語（にほんご）が上手（じょうず）になりましたねえ
+/// # 日本語（にほんご）が上手（じょうず）になりましたねえ
 /// Literally this sentence means something like “you have become skillful with Japanese.”
 /// However, the sentence does not imply that the speaker thought that the addressee’s Japanese was bad before, so such a literal translation might cause some misunderstanding.
 /// Another commonly misunderstood sentence is the following, often used with young women: とてもきれいになりましたねえ, [literal translation] “You have become very pretty.” Once again, this sentence does not imply that the addressee was ugly earlier. These comments should be interpreted only as compliments.
@@ -359,7 +366,7 @@ stage １，６。
 実は、今日なんです。//Actually, it’s today.
 そうなんですか。お誕生日、おめでとうございます。//Is that so? Happy birthday!
 
-/// - 実（じつ）は
+/// # 実（じつ）は
 /// 実（じつ） is a noun that means “truth.” One can start a sentence with 実（じつ）は to signal that the speaker is about to explain something.
 
 /// ~なんです used after the nominal predicate; this combination adds the nuance that the speaker is giving her or his own account of a certain situation to the addressee.
@@ -369,7 +376,7 @@ stage １，６。
 これは高いんです。//Let me tell you, this is expensive.
 明日、日本に行くんです。//You may not know this, but the truth is I am going to Japan.
 
-/// - そうなんですか
+/// # そうなんですか
 /// A speaker uses そう with なんですか to acknowledge what he or she has just heard, usually regarding some unexpected information.
 /// ~（な）んですか is used to confirm the speaker’s understanding of certain circumstances or facts.
 
