@@ -1,18 +1,32 @@
 stage ２，７。
 /// Stage 2-7 Complex Predicates
 /// 1: Complex Predicates with つもりだ and はずだ
-/// (1) Complex Predicates -> is a predicate consisting of two or more elements
 
-/// (2) つもりだ-> can be added to a predicate to indicate the speaker’s plan.
+/// (1) What is a complex predicate and what does it do?
+/// A complex predicate is a predicate consisting of two or more elements.
+/// In Japanese, different elements are added onto the basic predicate to convey the speaker’s view or interpretation of a situation, or his or her intention, among many other things.
+
+/// So far, such elements as つもりだ, ようだ, だろう, かもしれない, and んだ have been briefly introduced.
+/// In this chapter, some of these elements will be discussed further, and some new complex predicates will be introduced.
+
+/// (2) つもりだ
+/// the functional noun つもり and the copula です can be added to a predicate to indicate the speaker’s plan.
 
 私は来年、日本で勉強するつもりです。//I plan to study in Japan next year.
+
+/// The negative imperfective form is used in the adjectival clause if the speaker plans not to do something.
+
 来年、日本で勉強しないつもりです。//My plan is not to study in Japan next year.
 
+/// It is possible to negate the copula, instead of the verb preceding つもりだ, but this changes the meaning slightly.
 /// By negating the copula, the speaker corrects the other person’s positive assumption.
 
 来年、日本で勉強するつもりじゃありません。//Actually, I don’t plan to go to Japan to study next year.
 
-/// Restriction on the use of the construction - This construction therefore is not used to discuss a third person’s plan or intention.
+/// # Restriction on the use of the construction
+/// The construction with つもりだ has the same restriction on its use as other emotive expressions; that is,
+/// the topic of this construction is the speaker, or the addressee if a question is asked directly.
+/// This construction therefore is not used to discuss a third person’s plan or intention.
 
 カーターさんは、来年、どこで勉強するつもりですか。//Where do you plan to study next year, Carter-san?
 私はイギリスで勉強するつもりです。//I plan to study in England.

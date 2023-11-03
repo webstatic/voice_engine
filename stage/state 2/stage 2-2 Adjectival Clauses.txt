@@ -256,20 +256,43 @@ stage ２，２。
 /// ~って in spoken language is a shortened version of と言（い）いました, meaning “(someone) said such-and-such.”
 /// Therefore, the content of the message goes before ~って.
 
-/// What do you mean?
+/// (2) What do you mean?
 
 それ、どういうこと？　行かないっていうこと？//What do you mean by that? Does that mean you won’t go?
 まあ、そういうこと。//Yeah, pretty much.
 
-/// (2) What do you mean?
+
+/// # どういうこと
+/// This expression is used to ask for some clarification of what the speaker has just heard the addressee say; it means something like “What do you mean by that?”
+
+/// ~っていうこと used in the predicate is a colloquial version of ということ, meaning “I mean (content).”
+
+/// # そういうこと
+/// This expression is used to concur with what the other person has said, thought, or assumed.
+/// When used in a question, it is used to confirm the other person’s (or sometimes one’s own) understanding of what was said.
+/// こういうこと may also be used to summarize what the speaker has said.
+
+/// (3) What does it mean?
 
 登山って、どういう意味？//What does 'tosan' mean?
 山に登るってことよ。//It means to climb mountains.
 
-/// # どういうこと
+/// # ~って in the first clause
+/// 登山（とざん）って is a shortened spoken version of 登山（とざん）というのは. 登（のぼ）る means “to climb.”
 
-/// That’s too bad
+/// (4) That’s too bad
 
 彼、何て行ってた？//What did he say?
 行かないって。//He said he’s not going.
 そう。残念だけど、しかたないね。//Really. That’s too bad, but what can we do?
+
+/// # 残念（ざんねん）
+/// This adjectival noun means that the speaker feels sorry about what he or she has just heard or learned about.
+
+/// # しかたない
+/// This is a shortened phrase; the complete expression is しかたがない.
+/// しかた means “way of dealing with something.”
+/// So, the literal meaning of this expression is “There’s no way to deal with this.”
+/// This phrase, which is used when the speaker wishes to indicate that he or she will have to accept a situation as it is.
+/// Another expression, しようがない, has the same meaning as しかたがない;
+/// しようがない is often contracted to しょうがない when speaking colloquially.
