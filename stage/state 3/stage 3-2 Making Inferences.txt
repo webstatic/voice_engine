@@ -1,0 +1,42 @@
+stage ３，２。
+/// Stage 3-2 Making Inferences
+/// 1: Complex Predicates with そうだ
+/// (1) Overview
+/// Complex predicates with such elements as そうだ, ようだ, and らしい express the speaker’s inferences based on different sources.
+/// Some of these have been already introduced, and some are new.
+
+/// The difference among the structures that express inferences lies in the source of information:
+/// whether it is from an objective or subjective source, or the degree of objectivity or subjectivity of the information source.
+
+/// The following illustrates the continuum of different information sources of the relevant elements of these structures.
+
+/// Objective source ———————-———————— Subjective source
+/// そうだ らしい                      ようだ Stem + そう
+
+/// Often, English expressions such as “it appears,” “it looks,” “it seems,” or “it is likely” are used to introduce complex predicate structures with the above elements.
+/// A reminder here is that there is no absolute one-to-one correspondence between certain English translations and Japanese sentences (or vice versa),
+/// so it is important to remember that learning the underlying meaning of each structure is far more powerful than learning structures via English translation.
+
+/// (2) Complex words with そう and complex predicates with そうだ
+/// They look similar, but the information sources, as well as the structures, are quite different. Review the following.
+
+/// A complex adjectival noun is derived by adding そう to the stem of a word, while a complex predicate is derived by adding そうだ to the original predicate.
+/// The meanings are quite different.
+
+あの人の作ったケーキはまずそうですね。//The cake that he made doesn’t look very appetizing, does it?
+あの人の作ったケーキはまずいそうですね。//I heard that the cake that he made is unappetizing; is that right?
+
+/// # Information source
+/// the objective information source is often expressed with によると and a complex predicate with そうだ.
+/// However, the objective source cannot be expressed by the complex adjectival noun with そう.
+/// This complex word is used only for information sources that are completely subjective.
+
+山田さんの話によると、あの人の作ったケーキはまずいそうですね。//According to Yamada-san, the cake that he made is unappetizing, but is that really so?
+
+/// (3) Aspects of the two structures
+/// The following sentences illustrate how aspects of the above two structures are expressed:
+
+ーーーーーーーーーーーーーーーーーーーー
+ーーーーーーーーーーーーーーーーーーーー
+カンバセーション。
+

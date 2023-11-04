@@ -6,9 +6,6 @@ stage ２，７。
 /// A complex predicate is a predicate consisting of two or more elements.
 /// In Japanese, different elements are added onto the basic predicate to convey the speaker’s view or interpretation of a situation, or his or her intention, among many other things.
 
-/// So far, such elements as つもりだ, ようだ, だろう, かもしれない, and んだ have been briefly introduced.
-/// In this chapter, some of these elements will be discussed further, and some new complex predicates will be introduced.
-
 /// (2) つもりだ
 /// the functional noun つもり and the copula です can be added to a predicate to indicate the speaker’s plan.
 
@@ -32,56 +29,76 @@ stage ２，７。
 私はイギリスで勉強するつもりです。//I plan to study in England.
 
 /// A third person’s intent may be expressed by reporting what he or she has said, by expressing the speaker’s belief with the verb 思（おも）う, or by using other complex predicates.
-/// This construction indicates that the speaker is expressing his or her understanding of the third person’s intent.
 
 リンさんは来年、日本で勉強するつもりだと言っていました。//Lin-san said that he plans to study in Japan next year.
 ウィリアムズさんは来年、日本で勉強するつもりだと思います。//I believe Williams-san is planning to study in Japan next year.
 
-/// (3) はずだ -> expresses the speaker’s expectation of a certain event; the event need not relate directly to the speaker.
+/// (3) はずだ
+/// A complex predicate with はずだ expresses the speaker’s expectation of a certain event;
+/// the event need not relate directly to the speaker.
+/// Although つもりだ is not used to discuss a third person’s intent, this may be expressed with はずだ.
+/// This construction indicates that the speaker is expressing his or her understanding of the third person’s intent.
 
 カーターさんは来年、日本で勉強するはずです。//It is my understanding that Carter-san will study in Japan next year.
 私は来年、日本に行けるはずです。//I believe that I’ll be able to go to Japan next year.
 
-/// The difference between はず and 思（おも）う
-/// they each convey a different nuance. 思う expresses the speaker’s personal opinion, but はずだ an objective expectation the speaker infers from some source.
+/// # The difference between はず and 思（おも）う
+/// In many sentences, はずだ and 思う can be interchanged, but they each convey a different nuance.
+/// 思う expresses the speaker’s personal opinion,
+/// but はずだ an objective expectation the speaker infers from some source.
 
 もうすぐ、先生はいらっしゃるはずです。//I expect the teacher to be here very soon.
 もうすぐ、先生はいらっしゃると思います。//I think the teacher will be here soon.
 
-/// はずだ expresses the speaker’s belief regarding a certain fact or event, but it may not be used to express a specific personal opinion arising from direct experience. In the latter case, 思（おも）う would be used.
+/// The next pair of sentences illustrate that はずだ expresses the speaker’s belief regarding a certain fact or event, but it may not be used to express a specific personal opinion arising from direct experience.
+/// In the latter case, 思（おも）う would be used.
 
 日本語を勉強しているんですか。//Is it true that you’re studying Japanese?
 ええ、日本語は難しいですが、本当におもしろい言葉だと思います。//Yes. Japanese is difficult, but I think it’s a very interesting language.
 
+/// Since the second sentence expresses the speaker’s opinion, はずだ cannot be substituted for 思う
 ーーーーーーーーーーーーーーーーーーーー
 /// 2: Complex Predicates with のだ
 /// The underlying notion of the use of の (or ん in more casual conversation) and the copula だ in complex predicates gives the sense that the statement or question includes the speaker’s personal interpretation.
+/// However, it is easier to learn the meanings this structure can convey when used in statements and questions separately.
 
-/// (1) In questions - it indicates that the speaker would like to confirm his or her understanding of a certain situation with the addressee.
-/// Situation 1
-/// な must be used between a nominal element and の（ん）だ.
+/// (1) In questions
+/// When の（ん）だ is used with a yes-no question sentence,
+/// it indicates that the speaker would like to confirm his or her understanding of a certain situation with the addressee.
+
+/// # Situation 1
 
 天ぷらが好きなんですか。//I guess you like tempura, don’t you?
 
-/// Situation 2
+/// Note that な must be used between a nominal element and の（ん）だ.
+
+/// # Situation 2
 /// When の（ん）だ is used with an information-seeking question, it indicates that the speaker would like to receive some kind of explanation.
 
 どこへ行くんですか。//Would you tell me where you’re going?
+/// [The speaker seeks an explanation.]
+
+/// The following question is a straightforward question in which the speaker wants to know where the addressee will go (there is no implication of asking why):
 
 どこに行きますか。//Where are you going?
 
-/// Situation 3
-/// confirm the observation and at the same time convey that he or she would like some kind of explanation from the addressee
+/// # Situation 3
+/// When the speaker suspects that something unusual has happened to the addressee, he or she can confirm this observation and at the same time convey that he or she would like some kind of explanation from the addressee.
+/// The following questions are a few of those that could be used in such a situation:
 
 何があったんですか。//Tell me, what happened?
 何かあったんですか。//Did something happen? – Tell me.
 どうしたんですか。//Tell me what happened. Is something wrong?
-
 ーーーーーーーーーーーーーーーーーーーー
 /// (2) In statements
-/// When の（ん）だ is added to the predicate of a statement, it adds the sense that the speaker is giving an explanation of a past or future action. 
+/// When の（ん）だ is added to the predicate of a statement, it adds the sense that the speaker is giving an explanation of a past or future action.
+/// In the following sentence, the first clause with のだ gives an explanation why the speaker mentions in the main clause that he or she has no money.
 
 来年、日本に行きたいと思っているのですが、お金がありません。//You may know that I’d like to go to Japan next year, but I don’t have any money.
+
+/// When asking a professor a question, for example, it is a good idea to explain the reason for asking the question.
+/// It is therefore appropriate to use this complex predicate in the first clause:
+
 来年、日本に行きたいのですが、どの学校がいいでしょうか。//I’d like to go to Japan next year. What school do you think is good?
 
 /// This complex predicate may also be used both in a why-question and its response in conversation.
@@ -89,52 +106,79 @@ stage ２，７。
 どうして、授業を休んだんですか。//Tell me why you were absent from the class.
 頭が痛かったんです。//It was because I had a headache.
 
+/// the use of ん instead of の is strictly for casual speech.
+/// It is therefore not advisable to write ん or use it on more formal occasions.
+
 ーーーーーーーーーーーーーーーーーーーー
-/// 3: Complex Predicates with そうだ -> used to objectively report information that the speaker has gathered.
+/// 3: Complex Predicates with そうだ
+/// The complex predicate with そうだ simply conveys information that the speaker has gathered from an outside source (such as TV, radio, newspaper, friends, etc.).
+/// The sentence with そうだ is therefore used to objectively report information that the speaker has gathered.
+
+/// The following example sentences include a verbal, an adjectival, and a nominal (both with an adjectival noun and a noun) predicate before そうだ.
 
 午後、雨が降るそうです。//My source tells me that it will rain this afternoon.
-あの店のお茶はおいしいそうです。//I’ve heard/read/learned that tea at that shop is delicious.
+あの店のお茶はおいしいそうです。//I’ve learned that tea at that shop is delicious.
+/// learned or heard/read/
 
 /// The copula だ needs to be used between a noun or an adjectival noun and そう.
 
-ここは静かだそうです。//I’ve heard/read/learned that this place is quiet.
-あの人は日本人だそうです。//I’ve heard/read/learned that that person is Japanese.
+ここは静かだそうです。//I’ve learned that this place is quiet.
+/// learned or heard/read/
+あの人は日本人だそうです。//I’ve learned that that person is Japanese.
+/// learned or heard/read/
 
-/// (1) Information source -> in sentences with そうだ may be marked by によると.
+/// (1) Information source
+/// The objective source of information in sentences with そうだ may be marked by によると.
 
 テレビによると、今日は雨が降るそうです。//According to the TV, it’s going to rain today.
 林さんの話によると、去年、東京は雪が降ったそうです。//According to Hayashi-san, it snowed in Tokyo last year.
 
 /// (2) Complex predicates with そうだ and quotative sentences with 聞（き）く
-/// the information is conveyed is clearer in the construction with 聞（き）いた.
+/// These constructions are different in that the means by which the information is conveyed is clearer in the construction with 聞（き）いた.
 /// The construction with そうだ does not clarify whether the information was “read,” “heard,” or received in some other way, unless he source is identified.
-/// the topic of the predicate 聞（き）く is the person who hears the content; however, the topic of the predicate そうだ is not the person who has the information, but the thing or the person that the predicate describes.
+
+/// Another difference between these constructions is that the topic of the predicate 聞（き）く is the person who hears the content;
+/// however, the topic of the predicate そうだ is not the person who has the information, but the thing or the person that the predicate describes.
+
+/// In addition, the complex predicate そうだ cannot express the specific time at which the information was obtained, but with the predicate 聞（き）く this is possible.
 
 午後、雨が降ると聞きました。//I heard that it would rain in the afternoon.
 あの人は日本人だと聞きました。//I heard that that person is Japanese.
 
-/// the complex predicate そうだ cannot express the specific time at which the information was obtained, but with the predicate 聞（き）く this is possible.
-
 家に帰った時に、弟が日本に留学をすると聞いた。//When I went home, I heard that my brother was going to study abroad in Japan.
 
-/// (3) Two different そう - the complex adjectival noun with そう and the complex predicate with そう（だ） have almost opposite meanings in terms of the information source
+/// (3) Two different そう
+/// Be aware that the complex adjectival noun with そう and the complex predicate with そう（だ） have almost opposite meanings in terms of the information source.
+
+/// Compare the following two sentences below:
 
 このケーキはおいしそうですね。//This cake looks delicious!
 このケーキはおいしいそうですね。//I hear that this cake is delicious.
 
-/// The first sentence is uttered based on the speaker’s direct and immediate observation, while the second sentence is based on an outside source
+/// The first sentence is uttered based on the speaker’s direct and immediate observation,
+/// while the second sentence is based on an outside source, such as hearing from someone else, reading, or some other means.
 
 ーーーーーーーーーーーーーーーーーーーー
 /// 4: Conjunctive Forms and Other Verbs
-/// There are predicates that consist of two verbs, the first of which is in the conjunctive form. This kind of predicate is quite different from a complex predicate, the biggest distinction being that the speaker’s views are not relevant in these predicates.
+/// There are predicates that consist of two verbs, the first of which is in the conjunctive form.
+/// This kind of predicate is quite different from a complex predicate, the biggest distinction being that the speaker’s views are not relevant in these predicates.
+
+/// Although it is not always the case, the second verb is generally not written in kanji in these predicates.
 
 /// (1) ~てくる (て来る) and ~ていく (て行く)
-/// The verb くる to indicate returning -> くる is used after another verb, it indicates that the speaker will return as soon as the event expressed by the first verb is complete.
+
+/// # The verb くる to indicate returning
+///When くる is used after another verb, it indicates that the speaker will return as soon as the event expressed by the first verb is complete.
 
 コーヒーを買います。//I’ll buy some coffee.
 コーヒーを買ってきます。//I’ll go and get some coffee.
 
+/// The first sentence literally means that the speaker will buy coffee and come back to where he or she was.
+/// The second sentence indicates only that the speaker will purchase coffee (no mention is made of coming back):
+
 走ってきました。//I went running, but I’m back now.
+
+/// The above sentence indicates that the speaker has returned from running.
 
 何をしたんですか。//Tell me what you did.
 コーヒーを買ったんです。//I bought coffee.
@@ -142,30 +186,50 @@ stage ２，７。
 どこに行ったんですか。//Tell me where you’ve been.
 コーヒーを買ってきたんです。//I just went out to get coffee.
 
-/// Verbs くる and いく to indicate the beginning of an event
-/// くる and いく indicate the direction of movement. Since くる (来る) describes the topic approaching the speaker, it sometimes expresses the beginning of an event.
+/// # Verbs くる and いく to indicate the beginning of an event
+/// くる and いく indicate the direction of movement.
+/// Since くる describes the topic approaching the speaker, it sometimes expresses the beginning of an event.
 
 雨が降ってきました。//It’s started raining.
 晴れてきました。//It’s beginning to clear up.
 曇ってきました。//It’s starting to cloud over.
 
+/// In the first sentence above, くる conveys the nuance that the rain is coming down on or towards the speaker. いく may not be used here.
+/// The second and third sentences convey the nuance that the speaker has directly perceived the changes in the weather.
+
 /// the combination of the verbs 出（で）る and いく gives the sense that the topic is moving away from the speaker.
 
 ルームメートが明日ここから出ていきます。//My roommate is moving away tomorrow.
 
-/// Metaphorical meanings - the directional verbs くる and いく can also be used to describe something moving metaphorically towards or away from the speaker.
+/// # Metaphorical meanings
+/// In addition to their specific meanings,
+/// the directional verbs くる and いく can also be used to describe something moving metaphorically towards or away from the speaker.
+
+/// For instance, if the speaker had trouble understanding something earlier and has finally begun to understand it after much thought, he or she can use this statement:
 
 分かってきました。//I’m beginning to understand.
 
+/// The くる in the above sentence indicates that understanding has moved, metaphorically, towards the speaker’s mind.
+
 日本語を忘れていきます。//I’m starting to forget Japanese.
 
-/// (2) ~ておく - The verb 置（お）く, which means “to place something somewhere,”
+/// In the example above, いく indicates that the knowledge the speaker once had is moving away from him or her, metaphorically speaking.
+/// くる would not be used in this case.
+
+/// (2) ~ておく
+/// The verb 置（お）く, which means “to place something somewhere,” is used as a regular verb, as in the following example:
 
 私は鞄を机の上に置きました。//I put my backpack on the desk.
 
 /// When this verb is combined in a predicate with another verb, it implies that the action will result in a benefit at a later time.
 
+/// The following sentence literally means, “We will have a party tomorrow, so I bought drinks and food and put them away so that I can use them later at the party.”
+
 明日、パーティーがありますから、今日、食べ物と飲み物を買っておきました。//We’re having a party tomorrow, so I bought food and drinks for it today.
+
+/// Here is another example. A teacher might inform her or his students of an upcoming test with the following advice.
+/// The full implication is something like, “I will give you a test on Friday, so study the material well and keep it in your memory for the test.”
+
 金曜日に試験がありますから、よく勉強しておいてください。//We’ll have an exam on Friday, so study the material well.
 
 
@@ -179,7 +243,10 @@ stage ２，７。
 いつも寝てると、悪い成績をつけられちゃいますよ。//You’re going to get a bad grade if you’re always sleeping.
 本当にそうですよね。これから、気をつけます。//Yeah, you’re right. I’ll try to do better from now on.
 
-/// In casual conversation, ~てしまう is changed to ~ちゃう. The polite form of ~ちゃう is ~ちゃいます, and the conjunctive form is ~ちゃって. In
+/// # ~ちゃう
+/// In casual conversation, ~てしまう is changed to ~ちゃう.
+/// The polite form of ~ちゃう is ~ちゃいます, and the conjunctive form is ~ちゃって.
+/// In the example below, ~ちゃった is the positive perfective form.
 
 宿題、忘れちゃった!//I completely forgot about my assignment!
 
@@ -188,7 +255,9 @@ stage ２，７。
 ああ、また、電話するの、忘れちゃった！//Oh, I forgot to call again.
 後で、僕が電話しとくよ。//I’ll call and take care of it later.
 
-/// ~ておく is contracted to ~とく in casual speech. The て-form is ~といて, and the polite form is ~ときます.
+/// # 電話（でんわ）しとくよ
+/// ~ておく is contracted to ~とく in casual speech.
+/// The て-form is ~といて, and the polite form is ~ときます.
 
 これ、明日までに、読んどきます。//I will have read this by tomorrow.
 これ、明日までに、読んどいて。//Get this read by tomorrow.
@@ -198,7 +267,9 @@ stage ２，７。
 ちょっと出てきます。いってきます。//I’m going out for a bit. I’ll be back.
 いってらっしゃい。//OK, bye.
 
+/// # ちょっと出（で）てきます
 /// ちょっと is a colloquial form of 少（すこ）し.
+/// So, the first line means something like “I will be out for a while.”
 
 /// いってきます is a standard phrase that a person says before leaving his or her own house.
 /// いってまいります is a more polite way to say the same thing.
