@@ -123,7 +123,7 @@ stage １，３。
 /// may be used with all predicate types: nominal, adjectival, and verbal predicates.
 /// The copula です is used when the speaker is certain about the content of a sentence.
 /// When the speaker is not absolutely certain, but fairly sure, about the content expressed in the predicate, then the volitional でしょう is used.
-/// The adverb 多分（たぶん） “perhaps, probably” is often used in a sentence with でしょう, although it is not an obligatory element.
+/// The adverb 多分 {たぶん} “perhaps, probably” is often used in a sentence with でしょう, although it is not an obligatory element.
 
 あの人は学生でしょう。//That person is probably a student.
 
@@ -175,14 +175,14 @@ stage １，３。
 
 ーーーーーーーーーーーーーーーーーーーー
 /// 3: Conjunctions
-/// (1) Sentential conjunctions その前（まえ）に, その後（あと）で, and その時（とき）に
-/// When nouns such as 前（まえ） “before,” 後（あと） “after,” and 時（とき） “time,” are used with the demonstrative その, they function as sentential conjunctions (i.e., conjunctions that connect two sentences).
+/// (1) Sentential conjunctions その前に, その後で, and その時に
+/// When nouns such as 前 {まえ} “before,” 後 {あと} “after,” and 時 {とき} “time,” are used with the demonstrative その, they function as sentential conjunctions (i.e., conjunctions that connect two sentences).
 
 私は去年、日本に行きました。その前（に）、日本語を勉強しました。//I went to Japan last year. Before that, I studied Japanese.
 映画を見ました。その後（で）、ハンバーグを食べました。//I watched a movie. After that, I ate a hamburger.
 去年、日本に行きました。その時（に）、日本語を勉強しました。//I went to Japan last year. At that time, I studied Japanese.
 
-/// # Noun with 前（まえ）, 後（あと）, and 時（とき）
+/// # Noun with 前, 後, and 時
 
 朝ご飯の前（に）、勉強しました。//Before breakfast, I studied.
 朝ご飯の後（で）、勉強しました。//After breakfast, I studied.

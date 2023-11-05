@@ -96,7 +96,7 @@ stage ２，４。
 /// In Japanese, passive verbs can also be used in sentences in which the speaker expresses an emotional response to an event.
 /// Feelings such as annoyance or surprise can be conveyed by the use of passive verbs.
 /// In this type of passive sentence, even intransitive action verbs may be used in some situations.
-/// However, semi-transitive verbs, and the intransitive counterpart of a transitive-intransitive verb pair (such as the intransitive, 始（はじ）まる, whose transitive counterpart is 始（はじ）める)
+/// However, semi-transitive verbs, and the intransitive counterpart of a transitive-intransitive verb pair (such as the intransitive, 始まる {はじまる}, whose transitive counterpart is 始める {はじめる})
 /// may not be used even in affective passives.
 
 /// The structures of the regular passive and affective passive are inherently different.
@@ -151,7 +151,7 @@ stage ２，４。
 卒業式で雨に降られてしまいました。//It turned out that it rained at the graduation ceremony.
 ーーーーーーーーーーーーーーーーーーーー
 /// (5) Passive and potential sentences
-/// In terms of their formation, the passive and potential forms of Group 1 verbs and 来（く）る are identical.
+/// In terms of their formation, the passive and potential forms of Group 1 verbs and 来る {くる} are identical.
 /// The two forms are used in different structures, however, so the meanings of each are clear.
 
 このケーキが食べられますか。//Can you eat this cake?
@@ -214,7 +214,7 @@ stage ２，４。
 太郎さんが日本語の手紙を読んでくれました。//Taro read the Japanese letter for me.
 私は日本語の手紙を太郎さんに読んでもらいました。//I had Taro read the Japanese letter for me.
 
-/// The person who did the action of reading the letter is in the topic position in the sentence with ~く れる（くださる）.
+/// The person who did the action of reading the letter is in the topic position in the sentence with ~くれる（くださる）.
 /// In contrast, the person who has asked and received the favor is the topic in the sentence with ~もらう（いただく）.
 
 /// In the first sentence with ~くれる（くださる）, the focus is Taro, who has offered the action of reading.
@@ -262,14 +262,14 @@ stage ２，４。
 
 漢字が難しくて、私はこの本が読めません。//I can’t read this book because the kanji are too difficult.
 
-/// Emotive expressions, such as the verb 困（こま）る in the following sentence, are often used in the result clause:
+/// Emotive expressions, such as the verb 困る {こまる} in the following sentence, are often used in the result clause:
 
 雨が降って、困りました。//It rained, and that caused me some problems.
 
 /// (2) Apologizing
 /// Ending the first clause with the て-form is a construction commonly used to form an apology:
 
-昨日、授業に来なくて、すみません（でした）。//I’m sorry I didn’t come to class yesterday.
+昨日、授業に来なくて、すみません {でした）。//I’m sorry I didn’t come to class yesterday.
 
 /// A very common mistake when expressing an apology is to connect the two clauses with the conjunction から (or ので), as in the following incorrect sentence:
 
@@ -317,8 +317,8 @@ stage ２，４。
 /// やって in this phrase is from the verb やる “to do,” a colloquial verb equivalent in meaning to する.
 /// どうやって is a way of asking how things are done.
 
-/// # 乗（の）せてもらって
-/// 乗（の）せる is a verb meaning “to give a ride.”
+/// # 乗せてもらって
+/// 乗せる {のせる} is a verb meaning “to give a ride.”
 
 彼は私を車に乗せてくれた。//He gave me a ride in his car.
 
@@ -329,17 +329,17 @@ stage ２，４。
 一生懸命、勉強したんですが、ちょっと風邪をひいていたんです。//I studied as hard as I could, but I caught a bit of a cold.
 それはいけませんね。気をつけてください。//That’s too bad [about the cold]. Please do take care.
 
-/// # 成績（せいせき）をつける and 点（てん）をつける
-/// 成績（せいせき） “grade” and 点（てん） “point” are used to express the grade one receives in a course, on a test, etc.
+/// # 成績をつける and 点をつける
+/// 成績 {せいせき} “grade” and 点 {てん} “point” are used to express the grade one receives in a course, on a test, etc.
 /// The verbs used with these words are つける (for giving a grade) and もらう (for receiving one).
 
-/// 一生懸命（いっしょうけんめい） is used with the particle に, though the particle may be deleted in casual conversation.
+/// 一生懸命 {いっしょうけんめい} is used with the particle に, though the particle may be deleted in casual conversation.
 /// The phrase means that one does something “as hard as one possibly can.”
-/// 一所懸 命（いっしょけんめい） (i.e., the second kanji pronounced with a short しょ) is also commonly used.
+/// 一所懸命 (i.e., the second kanji pronounced with a short しょ) is also commonly used.
 
-/// # 気（き）をつける
-/// There are quite a few idiomatic phrases with the noun 気（き）, “spirit; mind; heart.”
-/// 気（き）をつける indicates that a person pays attention to things, or is careful about certain things.
+/// # 気をつける
+/// There are quite a few idiomatic phrases with the noun 気 {き}, “spirit; mind; heart.”
+/// 気をつける indicates that a person pays attention to things, or is careful about certain things.
 /// The thing that the topic pays attention to is marked by に.
 
 車に気をつけてください。//Watch out for cars, please.

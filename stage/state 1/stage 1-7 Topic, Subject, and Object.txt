@@ -34,11 +34,11 @@ stage １，７。
 
 ナースロボさんは目が大きいです。//Naasurobo-san has large eyes.
 
-/// the predicate 大（おお）きい describes the subject, 目（め） “eyes,” rather than the topic. 
+/// the predicate 大きい {おおきい} describes the subject, 目 {め} “eyes,” rather than the topic. 
 
 ナースロボさんは自分の目が嫌いです。//Naasurobo-san doesn’t like her [own] eyes.
 
-/// the predicate 嫌（きら）い “to dislike” is semi-transitive. That is, what the topic dislikes is the object, 目（め） “eyes.”
+/// the predicate 嫌い {きらい} “to dislike” is semi-transitive. That is, what the topic dislikes is the object, 目 {め} “eyes.”
 
 /// (2) Direct objects of adjectives and adjectival nouns
 /// Some adjectives and adjectival nouns are classified as semi-transitive predicates, because they require a direct object for the notion to be complete.
@@ -47,19 +47,19 @@ stage １，７。
 /// examples show cases where these words modify nouns:
 /// 好きな本 上手な人 欲しい本 怖い先生
 
-/// 好（す）き “to be fond of” and 嫌（きら）い “to dislike” can be modified by the adverbial prefix 大, which means “big” and is pronounced だい (on-reading).
+/// 好き {すき} “to be fond of” and 嫌い {きらい} “to dislike” can be modified by the adverbial prefix 大, which means “big” and is pronounced だい (on-reading).
 /// This prefix may not be used for all other adjectives or adjectival nouns. Its use is quite limited.
 
 私は寿司が大好きです。//I love sushi.
 私は寿司が大嫌いです。//I can’t stand sushi.
 
-/// Even though the words 嫌（きら）い and 下手（へた） carry a negative meaning, they may not be used with the adverb あまり because the structures in which they are used are positive.
+/// Even though the words 嫌い and 下手 {へた} carry a negative meaning, they may not be used with the adverb あまり because the structures in which they are used are positive.
 /// To convey the intended meaning above, use the following sentence:
 
 私はこの本があまり好きではありません。//I don’t like this book very much.
 
 /// (3) Emotive words
-/// Words such as 欲（ほ）しい and 怖（こわ）い, known as emotive words, express the speaker’s emotional state.
+/// Words such as 欲しい {ほしい} and 怖い {こわい}, known as emotive words, express the speaker’s emotional state.
 /// Such words are only used in the predicate when the speaker is the topic, or when directly questioning the addressee.
 /// They may not be used to describe a third person’s emotional state.
 
@@ -96,16 +96,16 @@ stage １，７。
 /// の instead of こと is also possible, although they are not completely interchangeable.
 
 /// (2) Expressing a desire to do things -> [v-stem + たい]
-/// The adjective 欲（ほ）しい is used to express the speaker’s desire for a thing.
+/// The adjective 欲しい {ほしい} is used to express the speaker’s desire for a thing.
 
 私は寿司が欲しいです。//I want some sushi.
 
-/// 欲（ほ）しい can take a noun, but not a verb (even a nominalized verb), as its object in a sentence.
+/// 欲しい can take a noun, but not a verb (even a nominalized verb), as its object in a sentence.
 /// Instead, the following structure must be used:
 
 私は寿司が食べたいです。//I want to eat some sushi.
 
-/// 食（た）べたい in the above sentence is a derived adjective which expresses that the speaker wants to eat something.
+/// 食べたい in the above sentence is a derived adjective which expresses that the speaker wants to eat something.
 /// To derive this type of adjective, drop ~ます from the polite form of the verb and add ~たい (e.g. たべます to たべたい).
 /// The derived form expresses the speaker’s desire to do something. The newly derived form is an adjective, and is therefore conjugated as an adjective:
 
@@ -113,7 +113,7 @@ stage １，７。
 私は寿司が食べたかったです。//I wanted to eat sushi.
 私は寿司が食べたくありませんでした。//I did not want to eat sushi.
 
-/// Like 欲（ほ）しい, this predicate may be used to express the speaker’s desire to do something, as well as to ask another person directly about his or her desire, but it may not be used to express desire on the part of a third person.
+/// Like 欲しい, this predicate may be used to express the speaker’s desire to do something, as well as to ask another person directly about his or her desire, but it may not be used to express desire on the part of a third person.
 
 あなたは何が食べたいですか。//What do you want to eat?
 
@@ -232,13 +232,13 @@ stage １，７。
 
 アメリカと日本と、どちらが大きいですか。//America and Japan, which of the two is big?
 
-/// The noun 方（ほう） “side” is often added with の after どちら when comparing two things.
+/// The noun 方 {ほう} “side” is often added with の after どちら when comparing two things.
 
 アメリカと日本とでは、どちらの方が大きいですか。//America and Japan, which side is big?
 
 /// # Answering comparative questions
 /// When answering a question about a comparison, it is best to use a structure that parallels the structure of the question.
-/// In answering a question that compares two items, the use of 方（ほう）is required, although it is optional in the question sentence.
+/// In answering a question that compares two items, the use of 方 is required, although it is optional in the question sentence.
 
 アメリカと中国とでは、どちら（の方）が大きいですか。//Which is bigger, America or China?
 中国の方が大きいです。//China is bigger.
@@ -265,7 +265,7 @@ stage １，７。
 あの人の話は私にはよく分かりません。//That person’s talk is quite incomprehensible to me.
 
 /// (2) Comparing more than two things
-/// In comparing more than two things or people, the adverb 一番（いちばん）is placed immediately before the descriptive word.
+/// In comparing more than two things or people, the adverb 一番 {いちばん}is placed immediately before the descriptive word.
 /// The particle で indicates the boundary of comparison.
 
 この大学は日本で一番大きい大学です。//This university is the biggest one in Japan.
@@ -275,9 +275,9 @@ stage １，７。
 
 これとそれとあれの中で、どれが一番、安いですか。//Out of this one, that one, and that one over there, which is the cheapest?
 
-/// The list can be summarized with either ~の中（なか）で or ~のうちで.
+/// The list can be summarized with either ~の中で {なかで} or ~のうちで.
 /// It is also possible to provide the category in which a comparison will be made.
-/// In this case, the particle で alone or の中 （なか）で is used:
+/// In this case, the particle で alone or の中で  {なかで} is used:
 
 飲み物（の中）で、何が一番美味しいですか。//Among all drinks, which is the most delicious?
 お茶が一番、美味しいです。//Tea is the most delicious.
@@ -311,13 +311,13 @@ stage １，７。
 それはいけませんね。お大事に。//Oh, dear, that’s too bad. Do take care.
 
 /// どうしましたか is a fixed expression used for an equivalent expression in English, “What happened?” 
-/// In Japanese, 何（なん・なに） is used for a very specific thing, but for a vague or openended thing, どう is used.
+/// In Japanese, 何 {なん・なに} is used for a very specific thing, but for a vague or openended thing, どう is used.
 
-// ちょっと is a colloquial expression of 少（すこ）し, “a little.”
+// ちょっと is a colloquial expression of 少し {すこし}, “a little.”
 
 /// それはいけませんね expresses that the speaker feels badly about the addressee’s poor condition.
 
-/// お大事（だいじ）に expresses the speaker’s hope that the addressee will take care of him/herself, because the speaker knows the addressee is not feeling well.
+/// お大事に {おだいじに} expresses the speaker’s hope that the addressee will take care of him/herself, because the speaker knows the addressee is not feeling well.
 
 /// (3) When the speaker does not know the answer
 
@@ -329,12 +329,12 @@ stage １，７。
 /// In this case, the speaker is trying to come up with the correct answer.
 /// The first syllable of the word may be drawn out while the speaker tries to find the answer or something to say.
 
-/// # 大丈夫（だいじょうぶ）です
-/// When used in a question as in 大丈夫（だいじ ょうぶ） ですか “Are you all right?” the speaker asks if the addressee is all right (health, general circumstances, current state, etc.).
-/// 大丈夫（だいじょうぶ）です may either be the response to this question (“I’m OK”), or an expression used by the speaker to ease the worry of the addressee (“That’s OK”).
+/// # 大丈夫です
+/// When used in a question as in 大丈夫ですか {だいじょうぶですか} “Are you all right?” the speaker asks if the addressee is all right (health, general circumstances, current state, etc.).
+/// 大丈夫です {だいじょうぶです} may either be the response to this question (“I’m OK”), or an expression used by the speaker to ease the worry of the addressee (“That’s OK”).
 
-/// # スミスさんに聞（き）きますから
+/// # スミスさんに聞きますから {スミスさんに きき ますから}
 /// This is almost like giving a reason as an afterthought.
 /// から is the conjunction used to give a reason, but the way it is used here is incomplete.
-/// If this clause came before 大丈夫（だいじょうぶ）です, it would mean “Because I’ll ask Smith-san, I’ll be all right.”
+/// If this clause came before 大丈夫です, it would mean “Because I’ll ask Smith-san, I’ll be all right.”
 /// Note that the polite form rather than the plain form is used before から. When using this structure as an afterthought, this is not uncommon.

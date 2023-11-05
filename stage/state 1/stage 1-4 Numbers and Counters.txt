@@ -60,13 +60,13 @@ stage １，４。
 /// Logically, all numbers must be used with appropriate counters depending on what is being counted.
 
 /// (2) Time
-/// # 時（じ） for the specific hour
+/// # 時 {じ} for the specific hour
 
-/// # 分（ふん・ぷん） for minutes
+/// # 分 {ふん・ぷん} for minutes
 /// Both specific minutes and the duration of minutes
 
 /// # Asking and telling time
-/// 今（いま） is a time adverb meaning “now.”
+/// 今 {いま} is a time adverb meaning “now.”
 
 今、何時ですか。//What time is it now?
 今、二時です。//It’s 2:00.
@@ -84,22 +84,22 @@ stage １，４。
 
 三時十五分すぎです。//It’s 15 minutes past 3:00.
 
-/// The term to indicate the half hour is 半（はん）.
-/// When using 半（はん） “half,” the word すぎ “past” or the counter 分（ふん） may not be added.
+/// The term to indicate the half hour is 半 {はん}.
+/// When using 半 {はん} “half,” the word すぎ “past” or the counter 分 {ふん} may not be added.
 
 九時半です。//It’s nine-thirty.
 
 /// In Japanese, “a.m.” and “p.m.” must be used before the time rather than after.
-/// The terms for “a.m.” and “p.m.” are 午前（ごぜん） (literally “before noon”) 午後（ごご） (“after noon”) respectively.
+/// The terms for “a.m.” and “p.m.” are 午前 {ごぜん} (literally “before noon”) 午後 {ごご} (“after noon”) respectively.
 
 午前三時です。//It’s three o’clock a.m.
 午後八時半です。//It’s eight-thirty p.m.
 
-/// To express an approximate time, 頃（ごろ） “approximately” is used after the time rather than before the time.
+/// To express an approximate time, 頃 {ごろ} “approximately” is used after the time rather than before the time.
 
 午前三時頃です。//It’s about 3:00 a.m.
 
-/// When the time is close to the next hour, 前（まえ）, which means “before,” can be used
+/// When the time is close to the next hour, 前 {まえ}, which means “before,” can be used
 
 十一時十分前です。//It’s 10 minutes before 11:00.
 
@@ -117,16 +117,16 @@ stage １，４。
 明日、私は朝から晩まで勉強します。//Tomorrow I’ll study from morning until night.
 ーーーーーーーーーーーーーーーーーーーー
 /// (3) Telephone numbers
-/// The counter 番（ばん） is normally used for ordinal numbers.
+/// The counter 番 {ばん} is normally used for ordinal numbers.
 /// It is therefore used for such things as ranking.
 /// This counter is also used to indicate telephone numbers.
 
-/// The term for “telephone” is 電話（でんわ） and the term for “number” is 番号（ばんごう）. Thus the word for “telephone number” is 電話番号（でんわばんごう）.
+/// The term for “telephone” is 電話 {でんわ} and the term for “number” is 番号 {ばんごう}. Thus the word for “telephone number” is 電話番号 {でんわばんごう}.
 
 あなたの電話番号は何番ですか。//What’s your telephone number?
 ーーーーーーーーーーーーーーーーーーーー
 /// (4) Money  
-///  The counter for Japanese currency is 円（えん）. “dollars,” ドル, and “cents,” セント in addition to “yen” 円（えん）
+///  The counter for Japanese currency is 円 {えん}. “dollars,” ドル, and “cents,” セント in addition to “yen” 円
 
 /// # The interrogative pronoun いくら
 /// いくら is the interrogative pronoun used to ask the price of something.
@@ -143,8 +143,8 @@ stage １，４。
 はい、（あの本は）そのぐらいです。//Yes, it’s around that price.
 
 /// # The difference between ごろ and ぐらい
-/// Both 頃（ごろ） and ぐらい are translated as “approximately” or “about.”
-/// The difference is that 頃（ご ろ） is an approximation of a point of time, whereas ぐらい is an approximation of the duration of time or of the amount of something.
+/// Both 頃 {ごろ} and ぐらい are translated as “approximately” or “about.”
+/// The difference is that 頃 is an approximation of a point of time, whereas ぐらい is an approximation of the duration of time or of the amount of something.
 
 駅には三時頃に着きます。//We will arrive at the station about 3 o’clock.
 この飲み物は三ドルぐらいです。//This drink costs about 3 dollars.
@@ -158,9 +158,9 @@ stage １，４。
 /// 四人 よにん,
 /// 五人 ごにん,
 /// 六人 ろくにん,
-/// 七人 なな（しち）にん,
+/// 七人 ななにん （しちにん）,
 /// 八人 はちにん,
-/// 九人 きゅう（く）にん,
+/// 九人 きゅうにん（くにん）,
 /// 十人 じゅうにん
 /// ? 何人 なんにん
 ーーーーーーーーーーーーーーーーーーーー
@@ -177,16 +177,16 @@ stage １，４。
 来週、新しい漢字を二十、勉強します。//We will study 20 new kanji next week.
 ーーーーーーーーーーーーーーーーーーーー
 /// (7) Long things and bound things
-/// # 本（ほん） for long objects
+/// # 本 {ほん} for long objects
 /// when this kanji is used as a counter, it is not used to count books.
 /// Rather it is the counter for long objects such as pencils, pens, bottles, trees, flowers, etc.
 
-/// # 冊（さつ） for bound objects
+/// # 冊 {さつ} for bound objects
 /// such as books, magazines, dictionaries, etc. —not newspapers, since they are not bound
 
 ーーーーーーーーーーーーーーーーーーーー
 /// (8) Flat things and pages
-/// # 枚（まい） for flat things
+/// # 枚 {まい} for flat things
 /// paper, shirts, sweaters, CDs, DVDs, disks, pieces of toast, plates, etc.
 
 /// # ページ (頁) for the specific page number and the number of pages
@@ -260,7 +260,7 @@ stage １，４。
 
 /// いらっしゃいませ is a common way to welcome customers to any shop or restaurant. The ませ at the end may be omitted.
 
-/// either お願（ねが）いします or ください is used When a customer asks a store clerk to wrap things that he or she wants to purchase
+/// either お願いします  {おねがいします} or ください is used When a customer asks a store clerk to wrap things that he or she wants to purchase
 /// お願いします is more polite.
 
 /// いかがですか is used when offering or suggesting something to someone

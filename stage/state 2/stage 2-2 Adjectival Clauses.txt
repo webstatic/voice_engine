@@ -171,14 +171,14 @@ stage ２，２。
 寿司を食べたことがありますか。//Have you ever eaten sushi?
 ええ、あります。//Yes, I have.
 
-/// In a negative response, it is common to add 一度（いちど）も “not even once” to the negative ありませ ん
+/// In a negative response, it is common to add 一度も {いちども} “not even once” to the negative ありませ ん
 
 いいえ、一度もありません。//No. Not even once.
 
 /// The imperfective form should not be used before ことがある to talk about a past experience; this construction has quite a different meaning from the one with the perfective form.
 
 /// (3) [Perfective verb] ほうがいい
-/// The functional noun 方（ほう）, which literally means “side” or “way,” is used to suggest or indicate a better or preferred way to do something.
+/// The functional noun 方 {ほう}, which literally means “side” or “way,” is used to suggest or indicate a better or preferred way to do something.
 /// For this construction, the verb must be in the perfective form.
 /// The perfective form is preferred in this fixed phrase because one can judge something to be good only after the action is completed.
 /// This assumed completion is expressed with the perfective form.
@@ -194,7 +194,7 @@ stage ２，２。
 /// (1) In a statement
 /// This construction is used when the speaker assumes that the addressee does not know the specific name of the thing being discussed.
 /// This expression is rather formulaic, insofar as the first noun should be a specific name, and the second noun should be a category that the specific thing named by the first noun belongs to.
-/// という comes from the quotative particle と and the verb 言（い）う, but in this expression, いう is not written in kanji.
+/// という comes from the quotative particle と and the verb 言う {いう}, but in this expression, いう is not written in kanji.
 
 /// 東京という所 “a place called Tokyo”
 /// マイクという学生 “a student called Mike”
@@ -210,7 +210,7 @@ stage ２，２。
 
 旅行という言葉は英語で何ですか。//What is the word for 'Ryokou' in English?
 
-/// The pronoun の may be used in place of 言葉（ことば） in the above sentence because the referent is clear from the context.
+/// The pronoun の may be used in place of 言葉 {ことば} in the above sentence because the referent is clear from the context.
 
 旅行というのは英語で何ですか。//What’s the word for 'Ryokou' in English?
 
@@ -250,10 +250,10 @@ stage ２，２。
 お母さん、何て？//What did Mom say?
 うん。あまり好きじゃないって。//Um, she said she didn’t like it all that much.
 
-/// # 何（なん）て？
-/// 何て is a colloquial version of 何（なん）と言（い）いましたか “What did (someone) say?” This expression is used very often in conversation.
+/// # 何て {なんて}？
+/// 何て is a colloquial version of 何と言いましたか “What did (someone) say?” This expression is used very often in conversation.
 
-/// ~って in spoken language is a shortened version of と言（い）いました, meaning “(someone) said such-and-such.”
+/// ~って in spoken language is a shortened version of と言いました, meaning “(someone) said such-and-such.”
 /// Therefore, the content of the message goes before ~って.
 
 /// (2) What do you mean?
@@ -278,7 +278,8 @@ stage ２，２。
 山に登るってことよ。//It means to climb mountains.
 
 /// # ~って in the first clause
-/// 登山（とざん）って is a shortened spoken version of 登山（とざん）というのは. 登（のぼ）る means “to climb.”
+/// 登山って {とざんって} is a shortened spoken version of 登山というのは.
+/// 登る {のぼる} means “to climb.”
 
 /// (4) That’s too bad
 
@@ -286,7 +287,7 @@ stage ２，２。
 行かないって。//He said he’s not going.
 そう。残念だけど、しかたないね。//Really. That’s too bad, but what can we do?
 
-/// # 残念（ざんねん）
+/// # 残念 {ざんねん}
 /// This adjectival noun means that the speaker feels sorry about what he or she has just heard or learned about.
 
 /// # しかたない

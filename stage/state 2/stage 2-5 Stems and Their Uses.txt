@@ -27,27 +27,27 @@ stage ２，５。
 忙しい時に、時々、休むことは大切です。//It’s important to rest sometimes when things are busy.
 ーーーーーーーーーーーーーーーーーーーー
 /// (3) Stems used to describe the weather
-/// Weather may be described by using nouns such as 雨（あめ） and 雪（ゆき）, as shown below:
+/// Weather may be described by using nouns such as 雨 {あめ} and 雪 {ゆき}, as shown below:
 
 今日は雨です。//It is rainy today.
 明日は雪です。//It will snow tomorrow.
 
 /// To describe clear and cloudy days, it is common to use the stems of the relevant verbs in the predicate position.
-/// 晴（は）れる is a verb meaning “to clear up.” 晴（は）れ is the stem of this verb.
+/// 晴れる {はれる} is a verb meaning “to clear up.” 晴れ {はれ} is the stem of this verb.
 
 今日は晴れです。//It is sunny today.
 
-/// Likewise, 曇（くも）る is a verb that means “to become cloudy.” 曇（くも）り is the stem of this verb.
+/// Likewise, 曇る {くもる} is a verb that means “to become cloudy.” 曇り {くもり} is the stem of this verb.
 
 今日は曇りです。//It is cloudy today.
 
 /// The following formulaic expression is often used by weather forecasters, and may be heard in weather reports.
 /// It is good to know this expression in order to understand TV or radio broadcasts, but there is no need to use it to describe the weather in conversation.
-/// 後（のち）, a rather formal word, means “later.”
+/// 後 {のち}, a rather formal word, means “later.”
 
 今日は、晴れ、後、曇りです。//It will be clear at first and then cloud over later today.
 
-/// In conversation, 後（あと）で “at a later time,” with the optional で, may be used rather than 後（の ち）:
+/// In conversation, 後で {あとで} “at a later time,” with the optional で, may be used rather than 後 {のち}:
 
 今日は、晴れで、その後（で）、曇りになると聞きました。//I heard that today will be clear at first, and then it will cloud over.
 ーーーーーーーーーーーーーーーーーーーー
@@ -122,16 +122,16 @@ stage ２，５。
 
 /// When the verb preceding ために is in the perfective form, the entire sentence takes on a different meaning.
 ーーーーーーーーーーーーーーーーーーーー
-/// (4) 大和言葉（やまとことば） and 漢語（かんご）
+/// (4) 大和言葉 {やまとことば} and 漢語 {かんご}
 /// In addition to the use of a stem as a nominal form, one may see an actual noun that consists of kanji compounds in the same construction.
 /// As explained thus far, both stems and nominalized verbs function as nominal elements.
 /// In addition to these two kinds of nominal elements, there is another group of nouns that consist of more than one kanji.
-/// These kanji compounds are called 漢語（かんご）.
+/// These kanji compounds are called 漢語 {かんご}.
 
-/// For instance, the noun 読書（どくしょ） “reading,” a 漢語（かんご）.
+/// For instance, the noun 読書 {どくしょ} “reading,” a 漢語 {かんご}.
 /// The same meaning can be expressed by the verb 読む with the nominalizer こと, as in 読むこと.
 
-/// In the pair of sentences below, 食（た）べ is derived from the verb 食べる, while the noun 食事（しょ くじ） “meal” is expressed with two kanji.
+/// In the pair of sentences below, 食べ {たべ} is derived from the verb 食べる, while the noun 食事 {しょくじ} “meal” is expressed with two kanji.
 /// This kanji compound is pronounced with the on-reading:
 
 明日、一緒に食べに行きませんか。//Would you like to eat together tomorrow?
@@ -140,20 +140,20 @@ stage ２，５。
 /// In any language, there is often more than one word to refer to the same thing, event, action, state, etc.
 /// In English, these similar words, if not exactly the same, may have different origins: AngloSaxon and Latin/French-based, for example.
 /// In Japanese, two common sources are native words and Chinese words.
-/// The native words are referred to as 大和言葉（やまとことば） or 和語（わご） while words of Chinese origin are 漢語（かんご）.
-/// For “reading,” 読む is 大和言葉（やまとことば）, while the kanji compound 読書（どくしょ） is of Chinese origin.
+/// The native words are referred to as 大和言葉 {やまとことば} or 和語 {わご} while words of Chinese origin are 漢語 {かんご}.
+/// For “reading,” 読む is 大和言葉 {やまとことば}, while the kanji compound 読書 {どくしょ} is of Chinese origin.
 
-/// Not all 漢語（かんご） are of Chinese origin, however.
-/// For instance, the verb 食（た）べる is 大和言葉 （やまとことば）.
-/// The 漢語 equivalent is 食事（しょくじ）する, but this 漢語（かんご） is a Japan-made noun based on the structure of the words of Chinese origin.
+/// Not all 漢語 {かんご} are of Chinese origin, however.
+/// For instance, the verb 食べる {たべる} is 大和言葉  {やまとことば}.
+/// The 漢語 equivalent is 食事する {しょくじする}, but this 漢語 {かんご} is a Japan-made noun based on the structure of the words of Chinese origin.
 /// There are quite a few such 漢語.
 
 /// Notice the differences in the readings of the kanji of these two words.
-/// For most 大和言葉（やまとこ とば）, 訓読（くんよ）み is used, as in 食（た）べる.
-/// And 音読（おんよ）み is used for most 漢語（かんご） as in 食事（しょくじ）.
+/// For most 大和言葉 {やまとことば}, 訓読み {くんよみ} is used, as in 食べる {たべる}.
+/// And 音読 {おんよ}み is used for most 漢語 {かんご} as in 食事 {しょくじ}.
 
 /// The difference between the two kinds of words is often one of formality.
-/// 大和言葉（やまとことば） are used more often in everyday speech, while 漢語（かんご） sound somewhat more formal.
+/// 大和言葉 {やまとことば} are used more often in everyday speech, while 漢語 {かんご} sound somewhat more formal.
 /// Of course, this is just a broad generalization, and there are exceptions to this statement.
 
 ーーーーーーーーーーーーーーーーーーーー
@@ -165,13 +165,13 @@ stage ２，５。
 
 /// # Expressing one’s own desires
 /// In Japanese culture, it is considered overly direct to express one’s own desires, so it may not be appropriate to use the たい-form by itself in some cases.
-/// To avoid such directness, many speakers add the verb 思（おも）う.
+/// To avoid such directness, many speakers add the verb 思う {おもう}.
 
 来年、日本に行きたいと思っています。//I want to go to Japan next year.
 
-/// Since the above sentence refers to the speaker’s current feeling, 思（おも）っている is better than the habitual 思（おも）う, which is generally used to express the speaker’s opinions.
+/// Since the above sentence refers to the speaker’s current feeling, 思っている {おもっている} is better than the habitual 思う {おもう}, which is generally used to express the speaker’s opinions.
 
-/// There is no need to add 思（おも）う when negating a desire or talking about a past desire.
+/// There is no need to add 思う when negating a desire or talking about a past desire.
 
 そんな映画は見たくありません。//I don’t want to see that kind of a movie.
 ミルクが飲みたかったです。//I wanted to drink milk.
@@ -194,13 +194,13 @@ stage ２，５。
 
 マイクさんは来年、日本に行きたいようです。//It seems to me that Mike wants to go to Japan next year.
 
-/// Review and further study of structures with the verbs 言（い）う (or おっしゃる) and 思（おも）う follows below.
+/// Review and further study of structures with the verbs 言う {いう} (or おっしゃる) and 思う {おもう} follows below.
 ーーーーーーーーーーーーーーーーーーーー
-/// (2) The verbs 言（い）う and おっしゃる
-/// おっしゃる is the honorific verb of the verb 言（い）う.
+/// (2) The verbs 言う {いう} and おっしゃる
+/// おっしゃる is the honorific verb of the verb 言う.
 /// The polite form is おっしゃいます, rather than お っしゃります, just as the polite form of いらっしゃる is いらっしゃいます, not いらっしゃります.
 
-/// Since おっしゃる is the honorific verb of 言（い）う, it is used when the topic is someone to whom the speaker wishes to show respect.
+/// Since おっしゃる is the honorific verb of 言う, it is used when the topic is someone to whom the speaker wishes to show respect.
 
 /// With these verbs, there are essentially two ways to report what the other has said: the speech can be reported directly, or indirectly.
 
@@ -227,50 +227,50 @@ stage ２，５。
 
 伊藤先生は試験は金曜日だとおっしゃいました。//Ito-sensei said that the examination would be on Friday.
 ーーーーーーーーーーーーーーーーーーーー
-/// (3) The verb 思（おも）う
-/// Both 思（おも）う and 考（かんが）える are translated as “to think.”
-/// However, 思（おも）う, rather than 考 （かんが）える, is used for stating the speaker’s own opinions or thoughts.
-/// 考（かんが）える is usually reserved for the problem-solving type of thinking.
+/// (3) The verb 思う
+/// Both 思う {おもう} and 考える {かんがえる} are translated as “to think.”
+/// However, 思う, rather than 考える, is used for stating the speaker’s own opinions or thoughts.
+/// 考える is usually reserved for the problem-solving type of thinking.
 
-/// The verb 思（おも）う is used similarly to the verb 言（い）う.
-/// however, the verb 思（おも）う, is not used to quote thoughts directly.
+/// The verb 思う is used similarly to the verb 言う.
+/// however, the verb 思う, is not used to quote thoughts directly.
 /// Thoughts are generally conveyed by stating their content, rather than the verbatim thoughts themselves.
 
 /// This verb can be used when the speaker asks the addressee what he or she thinks directly, or when the speaker expresses his or her thoughts.
 /// Like other emotive expressions, this verb may not be used to express a third person’s thoughts.
 
-/// When asking for opinions, use the interrogative pronoun どう rather than 何（なん）.
+/// When asking for opinions, use the interrogative pronoun どう rather than 何 {なん}.
 
 あなたはこれについてどう思いますか。//What do you think of this?
 とてもいい考えだと思います。//I think it’s a very good idea.
 
-/// When asking for specific information, 何（なん） or 何（なん） with an appropriate suffix may be used.
+/// When asking for specific information, 何 {なん} or 何 {なん} with an appropriate suffix may be used.
 /// In this case, the question particle か is not used within the embedded question (that is, the question clause used within the sentence).
-/// In the sentence below, か should not be used between the clause 何人だ and the final verb 思（おも）う.
+/// In the sentence below, か should not be used between the clause 何人だ and the final verb 思う.
 
 あの人は何人だと思いますか。//What nationality do you think that person is?
 あの人は日本人だと思います。//I think he’s Japanese.
 
-/// As mentioned above, the topic of the verb 思（おも）う is always the speaker in a statement sentence, or the addressee in a question sentence.
-/// This verb may not be used to report a third person’s opinion. To do this, another element such as 言（い）う or よう may be used after the verb 思（おも）う, as shown below.
+/// As mentioned above, the topic of the verb 思う is always the speaker in a statement sentence, or the addressee in a question sentence.
+/// This verb may not be used to report a third person’s opinion. To do this, another element such as 言う {いう} or よう may be used after the verb う思 {おもう}, as shown below.
 
 鈴木さんはそれはいい考えだと思うと言いました。//Suzuki-san said that he thought it was a good idea.
 鈴木さんはそれはいい考えだと思っているようです。//It looks to me like Suzuki-san thinks it’s a good idea.
 
-/// (4) The verb 聞（き）く
-/// The verb 聞（き）く has two different meanings.
+/// (4) The verb 聞く {きく}
+/// The verb 聞く has two different meanings.
 
-/// # 聞（き）く “to hear”
+/// # 聞く “to hear”
 /// It is most common to use indirect quotation to express something that has been heard from another person.
 
 伊藤先生の授業はとても難しいと聞きました。//I heard that Ito-sensei’s class is very difficult.
 伊藤先生の授業はとても難しいということを聞きました。//I heard that Ito-sensei’s class is very difficult.
 
-/// To convey what has been heard directly, the two verbs, 言（い）う and 聞（き）く, must be used in a single sentence. This type of sentence will be covered in Stage 3–1, as the important factor of direct perception must be considered.
+/// To convey what has been heard directly, the two verbs, 言う and 聞く, must be used in a single sentence. This type of sentence will be covered in Stage 3–1, as the important factor of direct perception must be considered.
 
-/// # 聞（き）く “to ask”
+/// # 聞く “to ask”
 /// There are direct as well as indirect ways to report the content of a question.
-/// When reporting directly, both か in the quoted question and と, which connects the quote and the verb 聞（き）く, are used.
+/// When reporting directly, both か in the quoted question and と, which connects the quote and the verb 聞く, are used.
 /// When reporting indirectly, the question particle かoverrides the quotative particle と.
 
 鈴木先生は僕に「何時に起きましたか。」と聞きました。//Suzuki-sensei asked me, ‘What time did you get up?’
@@ -313,9 +313,9 @@ stage ２，５。
 子供が寝ているあいだ（に）、私は勉強しました。//I studied during the time that my child was sleeping.
 私は日本にいるあいだ（に）、漢字をたくさん勉強しました。//I studied a lot of kanji during the time I was in Japan.
 
-/// # The use of に after あいだ
+/// # The use of に after 間 {あいだ}
 /// The particle に in あいだに is not optional.
-/// When the particle に is used immediately after 間（あい だ）, it indicates that the duration of the events in the two clauses is not the same.
+/// When the particle に is used immediately after 間, it indicates that the duration of the events in the two clauses is not the same.
 
 子供が寝ている間に、私は勉強しました。//I studied for part of the time that my child was sleeping.
 
@@ -347,7 +347,7 @@ stage ２，５。
 
 /// # どこ行き
 /// The stem of 行く is used to specify destination in a rather unusual structure.
-/// When asking about a destination, it is used within the predicate in a complex noun, どこ行（ゆ）き, with no intervening particle.
+/// When asking about a destination, it is used within the predicate in a complex noun, どこ行き, with no intervening particle.
 /// The stem 行き may be pronounced either いき or ゆき; ゆき is very common in this context.
 
 /// (2) Expressing regret
@@ -373,11 +373,11 @@ stage ２，５。
 大丈夫ですよ。僕の車で駅まで行きましょう。//It’ll be fine. Let’s go to the station in my car.
 ええ？いいんですか。ありがとうございます。本当に助かります。//Really? Are you sure? Thank you so much. What a great help!
 
-/// 間（ま）に合（あ）わない is the negative form of the idiomatic phrase, 間（ま）に合（あ）う “to be on time.”
+/// 間に合わない is the negative form of the idiomatic phrase, 間に合う {まにあう} “to be on time.”
 
 /// # いいんですか
 /// This expression is equivalent to an expression in English, “Are you sure that’s all right?” ~んです か indicates that the speaker wants to confirm his or her assumption or understanding.
 
-/// # 本当に助（たす）かります
-/// 助（たす）かる is an intransitive verb indicating that “something is helpful to the situation that the person is in at the moment.”
+/// # 本当に助かります
+/// 助かる {たすかる} is an intransitive verb indicating that “something is helpful to the situation that the person is in at the moment.”
 /// When someone volunteers to help, this is an appropriate expression to use together with ありがとうございます in two separate sentences.

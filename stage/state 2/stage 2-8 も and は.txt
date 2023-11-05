@@ -79,16 +79,16 @@ stage ２，８。
 ーーーーーーーーーーーーーーーーーーーー
 /// 2: も in Phrases
 /// (1) Indefinite amount
-/// Indefinite amounts of things may be expressed by combining 何（なん） with a counter (or いくつ for the ~つ counter) and the particle も or か.
+/// Indefinite amounts of things may be expressed by combining 何 {なん} with a counter (or いくつ for the ~つ counter) and the particle も or か.
 /// The combination with も indicates a larger number (“several”) than the one with か (“a few”).
 
-/// # 何（なん） (with an appropriate counter) or いくつ and も
+/// # 何 (with an appropriate counter) or いくつ and も
 
 この本は何度も読みましたが、全然、分かりません。//I’ve read this book several times, but I don’t get it at all.
 あの人に何日も滞在されて、とても困りました。//He inconvenienced us greatly by staying at our house for several days.
 お土産をいくつも買いましたが、もう全部、あげてしまいました。//Although I bought several souvenirs, I have already given them all away.
 
-/// # 何（なん） (with an appropriate counter) or いくつ and か
+/// # 何 (with an appropriate counter) or いくつ and か
 
 この漢字の意味を何人かに聞きましたが、だれも分かりませんでした。//I asked a few people about the meaning of this kanji, but no one knew it.
 かばんをいくつか買ってみましたが、好きなかばんはありませんでした。//I bought a few bags, but I didn’t find one that I really liked.
@@ -197,14 +197,14 @@ stage ２，８。
 
 ーーーーーーーーーーーーーーーーーーーー
 /// 4: Conditional Adverbial Clauses with ~ば
-/// Thus far, it has been explained that time and situational conditions are expressed with adverbial clauses joined by the conjunctions 時（とき）, 前（まえ）, 後（あと）, or と.
+/// Thus far, it has been explained that time and situational conditions are expressed with adverbial clauses joined by the conjunctions 時 {とき}, 前 {まえ}, 後 {あと}, or と.
 /// The predicate form ~たら may also be used in the adverbial clause in this case.
 /// Another adverbial clause that expresses situational conditions is joined by the so-called ば-form of the predicate.
 
 /// (1) Creating the ば-formation
 /// Nominal predicate       である→であれば - 日本人であれば
 /// Adjectival predicate    い→ければ - たかければ, よければ
-/// Verbal predicate        the last u to e and add ば - たべれば, はなせば, くれば
+/// Verbal predicate        the last {u} to {e} and add ば - たべれば, はなせば, くれば
 
 /// # である as the copula
 /// is a more formal copula than だ. 
@@ -307,22 +307,22 @@ stage ２，８。
 そう？だって、何でも食べなきゃ、元気にならないわよ。//Really? But you’re not going to get better unless you eat.
 うん。そうだけど。//Yeah, I know, but . . .
 
-/// # お茶（ちゃ）でも、飲（の）む？
+/// # お茶でも、飲む？ {おちゃ でも、のむ？}
 /// Nouns with でも convey suggested items.
-/// So, when offering tea, you can say お茶（ちゃ）でも、飲（の） みますか, meaning “Would you like to drink tea or something of that sort?”
+/// So, when offering tea, you can say お茶でも、飲みますか, meaning “Would you like to drink tea or something of that sort?”
 
 /// # 今はちょっと
-/// ちょっと is a colloquial expression of 少（すこ）し, but this phrase is used to decline an offer.
+/// ちょっと is a colloquial expression of 少し {すこし}, but this phrase is used to decline an offer.
 /// It means something like “Now is not such a good time.” 
 
-/// # 食（た）べる気（き）しない
-/// In this expression, が is deleted from 気（き）しない, and the complete phrase should be 気（き）がしない.
-/// 気（き）しない -> 気（き）がしない
-/// The idiom 気（き）がする means that the speaker has a certain feeling.
+/// # 食べる気しない   {たべる き しない}
+/// In this expression, が is deleted from 気しない, and the complete phrase should be 気がしない  {き がしない}.
+/// 気しない -> 気がしない
+/// The idiom 気がする {きがする} means that the speaker has a certain feeling.
 
 /// だって is a casual expression that means something similar to でも.
 
-/// # 何（なん）でも食（た）べなきゃ
+/// # 何でも食べなきゃ  {なん でも たべなきゃ}
 /// ~なきゃ, which is very casual, is a contracted form of ~なければ in the construction introduced above.
 /// As is the case with other contracted forms, this form is more colloquial than ~なければ.
 
@@ -335,10 +335,10 @@ stage ２，８。
 
 /// やつ is used only by male speakers to refer to other males. It is extremely casual.
 
-/// 君（きみ） is used only by male speakers to address the listener.
+/// 君 {きみ} is used only by male speakers to address the listener.
 /// It is quite casual and may be used to address either gender.
 
-/// 俺（おれ） is used by the speaker to refer to himself;
+/// 俺 {おれ} is used by the speaker to refer to himself;
 /// this word is also used only by male speakers in extremely casual situations.
 
 /// # なるほど

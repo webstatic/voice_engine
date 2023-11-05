@@ -38,8 +38,9 @@ stage ２，６。
 
 ーーーーーーーーーーーーーーーーーーーー
 /// 2: Complex Verbs
-/// (1) [Stem + 過（す）ぎる] -> the action denoted by the first element is performed in excess
-/// This construction is used when the action denoted by the first element is performed in excess. It is also used in excessive or hyperbolic descriptions.
+/// (1) [Stem + 過ぎる {すぎる}] -> the action denoted by the first element is performed in excess
+/// This construction is used when the action denoted by the first element is performed in excess.
+/// It is also used in excessive or hyperbolic descriptions.
 
 /// # With verbs
 
@@ -47,13 +48,13 @@ stage ２，６。
 パーティーで飲みすぎないでください。//Please don’t drink too much at the party.
 
 /// # With adjectives
-/// The stems of adjectives are formed by dropping the final い. Use the stem of an adjective and add 過（す）ぎる.
+/// The stems of adjectives are formed by dropping the final い. Use the stem of an adjective and add 過ぎる {すぎる}.
 
 今日は、私には、寒過ぎます。//It’s too cold for me today.
 あの人は頭がよすぎると皆に言われています。//Everyone says that he’s too smart.
 
 /// # With adjectival nouns
-/// Adjectival nouns do not have stems since they do not conjugate. In this construction, they come immediately before 過（す）ぎる.
+/// Adjectival nouns do not have stems since they do not conjugate. In this construction, they come immediately before 過ぎる.
 
 この部屋は静か過ぎます。//This room is too quiet.
 
@@ -66,37 +67,37 @@ stage ２，６。
 /// # With negative predicates
 /// Although rare, it is possible to use the negative predicate in this construction.
 /// All negative predicates contain ない, which follows the same conjugational pattern as adjectives.
-/// In this construction, ない with 過（す）ぎる produces なさ過（す）ぎる with さ intervening between the syllable な and すぎる. (This kind of insertion happens when there are too few syllables between two separate elements.)
+/// In this construction, ない with 過ぎる produces なさ過ぎる with さ intervening between the syllable な and すぎる. (This kind of insertion happens when there are too few syllables between two separate elements.)
 
 うちの子は元気がなさ過ぎます。//Our child is too unwell these days.
 ここには頭のいい人がいなさ過ぎます。//There are too few smart people here.
 ーーーーーーーーーーーーーーーーーーーー
 /// (2) Stem with other verbs
-/// # 始（はじ）める -> [Stem + 始（はじ）める] -> "indicates the beginning of an event"
-/// 始（はじ）める is a transitive verb and meaning “to begin something.”
+/// # 始める -> [Stem + 始める] -> "indicates the beginning of an event"
+/// 始める {はじめる} is a transitive verb and meaning “to begin something.”
 /// The complex verb formed from this verb indicates the beginning of an event:
 
 晩ご飯を作り始めましょうか。//Shall we begin making supper?
 宿題をし始めました。//I have begun doing my homework.
 
-/// # 出（だ）す -> [Stem + 出（だ）す] -> "denotes the beginning of a continuous action or event"
-/// The verb 思い出す（おもいだす） “to recall”; this verb in fact consists of the stem of the verb 思（おも）う and the verb 出（だ）す.
+/// # 出す {だす} -> [Stem + 出す] -> "denotes the beginning of a continuous action or event"
+/// The verb 思い出す {おもいだす} “to recall”; this verb in fact consists of the stem of the verb 思う {おもう} and the verb 出す {だす}.
 /// This complex verb literally means something like “to take out what has been memorized.”
 
 ああ、あの人の名前を思い出しました。//Oh, now I remember that person’s name.
 
-/// Although 出（だ）す “to take something out” itself is transitive, it can be combined with both intransitive and transitive verbs.
+/// Although 出す “to take something out” itself is transitive, it can be combined with both intransitive and transitive verbs.
 /// This expression has an inceptive or inchoative sense, that is, it denotes the beginning of a continuous action or event.
 
 雨が降り出しました。//It started to rain.
 
-/// Complex verbs with 出（だ）す are very similar to those with 始（はじ）める.
+/// Complex verbs with 出す are very similar to those with 始める {はじめる}.
 /// Compare the following two sentences:
 
 あの人はゆっくり話し出しました。//The person slowly began speaking.
 あの人はゆっくり話し始めました。//The person slowly began speaking.
 
-/// When the speaker anticipates the beginning of an event, 始（はじ）める may be used; while an unanticipated event may be expressed with 出（だ）す.
+/// When the speaker anticipates the beginning of an event, 始める may be used; while an unanticipated event may be expressed with 出す.
 /// Thus, the first sentence above means that the person began talking and the speaker had not expected it;
 /// the second sentence implies that the speech of the person, which the speaker had anticipated, began.
 
@@ -108,8 +109,8 @@ stage ２，６。
 /// The first sentence indicates that the child began to cry when no one was expecting it to.
 /// But the second sentence makes it sound as if people had been waiting for the child to cry, which could happen, for example, in a dramatic play.
 
-/// # 直（なお）す -> [Stem + 直（なお）す] -> "an action is repeated"
-/// 直（なお）す by itself means “to correct” or “to repair.” 
+/// # 直す -> [Stem + 直す] -> "an action is repeated"
+/// 直す {なおす} by itself means “to correct” or “to repair.” 
 
 コンピュータを直しました。//I fixed the computer.
 
@@ -118,13 +119,13 @@ stage ２，６。
 この本を読み直しました。//I re-read this book.
 手紙を書き直しました。//I re-wrote the letter.
 
-/// # 忘（わす）れる -> [Stem + 忘（わす）れる] -> "to express forgetting to do something"
-/// 忘（わす）れる by itself means “to forget.”
+/// # 忘れる -> [Stem + 忘れる] -> "to express forgetting to do something"
+/// 忘れる {わすれる} by itself means “to forget.”
 
 かさを学校に忘れました。//I forgot my umbrella at school.
 
 /// There are two ways to express forgetting to do something:
-/// 1. use the stem of a verb and 忘（わす） れる;
+/// 1. use the stem of a verb and 忘れる;
 /// 2. nominalize the verb with の in the object position (the use of こと rather than の is acceptable, but の is preferable).
 
 母に電話し忘れました。//I forgot to call my mother.
@@ -132,15 +133,15 @@ stage ２，６。
 
 /// Although there is only a small difference between the two sentences above, in certain cases the two structures are not interchangeable.
 
-/// When the action indicated is from one point to a goal (e.g. going, returning, etc.), the use of complex verbs with 忘（わす）れる is awkward.
+/// When the action indicated is from one point to a goal (e.g. going, returning, etc.), the use of complex verbs with 忘れる is awkward.
 /// In this case, use the nominalized verb with の.
 
 図書館に行くのを忘れました。//I forgot to go to the library.
 今日、歩くのを忘れた。//I forgot to go for a walk today.
 
 ーーーーーーーーーーーーーーーーーーーー
-/// 3: Complex Nouns with 方（かた）
-/// 方（かた） means “method” or “way”; thus, the coupling of a verb stem with this noun means “a way of (doing something).”
+/// 3: Complex Nouns with 方
+/// 方 {かた} means “method” or “way”; thus, the coupling of a verb stem with this noun means “a way of (doing something).”
 /// An equivalent expression in English is “how to do something.”
 
 /// 読み方 “the way of reading” (how to read)
@@ -275,12 +276,12 @@ stage ２，６。
 /// # Irregular humble verbs
 /// There are a handful of humble verbs that are irregular insofar as they are not derived from the base forms of corresponding verbs.
 
-/// 申（もう）す is the humble version of the neutral verb 言（い）う;
+/// 申す {もうす} is the humble version of the neutral verb 言う {いう};
 
 私はリンと申します。//I’m Lin.
 私はリンと言います。//I’m Lin.
 
-/// 参（まい）る is the humble version of the directional verbs 行（い）く and 来（く）る.
+/// 参る {まいる} is the humble version of the directional verbs 行く {いく} and 来る {くる}.
 
 私は明日、こちらに参りません。//I won’t come here tomorrow.
 私は明日、そちらに参りません。//I won’t go there tomorrow.
@@ -314,13 +315,13 @@ stage ２，６。
 /// The host normally welcomes the guest with this greeting. 
 /// ませ makes this expression more polite.
 
-/// # お上（あ）がりください
-/// the verb 上（あ）がる literally means “to rise.”
+/// # お上がりください
+/// the verb 上がる {あがる} literally means “to rise.”
 
 
-/// # お邪魔（じゃま）します
-/// 邪魔（じゃま） is an adjectival noun that means “interference.”
-/// お邪魔（じゃま）します is used often when going into someone else’s house, room, or office.
+/// # お邪魔します
+/// 邪魔 {じゃま} is an adjectival noun that means “interference.”
+/// お邪魔します is used often when going into someone else’s house, room, or office.
 
 
 /// (2) I wonder…
@@ -331,7 +332,7 @@ stage ２，６。
 ううん・・・そうかな？でも、あの人、とってもかわいそうな人・・・//Huh . . . I guess that’s true, isn’t it? But, you know, I feel really sorry for her.
 へえ？そうなの？//Is that right?
 
-/// 何（なん）だか, which means “for some reason,” is used in conversation to express that the reason for a certain thing is not very clear to the speaker.
+/// 何だか {なんだか}, which means “for some reason,” is used in conversation to express that the reason for a certain thing is not very clear to the speaker.
 
 /// # Rhetorical question with かな
 /// かな is used in conversation, when the speaker expresses a question about something without addressing it to anyone but him or herself;
@@ -345,6 +346,6 @@ stage ２，６。
 あなたが嫌いな人って、どんな人？//What kind of people get on your nerves?
 そうねえ。例えば、話しすぎる人とか、いつも文句を言う人・・・。//Um, let’s see. For example, people who talk too much, or people who complain all the time.
 
-/// The noun 文句（もんく） means “complaint.”
-/// The associated verb is 言（い）う, “to say.”
-/// The phrase 文 句を言う（もんくをいう） therefore means “to complain.”
+/// The noun 文句 {もんく} means “complaint.”
+/// The associated verb is 言う {いう}, “to say.”
+/// The phrase 文句を言う {もんくをいう} therefore means “to complain.”

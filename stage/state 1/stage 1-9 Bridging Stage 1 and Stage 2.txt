@@ -24,12 +24,12 @@ stage １，９。
 私は日本語を話すことができます。//I can speak Japanese.
 日本語を話すことは易しいです。//Speaking Japanese is easy.
 
-/// the verb 話（はな）す is used in a non-final position in the same sentences.
-/// こと follows the verb 話（はな）す to nominalize it
+/// the verb 話す {はなす} is used in a non-final position in the same sentences.
+/// こと follows the verb 話す to nominalize it
 
 /// # Reporting what others have said
-/// When reporting what others have said, the verb 言（い）う “to say” is used.
-/// The particle と connects the content of the quote and the final verb, 言（い）う.
+/// When reporting what others have said, the verb 言う {いう} “to say” is used.
+/// The particle と connects the content of the quote and the final verb, 言う.
 /// If it is not a direct quote, the content of the quote should be expressed in the plain form.
 /// The following examples illustrate the different predicate types and aspectual forms used in the content of the quote.
 
@@ -42,23 +42,23 @@ stage １，９。
 時雨さんは何と言いましたか。//What did Shigure-san say?
 
 /// # Conveying the speaker’s thought
-/// the speaker’s opinion can be conveyed by the verb 思（おも）う “to think.”
+/// the speaker’s opinion can be conveyed by the verb 思う {おもう} “to think.”
 /// The content of the speaker’s thought must be in the plain form.
-/// Remember that this verb, 思（おも） う “to think,” is used by the speaker only to express his or her own thoughts or to ask another person directly about their opinion.
-/// 思（おも）う may not be used to express a third person’s thoughts.
+/// Remember that this verb, 思う “to think,” is used by the speaker only to express his or her own thoughts or to ask another person directly about their opinion.
+/// 思う may not be used to express a third person’s thoughts.
 /// Because of this, even when the first-person pronoun is not used in the topic position, it should be understood that the topic of the sentence is the speaker.
 
 私はあの人は日本人だと思います。//I think that that person is Japanese.
 日本語は易しいと思います。//I think that Japanese is easy.
 ずんだまんさんは明日、日本に行くと思います。//I think that Zundamon-san will go to Japan tomorrow.
 
-/// To ask for an opinion, どう is used rather than 何（なん.
-/// どう is normally used for general information while 何（なに・なん） is used for specific information. Compare the following two question sentences:
+/// To ask for an opinion, どう is used rather than 何.
+/// どう is normally used for general information while 何 {なに・なん} is used for specific information. Compare the following two question sentences:
 
 ずんだもんさんは日本語についてどう思いますか。//What do you think of Japanese, Zundamon-san?
 ーーーーーーーーーーーーーーーーーーーー
 /// # Hearing
-/// The verb 聞（き）く has two meanings, “to hear” (or “to listen”) and “to ask.”
+/// The verb 聞く {きく} has two meanings, “to hear” (or “to listen”) and “to ask.”
 /// When discussing something he or she heard, the speaker can report the content in the plain form.
 
 私はあの人は日本人だと聞きました。//I heard that that person is Japanese.
@@ -68,18 +68,18 @@ stage １，９。
 
 あなたはどんなことを聞きましたか。//What did you hear?
 
-/// When asking the exact content of what the addressee has heard, 何（なん） is used. Here, too, を, not と, is used:
+/// When asking the exact content of what the addressee has heard, 何 {なん} is used. Here, too, を, not と, is used:
 
 あなたはずんだまんさんに何を聞きましたか。//What did you hear from Zundamon-san?
 あなたはずんだまんさんから何を聞きましたか。//What did you hear from Zundamon-san?
 
-/// In responding to the two questions above, と is placed between the content and the verb 聞（き）く.
+/// In responding to the two questions above, と is placed between the content and the verb 聞く {きく}.
 
 日本語の試験は易しかったと聞きました。//I heard that the Japanese examination was easy.
 
 /// # Asking
 /// When reporting what one has asked others, the reported content must be in the form of a question sentence ending in the particle か.
-/// In this case, the use of the particle と between the content of the question and the final verb 聞（き）く becomes unnecessary.
+/// In this case, the use of the particle と between the content of the question and the final verb 聞く {きく} becomes unnecessary.
 
 私はルームメートに日本語の試験は易しかったか聞きました。//I asked my roommate if the Japanese examination was easy.
 私はずんだまんさんに明日、日本に行くか聞きました。//I asked Zundamon-san if she would go to Japan tomorrow.
@@ -91,8 +91,8 @@ stage １，９。
 /// Sentences with and without と differ slightly in meaning when reporting questions. 
 /// When と is used, the sentence reports how the question was posed.
 
-/// To ask exactly what question was posed to another person, use 何（なん）.
-/// In this case, the particle と is used after 何（なん）
+/// To ask exactly what question was posed to another person, use 何 {なん}.
+/// In this case, the particle と is used after 何 {なん}
 
 あなたはずんだもんさんに何と聞きましたか。//How did you ask Zundamon-san?
 私はずんだもんさんに日本語の試験は易しかったかと聞きました。//I asked Zundamon-san, ‘Was the Japanese exam easy?’
@@ -180,23 +180,23 @@ stage １，９。
 
 昨日、私は、子供が病気でしたから、授業を休みました。//I didn’t come to class yesterday because my child was sick.
 
-/// (4) Adverbial clauses joined by 時（とき）, 前（まえ）に, and 後（あと）で
+/// (4) Adverbial clauses joined by 時 {とき}, 前に {まえに}, and 後で {あとで}
 
 昨日、私は雪ノ下さんに会いました。その時に、私は留学について話しました。//I met Yukinoshita-san yesterday. At that time, I told him about my study-abroad.
 昨日、私は雪ノ下さんに会いました。その前に、私はお茶を買いました。//I met Yukinoshita-san yesterday. Before that, I bought tea.
 私は雪ノ下さんに会いました。そのあとで、先生にメールを書きました。//I met Yukinoshita-san. After that, I wrote an e-mail message to my teacher.
 
-/// The sentences joined by each conjunction above may be changed into complex sentences by using 時（とき）, 前（まえ）に, and 後（あと）で as clausal conjunctions.
-/// The use of particle に after the conjunction 時（とき） is optional.
+/// The sentences joined by each conjunction above may be changed into complex sentences by using 時, 前に, and 後で as clausal conjunctions.
+/// The use of particle に after the conjunction 時 is optional.
 
 私は雪ノ下さんに会った時に、留学について話しました。//When I ran into Yukinoshita-san, I told him about my study-abroad.
 
-/// Before the conjunction 前（まえ）に, the verb must always be in the imperfective form, regardless of the aspect of the main clause.
+/// Before the conjunction 前に, the verb must always be in the imperfective form, regardless of the aspect of the main clause.
 
 私は雪ノ下さんに会う前に、お茶を買いました。//I bought tea before I met Yukinoshita-san.
 私は雪ノ下さんに会う前に、お茶を買います。//I will buy tea before I meet Yukinoshita-san.
 
-/// Before the conjunction 後（あと）で, the verb must always be in the perfective form, regardless of the aspect of the main clause.
+/// Before the conjunction 後で, the verb must always be in the perfective form, regardless of the aspect of the main clause.
 
 私は雪ノ下さんに会った後で、先生にメールを書きました。//After I met Yukinoshita-san, I wrote an e-mail message to my teacher.
 私は雪ノ下さんに会った後で、先生にメールを書きます。//After I meet Yukinoshita-san, I will write an e-mail message to my teacher.
@@ -219,7 +219,7 @@ stage １，９。
 チャンさんは明日、何をするつもりですか。宿題をするつもりですか。//What are you planning to do tomorrow, Chang-san? Are you going to do your homework?
 宿題はしないつもりですが、買い物に行くつもりです。//I’m not planning to do my homework, but I’m going to go shopping.
 
-/// One way to ask about or state a third person’s intention is to use the verb 思（おも）う.
+/// One way to ask about or state a third person’s intention is to use the verb 思う {おもう}.
 
 時雨さんは明日、何をすると思いますか。//What do you think Shigure-san will do tomorrow?
 宿題をすると思います。//I think he’ll do his homework.
@@ -338,9 +338,9 @@ stage １，９。
 
 /// (2) Potential verbs
 /// Verbs that express the ability of the topic to do something have been introduced as independent words up until this point.
-/// These include 話（はな）せる “to be able to speak,” 書（か）ける “to be able to write,” and 読（よ）める “to be able to read.”
+/// These include 話せる {はなせる} “to be able to speak,” 書ける {かける} “to be able to write,” and 読める {よめる} “to be able to read.”
 /// In addition to indicating ability, potential verbs also express possibility.
-/// Their active counterparts are 話（はな）す “to speak,” 書（か）く “to write,” and 読 （よ）む “to read.”
+/// Their active counterparts are 話す {はなす} “to speak,” 書く {かく} “to write,” and 読む  {よむ} “to read.”
 
 /// In English, a potential expression consists of the auxiliary verb “can” or “be able to” and a verb such as “speak,” as in “I can speak Japanese” or “I am able to speak Japanese.”
 

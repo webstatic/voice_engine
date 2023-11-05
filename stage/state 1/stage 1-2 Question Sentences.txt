@@ -81,7 +81,7 @@ stage １，２。
 こちらはどなたですか。//Who is this person?
 時雨さんです。//This is Shigure-san.
 
-/// (2) なに (何)（なん） “what?”
+/// (2) なに（なん）(何) “what?”
 /// なに is used when asking about things.
 
 ナースロボさんは何が分かりますか。//What does Naasurobo-san understand?
@@ -165,7 +165,7 @@ stage １，２。
 
 /// These demonstrative pronouns are also used for personal pronouns, この人, その人, あの人
 /// These personal pronouns are less formal than こちら, そちら, and あちら. 
-/// Furthermore, こちら, そちら, and あちら are used when the person the speaker refers to is physically present at the time of speech; この人（ひと）, その人（ひと）, and あの人（ひと） do not have the same requirement.
+/// Furthermore, こちら, そちら, and あちら are used when the person the speaker refers to is physically present at the time of speech; この人 {このひと}, その人 {そのひと}, and あの人 {あのひと} do not have the same requirement.
 
 /// The noun after の can be deleted if it is understood, especially when it is inanimate.
 
@@ -297,7 +297,7 @@ stage １，２。
 /// そんなに therefore refers back to some previously mentioned, or simply assumed, evaluation.
 /// This assumption may be made by the addressee as well as by the speaker. あまり does not imply such reference.
 
-/// # 全然 （ぜんぜん）
+/// # 全然  {ぜんぜん}
 /// negates the description in the predicate completely.
 
 日本は寒いですか。//Is it cold in Japan?

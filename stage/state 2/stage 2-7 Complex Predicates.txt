@@ -28,7 +28,7 @@ stage ２，７。
 カーターさんは、来年、どこで勉強するつもりですか。//Where do you plan to study next year, Carter-san?
 私はイギリスで勉強するつもりです。//I plan to study in England.
 
-/// A third person’s intent may be expressed by reporting what he or she has said, by expressing the speaker’s belief with the verb 思（おも）う, or by using other complex predicates.
+/// A third person’s intent may be expressed by reporting what he or she has said, by expressing the speaker’s belief with the verb 思う {おもう}, or by using other complex predicates.
 
 リンさんは来年、日本で勉強するつもりだと言っていました。//Lin-san said that he plans to study in Japan next year.
 ウィリアムズさんは来年、日本で勉強するつもりだと思います。//I believe Williams-san is planning to study in Japan next year.
@@ -42,7 +42,7 @@ stage ２，７。
 カーターさんは来年、日本で勉強するはずです。//It is my understanding that Carter-san will study in Japan next year.
 私は来年、日本に行けるはずです。//I believe that I’ll be able to go to Japan next year.
 
-/// # The difference between はず and 思（おも）う
+/// # The difference between はず and 思う {おもう}
 /// In many sentences, はずだ and 思う can be interchanged, but they each convey a different nuance.
 /// 思う expresses the speaker’s personal opinion,
 /// but はずだ an objective expectation the speaker infers from some source.
@@ -51,7 +51,7 @@ stage ２，７。
 もうすぐ、先生はいらっしゃると思います。//I think the teacher will be here soon.
 
 /// The next pair of sentences illustrate that はずだ expresses the speaker’s belief regarding a certain fact or event, but it may not be used to express a specific personal opinion arising from direct experience.
-/// In the latter case, 思（おも）う would be used.
+/// In the latter case, 思う would be used.
 
 日本語を勉強しているんですか。//Is it true that you’re studying Japanese?
 ええ、日本語は難しいですが、本当におもしろい言葉だと思います。//Yes. Japanese is difficult, but I think it’s a very interesting language.
@@ -133,14 +133,14 @@ stage ２，７。
 テレビによると、今日は雨が降るそうです。//According to the TV, it’s going to rain today.
 林さんの話によると、去年、東京は雪が降ったそうです。//According to Hayashi-san, it snowed in Tokyo last year.
 
-/// (2) Complex predicates with そうだ and quotative sentences with 聞（き）く
-/// These constructions are different in that the means by which the information is conveyed is clearer in the construction with 聞（き）いた.
+/// (2) Complex predicates with そうだ and quotative sentences with 聞く {きく}
+/// These constructions are different in that the means by which the information is conveyed is clearer in the construction with 聞いた {きいた}.
 /// The construction with そうだ does not clarify whether the information was “read,” “heard,” or received in some other way, unless he source is identified.
 
-/// Another difference between these constructions is that the topic of the predicate 聞（き）く is the person who hears the content;
+/// Another difference between these constructions is that the topic of the predicate 聞く is the person who hears the content;
 /// however, the topic of the predicate そうだ is not the person who has the information, but the thing or the person that the predicate describes.
 
-/// In addition, the complex predicate そうだ cannot express the specific time at which the information was obtained, but with the predicate 聞（き）く this is possible.
+/// In addition, the complex predicate そうだ cannot express the specific time at which the information was obtained, but with the predicate 聞く this is possible.
 
 午後、雨が降ると聞きました。//I heard that it would rain in the afternoon.
 あの人は日本人だと聞きました。//I heard that that person is Japanese.
@@ -197,7 +197,7 @@ stage ２，７。
 /// In the first sentence above, くる conveys the nuance that the rain is coming down on or towards the speaker. いく may not be used here.
 /// The second and third sentences convey the nuance that the speaker has directly perceived the changes in the weather.
 
-/// the combination of the verbs 出（で）る and いく gives the sense that the topic is moving away from the speaker.
+/// the combination of the verbs 出る {でる} and いく gives the sense that the topic is moving away from the speaker.
 
 ルームメートが明日ここから出ていきます。//My roommate is moving away tomorrow.
 
@@ -217,7 +217,7 @@ stage ２，７。
 /// くる would not be used in this case.
 
 /// (2) ~ておく
-/// The verb 置（お）く, which means “to place something somewhere,” is used as a regular verb, as in the following example:
+/// The verb 置く {おく}, which means “to place something somewhere,” is used as a regular verb, as in the following example:
 
 私は鞄を机の上に置きました。//I put my backpack on the desk.
 
@@ -255,7 +255,7 @@ stage ２，７。
 ああ、また、電話するの、忘れちゃった！//Oh, I forgot to call again.
 後で、僕が電話しとくよ。//I’ll call and take care of it later.
 
-/// # 電話（でんわ）しとくよ
+/// # 電話しとくよ {でんわ しとくよ}
 /// ~ておく is contracted to ~とく in casual speech.
 /// The て-form is ~といて, and the polite form is ~ときます.
 
@@ -267,8 +267,8 @@ stage ２，７。
 ちょっと出てきます。いってきます。//I’m going out for a bit. I’ll be back.
 いってらっしゃい。//OK, bye.
 
-/// # ちょっと出（で）てきます
-/// ちょっと is a colloquial form of 少（すこ）し.
+/// # ちょっと出てきます { ちょっと で てきます}
+/// ちょっと is a colloquial form of 少し {すこし}.
 /// So, the first line means something like “I will be out for a while.”
 
 /// いってきます is a standard phrase that a person says before leaving his or her own house.
@@ -285,4 +285,4 @@ stage ２，７。
 
 /// ただいま is a standard phrase used by a person who is just getting home to greet someone who is already there.
 
-/// お帰（かえ）りなさい is a standard phrase that a person who is at home uses to welcome someone who has just returned.
+/// お帰りなさい {おかえ りなさい} is a standard phrase that a person who is at home uses to welcome someone who has just returned.
