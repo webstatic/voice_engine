@@ -170,7 +170,7 @@ stage ２，１。
 勉強しないで、試験を受けました。//I took an exam without studying first.
 
 /// When the conjunctive form of a negative imperfective verb is used, the clause takes on a causal meaning.
-/// The independent clause indicates naturally occurring consequences such as 困 {こま}る “feel troubled; feel worried,” as seen below:
+/// The independent clause indicates naturally occurring consequences such as 困る {こまる} “feel troubled; feel worried,” as seen below:
 
 この宿題が分からないて、困っています。//I’m worried because I don’t understand this assignment.
 
