@@ -191,12 +191,12 @@ stage １，８。
 /// Group 1: [る → た]
 /// Group 2: [く → いた], [ぐ → いだ], [す → した], [む, ぬ, ぶ → んだ], [つ, う, る → った]
 /// Group 3: [する → した, くる → きた]
-/// The only exception to the rule above is the verb 行（い）く. Although this verb ends with く, the plain positive perfective form is 行（い）った.
+/// The only exception to the rule above is the verb 行く {いく}. Although this verb ends with く, the plain positive perfective form is 行った {いった}.
 
 朝ご飯にパンを食べた。//I ate a piece of bread for breakfast.
 ืื時雨さんと映画に行った。//I went to a movie with Shigure-san.
 
-/// There is only one verb that ends with ぬ. That verb is 死（し）ぬ, which means “to die.”
+/// There is only one verb that ends with ぬ. That verb is 死ぬ {しぬ}, which means “to die.”
 
 ーーーーーーーーーーーーーーーーーーーー
 /// 6: Plain Negative Perfectives
@@ -267,7 +267,7 @@ stage １，８。
 
 /// The honorific system affects verbs most noticeably, but other parts of speech such as nouns, adjectives, and the copula are also affected.
 
-/// Do not confuse politeness, 丁寧語（ていねいご）, with honorifics, 敬語（けいご）. They are related, but the following difference must be noted.
+/// Do not confuse politeness, 丁寧語 {ていねいご}, with honorifics, 敬語 {けいご}. They are related, but the following difference must be noted.
 /// Politeness has to do with the relationship between the speaker and the addressee. The use of honorifics, on the other hand, has to do with the relationship between the speaker and the topic of the sentence.
 
 /// The use of ~ます or です at the end of a sentence indicates the polite form.
@@ -305,7 +305,7 @@ stage １，８。
 /// Verbal predicate: ありません > ないです
 
 /// ~ないです is not used as often for verbal predicates as it is for nominal and adjectival predicates.
-/// However, the use of ないです to mean “I don’t have” (as in 私はお金（かね）がないです) is more frequent than the use of ~ないです with other verbs
+/// However, the use of ないです to mean “I don’t have” (as in 私はお金がないです) is more frequent than the use of ~ないです with other verbs
 
 ーーーーーーーーーーーーーーーーーーーー
 /// 9: Overall Review

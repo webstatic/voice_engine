@@ -101,9 +101,9 @@ stage １，１。
 /// 3: Pronouns
 /// (1) First-person
 /// Choosing an appropriate pronoun depends on factors such as the gender of the speaker and addressee, the speech situation, and the region in which these pronouns are used, among others.
-/// both 私（わたくし）, the most formal first-person pronoun, and 私（わた し）, which is also formal, may be used by both genders.
-/// 私（わたし） is very frequently used by female speakers in both formal and casual situations. In very casual circumstances, it may be pronounced あたし by female speakers rather than わたし.
-/// 僕（ぼく）, used exclusively by male speakers of all ages, is less formal and more conversational than 私（わたし） when used by male speakers.
+/// both 私 {わたくし}, the most formal first-person pronoun, and 私 {わたし}, which is also formal, may be used by both genders.
+/// 私 {わたし} is very frequently used by female speakers in both formal and casual situations. In very casual circumstances, it may be pronounced あたし by female speakers rather than わたし.
+/// 僕 {ぼく}, used exclusively by male speakers of all ages, is less formal and more conversational than 私 {わたし} when used by male speakers.
 
 /// (2) Second-person
 /// # Use of the personal name
@@ -120,10 +120,10 @@ stage １，１。
 /// # Use of second-person pronouns (e.g., あなた)
 /// Most of the time, a speaker should avoid using あなた to address: an older person, a person who holds a professional position,
 /// あなた may be used: between people in a similar social situation, by a person who has more authority in a society to address someone with less power
-/// In most cases, it is more common to use the name of the addressee with the appropriate ending such as ~さん or ~先生（せんせい）, or to use deletion, rather than using あなた.
+/// In most cases, it is more common to use the name of the addressee with the appropriate ending such as ~さん or ~先生 {せんせい}, or to use deletion, rather than using あなた.
 
 /// (3) Third-person
-/// Use of the third-person personal pronouns 彼（かれ） for “he” and 彼女（かのじょ） for “she” is more frequent among younger speakers in informal situations.
+/// Use of the third-person personal pronouns 彼 {かれ} for “he” and 彼女 {かのじょ} for “she” is more frequent among younger speakers in informal situations.
 
 /// # Deleting elements in sentences
 /// The speaker may delete an element, or more than one element, from sentences when he or she judges that the addressee will be able to identify the deleted element(s).
@@ -143,11 +143,11 @@ stage １，１。
 /// の “one(s)” is another pronoun to refer to things.
 
 /// (5) Plural pronouns
-/// In personal pronouns, it is indicated by ~達（たち） and ~ら. The use of ~達（たち） is more formal than the use of ~ら. 
+/// In personal pronouns, it is indicated by ~達 {たち} and ~ら. The use of ~達 is more formal than the use of ~ら. 
 /// Though it is not obligatory, ~ら can also be used with demonstrative pronouns for things.
 
 /// # Plural markers with regular nouns
-/// plural markers are used mainly for pronouns, but they can be used for some nouns (for animate things) as well: 学生達（がくせいたち） or 学生ら（がくせいら） “students,” for example. In 友達（ともだち） “friend,”
+/// plural markers are used mainly for pronouns, but they can be used for some nouns (for animate things) as well: 学生達 {がくせいたち} or 学生ら {がくせいら} “students,” for example. In 友達 {ともだち} “friend,”
 /// Some nouns may be repeated to indicate that they are plural, but for the most part, nouns do not indicate number. Whether a noun is singular or plural is inferred from the use of words that indicate quantity and/or the context.
 
 ーーーーーーーーーーーーーーーーーーーー
@@ -183,7 +183,7 @@ stage １，１。
 ええ、そうです。//Yes, that’s right.
 
 /// (3) Negative responses
-/// # The generic negative response 違（ちが）います
+/// # The generic negative response 違います  {ちがいます}
 //  is a verb that means “to differ from something.”
 /// It can be used as a generic negative response to a question using the nominal predicate.
 /// should be used without a topic. It should only be used to respond a question with a nominal predicate.

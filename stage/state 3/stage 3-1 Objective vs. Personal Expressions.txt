@@ -62,7 +62,7 @@ stage ３，１。
 
 /// In this case, こと is unacceptable because the speaker is the one who saw Ueda-san walking. It is not possible to see the information.
 
-/// In sum, when the main verbs are perceptual verbs such as 聞（き）く and 見る, こと and の are not interchangeable.
+/// In sum, when the main verbs are perceptual verbs such as 聞く {きく} and 見る, こと and の are not interchangeable.
 /// こと gives an indirect objective interpretation of an event while の gives a personal and direct one.
 
 /// When こと and の are interchangeable, as in some of the earlier sentences above, there is a nuance difference, objective vs. personal, between the two sentences.
@@ -245,7 +245,7 @@ stage ３，１。
 /// If the speaker broke an important item—say, a cell phone–that his or her roommate treasured, how would he or she apologize for the mistake?
 /// Using an intransitive verb would imply that the cell phone broke for an unfortunate reason (e.g. wind blew it off the table; a cat walked near it and knocked it off the table).
 /// But when a transitive verb is used, it makes it obvious that the speaker did something like dropping it by mistake.
-/// Therefore, the first example below would be more appropriate than the second.  ( 壊（こわ）す is transitive, while 壊（こわ）れる is intransitive).
+/// Therefore, the first example below would be more appropriate than the second.  ( 壊す {こわす} is transitive, while 壊れる {こわれる} is intransitive).
 
 大切な携帯を壊してしまって、本当にごめんなさい。//I am so sorry I broke your precious cell phone.
 
@@ -344,18 +344,19 @@ stage ３，１。
 そうですか・・・でも、少しだけなら、大丈夫でしょう？//Really? But you can have just a bit more, can’t you?
 いいえ、本当にもう結構です。//No, really, I’m fine.
 
-/// # これで十分（じゅうぶん）です
+/// # これで十分です  {これでじゅうぶんです}
 /// It is quite common for a Japanese host to offer things like food and drink repeatedly, even if the guest declines the offer.
-/// This phrase, and もう結構（けっこう）です below, are typical ways to politely decline an offer.
+/// This phrase, and もう結構です  {もうけっこうです} below, are typical ways to politely decline an offer.
 
-/// 十分（じゅうぶん） is an adjectival noun that means “sufficient; enough.”
-/// これで十分（じゅうぶん）です means “this is sufficient.”
+/// 十分 {じゅうぶん} is an adjectival noun that means “sufficient; enough.”
+/// これで十分です means “this is sufficient.”
 /// で in this case indicates a boundary delimiting the amount that the speaker has.
 
-/// # もう結構（けっこう）です
-/// This is another polite way to decline an offer. The adjectival noun 結構（けっこう） means “great; fine; excellent.”
+/// # もう結構です
+/// This is another polite way to decline an offer.
+/// The adjectival noun 結構 {けっこう} means “great; fine; excellent.”
 /// With もう, the phrase means something like, “I’m fine with the way things are right now.”
-/// The phrase 結構（けっこう）です may be used either for praising something or declining an offer, depending on the situation.
+/// The phrase 結構です may be used either for praising something or declining an offer, depending on the situation.
 
 /// (4) It’s my fault
 

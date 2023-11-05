@@ -37,7 +37,7 @@ stage １，５。
 パーティーはあの部屋であります。//The party will be held in that room.
 
 /// # Specific locations
-/// Specific locations are expressed with nouns such as 前（まえ） “front” and 後（うし）ろ “back.”
+/// Specific locations are expressed with nouns such as 前 {まえ} “front” and 後ろ {うしろ} “back.”
 /// These specific locations are usually modified by a reference point.
 /// The particle の is used between the two nouns, with the modifying noun followed by the modified noun.
 
@@ -94,7 +94,7 @@ stage １，５。
 
 ーーーーーーーーーーーーーーーーーーーー
 /// (3) The honorific いらっしゃる（いらっしゃいます）
-/// 敬語（けいご） is the term for “honorifics” in Japanese.
+/// 敬語 {けいご} is the term for “honorifics” in Japanese.
 
 /// Politeness, as it relates to the relationship between speaker and addressee, is expressed through the use of the verb ending ~ます in the verbal predicate, or です in the nominal and adjectival predicates.
 
@@ -148,7 +148,7 @@ stage １，５。
 エイミーさんは明日、日本に行きます。//Amy-san will go to Japan tomorrow.
 エイミーさんは明日、日本へ行きます。//Amy-san will go to Japan tomorrow.
 
-/// Although に and へ may be used interchangeably with directional verbs, に is preferred when the verb is 来（く）る（きます） “to come.”
+/// Although に and へ may be used interchangeably with directional verbs, に is preferred when the verb is 来る {くる}（きます） “to come.”
 
 エイミーさんは昨日、ここに来ました。//Amy-san came here yesterday.
 
@@ -161,7 +161,7 @@ stage １，５。
 私は町で歩きました。//I walked in town.
 私は町を歩きました。//I walked through town.
 
-/// The particle を is also used with verbs such as 卒業（そつぎょう）する（します） “to graduate,” 出（で）る （でます） “to leave” (a place), and 休（やす）む（やすみます） “to rest.” 
+/// The particle を is also used with verbs such as 卒業する {そつぎょうする}（します） “to graduate,” 出る {でる} （でます） “to leave” (a place), and 休む {やすむ}（やすみます） “to rest.” 
 /// The nuance is that the topic goes out from a location after passing through the space enclosed by the location
 
 昨日、家を出ました。//He left home yesterday.
@@ -176,8 +176,8 @@ stage １，５。
 /// The direct object of a semi-transitive predicate must be marked by が rather than を.
 
 /// Compare the following two sentences with different verbs: 
-/// 話（はな）す（はなします） “to speak” is a transitive verb, which indicates the action of speaking.
-/// 話（はな）せる（はなせます） “to be able to speak” is a semi-transitive verb that indicates one’s ability to speak.
+/// 話す {はなす}（はなします） “to speak” is a transitive verb, which indicates the action of speaking.
+/// 話せる {はなせる}（はなせます） “to be able to speak” is a semi-transitive verb that indicates one’s ability to speak.
 
 ナースロボさんはいつもずんだもんさんに日本語を話します。//Naasurobo-san always speaks Japanese to Zundamon-san.
 ナースロボさんは日本語が話せます。//Smith-san can speak Japanese.
@@ -196,7 +196,7 @@ stage １，５。
 /// そと (out-group): A group to which the speaker does not belong. The out-group may change from situation to situation.
 
 /// (2) Verbs of giving
-/// # 上（あ）げる（あげます）
+/// # 上げる {あげる}（あげます）
 /// is used when the topic gives something to someone who is not of a higher social status and is not substantially older than the topic of the sentence.
 /// This restriction does not apply to the topic’s own family members, regardless of age.
 /// may not be used when the receiver is the speaker or a member of the speaker’s うち-group. 
@@ -206,18 +206,18 @@ stage １，５。
 
 /// # くれる（くれます）
 /// is used when the topic of the sentence, who is neither substantially older nor of a higher status, gives something to the speaker, or to a member of the speaker’s うち-group.
-/// When the receiver is the speaker rather than a member of the speaker’s うち-group, the use of 私 （わたし）に or 僕（ぼく）に is optional.
+/// When the receiver is the speaker rather than a member of the speaker’s うち-group, the use of 私に or 僕に is optional.
 /// The verb makes it clear that the speaker is the receiver.
 
 友達は本を（私に）くれました。//My friend gave me a book.
 友達は本を妹にくれました。//My friend gave my younger sister a book.
 
-/// When the receiver is not the speaker or a member of the speaker’s うち-group, the verb くれる （くれま す） may not be used.
-/// 上（あ）げる （あげます） rather than くれる （くれます） is used when a member of the speaker’s family gives something to another member of the family, as long as the receiver is not the speaker.
+/// When the receiver is not the speaker or a member of the speaker’s うち-group, the verb くれる （くれます） may not be used.
+/// 上げる （あげます） rather than くれる （くれます） is used when a member of the speaker’s family gives something to another member of the family, as long as the receiver is not the speaker.
 
 妹は姉にセーターを上げました。//My little sister gave my big sister a sweater.
 
-/// When asking the addressee directly about something given to him or her, the speaker should use くれる（くれます） rather than 上（あ）げる（あげます）
+/// When asking the addressee directly about something given to him or her, the speaker should use くれる（くれます） rather than 上げる {あげます）
 
 ずんだもんさんは誕生日に何をくれました。//What did Zundamon-san give you for your birthday?
 
@@ -229,7 +229,7 @@ stage １，５。
 私は毎週、花に水をやります。//I give the flowers water every week.
 僕は弟に本をやりました。//I gave my younger brother a book.
 
-/// # 差（さ）し上（あ）げる（さしあげます）
+/// # 差し上げる {さしあげる}（さしあげます）
 /// is used when the topic gives something to someone who is substantially older and/or of higher status.
 /// This verb is sometimes also used for the sake of politeness when the topic gives something to someone who is a member of the そと-group, regardless of that person’s social status or age.
 /// This verb is never used to talk about giving between the speaker’s family members.
@@ -237,15 +237,15 @@ stage １，５。
 僕は先生に本を差し上げました。//I gave the teacher a book.
 小夜さんは先生に花を差し上げました。//Sayo-san gave her teacher some flowers.
 
-/// # 下（くだ）さる（くださいます）
+/// # 下さる {くださる}（くださいます）
 /// is used when the topic of the sentence—either someone of higher social status and/or of greater age, or a person in the そと-group—gives something to the speaker or to a member of the speaker’s うち-group.
-/// As with くれる（くれます）, when the receiver is the speaker, the use of 私（わたし）に or 僕（ぼく）に may be unnecessary.
+/// As with くれる（くれます）, when the receiver is the speaker, the use of 私に or 僕に may be unnecessary.
 
 エイミー先生は（私に）花を下さいました。//Amy-sensei gave me some flowers.
 エイミー先生は妹に花を下さいました。//Amy-sensei gave my younger sister some flowers.
 
 /// As in the case of くれる（くれます）, when the topic gives something to someone who is not the speaker or a member of the speaker’s うち-group, this verb may not be used.
-/// When asking the addressee directly about what was given, the speaker can use 下（くだ）さる（ください ます）.
+/// When asking the addressee directly about what was given, the speaker can use 下さる（くださいます）.
 
 ずんだもん先生は誕生日に何を下さいましたか。//What did Zundamon-sensei give you for your birthday?
 
@@ -367,7 +367,7 @@ stage １，５。
 /// もしもし is used by both the party who receives and the one who initiates calls.
 
 /// それでは is a polite way to signal the conclusion of a conversation (the casual way is それじゃ).
-/// 失礼 （しつれい）します, which was introduced in the Preparatory Stage, is a polite phrase that can be used when saying goodbye to someone, both in person or over the phone.
+/// 失礼します {しつれいします}, which was introduced in the Preparatory Stage, is a polite phrase that can be used when saying goodbye to someone, both in person or over the phone.
 
 /// (2) Before and after eating
 
@@ -375,16 +375,16 @@ stage １，５。
 ありがとうございます。いただきます。//Thank you. It looks wonderful.
 ごちそうさまでした。//That was delicious.
 
-/// # 何（なに）もございませんが . . .
+/// # 何もございませんが . . .  {なにもございませんが . . .}
 /// When offering food to a guest, this phrase is often used.
 
-/// # どうぞ、お召（め）し上（あ）がりください（ませ）
+/// # どうぞ、お召し上がりください（ませ）
 /// When お, the stem of a verb, and ください are combined, the phrase is a polite way to suggest or invite someone to do a certain thing.
 /// Adding ませ makes the speech more polite.
-/// 召し上がる（めしあがる）（めしあがります） is used as the honorific form of the verbs 食（た）べる（たべます） and 飲（の）む（のみます）.
+/// 召し上がる {めしあがる}（めしあがります） is used as the honorific form of the verbs 食べる {たべる}（たべます） and 飲む {のむ}（のみます）.
 
 /// # いただく （いただきます）
-/// is also used as the humble verb for the verbs 食（た）べる（たべます） and 飲（の）む（のみます）.
+/// is also used as the humble verb for the verbs 食べる（たべます） and 飲む（のみます）.
 /// This expression may also be used when the speaker has just received a gift or an offer.
 /// One is expected to say いただきます before beginning to eat or drink.
 
@@ -414,5 +414,5 @@ stage １，５。
 明日、一緒に映画に行きませんか。//Would you like to go to a movie together tomorrow?
 いいですね。ええ、行きましょう。//Sounds great. Sure, let’s go.
 
-/// # 行（い）きませんか
+/// # 行きませんか
 /// Negative question sentences are a very common way of inviting or asking whether the addressee would like to do something.

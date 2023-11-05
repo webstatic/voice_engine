@@ -26,7 +26,7 @@ stage ２，１。
 /// ~ている may not be used to express ideas above, as shown in the following incorrect sentences:
 
 /// # When a verb has more than one meaning
-/// A single word often has multiple meanings. One such example is the verb 分（わ）かる.
+/// A single word often has multiple meanings. One such example is the verb 分かる {わかる}.
 /// The following sentence indicates that the topic has a specific ability; the verb therefore has a stative meaning.
 
 私は日本語が分かります。//I understand Japanese.
@@ -34,45 +34,45 @@ stage ２，１。
 
 /// The idea in the sentence above cannot be expressed with ~ている, because having the ability to do something refers to a state or condition, rather than an action or an event.
 
-/// The verb 分（わ）かる has a second meaning, however: “to figure something out.”
+/// The verb 分かる has a second meaning, however: “to figure something out.”
 /// This verb may also be used to talk about having obtained knowledge about a specific thing or person.
 /// This meaning indicates a process, rather than a state. When the verb carries this meaning, the ~ている construction can be used.
 
 あの人のことはよく分かっています。//I have heard a lot about that person, and I now have a good understanding of him.
 ーーーーーーーーーーーーーーーーーーーー
 /// (3) The continuous aspect of non-repeatable (punctual) verbs
-/// Verbs such as the second meaning of 分（わ）かる “to figure something out” and 起（お）きる “to get up” denote a one-time, non-repeatable action.
+/// Verbs such as the second meaning of 分かる {わかる} “to figure something out” and 起きる {おきる} “to get up” denote a one-time, non-repeatable action.
 /// This type of verb is sometimes termed a “punctual verb.”
 /// The て-form of these verbs, when used with いる, indicates that the action has been completed, and the topic is currently in the state of maintaining the completed action.
 
 起きています。//I am up.
 
 // /The sentence above does not refer to the process of getting up, but rather the state of being awake after the action of getting up has been completed.
-/// With a punctual verb such as 起（お）きる, Japanese speakers normally use either the positive imperfective to say “I will get up soon,” or use ~ている to say “I am up already.”
+/// With a punctual verb such as 起きる, Japanese speakers normally use either the positive imperfective to say “I will get up soon,” or use ~ている to say “I am up already.”
 /// They will seldom utter a sentence that is equivalent to “I am in the process of getting up.”
 
-/// # The verb 知（し）る
-/// The verb 知（し）る, often translated as “to know,” and the verb 分（わ）かる, translated as “to understand,” are similar in meaning.
-/// 知（し）る implies obtaining information, while 分（わ）かる implies having an ability to figure things out, and also refers to the process of figuring things out.
+/// # The verb 知る {しる}
+/// The verb 知る, often translated as “to know,” and the verb 分かる, translated as “to understand,” are similar in meaning.
+/// 知る implies obtaining information, while 分かる implies having an ability to figure things out, and also refers to the process of figuring things out.
 
-/// The ~ている construction with the verb 知（し）る is used to talk about the possession of knowledge.
+/// The ~ている construction with the verb 知る is used to talk about the possession of knowledge.
 
 私はあの人の名前を知っています。//I know that person’s name.
 
-/// the ~ている construction cannot be used as the negative of 知（し）っている
+/// the ~ている construction cannot be used as the negative of 知っている {しっている}
 /// To say that a person does not possess knowledge of something, the imperfective negative is used, rather than the negative of the ~ている construction:
 
 私はあの人の名前を知りません。//I don’t know that person’s name.
 
-/// When asking whether a person possesses a certain piece of information, the negative 知（し）りませ んか is used as often as the positive 知（し）っていますか.
+/// When asking whether a person possesses a certain piece of information, the negative 知りませんか {しりませんか} is used as often as the positive 知っていますか {しっていますか}.
 
 あの人の電話番号を知りませんか。//Do you know that person’s phone number?
 あの人の電話番号を知っていますか。//Do you know that person’s phone number?
 
-/// # 持（も）つ vs. ある
-/// Both 持（も）つ and ある are normally translated into English as the verb “to have.”
-/// One significant difference between the two is that 持（も）つ implies that the topic is physically holding something; ある does not include this implication.
-/// For instance, if someone is carrying a bag, the verb 持（も）つ must be used, rather than ある:
+/// # 持つ {もつ} vs. ある
+/// Both 持つ and ある are normally translated into English as the verb “to have.”
+/// One significant difference between the two is that 持つ implies that the topic is physically holding something; ある does not include this implication.
+/// For instance, if someone is carrying a bag, the verb 持つ must be used, rather than ある:
 
 あの人は何を持っていますか。//What does that person have?
 鞄を持っています。//He has a bag.
@@ -81,11 +81,11 @@ stage ２，１。
 
 今日、僕は時間がたくさんあります。//I have a lot of time today.
 
-/// When talking about possessing abstract things such as 考（かんが）え “thoughts” or “ideas” at a non-specific time, 持（も）つ may also be used:
+/// When talking about possessing abstract things such as 考え {かんがえ} “thoughts” or “ideas” at a non-specific time, 持つ may also be used:
 
 あの人はいい考えをたくさん持っています。//He has a lot of good ideas.
 
-/// Both ある and 持（も）つ may be used to talk about possession of things, concepts, or ideas rather than physically carrying something:
+/// Both ある and 持つ may be used to talk about possession of things, concepts, or ideas rather than physically carrying something:
 
 時雨さんはお金をたくさん持っています。//Shigure-san has possesses a lot of money.
 時雨さんはお金がたくさんあります。//Shigure-san has a lot of money.
@@ -127,16 +127,17 @@ stage ２，１。
 
 /// # Color terms and how to join them
 /// most primary colors have both adjectival and nominal forms.
-/// For example, 赤（あか）, a noun, and 赤（あか）い, an adjective, are both words for “red.” Similarly, the adjectives 黒（くろ）い “black,” 青（あお）い “blue,” and 白（しろ）い “white” have the nominal forms 黒（くろ）, 青（あお）, and 白（しろ） respectively.
+/// For example, 赤 {あか}, a noun, and 赤い {あかい}, an adjective, are both words for “red.”
+/// Similarly, the adjectives 黒い {くろい} “black,” 青い {あおい} “blue,” and 白い {しろい} “white” have the nominal forms 黒 {くろ}, 青 {あお}, and 白 {しろ} respectively.
 
 /// When a nominal color term modifies a noun, the particle の must be used between the two nouns, with the color term being the first element.
 /// の is required because the color terms are nouns rather than adjectives.
 /// 赤のかばん  黒のペン
 
-/// Some color terms, such as 緑（みどり） and 緑色（みどりいろ）, which both mean “green,” do not have the adjectival options. These words are nouns.
+/// Some color terms, such as 緑 {みどり} and 緑色 {みどりいろ}, which both mean “green,” do not have the adjectival options. These words are nouns.
 
 /// Japanese color terms sometimes differ from those in English regarding the range of color that each term refers to on the color spectrum.
-/// For instance, the green of a traffic light in Japan is referred to as 青（あお） “blue,” even though it is a greenish color. This is because the term 青（あお） covers a wider range of colors than the English term “blue.”
+/// For instance, the green of a traffic light in Japan is referred to as 青 {あお} “blue,” even though it is a greenish color. This is because the term 青 {あお} covers a wider range of colors than the English term “blue.”
 
 /// When two descriptive predicates are applied to a single topic, it is understood that each of the predicates describes the topic completely.
 
@@ -169,7 +170,7 @@ stage ２，１。
 勉強しないで、試験を受けました。//I took an exam without studying first.
 
 /// When the conjunctive form of a negative imperfective verb is used, the clause takes on a causal meaning.
-/// The independent clause indicates naturally occurring consequences such as 困（こま）る “feel troubled; feel worried,” as seen below:
+/// The independent clause indicates naturally occurring consequences such as 困 {こま}る “feel troubled; feel worried,” as seen below:
 
 この宿題が分からないて、困っています。//I’m worried because I don’t understand this assignment.
 
@@ -195,7 +196,7 @@ stage ２，１。
 私は図書館に行って、本を読みました。//I went to the library, where I read a book.
 私は図書館に行ってから、本を読みました。//After visiting the library, I read a book.
 
-/// The only structural difference between the two sentences above is the use of から after the conjunctive form 行（い）って.
+/// The only structural difference between the two sentences above is the use of から after the conjunctive form 行 {い}って.
 /// The first sentence means that the topic went to the library; there in the library the next action—reading a book—took place.
 
 /// The second sentence, however, indicates that the visit to the library was completed at the time of speaking.
@@ -381,17 +382,17 @@ stage ２，１。
 難しいですが、来週、試験があるんです。//It is, but we have an exam next week.
 試験ですか。大変ですね。頑張ってくださいね。//Really? Sounds tough. Good luck.
 
-/// # 大変（たいへん）ですね
-/// 大変（たいへん）, an adjectival noun, can mean many things. It may mean “difficult; hard; laborious; dreadful; awful; immense” and so on.
+/// # 大変ですね
+/// 大変 {たいへん}, an adjectival noun, can mean many things. It may mean “difficult; hard; laborious; dreadful; awful; immense” and so on.
 /// When used to describe a person, it may convey something like “difficult to deal with; unreasonable; unreal; awful” and similar ideas.
-/// 大変（たいへん）ですね is often used as a backchannel to express some kind of sympathy or empathy.
+/// 大変ですね is often used as a backchannel to express some kind of sympathy or empathy.
 
-/// # 頑張（がんば）ってください
+/// # 頑張ってください {がんばってください}
 /// Japanese speakers use this phrase a great deal in conversation.
 /// It is used to convey good wishes, or wishes for a good result, with reference to a current or upcoming situation or endeavor which may be difficult for the addressee.
-/// In casual conversation, ください is deleted; 頑張（かんば）って alone is used.
+/// In casual conversation, ください is deleted; 頑張って {かんばって} alone is used.
 
-/// (3) 先輩（せんぱい） and 後輩（こうはい）
+/// (3) 先輩 {せんぱい} and 後輩 {こうはい}
 
 ああ、お腹、すいた！//Wow, I’m hungry!
 先輩、まだ、食べてないんですか。//Haven’t you eaten yet, Senpai?
@@ -400,11 +401,11 @@ stage ２，１。
 でも、これ、マイクさんのじゃないの？//But doesn’t it belong to Mike?
 大丈夫ですよ。心配しないでください。さあ、食べてください。//It’s all right. Don’t worry. Please go ahead and eat it.
 
-/// # 先輩（せんぱい）・後輩（こうはい）
-/// 先輩（せんぱい） refers to an individual who is senior to the speaker within a group, such as an extracurricular group, a club, or any other organized group. It may also simply refer to the speaker’s mentor.
-/// 後輩（こうはい） is the junior in relation to 先輩（せんぱい）.
-/// Instead of using the person’s name, the junior speaker may address the senior person as 先輩（せんぱい）.
-/// Note, however, that the term 後輩（こうはい） may not be used to address another person.
+/// # 先輩 {せんぱい}・後輩 {こうはい}
+/// 先輩 refers to an individual who is senior to the speaker within a group, such as an extracurricular group, a club, or any other organized group. It may also simply refer to the speaker’s mentor.
+/// 後輩 is the junior in relation to 先輩.
+/// Instead of using the person’s name, the junior speaker may address the senior person as 先輩.
+/// Note, however, that the term 後輩 may not be used to address another person.
 
 /// # 食べていい？
 /// も may be deleted in casual speech, as in the above sentence.
@@ -418,11 +419,11 @@ stage ２，１。
 /// When the sentence-final particle の is used in question sentences in casual conversation, it functions the same as んですか;
 /// that is, the speaker is confirming his or her understanding with the addressee.
 
-/// # 心配（しんぱい）しないでください
-/// 心配（しんぱい） is a noun that means “anxiety” or “worry.”
-/// 心配（しんぱい）しないでください is used to comfort the addressee.
+/// # 心配 {しんぱい}しないでください
+/// 心配 is a noun that means “anxiety” or “worry.”
+/// 心配しないでください is used to comfort the addressee.
 /// The phrase means something like “There is no need for you to worry”; or “Don’t worry.”
-/// In casual conversation, ください is deleted: 心配（しんぱい）しないで.
+/// In casual conversation, ください is deleted: 心配しないで.
 
 /// (4) Giving a taxi driver directions
 

@@ -3,7 +3,7 @@ stage ２，３。
 /// (1) The concept of adverbial clauses
 /// Two types of adverbial clauses were introduced. 
 /// The first type uses the conjunction から to give a reason for something.
-/// The second type indicates a time condition by using conjunctions 時（とき）, 前（まえ）, and 後（あと）.
+/// The second type indicates a time condition by using conjunctions 時 {とき}, 前 {まえ}, and 後 {あと}.
 
 /// (2) Adverbial clauses with the causal conjunction から
 /// the cause or reason for a certain consequence may be expressed in a dependent clause joined by the conjunction から.
@@ -26,19 +26,19 @@ stage ２，３。
 
 ーーーーーーーーーーーーーーーーーーーー
 /// 2: Temporal Adverbial Clauses
-/// (1) Temporal adverbial clauses joined by 時（とき）
-/// a time condition may be expressed by an adverbial clause joined by the conjunction 時（とき）.
+/// (1) Temporal adverbial clauses joined by 時 {とき}
+/// a time condition may be expressed by an adverbial clause joined by the conjunction 時.
 
-/// # Predicate aspectual forms before the conjunction 時（とき）
-/// The following example uses the sentential conjunction その時（とき）:
+/// # Predicate aspectual forms before the conjunction 時 {とき}
+/// The following example uses the sentential conjunction その時:
 
 明日、私は森さんに会います。ぞの時に、私達は日本語で話します。//I’ll meet Mori-san tomorrow. At that time, we’ll speak in Japanese.
 
-/// The two sentences above may be changed into a complex sentence by using 時（とき） as the clausal conjunction
+/// The two sentences above may be changed into a complex sentence by using 時 as the clausal conjunction
 
 明日、私が森さんに会った時に、私は日本語で話します。//When I meet Mori-san tomorrow, we’ll speak in Japanese.
 
-/// In the sentence above, the verb is in the perfective form, 会（あ）った, despite the fact that the speaker has not met Mori-san yet, because the speaker intends to speak to Mori-san after the act of meeting has taken place.
+/// In the sentence above, the verb is in the perfective form, 会った {あった}, despite the fact that the speaker has not met Mori-san yet, because the speaker intends to speak to Mori-san after the act of meeting has taken place.
 /// Remember, the perfective form indicates only the completion of an event, not the past tense.
 
 /// # Stative predicates in the adverbial clauses
@@ -59,22 +59,22 @@ stage ２，３。
 日本に行く時、辞書を買いました。//I bought a dictionary before I arrived in Japan.
 日本に行った時、辞書を買いました。//I bought a dictionary in Japan after I arrived there.
 
-/// (2) Temporal adverbial clauses joined by 前（まえ）
-/// the plain positive imperfective must be used before 前（まえ）に, as the time condition indicates that the action in the adverbial clause is incomplete when the action in the main clause takes or has taken place.
+/// (2) Temporal adverbial clauses joined by 前 {まえ}
+/// the plain positive imperfective must be used before 前に, as the time condition indicates that the action in the adverbial clause is incomplete when the action in the main clause takes or has taken place.
 /// This is true regardless of the time the sentence expresses in the main predicate.
 
 ルームメートが１０時に寝る前に、私はテレビを見ます。//I’ll watch TV before my roommate goes to bed at 10:00.
 ルームメートが１０時に寝る前に、私はテレビを見ました。//I watched TV before my roommate went to bed at 10:00.
 
-/// (3) Temporal adverbial clauses joined by 後（あと）
-/// Similarly, the plain positive perfective form must be used before 後（あと）で, as the adverbial clause indicates an action completed before the action in the main clause takes or has taken place.
+/// (3) Temporal adverbial clauses joined by 後 {あと}
+/// Similarly, the plain positive perfective form must be used before 後で, as the adverbial clause indicates an action completed before the action in the main clause takes or has taken place.
 /// This is true regardless of the time of the sentence shows in the main predicate.
 
 ルームメートが１０時に寝た後で、私はテレビを見ます。//I’ll watch TV after my roommate goes to bed at 10:00.
 ルームメートが１０時に寝た後で、私はテレビを見ました。//I watched TV after my roommate went to bed at 10:00.
 
-/// (4) Use of 前（まえ） and 後（あと） with numbers
-/// 前（まえ）and 後（あと）can be used immediately after numbers that indicate time.
+/// (4) Use of 前 {まえ} and 後 {あと} with numbers
+/// 前 and 後 can be used immediately after numbers that indicate time.
 
 三年前に日本に行きました。//I went to Japan three years ago.
 三年後で日本に行きました。//I went to Japan three years later.
@@ -83,7 +83,7 @@ stage ２，３。
 /// 三年後 may be pronounced either さんねんあと or さんねんご.
 /// The pronunciation of the kanji 後 depends on whether the particle に or で is used.
 /// If で is used, the phrase is pronounced さんねんあと; if に is used, it is pronounced さんねんご.
-/// The particle に is optional after 三年前 and 三年後（さ んねんご）, but で must follow 三年後（さんねんあと）.
+/// The particle に is optional after 三年前 and 三年後 {さんねんご}, but で must follow 三年後 {さんねんあと}.
 
 ーーーーーーーーーーーーーーーーーーーー
 /// 3: Situational Adverbial Clauses Joined by the たら-forms
@@ -95,8 +95,8 @@ stage ２，３。
 /// In this section, one such adverbial clause will be introduced.
 /// This is called the たら adverbial clause because its predicate ends with ~たら.
 
-/// For now, the 時（とき）and たら adverbial clauses are distinguished as follows:
-/// the condition expressed in the 時（とき） adverbial clause is temporal (“at the time when”), while the condition in the たら adverbial clause is situational (“if and when the situation is such-and-such”).
+/// For now, the 時 {とき}and たら adverbial clauses are distinguished as follows:
+/// the condition expressed in the 時 adverbial clause is temporal (“at the time when”), while the condition in the たら adverbial clause is situational (“if and when the situation is such-and-such”).
 
 /// The rules to derive the たら-forms are quite simple: just add ~ら to the ending of the perfective form ~た or ~だ.
 /// Verbal: Perfective form + ら
@@ -120,7 +120,7 @@ stage ２，３。
 クラスに行ったら、だれもいませんでした。//To my surprise, when I went to class, no one was there.
 
 /// (4) Difference between the たら-adverbial and the とき-adverbial
-/// The main difference between sentences with adverbial clauses using 時（とき）and those using ~たら is that with 時（とき）, the focus of the sentence is when the event expressed in the main clause happened or will happen.
+/// The main difference between sentences with adverbial clauses using 時 {とき}and those using ~たら is that with 時, the focus of the sentence is when the event expressed in the main clause happened or will happen.
 /// With ~たら, on the other hand, sentence focuses on what happened or will happen under the situation expressed in the ~たら clause.
 
 /// Compare the two responses to the following question:
@@ -131,15 +131,15 @@ stage ２，３。
 林さんが来たら、聞きましょう。//If Hayashi-san comes, let’s ask him.
 
 /// The difference between the adverbial clauses above is that,
-/// with the 時（とき）-adverbial, the speaker knows that Hayashi-san will arrive at some point;
+/// with the 時-adverbial, the speaker knows that Hayashi-san will arrive at some point;
 /// with the たら-adverbial, Hayashi-san’s arrival is uncertain.
 
-/// When the speaker is not certain that the conditions given will be met, the use of the たら-adverbial is more appropriate than the 時（とき）-adverbial.
+/// When the speaker is not certain that the conditions given will be met, the use of the たら-adverbial is more appropriate than the 時-adverbial.
 
 林さんが来たら、どうしましょうか。//What should we do if Hayashi-san comes here?
 
-/// 時（とき）-adverbial clauses may not be used when the consequence expressed in the main clause is not controllable.
-/// 困（こま）る means “to be in trouble.”
+/// 時 {とき}-adverbial clauses may not be used when the consequence expressed in the main clause is not controllable.
+/// 困る {こまる} means “to be in trouble.”
 
 林さんが来たら、困ります。//I’ll be in trouble if Hayashi-san comes here.
 
@@ -167,7 +167,7 @@ stage ２，３。
 
 /// (2) When the predicate of the main clause is in the perfective form
 /// When the predicate of the main clause is in the perfective form in this construction, it expresses an event occurring immediately after the situation described in the adverbial clause.
-/// The adverb す ぐ（に） “immediately” often accompanies the main clause.
+/// The adverb すぐ（に） “immediately” often accompanies the main clause.
 
 家に帰ると、友達から電話がありました。//As soon as I returned home, I got a phone call from a friend.
 朝ご飯を食べると、すぐ大学に行きました。//As soon as I ate breakfast, I went to college.
@@ -251,14 +251,14 @@ stage ２，３。
 
 /// As the sentences above indicate, し may be used as a conjunction after an adverbial clause giving the reason for the statement made in the main clause.
 
-/// (2) Sentential conjunction その上（うえ）
-/// The conjunction その上（うえ） is sentential rather than clausal.
+/// (2) Sentential conjunction その上 {そのうえ}
+/// The conjunction その上 is sentential rather than clausal.
 /// The second sentence gives additional information.
 
 あの人は本当に頭がいいです。その上、顔もきれいです。//That person is really smart. On top of that, she’s pretty, too.
 
-/// (3) Sentential conjunctions すると and そ（う）したら
-/// と and ~たら used in sentences in this chapter may also be used as independent sentential conjunctions in the forms すると and そ（う）したら.
+/// (3) Sentential conjunctions すると and そしたら（そうしたら）
+/// と and ~たら used in sentences in this chapter may also be used as independent sentential conjunctions in the forms すると and そしたら（そうしたら）.
 /// When they are used to join sentences, these conjunctions function the same as と and ~たら used for adverbial clauses.
 
 /// Recall that when と is used between an adverbial clause and the main clause with a perfective predicate, the event in the main clause is immediate.
@@ -292,15 +292,15 @@ stage ２，３。
 /// The use of ね after a word or a phrase is a device to confirm that the addressee understands what is being said.
 /// In conversation it is used often, even within the same sentence.
 
-/// # 別（べつ）にたいしたことない
-/// The adverb 別（べつ）に, which must accompany a negative predicate, means “not particularly.”
+/// # 別にたいしたことない
+/// The adverb 別に {べつに}, which must accompany a negative predicate, means “not particularly.”
 
 これは別に美味しくありません。//This is not especially tasty.
 
 /// たいしたことない is an idiomatic phrase meaning “nothing serious” or “not a big deal.”
 
-/// # 電話（でんわ）してあげる
-/// あげる, one of the verbs of giving, is combined with the verb 電話（でんわ）する to mean, in the above context, “call your sister to see if everything is all right.” This structure will be covered in detail in the next chapter.
+/// # 電話してあげる
+/// あげる, one of the verbs of giving, is combined with the verb 電話する {でんわする} to mean, in the above context, “call your sister to see if everything is all right.” This structure will be covered in detail in the next chapter.
 
 /// # ~たらどうですか
 /// This construction is used to make a suggestion.
@@ -312,13 +312,13 @@ stage ２，３。
 昨日、姉に電話したら、ちょっと具合が悪いから、帰りたいって。//When I called my sister yesterday, she said she wanted to come home because she wasn’t feeling well.
 やっぱり。何でもないと、いいですね。//I thought so. I hope it’s nothing serious.
 
-/// # 具合（ぐあい）が悪（わる）い
-/// 具合（ぐあい） is a noun that means “condition” or “situation.”
+/// # 具合が悪い {ぐあい が わるい}
+/// 具合 {ぐあい} is a noun that means “condition” or “situation.”
 /// This noun can be used for a thing (such as a machine) or a person.
 /// When it is used for a person, it usually refers to their health.
-/// Therefore, 具合（ぐあい）が悪（わる）い, when discussing a person, means they are “not feeling well” or are “feeling sick.”
+/// Therefore, 具合が悪い, when discussing a person, means they are “not feeling well” or are “feeling sick.”
 
-/// # 何（なん）でもない
+/// # 何でもない {なんでもない}
 /// This phrase means “nothing serious.”
 
 /// といいです expresses the speaker’s wish for a certain situation.
@@ -335,26 +335,26 @@ stage ２，３。
 /// This expression can be used when the speaker feels guilty about asking a favor of the addressee.
 /// It means “I’m really sorry, but...”
 
-/// # 待（ま）ってくれない？
+/// # 待ってくれない？ (まってくれない？)
 /// This is a casual way of asking 待ってくださいませんか.
 
-/// # と困（こま）る
+/// # と困る {こまる}
 /// This expression is used to refer to an undesirable situation, the exact nature of which is, to the speaker, somewhat uncertain.
 
 /// 先生が日本人だと困るんですが・・・
 /// “We won’t be happy if the teacher is Japanese.”
 /// [Literally, “If the teacher is Japanese, we’ll be in trouble.”]
 
-/// しかられる is the passive verb of the base verb 叱（しか）る “to scold.” See Stages 1–9 and 2–4 for further explanation of passive forms.
+/// しかられる is the passive verb of the base verb 叱る {しかる} “to scold.” See Stages 1–9 and 2–4 for further explanation of passive forms.
 
-/// # 先（さき）に行く
-/// 先（さき）に is a time adverb meaning “beforehand.”
-/// Therefore, 先（さき）に行く means “to go before another person.”
+/// # 先に行く
+/// 先に {さきに} is a time adverb meaning “beforehand.”
+/// Therefore, 先に行く means “to go before another person.”
 /// 行ってて here is the same as 行っていて.
 
-/// # 申（もう）し訳（わけ）ないけど
-/// 申（もう）し訳（わけ）ないけど is a more polite version of わるいけど.
-/// Even in a casual conversation, a speaker can use 申（もう）し訳（わけ）ないけど, an expression equivalent to “I am truly sorry.”
+/// # 申し訳ないけど {もう し わけ ないけど}
+/// 申し訳ないけど is a more polite version of わるいけど.
+/// Even in a casual conversation, a speaker can use 申し訳ないけど, an expression equivalent to “I am truly sorry.”
 /// The use of a more humble expression conveys the depth of the speaker’s regret.
-/// The polite predicate ありません instead of ない may also be used to make the expression more polite: 申（もう）し訳（わけ）ありませんが.
+/// The polite predicate ありません instead of ない may also be used to make the expression more polite: 申し訳ありませんが.
 /// The conjunction が is more formal than the colloquial けど.
