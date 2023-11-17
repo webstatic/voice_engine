@@ -196,16 +196,17 @@ stage ２，１。
 私は図書館に行って、本を読みました。//I went to the library, where I read a book.
 私は図書館に行ってから、本を読みました。//After visiting the library, I read a book.
 
-/// The only structural difference between the two sentences above is the use of から after the conjunctive form 行 {い}って.
+/// The only structural difference between the two sentences above is the use of から after the conjunctive form 行って {いって}.
 /// The first sentence means that the topic went to the library; there in the library the next action—reading a book—took place.
 
 /// The second sentence, however, indicates that the visit to the library was completed at the time of speaking.
 /// The next action, reading a book, is expressed as a separate action.
 /// The sentence does not indicate that reading the book took place in the library (it could be either at the library or somewhere else).
 
+/// When the two clauses have different topics, the topic of the clause with ~てから must be marked by が; the topic of the main clause must be marked by は.
+
 加藤さんが勉強してから、私達は映画に行きました。//After Kato-san finished studying, we went to the movie.
 
-/// When the two clauses have different topics, the topic of the clause with ~てから must be marked by が; the topic of the main clause must be marked by は.
 /// If the speaker wants to say that going to the movie took place only after Kato-san had finished studying, this cannot be expressed by simply joining the predicate with the て-form alone.
 /// In this case, から must follow the て-form between the two clauses.
 
@@ -337,8 +338,12 @@ stage ２，１。
 /// 5: Adverbs もう and まだ
 /// (1) Overall meanings
 /// もう and まだ have the following meanings depending on the aspect of the predicate:
-/// Positive predicate: もう -> already (done), まだ -> still (doing)
-/// Negative predicate: もう -> no longer (doing), まだ -> not yet (done)
+/// - Positive predicate:
+///     もう -> already (done),
+///     まだ -> still (doing)
+/// - Negative predicate:
+///     もう -> no longer (doing),
+///     まだ -> not yet (done)
 
 もうあの映画を見ました。//I have already seen the movie.
 もうあの映画を見ていません。//I am no longer watching the movie.

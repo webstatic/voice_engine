@@ -9,20 +9,14 @@ stage ２，２。
 /// When a predicate is used in a non-final position in a sentence, the plain predicate is used regardless of the speech (or written) style.
 
 /// (2) Compound vs. complex sentences
-/// # Complex sentences
-/// A complex sentence consists of at least one dependent clause and one independent clause.
-/// the function of a dependent clause is the same as that of an adjective or adverb, but on the level of a clause rather than a word.
-/// These dependent clauses are therefore called adverbial and adjectival clauses.
-/// Because they function adjectivally and adverbially, they must be used before the independent clauses; the order cannot be reversed.
-
-/// * As complex sentences and compound sentences are often confused. Understanding the difference between complex sentences and compound sentences is important when forming and using plain and polite predicates.
+/// As complex sentences and compound sentences are often confused. Understanding the difference between complex sentences and compound sentences is important when forming and using plain and polite predicates.
 
 // # Compound sentences
 /// A compound sentence consists of two or more independent clauses that are joined by a conjunction.
 /// an independent clause is one that can be used alone as a sentence without being preceded or followed by another clause.
 /// the conjunction が may be used between two independent clauses.
 
-/// Unlike complex sentences, the order of clauses in a compound sentence can be reversed without affecting meaning.
+/// The order of clauses in a compound sentence can be reversed without affecting meaning.
 /// The order may be important for other reasons, such as politeness, or order of importance, but the logical meaning is not changed by reversing their order; this is because neither clause modifies the other.
 
 チャンさんは中国人ですが、私は日本人です。//Chang-san is Chinese, and I’m Japanese.
@@ -31,6 +25,13 @@ stage ２，２。
 /// The two clauses joined by が must have the same predicate form; that is, they must either be all polite or all plain. They cannot be mixed.
 
 私は日本人だが、チャンさんは中国人だ。//I’m Japanese, and Chang-san is Chinese.
+
+/// # Complex sentences
+/// A complex sentence consists of at least one dependent clause and one independent clause.
+/// the function of a dependent clause is the same as that of an adjective or adverb, but on the level of a clause rather than a word.
+/// These dependent clauses are therefore called adverbial and adjectival clauses.
+/// Because they function adjectivally and adverbially, they must be used before the independent clauses;
+/// Unlike Compound sentences, the order cannot be reversed.
 
 /// (3) The concept of adjectival clauses
 /// These clauses are handled differently in English and Japanese.
@@ -49,10 +50,10 @@ stage ２，２。
 ーーーーーーーーーーーーーーーーーーーー
 /// 2: Modified Nouns
 /// (1) Modifying regular nouns
-/// # A noun modifying a noun -> [ Nm の N]
+/// # A noun modifying a noun -> [N1 の N0] => N0 of N1
 /// the particle の must be used between the two nouns.
 /// In this case, the preceding noun modifies the following one:
-/// 先生の本 東京の大学
+/// 先生の本     東京の大学
 
 /// # An adjectival noun modifying a noun -> [adj-N な N]
 /// When an adjectival noun modifies a noun, the particle な must be placed immediately before the noun it modifies.
@@ -104,7 +105,7 @@ stage ２，２。
 /// こと can be used as a regular noun or a functional noun.
 /// As a regular noun, it refers to abstract things,
 /// while もの is used to refer to concrete things or concepts (“ideas,” “music,” “habits,” and so on are examples of concepts).
-/// When もの refers to concepts, it is not normally written in kanji.
+/// When もの refers to concepts, it is not normally written in kanji (物).
 
 面白いことを聞きました。//I heard an interesting thing.
 面白い物を買いました。//I bought an interesting thing.

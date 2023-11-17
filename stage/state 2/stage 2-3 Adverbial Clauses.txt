@@ -202,7 +202,7 @@ stage ２，３。
 /// Aspect is always indicated by the final verb, する. In the example above, the final verb is in the perfective form.
 /// In the following examples, the main clauses are in the imperfective form and in the command construction.
 
-昨日、料理したり、映画に行ったりします。//Tomorrow I will cook, and go to the movies, and do other things like that.
+明日、料理したり、映画に行ったりします。//Tomorrow I will cook, and go to the movies, and do other things like that.
 土曜日には、料理したり、映画に行ったりしてください。//Please cook, and go to the movies, and do other things like that on Saturday.
 
 /// (3) Adjectival predicates

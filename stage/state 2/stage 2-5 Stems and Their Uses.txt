@@ -11,9 +11,9 @@ stage ２，５。
 /// (2) Stems as nouns
 /// When used alone, a stem may function as a noun, although not all stems can be used as nouns.
 /// The following examples are typical:
-/// Base form: 話す Stem: はなし Meaning as a noun: story; talk
-/// Base form: 休む Stem: やすみ Meaning as a noun: vacation; time off
-/// Base form: 読む Stem: よみ Meaning as a noun: reading
+/// Base form: 話す Stem: 話 {はなし} Meaning as a noun: story; talk
+/// Base form: 休む Stem: 休み {やすみ} Meaning as a noun: vacation; time off
+/// Base form: 読む Stem: 読み {よみ} Meaning as a noun: reading
 
 あの先生の話はいつも面白いです。//That teacher’s stories are always interesting.
 明日、日本語の授業は休みです。//There will be no Japanese class tomorrow.

@@ -13,13 +13,13 @@ stage ２，４。
 /// The following sentences express the topic’s ability to do something.
 
 クリスさんは日本語が上手に話せます。//Kurisu-san can speak Japanese well.
-私は運転出来ません。//I cannot drive.
+私は運転できません。//I cannot drive.
 
 /// # Possibility-related meaning
 /// Some verbs that do not involve skill or action indicate only possibility, not ability.
 
 明日は日本語の授業に行けません。//I cannot go to Japanese class tomorrow.
-ナンシーさんは明日から図書館でアルバイト出来ます。//It will be possible for Nancy to work at the library starting tomorrow.
+ナンシーさんは明日から図書館でアルバイトできます。//It will be possible for Nancy to work at the library starting tomorrow.
 日本に三週間いられます。//I can stay in Japan for three weeks.
 
 /// Derived potential forms of action verbs have both ability- and possibility-related meanings depending on the context.
@@ -83,6 +83,7 @@ stage ２，４。
 /// によって instead of に can also be used in some cases.
 
 この本は有名な作家に書かれました。//This book was written by a famous writer.
+この本は有名な作家によって書かれました。//This book was written by a famous writer.
 
 /// While the particle に and によって may mark the person who acts, に is the particle used for all types of passive predicates.
 /// によって is not used for the verbs that have emotive meanings, such as scolding and praising, as shown in the incorrect sentence below.
@@ -127,7 +128,7 @@ stage ２，４。
 
 /// Passive:
 
-私は友達にボーイフレンドからの手紙を読まれました。//I was upset about being scolded by the teacher.
+私は友達にボーイフレンドからの手紙を読まれました。//I was upset that my friend read my boyfriend's letter.
 
 /// In many affective passive sentences, the topic is not mentioned, because it is clear that the speaker is the one who is emotionally affected.
 
@@ -269,9 +270,9 @@ stage ２，４。
 /// (2) Apologizing
 /// Ending the first clause with the て-form is a construction commonly used to form an apology:
 
-昨日、授業に来なくて、すみません {でした）。//I’m sorry I didn’t come to class yesterday.
+昨日、授業に来なくて、すみません （でした）。//I’m sorry I didn’t come to class yesterday.
 
-/// A very common mistake when expressing an apology is to connect the two clauses with the conjunction から (or ので), as in the following incorrect sentence:
+/// A very common mistake when expressing an apology is to connect the two clauses with the conjunction から (or ので)
 
 /// An apology is best connected with the て-form because it indicates that the speaker’s regret emerges naturally, rather than being the chosen consequence of a causal event.
 
