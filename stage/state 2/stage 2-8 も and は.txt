@@ -103,7 +103,7 @@ stage ２，８。
 /// When は is used instead of も in the above sentences,
 /// the phrases with the number indicate the least amount.
 
-// These sentences below indicate that the speaker does not know the exact number, but the number that is given is the least possible number.
+/// These sentences below indicate that the speaker does not know the exact number, but the number that is given is the least possible number.
 
 母はトーストを三枚は食べたと思います。//I think Mom ate at least three pieces of toast.
 あの人は日本に四回は行ったことがあると思いますよ。//I believe that person has been to Japan at least four times.

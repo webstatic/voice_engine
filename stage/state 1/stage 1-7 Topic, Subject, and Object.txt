@@ -313,7 +313,7 @@ stage １，７。
 /// どうしましたか is a fixed expression used for an equivalent expression in English, “What happened?” 
 /// In Japanese, 何 {なん・なに} is used for a very specific thing, but for a vague or openended thing, どう is used.
 
-// ちょっと is a colloquial expression of 少し {すこし}, “a little.”
+/// ちょっと is a colloquial expression of 少し {すこし}, “a little.”
 
 /// それはいけませんね expresses that the speaker feels badly about the addressee’s poor condition.
 

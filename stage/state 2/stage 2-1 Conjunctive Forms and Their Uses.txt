@@ -30,7 +30,7 @@ stage ２，１。
 /// The following sentence indicates that the topic has a specific ability; the verb therefore has a stative meaning.
 
 私は日本語が分かります。//I understand Japanese.
-//// [ = I have the ability to understand Japanese.]
+/// [ = I have the ability to understand Japanese.]
 
 /// The idea in the sentence above cannot be expressed with ~ている, because having the ability to do something refers to a state or condition, rather than an action or an event.
 
@@ -47,7 +47,7 @@ stage ２，１。
 
 起きています。//I am up.
 
-// /The sentence above does not refer to the process of getting up, but rather the state of being awake after the action of getting up has been completed.
+/// The sentence above does not refer to the process of getting up, but rather the state of being awake after the action of getting up has been completed.
 /// With a punctual verb such as 起きる, Japanese speakers normally use either the positive imperfective to say “I will get up soon,” or use ~ている to say “I am up already.”
 /// They will seldom utter a sentence that is equivalent to “I am in the process of getting up.”
 

@@ -11,7 +11,7 @@ stage ２，２。
 /// (2) Compound vs. complex sentences
 /// As complex sentences and compound sentences are often confused. Understanding the difference between complex sentences and compound sentences is important when forming and using plain and polite predicates.
 
-// # Compound sentences
+/// # Compound sentences
 /// A compound sentence consists of two or more independent clauses that are joined by a conjunction.
 /// an independent clause is one that can be used alone as a sentence without being preceded or followed by another clause.
 /// the conjunction が may be used between two independent clauses.

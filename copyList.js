@@ -65,6 +65,9 @@ db.loadDatabase({}, function () {
 
         async.eachSeries(fileStr, function (text, callback) {
             if (text != '') {
+
+                console.log('start text', text, fileText);
+
                 let meaningManual = text.split("//")[1]
                 text = text.split("//")[0]
 

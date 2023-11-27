@@ -184,7 +184,7 @@ stage １，１。
 
 /// (3) Negative responses
 /// # The generic negative response 違います  {ちがいます}
-//  is a verb that means “to differ from something.”
+///  is a verb that means “to differ from something.”
 /// It can be used as a generic negative response to a question using the nominal predicate.
 /// should be used without a topic. It should only be used to respond a question with a nominal predicate.
 
