@@ -92,6 +92,7 @@ stage ２，７。
 ーーーーーーーーーーーーーーーーーーーー
 /// (2) In statements
 /// When の（ん）だ is added to the predicate of a statement, it adds the sense that the speaker is giving an explanation of a past or future action.
+
 /// In the following sentence, the first clause with のだ gives an explanation why the speaker mentions in the main clause that he or she has no money.
 
 来年、日本に行きたいと思っているのですが、お金がありません。//You may know that I’d like to go to Japan next year, but I don’t have any money.

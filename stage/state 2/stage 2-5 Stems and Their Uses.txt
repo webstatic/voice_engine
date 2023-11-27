@@ -126,9 +126,9 @@ stage ２，５。
 /// In addition to the use of a stem as a nominal form, one may see an actual noun that consists of kanji compounds in the same construction.
 /// As explained thus far, both stems and nominalized verbs function as nominal elements.
 /// In addition to these two kinds of nominal elements, there is another group of nouns that consist of more than one kanji.
-/// These kanji compounds are called 漢語 {かんご}.
+/// These kanji compounds are called 漢語
 
-/// For instance, the noun 読書 {どくしょ} “reading,” a 漢語 {かんご}.
+/// For instance, the noun 読書 {どくしょ} “reading,” is a 漢語.
 /// The same meaning can be expressed by the verb 読む with the nominalizer こと, as in 読むこと.
 
 /// In the pair of sentences below, 食べ {たべ} is derived from the verb 食べる, while the noun 食事 {しょくじ} “meal” is expressed with two kanji.
@@ -140,20 +140,20 @@ stage ２，５。
 /// In any language, there is often more than one word to refer to the same thing, event, action, state, etc.
 /// In English, these similar words, if not exactly the same, may have different origins: AngloSaxon and Latin/French-based, for example.
 /// In Japanese, two common sources are native words and Chinese words.
-/// The native words are referred to as 大和言葉 {やまとことば} or 和語 {わご} while words of Chinese origin are 漢語 {かんご}.
-/// For “reading,” 読む is 大和言葉 {やまとことば}, while the kanji compound 読書 {どくしょ} is of Chinese origin.
+/// The native words are referred to as 大和言葉 or 和語 {わご} while words of Chinese origin are 漢語.
+/// For “reading,” 読む is 大和言葉 , while the kanji compound 読書 is of Chinese origin.
 
-/// Not all 漢語 {かんご} are of Chinese origin, however.
-/// For instance, the verb 食べる {たべる} is 大和言葉  {やまとことば}.
-/// The 漢語 equivalent is 食事する {しょくじする}, but this 漢語 {かんご} is a Japan-made noun based on the structure of the words of Chinese origin.
+/// Not all 漢語 are of Chinese origin, however.
+/// For instance, the verb 食べる is 大和言葉.
+/// The 漢語 equivalent is 食事する, but this 漢語 is a Japan-made noun based on the structure of the words of Chinese origin.
 /// There are quite a few such 漢語.
 
 /// Notice the differences in the readings of the kanji of these two words.
-/// For most 大和言葉 {やまとことば}, 訓読み {くんよみ} is used, as in 食べる {たべる}.
-/// And 音読 {おんよ}み is used for most 漢語 {かんご} as in 食事 {しょくじ}.
+/// For most 大和言葉, 訓読み {くんよみ} is used, as in 食べる.
+/// And 音読み {おんよみ} is used for most 漢語 as in 食事.
 
 /// The difference between the two kinds of words is often one of formality.
-/// 大和言葉 {やまとことば} are used more often in everyday speech, while 漢語 {かんご} sound somewhat more formal.
+/// 大和言葉 are used more often in everyday speech, while 漢語 sound somewhat more formal.
 /// Of course, this is just a broad generalization, and there are exceptions to this statement.
 
 ーーーーーーーーーーーーーーーーーーーー
@@ -196,9 +196,9 @@ stage ２，５。
 
 /// Review and further study of structures with the verbs 言う {いう} (or おっしゃる) and 思う {おもう} follows below.
 ーーーーーーーーーーーーーーーーーーーー
-/// (2) The verbs 言う {いう} and おっしゃる
-/// おっしゃる is the honorific verb of the verb 言う.
-/// The polite form is おっしゃいます, rather than お っしゃります, just as the polite form of いらっしゃる is いらっしゃいます, not いらっしゃります.
+/// (2) The verbs 言う and おっしゃる
+/// おっしゃる is the honorific verb of the verb 言う {いう}.
+/// The polite form is おっしゃいます, rather than おっしゃります, just as the polite form of いらっしゃる is いらっしゃいます, not いらっしゃります.
 
 /// Since おっしゃる is the honorific verb of 言う, it is used when the topic is someone to whom the speaker wishes to show respect.
 
@@ -252,13 +252,13 @@ stage ２，５。
 あの人は日本人だと思います。//I think he’s Japanese.
 
 /// As mentioned above, the topic of the verb 思う is always the speaker in a statement sentence, or the addressee in a question sentence.
-/// This verb may not be used to report a third person’s opinion. To do this, another element such as 言う {いう} or よう may be used after the verb う思 {おもう}, as shown below.
+/// This verb may not be used to report a third person’s opinion. To do this, another element such as 言う {いう} or よう may be used after the verb 思う {おもう}, as shown below.
 
 鈴木さんはそれはいい考えだと思うと言いました。//Suzuki-san said that he thought it was a good idea.
 鈴木さんはそれはいい考えだと思っているようです。//It looks to me like Suzuki-san thinks it’s a good idea.
 
-/// (4) The verb 聞く {きく}
-/// The verb 聞く has two different meanings.
+/// (4) The verb 聞く
+/// The verb 聞く {きく} has two different meanings.
 
 /// # 聞く “to hear”
 /// It is most common to use indirect quotation to express something that has been heard from another person.

@@ -68,7 +68,7 @@ stage ２，４。
 /// Because this type of passive is emotive, the topic is normally the speaker.
 
 /// (3) Regular passive sentences
-/// he use of regular passives occurs most often in written work such as essays, or in formal speech.
+/// The use of regular passives occurs most often in written work such as essays, or in formal speech.
 /// The topic of the essay is often used as the topic of passive sentences.
 /// For instance, if an essay is discussing 日本語, 日本語 may be used as the topic of the essay’s opening statement.
 

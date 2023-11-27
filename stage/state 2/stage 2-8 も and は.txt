@@ -31,7 +31,7 @@ stage ２，８。
 月曜日に出してくださいと言われましたが、月曜日じゃなくてもかまいませんか。//I was told to submit it on Monday, but would it be all right not to do so?
 
 /// # Combination of positive and negative adverbials
-/// It is possible to include both positive and negative predicates in one sentence with ~てもいい and か まわない structures.
+/// It is possible to include both positive and negative predicates in one sentence with ~てもいい and かまわない structures.
 
 この薬は飲んでも、飲まなくてもいいですよ。//You can take this medicine or not; either way is fine.
 この薬は飲んでも、飲まなくてもかまいませんよ。//You can take this medicine or not; either way is fine.

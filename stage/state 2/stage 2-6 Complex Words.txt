@@ -11,8 +11,9 @@ stage ２，６。
 
 /// In this chapter, a variety of complex words will be introduced, including complex adjectives, complex verbs, complex nouns, and complex adjectival nouns.
 
-/// (2) [Stem + やすい(易い)] -> express that the speaker can easily perform the act named by the verb
-/// The stem of a predicate and the adjective やすい together express that the speaker can easily perform the act named by the verb.
+/// (2) [Stem + やすい(易い)]
+/// The stem of a predicate and the adjective やすい together
+/// express that the speaker can easily perform the act named by the verb.
 
 /// The topic of this construction is the thing or the person the speaker describes.
 
@@ -26,7 +27,7 @@ stage ２，６。
 
 /// Non-active verbs are not used in this construction
 ーーーーーーーーーーーーーーーーーーーー
-/// (3) [Stem + にくい(難い)] -> indicates that the topic poses some kind of difficulty for the speaker.
+/// (3) [Stem + にくい(難い)]
 /// This construction indicates that the topic poses some kind of difficulty for the speaker.
 
 この本は分かりにくいです。//This book is hard to understand.
@@ -38,7 +39,7 @@ stage ２，６。
 
 ーーーーーーーーーーーーーーーーーーーー
 /// 2: Complex Verbs
-/// (1) [Stem + 過ぎる {すぎる}] -> the action denoted by the first element is performed in excess
+/// (1) [Stem + 過ぎる {すぎる}]
 /// This construction is used when the action denoted by the first element is performed in excess.
 /// It is also used in excessive or hyperbolic descriptions.
 
@@ -54,7 +55,8 @@ stage ２，６。
 あの人は頭がよすぎると皆に言われています。//Everyone says that he’s too smart.
 
 /// # With adjectival nouns
-/// Adjectival nouns do not have stems since they do not conjugate. In this construction, they come immediately before 過ぎる.
+/// Adjectival nouns do not have stems since they do not conjugate.
+/// In this construction, they come immediately before 過ぎる.
 
 この部屋は静か過ぎます。//This room is too quiet.
 
@@ -81,12 +83,13 @@ stage ２，６。
 宿題をし始めました。//I have begun doing my homework.
 
 /// # 出す {だす} -> [Stem + 出す] -> "denotes the beginning of a continuous action or event"
+/// Although 出す “to take something out” itself is transitive, it can be combined with both intransitive and transitive verbs.
+
 /// The verb 思い出す {おもいだす} “to recall”; this verb in fact consists of the stem of the verb 思う {おもう} and the verb 出す {だす}.
 /// This complex verb literally means something like “to take out what has been memorized.”
 
 ああ、あの人の名前を思い出しました。//Oh, now I remember that person’s name.
 
-/// Although 出す “to take something out” itself is transitive, it can be combined with both intransitive and transitive verbs.
 /// This expression has an inceptive or inchoative sense, that is, it denotes the beginning of a continuous action or event.
 
 雨が降り出しました。//It started to rain.
@@ -140,8 +143,9 @@ stage ２，６。
 今日、歩くのを忘れた。//I forgot to go for a walk today.
 
 ーーーーーーーーーーーーーーーーーーーー
-/// 3: Complex Nouns with 方
-/// 方 {かた} means “method” or “way”; thus, the coupling of a verb stem with this noun means “a way of (doing something).”
+/// 3: Complex Nouns with 方 -> [Stem + 方] -> “a way of (doing something).”
+/// 方 {かた} means “method” or “way”;
+/// thus, the coupling of a verb stem with this noun means “a way of (doing something).”
 /// An equivalent expression in English is “how to do something.”
 
 /// 読み方 “the way of reading” (how to read)
@@ -238,7 +242,7 @@ stage ２，６。
 
 次の言葉を漢字で書きなさい。//Write the following words in kanji.
 
-/// Here, too, there is no exact negative counterpart, but some examples are given below (sentencefinal particles used in conversation, such as ね and よ, are used in the following example sentences because they are conversational):
+/// Here, too, there is no exact negative counterpart, but some examples are given below (sentence-final particles used in conversation, such as ね and よ, are used in the following example sentences because they are conversational):
 
 ここを走らないでね。//Don’t run here.
 
