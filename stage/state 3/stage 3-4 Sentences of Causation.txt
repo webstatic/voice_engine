@@ -119,6 +119,34 @@ stage ３，４。
 掃除は妹にさせてください。でも、洗濯は兄にさせてください。//Have my younger sister do the cleaning. But have my brother do laundry.
 
 /// 2: Other Causative Forms
+/// (1) Short causative forms
+/// There is another set of causative forms called short causative forms.
+/// They are used frequently in conversation.
+/// The short causative forms can be obtained by changing the causative suffix せる to す.
+
+/// - Meaning
+/// eat wait buy come do
+/// - Base form
+/// たべる まつ かう くる する
+/// - Long causative form
+/// たべさせる またせる かわせる こさせる させる
+/// - Short causative form
+/// たべさす またす かわす こさす さす
+
+/// All short causative verbs are Group 2 verbs:
+/// たべさす → たべさします → たべさして; かえらす → かえらします → かえらして; こさす → こさします → こさして.
+
+/// Short causative forms are used more often in casual settings than long causative forms.
+/// However, there are individual as well as regional differences in the use of long and short causative forms.
+/// Compare the long and short causative verbs in the following sentences:
+
+
+あの人はいつも私を待たせます。//That person always makes me wait.
+/// [long causative]
+
+あの人はいつも私を待たします。//That person always makes me wait.
+/// [short causative]
+
 
 ーーーーーーーーーーーーーーーーーーーー
 ーーーーーーーーーーーーーーーーーーーー
