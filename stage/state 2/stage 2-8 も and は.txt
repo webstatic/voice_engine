@@ -103,7 +103,7 @@ stage ２，８。
 /// When は is used instead of も in the above sentences,
 /// the phrases with the number indicate the least amount.
 
-/// These sentences below indicate that the speaker does not know the exact number, but the number that is given is the least possible number.
+// These sentences below indicate that the speaker does not know the exact number, but the number that is given is the least possible number.
 
 母はトーストを三枚は食べたと思います。//I think Mom ate at least three pieces of toast.
 あの人は日本に四回は行ったことがあると思いますよ。//I believe that person has been to Japan at least four times.
@@ -119,13 +119,33 @@ stage ２，８。
 /// (4) Interrogative pronoun でも
 /// でも is added to interrogative pronouns to produce the following meanings:
 
-/// なにも nothing,         なにか something,           なんでも anything
-/// だれも no one,          だれか someone,             だれでも anyone
-/// どこも nowhere,         どこか somewhere,           どこでも anywhere
-/// どれも not one thing,   どれか one of the things,   どれでも any one of them
-/// どちらも neither,       どちらか one of the two,    どちらでも both
-/// （いつも） (always),    いつか sometime,            いつでも anytime
-/// どうしても no matter how,どうしてか for some reason,どうしてでも by any means
+/// なにも nothing,
+/// なにか something,
+/// なんでも anything
+
+/// だれも no one,
+/// だれか someone,
+/// だれでも anyone
+
+/// どこも nowhere,
+/// どこか somewhere,
+/// どこでも anywhere
+
+/// どれも not one thing,
+/// どれか one of the things,
+/// どれでも any one of them
+
+/// どちらも neither,
+/// どちらか one of the two,
+/// どちらでも both
+
+/// （いつも） (always),
+/// いつか sometime,
+/// いつでも anytime
+
+/// どうしても no matter how,
+/// どうしてか for some reason,
+/// どうしてでも by any means
 
 /// # Fixed expression: interrogative pronoun with でもいい（かまわない）
 /// Fixed expressions containing an interrogative pronoun with でもいい（かまわない）
@@ -169,12 +189,15 @@ stage ２，８。
 /// the most formal is ~なくてはならない; then ~なくてはいけない; and ~なくてはだめ is colloquial.
 /// The following example uses a verbal predicate:
 
-すぐに行かなくてはなりません（いけません・だめです）。//I’d better go soon.
-靴は日本製じゃなくてはなりません（いけません・だめです）。//Shoes should be Japan-made.
-この部屋の机は新しくなくてはなりません（いけません・だめです）。//The desk in this room should be new.
+すぐに行かなくてはだめです。//I’d better go soon.
+/// or いけません・なりません
+靴は日本製じゃなくてはいけません。//Shoes should be Japan-made.
+/// or なりません・だめです
+この部屋の机は新しくなくてはなりません。//The desk in this room should be new.
+/// or いけません・だめです
 ーーーーーーーーーーーーーーーーーーーー
 /// (4) Expressing obligation with ~なければ
-/// Obligation may also be expressed by changing the above fixed structure with ~なくては to one with ~なければ and adding the same three options: ~なければはならない, ~なければいけない, and ~なけれ ばだめ.
+/// Obligation may also be expressed by changing the above fixed structure with ~なくては to one with ~なければ and adding the same three options: ~なければはならない, ~なければいけない, and ~なければだめ.
 /// The basic meaning of these phrases shares the similar literal meaning as ~なくては: that is, “if (something) did not happen, it would not do.”
 /// This meaning is also communicates a sense of obligation, as in “One must/should do/be such-and-such.”
 
@@ -184,9 +207,12 @@ stage ２，８。
 /// For the sake of comparison, the following examples are identical to the ones above except for ~な ければ instead of ~なくては.
 /// The examples below use all three predicates (verbal, nominal, and adjectival, in order):
 
-すぐに行かなければはなりません（いけません・だめです）。//I’d better go soon.
-靴は日本製じゃなければはなりません（いけません・だめです）。//Shoes should be Japan-made.
-この部屋の机は新しくなければなりません（いけません・だめです）。//The desk in this room should be new.
+すぐに行かなければだめです。//I’d better go soon.
+/// or いけません・なりません
+靴は日本製じゃなければいけません。//Shoes should be Japan-made.
+/// or なりません・だめです
+この部屋の机は新しくなければなりません。//The desk in this room should be new.
+/// or いけません・だめです
 
 /// # The difference between the two expressions of obligation
 /// The difference between the two is small.
@@ -202,9 +228,12 @@ stage ２，８。
 /// Another adverbial clause that expresses situational conditions is joined by the so-called ば-form of the predicate.
 
 /// (1) Creating the ば-formation
-/// Nominal predicate       である→であれば - 日本人であれば
-/// Adjectival predicate    い→ければ - たかければ, よければ
-/// Verbal predicate        the last {u} to {e} and add ば - たべれば, はなせば, くれば
+/// Nominal predicate       である → であれば
+/// ex 日本人であれば
+/// Adjectival predicate    い → ければ
+/// ex たかければ, よければ
+/// Verbal predicate        the last {u} to {e} and add ば
+/// ex たべれば, はなせば, くれば
 
 /// # である as the copula
 /// is a more formal copula than だ. 

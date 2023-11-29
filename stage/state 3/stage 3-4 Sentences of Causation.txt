@@ -1,6 +1,125 @@
 stage ３，４。
 /// Stage 3-4 Sentences of Causation
 
+/// 1: Causative Sentences
+/// As mentioned in Stage 1–9, causative sentences, which are characterized by the use of causative verbs, express a person’s causing another person to do something.
+/// The situation varies: it could be that the topic forces someone to do something, allows someone to do something, lets someone do something, or has someone do something, depending on the context.
+/// In all these situations in Japanese, the topic of the causative sentence is a person with greater authority than the person mentioned in the object position.
+/// When the topic has less authority than the person in the object position, a causative sentence may not be used.
+/// In this case, other constructions must be used, some of which will be introduced in this chapter.
+
+/// (1) Causative verb formation
+/// Group 1: Change る to させる
+/// Group 2: Change the final {u} to {a} and add せる
+/// Group 3: [する → させる], [くる → こさせる]
+
+/// All derived causative verbs are Group 1 verbs.
+/// The following examples show how they conjugate: たべさせる → たべさせて, かわせる → かわせて.
+
+/// (2) Verbs with no causative forms
+/// There are a few groups of verbs that lack causative forms.
+
+/// - Verbs that express non-actions or non-events lack the corresponding causative verbs.
+/// For instance, some semi-transitive verbs, such as ある “to have; to exist” and 要る {いる} “to need,” do not have causative forms.
+
+/// - The intransitive counterpart in a transitive-intransitive verb pair lacks a causative form:
+/// e.g. 開く {あく}  “(something) opens” and 閉まる {しまる} “(something) closes.”
+
+/// - Honorific verbs also lack causative forms:
+/// e.g. いらっしゃる “to be”; “to go”; “to come,” くださる “to give (me),” おっしゃる “to say.”
+
+/// (3) Causative sentences
+/// Causative sentences have several different meanings, as shown in the English translation of the example below.
+/// In some cases, only the context can determine which meaning the sentence conveys.
+/// But in all cases, the person in the topic position has more power than the person in the object place.
+/// It is therefore inappropriate to use a causative sentence to express the idea of a person with less power making a person with more power do something.
+
+先生は学生に日本語を話させます。//The teacher makes/allows/lets the student speak Japanese.
+
+/// When expressing more than one causative action with the たり-form, the causative element may be either in the final verb する, or in a verb in the non-final position, but not in both.
+/// For instance, to describe the things a teacher makes his students do in class, the following sentence uses causative elements in the non-final position.
+
+先生は学生に漢字を書かせたり、日本語を話させたりします。//The teacher makes his students do things like write kanji and speak Japanese.
+
+/// In the following sentence, the causative form is in the final verb する.
+
+先生は学生に漢字を書いたり、日本語を話したりさせます。//The teacher makes his students do things like write kanji and speak Japanese.
+
+/// (4) The use of に and を with directional verbs
+/// Some linguists say that different causative meanings can be identified by the use of different particles.
+/// For instance, compare the following two sentences:
+
+中村さんは子供にイギリスに行かせます。//Nakamura-san will allow his child to go to England.
+
+中村さんは子供をイギリスに行かせます。//Nakamura-san will make his child go to England.
+/// Literally, “Nakamura-san will force his child to go to England.
+
+/// It is commonly said and believed that the use of に conveys the meaning of allowing,
+/// whereas the use of を in the second sentence above would imply that the child is going despite his or her wishes to the contrary.
+/// It is true that the difference between these sentences can be interpreted that way, but the difference is not as distinct as some linguists believe it to be.
+/// Both of these sentences actually more or less convey the meaning of “making someone go somewhere.”
+
+/// First of all, if this difference exists, it is a very slight one, and is true only when the verb expresses direction;
+/// it does not apply to most other verbs.
+/// Furthermore, regardless of the particle choice, に or を, the original meaning of the causative sentence still holds for both sentences;
+/// that is, a person with power is causing a person with less power to do something.
+/// Most importantly, to convey the meaning of allowing a person to do something, a more appropriate Japanese sentence would contain a giving verb in the predicate, as shown below.
+
+中村さんは子供にイギリスに行かせてやりました。//Nakamura-san allowed his child to go to England.
+
+/// (5) The use of に and を with other verbs
+/// In this section, the use of に and を with verbs other than the directional verbs will be examined.
+/// See the following example with the verb 笑う {わらう}, which means “to laugh”:
+
+あの人はいつも面白い話をして、人を笑わせます。//That person always tells funny stories, and makes people laugh.
+
+/// In this case, the use of を indicates that the topic makes people laugh.
+/// It would be unnatural to interpret the sentence as saying that the topic allows or forces another person to laugh, since the verb expresses an involuntary action.
+/// For involuntary actions, を should be used for the person who is being made to do the action.
+/// A similar example can be found in the following sentence, where the act of crying is an involuntary action.
+
+あの人はいつも子供を泣かせます。//That person always makes children cry.
+
+/// In some artificial cases, it is possible for someone to have someone else do things such as laugh or cry.
+/// For instance, if a movie director wanted to have an actor laugh in a particular scene, the use of に rather than を would indicate that.
+
+その時に、チャンさんに笑わせます。//At that time, I will make Chang-san laugh.
+
+/// # General rule for に or を for the person in the object position
+/// The basic meaning conveyed by a causative sentence, regardless of the predicate used, is that the person in the topic position makes the person in the object position do something.
+/// The implication is that the person in the object position carries out an action as a result.
+/// The person in the object position of a causative sentence may be marked either by に or を, but these particles are not interchangeable.
+
+/// When the verb is a transitive verb, the person who is made to act must be marked by に.
+/// を may not be used here, because the direct object of the verb is marked by を.
+
+あのうちでは、親は子供に自分のご飯を料理させます。//At that house, the parents have the children prepare their own meals.
+
+/// For intransitive verbs, the person in the object position may be marked by に or を.
+/// When を is used, it implies that the action taken by this person is an involuntary action.
+/// In the following sentence, being upset is not a controllable action.
+
+あの人はいつも私を怒らせます。//That person always makes me upset.
+
+/// The reason some linguists believe that the use of を gives a coercive meaning may be due to this involuntary meaning conveyed by を.
+/// That is, the sentence conveys the meaning of “an act not carried out deliberately” by the person mentioned in the object position.
+
+/// When に is used, it indicates that a person deliberately carries out the action indicated by the verb:
+
+今日は、スミスさんに泳がせるつもりだ。//I am planning to have Smith-san swim today.
+
+/// (6) て-causatives with ください
+/// The て-form of a causative verb with ください indicates that the speaker is volunteering to do something.
+
+この飲み物は私に買わせてください。//Please let me buy this drink.
+
+/// The speaker can also use this structure to request that someone else (a third person) do something.
+/// In this case, the speaker must be in an authoritative position over both the addressee and the person who is being made to do something.
+
+掃除は妹にさせてください。でも、洗濯は兄にさせてください。//Have my younger sister do the cleaning. But have my brother do laundry.
+
+/// 2: Other Causative Forms
+
 ーーーーーーーーーーーーーーーーーーーー
 ーーーーーーーーーーーーーーーーーーーー
 カンバセーション。

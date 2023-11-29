@@ -36,7 +36,391 @@ stage ３，２。
 /// (3) Aspects of the two structures
 /// The following sentences illustrate how aspects of the above two structures are expressed:
 
+/// # Negative sentences containing complex words with そう
+/// There are two ways to negate a sentence containing a complex adjectival noun with そう.
+/// The first is to use the negative of the original word and add そう. Recall that さ must be inserted between the negative な~ and そう.
+/// This is true with all negatives and the positive adjective いい, which is よさそう.
+
+雨が降らなさそうです。//It looks to me like it’s not going to rain any time soon.
+
+/// The second way is to form a complex adjectival noun first and then negate the predicate.
+
+雨が降りそうじゃありません。//It doesn’t look to me like it’s going to rain any time soon.
+
+/// There is a difference in meaning between the two negative sentences above:
+/// the first sentence above expresses the speaker’s own observation that it might not rain
+/// while the second sentence is the speaker’s negation of a previous statement or inference (which could include the speaker’s own inference prior to the observation).
+
+/// # Positive and negative perfective sentences containing complex words with そう
+/// The positive perfective is indicated by the predicate; this is the only way to express this aspect.
+/// In other words, it is not possible to put the original word into the perfective form before adding そう in this structure.
+
+雨が降りそうでした。//It looked to me like it was going to rain soon.
+
+/// There are two ways to form negative perfective sentences with complex adjectival nouns with そう.
+/// These are the same as the ways of forming imperfective negative sentences; the only difference is that でした is added.
+/// The difference in nuance between the two is the same as for negative imperfectives.
+
+雨が降らなさそうでした。//It looked to me like it wasn’t going to rain any time soon.
+雨が降りそうじゃありませんでした。//It didn’t look to me like it was going to rain any time soon.
+
+/// # Indicating aspect in complex predicates with そうだ
+/// Because そうだ at the end of a complex predicate does not convey when the information was obtained, aspect cannot be expressed by this element.
+/// In constructions including the complex predicate with そうだ, the most natural way to indicate aspect is therefore to express it in the first predicate within the complex predicate.
+
+午後は雨が降らないそうです。//I heard that it’s not going to rain in the afternoon.
+午後は雨が降ったそうです。//I heard that it rained in the afternoon.
+午後は雨が降らなかったそうです。//I heard that it didn’t rain this afternoon.
+今は日本でも雨が降っているそうです。//I heard that it’s raining in Japan now, too.
+
+/// 2: Complex Predicates with ようだ
+/// Complex predicates with ようだ were mentioned in Stages 1–7 and 2–5, but the ways in which this structure is used have not been covered.
+/// In fact, よう is used in quite a few ways in various structures.
+
+/// (1) The use of よう in complex predicates
+/// The word よう literally means “appearance.” The use of よう in the complex predicate therefore indicates that the event that the sentence refers to is based on an inference drawn from the speaker’s direct perception of a situation.
+/// The information may be from an objective source as well, but the speaker must still confirm it through his or her own direct observation.
+
+/// # Predicates before ようだ
+/// The following examples illustrate the use of all three predicates before ようだ.
+
+午後、雨が降るようです。//It looks like it will rain this afternoon.
+あの店のお茶はおいしいようです。//The tea at that shop looks delicious.
+ここは静かなようです。//It seems like this place is quiet.
+あの人は日本人のようです。//That person looks Japanese.
+
+/// In the following section, different aspects of this construction are presented.
+/// The same content, that is, “rain in the afternoon,” will be used in all cases so that the comparison will be clearer.
+
+/// # Negative aspects
+/// A structure in which the predicate before ようだ is negative is different in meaning from one in which ようだ itself is negative.
+
+/// When the predicate before ようだ is negative, the speaker is stating her or his observation.
+
+午後、雨が降らないようです。//It looks like it won’t rain this afternoon.
+
+/// When ようだ is negative, the speaker is negating the assumption that it may rain.
+
+午後、雨が降るようではありません。//It doesn’t look like it will rain this afternoon.
+
+/// # Positive perfective aspect
+/// Structures that use the perfective in the predicate before ようだ are different in meaning from those that use ようだ in the perfective.
+
+/// When the positive aspect is expressed in the predicate before ようだ, the speaker is informing the addressee that he or she believes that it rained in the afternoon.
+
+午後、雨が降ったようです。//It looks like it rained in the afternoon.
+
+/// When ようだ is in the perfective, it refers to a certain past situation in which the speaker reports that it looked as if it would rain in the afternoon.
+/// For instance, if the speaker is talking about the previous weekend, by using this structure, she or he is saying that it looked like rain then.
+
+午後、雨が降るようでした。//It looked like it was going to rain in the afternoon.
+
+/// The following illustrates when both predicates are positive perfective.
+
+午後、雨が降ったようでした。//It looked like it had rained in the afternoon.
+
+/// # Negative perfective aspect
+/// With this aspect, the difference in meaning depends on the place of negation.
+/// The difference is similar to the difference between negative imperfectives.
+
+午後、雨が降らなかったようです。//It looks like it didn’t rain in the afternoon.
+午後、雨が降るようじゃありませんでした。//It didn’t look like it would rain in the afternoon.
+
+/// When referring to a situation in the past, the following structures are possible.
+/// The first sentence indicates that the speaker observed in the past that it would not rain, while the second one conveys the speaker’s past observation that it did not rain.
+
+午後、雨が降らないようでした。//It looked like it wouldn’t rain in the afternoon.
+午後、雨が降らなかったようでした。//It looked like it hadn’t rained in the afternoon.
+
+/// (2) Complex words with そう and complex predicates with ようだ
+/// For both structures—complex adjectival nouns with そう and complex predicates with ようだ—the information source is subjective.
+
+/// # Time of events
+/// Despite this similarity, there are some important differences.
+/// The sentence with the complex adjectival noun conveys “immediacy”—something like “it looks as if the rain will come very soon.”
+/// It also expresses the speaker’s strong prediction if immediacy is not included.
+/// With complex predicates containing ようだ, these implications are not conveyed.
+
+雨が降りそうです。//It looks like it’s going to rain any minute now.
+明日も雨が降るようです。//It looks like it’s going to rain tomorrow, too.
+
+/// Compare the following examples.
+
+このすしは本当においしそうですねえ。//This sushi looks really delicious!
+あそこのすしは本当においしいようですねえ。//Sushi at that restaurant is supposed to be quite good.
+
+/// The first sentence with the complex word with そう is used when something—sushi, in this case— is right in front of the speaker.
+/// The second sentence containing the complex predicate with ようだ is an inference made by the speaker based on what he or she has heard or witnessed.
+
+/// # Information source
+/// Though complex adjectival nouns with そう and complex predicates with ようだ are based on a subjective information source, the latter may also include an objective source.
+
+/// Because complex predicates with ようだ may contain combined information sources, an objective source may be expressed with this construction.
+/// This is not possible, however, with the complex adjectival noun with そう.
+
+テレビによると、午後、雨が降るようです。//According to the TV, it’s supposed to rain in the afternoon.
+
+/// # A conversational function of ようだ
+/// When the speaker wishes to make an assertion, she or he may choose to add ようだ at the end of sentence to soften the assertion.
+/// For instance, the use of ようだ adds the nuance that the speaker agrees with something based on his or her own direct observation.
+
+/// For instance, the following examples show that the one with 思います is much stronger than そのよ うです when expressing agreement.
+
+あの人は困っているようですね。//She is in trouble, isn’t she?
+そう思います。//I think so.
+そのようですね。//It seems that way, doesn’t it?
+
+/// # Emotive expressions with ようだ
+/// Similar to the way in which a third person’s emotions may be reported with 言う and 思う, the use of ようだ is also appropriate when the speaker has witnessed a third person’s emotions directly. 
+
+/// (3) みたいだ and ようだ
+/// Though more colloquial in tone, complex predicates with みたいだ express the same degree of subjectivity and objectivity with regard to the information source as those with ようだ.
+/// The following examples illustrate that there is no structural difference between sentences with みたい and ようだ when the predicate is verbal or adjectival.
+/// There is, however, a structural difference when the predicate is nominal.
+
+午後、雨が降るようです。//It looks like it’s going to rain this afternoon.
+午後、雨が降るみたいです。//It looks like it’s going to rain this afternoon.
+
+あの店のお茶はおいしいようです。//The tea at that shop looks delicious.
+あの店のお茶はおいしいみたいです。//The tea at that shop looks delicious.
+
+ここは静かなようです。//This place seems quiet.
+ここは静かみたいです。//This place seems quiet.
+
+あの人は日本人のようです。//That person looks Japanese.
+あの人は日本人みたいです。//That person looks Japanese.
+
+/// 3: Different Uses of よう
+/// The following sections discuss uses of よう other than ようだ in complex predicates.
+
+/// (1) Adjectival and adverbial phrases with よう and みたい
+/// # Similes with よう and みたい
+/// Similes may be expressed with よう or みたい. な is needed to join either word to the noun that follows.
+/// Though it is not necessary to use の between みたい and the preceding noun, の is necessary for よう.
+
+あの人は先生のような人ですね。//That person acts like a teacher, doesn’t he?
+あの人は先生みたいな人ですね。//That person acts like a teacher, doesn’t he?
+
+あのコーヒーのような飲み物は何ですか。//What is that coffee-like drink?
+あのコーヒーみたいな飲み物は何ですか。//What is that coffee-like drink?
+
+/// # よう and みたい representing a category
+
+/// The noun followed by よう or みたい represents a category.
+
+北川さんのような人は嫌いです。//I can’t stand people like Kitagawa-san.
+北川さんみたいな人は嫌いです。//I can’t stand people like Kitagawa-san.
+
+和食のような物を作りました。//I made something that looks like Japanese food.
+和食みたいな物を作りました。//I made something that looks like Japanese food.
+
+/// # Adverbial similes with よう and みたい
+/// Similes may be expressed adverbially using よう or みたい. In this case, に must be used to make the よう-phrase an adverbial one.
+/// ぶた in the third and fourth examples means “pig.”
+
+あの学生は日本人のように日本語を話しますね。//That student speaks Japanese just like a native, doesn’t she?
+あの学生は日本人みたいに日本語を話しますね。//That student speaks Japanese just like a native, doesn’t she?
+
+昨日、ぶたのようにたくさん食べました。//I ate like a pig yesterday.
+昨日、ぶたみたいにたくさん食べました。//I ate like a pig yesterday.
+
+/// # まるで・・・よう（な・に） or みたい（な・に）
+/// The adverb まるで may be added in the sentences above to emphasize the degree of similarity of the things being compared.
+
+あのアメリカ人はまるで日本人のようなアメリカ人ですね。//That American is just like a Japanese person.
+あのアメリカ人はまるで日本人みたいなアメリカ人ですね。//That American is just like a Japanese person.
+
+昨日、まるでぶたのようにたくさん食べました。//I ate so much yesterday, like an absolute pig.
+昨日、まるでぶたみたいにたくさん食べました。//I ate so much yesterday, like an absolute pig.
+
+/// (2) ように expressing a goal
+/// A target or a goal may be expressed with ように.
+/// In this case, the predicate before ように must be imperfective.
+
+試験に合格するように毎日、一生懸命に勉強しています。//I’ve been studying hard every day so I can pass the examination.
+あまり太らないように毎日、運動しています。//I’ve been exercising every day so I won’t get fat.
+
+/// (3) ようにする expressing effort
+/// In this construction, the verb, whether positive or negative, must be in the imperfective form.
+/// This structure indicates that the speaker is making an effort to do or not do something.
+
+もっと勉強するようにします。//I will try to study more.
+
+/// Adverbs such as なるべく “as much as possible” often accompany this structure.
+/// The following sentence illustrates the negative aspect as well.
+
+なるべく遊ばないようにします。//I will make an effort to play as little as possible.
+
+/// The adverbial phrase できるだけ “as much as possible” is more colloquial than なるべく used above.
+/// The following sentence illustrates the negative perfective aspect:
+
+できるだけ、あの人とは話さないようにしました。//I tried to speak to that person as little as possible.
+
+/// # ようになる
+/// Since the expressions above convey that the speaker is making an effort, they are person-focused expressions.
+/// Compare them to the following sentences with ようになる, which are all situation-focused.
+/// It may be helpful to remember that the verb なる is used to indicate situational changes.
+
+あの人とあまり遊ばないようになりました。//Things have changed, and I don’t play with him anymore.
+あの人とは話さないようになりました。//As things stand now, I no longer speak to him.
+
+/// # ようにする and ~てみる
+/// The sentences with ようにする introduced above, especially the positive ones, may seem similar to structures with ~てみる, primarily because both structures are commonly expressed with the English verb “try.”
+/// However, while the expression with ~てみる focuses on the result of the action of studying,
+/// the structure ようにする focuses on the effort to do the studying, and the actual action of studying has not taken place.
+
+もっと勉強してみます。//I will try studying more.
+/// Literally, “I will see how it turns out after studying more.”
+
+もっと勉強するようにします。//I will try to study more.
+/// Literally, “I will make an effort to study more.”
+
+/// (4) Volitional とする
+/// Yet another structure exists that is similar to the two structures above.
+/// When the volitional form is used with the particle と and the verb する, usually in its perfective form, the combination indicates that the speaker made an effort to do something, but the action was not successfully carried out as a result.
+/// In these sentences, the implication is that the speaker was never able to carry out the act expressed in the adverbial clauses.
+
+晩ご飯を食べようとしましたが、食べられませんでした。//I tried to eat my dinner, but I couldn’t do it.
+電話をしようとしましたが、時間がありませんでした。//I meant to call you last night, but I didn’t have time.
+
+/// # Differences in sentences with ようにする, volitional とする（した）, and てみる
+/// Compare the following three structures.
+/// Although it is possible for all three of the sentences below to be expressed with the English verb “try,” students should be mindful of the underlying meaning of each Japanese sentence.
+
+野菜を食べるようにしました。//I tried to eat the vegetables.
+/// Literally, “I made an effort to eat the vegetables.”
+
+野菜を食べようとしました。//I tried to eat the vegetables.
+/// Literally, “I was about to eat the vegetables, but was unable to.”
+
+野菜を食べてみました。//I tried eating the vegetables.
+/// Literally, “I ate the vegetables and saw how they were.
+
+/// 4: Complex Predicates with らしい
+/// Complex predicates with らしい are closest in meaning to those with そうだ.
+/// Both structures imply that the information source is an objective one.
+/// Structures with そうだ, however, merely report the information; no confirmation of the information by the speaker is implied.
+/// With らしい, this confirmation is expressed.
+
+/// (1) Structures with らしい
+/// As with complex predicates with そうだ, aspect is not reflected in the predicate with らしい.
+/// Instead, all aspectual forms are included in the predicate before らしい.
+/// The following examples show various types of predicates and different aspects.
+
+午後、雨が降るらしいです。//It seems like it’s going to rain this afternoon.
+午後、雨は降らないらしいです。//It seems like it’s not going to rain this afternoon.
+あの店のお茶はおいしいらしいです。//It seems like tea at that shop is delicious.
+あの店のお茶はおいしかったらしいです。//It seems like tea at that shop was delicious.
+ここは静からしいです。//It seems like this place is quiet.
+ここは静かじゃなかったらしいです。//It seems that the place wasn’t quiet.
+あの人は日本人らしいです。//It seems like that person is Japanese.
+あの人は日本人じゃないらしいです。//It seems like that person is not Japanese.
+
+/// (2) Complex adjectives with らしい
+/// らしい is also used to form complex adjectives.
+
+/// In the following example, 日本人らしい is a complex adjective conveying that the topic satisfies every criterion of what a Japanese person ought to be.
+
+あの女の人は日本人らしいですねえ。//That woman acts very Japanese, doesn’t she?
+
+/// When written, there is no difference between the forms of a complex adjective with らしい and a complex predicate with らしい.
+/// Only the context in which a sentence is used will indicate whether it is used as a complex predicate or a complex adjective.
+
+あの女の人は日本人らしいですねえ。//That woman seems to be a Japanese, doesn’t she?
+
+/// In speaking, there is a difference in pause and pitches between the complex adjective and the complex predicate.
+/// Since the complex adjective is an independent word, there is no pause in pronunciation between 日本人and らしい.
+/// Therefore, the pitch used between 日本人and らしい is continuous.
+/// When らしい is in the predicate, there should be a break or pause in pronunciation between 日本人 and らしい, even if it is a very brief pause.
+
+/// The following sentence illustrates how the complex adjective with らしい modifies a noun.
+/// Here, あの人 is a teacher who speaks as one would expect a teacher to do.
+
+あの人は先生らしい話し方をしますね。//That person speaks in a very teacher-like manner.
+
+/// Compare the following sentence with the one above.
+/// Here, あの人 is not a teacher, or the speaker is not certain if あの人 is a teacher but she speaks as if she were one.
+
+あの人は先生のような話し方をしますね。//That person talks like a teacher.
+
+/// (3) Adverbs with らしく
+/// Complex adjectives with らしい are used as adverbs by changing the final い to く.
+
+あの人はいつもとても女性らしく話します。//The way she speaks is always very feminine.
+大学内では学生らしく行動してください。//Please behave the way a student should on campus.
+
+/// (4) Comparison of the four structures
+/// The differences in the four structures are compared in the following chart:
+
+/// # そうだ
+/// Source of information -> Objective: Entirely, Subjective: Not at all
+/// Features -> Reporting objectively, No confirmation
+
+/// # らしい
+/// Source of information -> Objective: Mostly, Subjective: A little
+/// Features -> Reporting objectively, Confirmation by the speaker
+
+/// # ようだ
+/// Source of information -> Objective: A little, Subjective: Mostly
+/// Features -> Inference based on the speaker’s direct observation
+
+/// # Stem + そう
+/// Source of information -> Objective: Not at all, Subjective: Entirely
+/// Features -> Inference based on the speaker’s direct observation Immediacy
+
 ーーーーーーーーーーーーーーーーーーーー
 ーーーーーーーーーーーーーーーーーーーー
 カンバセーション。
 
+/// (1) It seems that way
+
+加藤さん、婚約したんだって！//I heard that Kato-san got engaged!
+そうらしいねえ。//I heard that, too.
+結婚はいつなのかな。//I wonder when the wedding will be.
+秋らしいよ。//I heard it’s in the fall.
+
+/// # 婚約したんだって！
+/// 婚約する {こんやくする} means “to get engaged.”
+/// 婚約したんだって is a shortened version of 婚約したのだと聞きました “I heard from someone that someone else got engaged.”
+
+/// # そうらしい
+/// This phrase is often used to agree with the addressee’s statement.
+/// The phrase literally means “it seems that way.”
+
+/// (2) As I said earlier
+
+やっと、運転免許が取れたよ。今度の土曜日、ドライブに行かない？//I finally got my drivers’ license. Do you want to go for a ride this Saturday?
+よかったわね。でも、今度の土曜日はちょっと・・・//That’s great! But this Saturday isn’t a good time for me.
+都合が悪いの？残念だなあ。今、紅葉がきれいだということだから・・・//It’s not? Too bad. I heard the autumn foliage is really pretty now.
+さっきも言ったように、土曜日はちょっと、都合が悪いの。//As I said, Saturday won’t work for me.
+
+/// # 運転免許（うんてんめんきょ）
+/// 免許（めんきょ） refers to any kind of “certificate.” Here, the combination means “drivers’ license.”
+
+/// # ドライブに行く
+/// This indicates a ride taken in an automobile for pleasure.
+
+/// # 都合が悪い
+/// 都合（つごう） is a noun that means “the personal circumstances that may or may not be convenient for a certain event.”
+/// 都合がいい is used when there is no conflict, and 都合が悪い {つごう が わるい} is used when there is conflict.
+
+/// # 紅葉（こうよう）
+/// The kanji 紅 indicates the color red; the second kanji 葉 means “leaves.”
+/// Together, it means “red leaves,” referring to the autumn foliage.
+
+/// # (3) She seems so Japanese
+
+ブラウンさん、本当に日本語がペラペラですね。//Brown-san is so fluent in Japanese!
+本当に。まるで、日本人ですね、彼女は。//She really is. She’s just like a Japanese person.
+でも、日本食にはなかなか苦労しているようですよ。//But I heard she has a hard time with Japanese food.
+そうなんですか。//Is that so?
+
+/// # 苦労する
+/// 苦労 {くろう} means “hardship.” It can be used for many different situations.
+/// Here, the word refers to a person having a difficult time with Japanese food.
+/// The word may be used to refer to hardship in personal relations as well.
+/// In all cases, the particle に is used for the things that a person is having a hard time with.
+
+/// # まるで日本人ですね
+/// In the grammar section of this chapter, まるで is introduced with みたい and よう, but in the above sentence, neither is used.
+/// In conversation, this deletion is frequent. Here, the meaning of よう or みたい is implied.

@@ -5,7 +5,7 @@ require("./EngineInterface.js")
 
 let postStrUrl = "127.0.0.1"
 //let postStrUrl = "192.168.1.34"
-let inputPath = "./stage/state 1/"
+let inputPath = "./stage/state 2/"
 
 // prepare_synthesis({
 //     useSlow: false,
@@ -15,19 +15,19 @@ let inputPath = "./stage/state 1/"
 // })
 
 
-prepare_synthesis({
-    useSlow: false,
-    speakerId: 47,
-    fileStoragePath: './stream',
-    convertToKana: false
-})
-
 // prepare_synthesis({
-//     useSlow: true,
+//     useSlow: false,
 //     speakerId: 47,
-//     fileStoragePath: './stream_slow',
+//     fileStoragePath: './stream',
 //     convertToKana: false
 // })
+
+prepare_synthesis({
+    useSlow: true,
+    speakerId: 47,
+    fileStoragePath: './stream_slow',
+    convertToKana: false
+})
 
 // prepare_synthesis({
 //     useSlow: true,

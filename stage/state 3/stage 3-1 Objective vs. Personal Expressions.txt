@@ -20,8 +20,8 @@ stage ３，１。
 毎日、歩くことは体にとてもいいです。//Walking every day is very good for your health.
 /// or 毎日、歩くのは体にとてもいいです。
 
-僕は人の前で話すことが嫌いです。//I don’t like to speak in front of other people.
-/// or 僕は人の前で話すのが嫌いです。
+僕は人の前で話すのが嫌いです。//I don’t like to speak in front of other people.
+/// or 僕は人の前で話すことが嫌いです。
 
 /// # Non-interchangeable こと and の in fixed phrases
 /// In many fixed phrases such as with ある and できる, こと and の are not interchangeable.
@@ -60,12 +60,14 @@ stage ３，１。
 
 上田さんが歩いているのを見ました。//I saw Ueda-san walking.
 
-/// In this case, こと is unacceptable because the speaker is the one who saw Ueda-san walking. It is not possible to see the information.
+/// In this case, こと is unacceptable because the speaker is the one who saw Ueda-san walking.
+/// It is not possible to see the information.
 
 /// In sum, when the main verbs are perceptual verbs such as 聞く {きく} and 見る, こと and の are not interchangeable.
 /// こと gives an indirect objective interpretation of an event while の gives a personal and direct one.
 
-/// When こと and の are interchangeable, as in some of the earlier sentences above, there is a nuance difference, objective vs. personal, between the two sentences.
+/// When こと and の are interchangeable, as in some of the earlier sentences above,
+/// there is a nuance difference, objective vs. personal, between the two sentences.
 
 /// (4) の in complex predicates
 /// の（ん in conversation） is used in the predicate to indicate that the statement made in the sentence is the speaker’s explanation.
@@ -76,7 +78,8 @@ stage ３，１。
 
 この授業はそんなに難しくないでしょう。//This class is probably not that difficult.
 
-/// When の intervenes between the first predicate and だろう, it indicates that the speaker is giving his or her own interpretation based on first-hand observation.
+/// When の intervenes between the first predicate and だろう,
+/// it indicates that the speaker is giving his or her own interpretation based on first-hand observation.
 /// Recall that な must stand between the nominal predicate and の.
 
 あの女の人は先生なのだろう。//From what I have seen, I think that woman is probably a teacher.
@@ -94,9 +97,11 @@ stage ３，１。
 鈴木さんは自転車で行くのでしょう。//I gather that Suzuki-san will probably go by bicycle.
 
 /// # のかもしれない
-/// かもしれない used at the end of a predicate conveys a meaning that is very similar to the structure with だろう discussed above. However, だろう conveys more certainty than かもしれない.
+/// かもしれない used at the end of a predicate conveys a meaning that is very similar to the structure with だろう discussed above.
+/// However, だろう conveys more certainty than かもしれない.
 
-/// As is the case with だろう, the use of の before かもしれない indicates that the statement is made based on the speaker’s direct observation, and therefore expresses his or her own interpretation of the situation.
+/// As is the case with だろう, the use of の before かもしれない indicates that the statement is made based on the speaker’s direct observation,
+/// and therefore expresses his or her own interpretation of the situation.
 /// もしかすると means something like “by chance; there is a chance.” It is used often with かもし れない.
 
 もしかすると、友達は来週、来るのかもしれません。//Based on my observation, I think there is a chance my friend will come next week.
@@ -116,11 +121,13 @@ stage ３，１。
 
 お腹が痛かったので、昨日、授業を休みました。//I didn’t go to class yesterday because I had a stomachache.
 
-/// So far, three structures that indicate a cause-consequence relation have been introduced. Some differences among the three are discussed below.
+/// So far, three structures that indicate a cause-consequence relation have been introduced.
+/// Some differences among the three are discussed below.
 
 /// (2) Differences between から and ので
 /// # Structural differences between から and ので
-/// The only structural difference between から and ので arises when the first clause is a nominal predicate. The plain copula だ must be used before から, while な must be used before ので:
+/// The only structural difference between から and ので arises when the first clause is a nominal predicate.
+/// The plain copula だ must be used before から, while な must be used before ので:
 
 あの人は日本人だから、日本語を話します。//She speaks Japanese because she is Japanese.
 あの人は日本人なので、日本語を話します。//She speaks Japanese because she is Japanese.
@@ -185,7 +192,9 @@ stage ３，１。
 
 寒いのに、泳ぎに行きました。//Even though it was cold, we went swimming.
 
-/// When the adverbial clause expresses a condition that is or was inconvenient to others, and the main clause indicates that a task was completed despite this adverse condition, it is better to use のに than the objective けれども.
+/// When the adverbial clause expresses a condition that is or was inconvenient to others,
+/// and the main clause indicates that a task was completed despite this adverse condition,
+/// it is better to use のに than the objective けれども.
 /// のに indicates that the speaker is aware of the adverse condition.
 
 北村さんは気分がよくないのに、私を手伝ってくれました。//I knew that Kitamura-san wasn’t feeling well, but she helped me anyway.
@@ -225,7 +234,9 @@ stage ３，１。
 
 この六月に卒業することにしました。//I decided to graduate this June.
 
-/// When publicly announcing a graduation (such as in an invitation card for a graduation party), the following expression with なる is much more appropriate. Even though the speaker has not graduated yet, the main verb must be in the perfective aspect. The perfective aspect here indicates that the decision has already been made about the coming commencement.
+/// When publicly announcing a graduation (such as in an invitation card for a graduation party), the following expression with なる is much more appropriate.
+/// Even though the speaker has not graduated yet, the main verb must be in the perfective aspect.
+/// The perfective aspect here indicates that the decision has already been made about the coming commencement.
 
 この六月に卒業することになりました。//I will be graduating this June.
 
@@ -277,7 +288,8 @@ stage ３，１。
 /// each of these gives a distinct meaning to the preceding clause and connects it to the main clause.
 /// It would be wise to review these clauses at this point to ensure that everything introduced has been clearly understood.
 
-/// The most salient meaning of the なら-adverbial, as distinct from all the other conditionals, is that the condition expressed in the なら-clause is how the speaker interprets a situation in the context of the speaker’s earlier deeds or statements (whether verbalized or assumed).
+/// The most salient meaning of the なら-adverbial, as distinct from all the other conditionals,
+/// is that the condition expressed in the なら-clause is how the speaker interprets a situation in the context of the speaker’s earlier deeds or statements (whether verbalized or assumed).
 /// The speaker’s interpretation is offered as a possible condition for the consequence expressed in the main clause.
 
 /// What this means is that the なら-conditional clause has a certain reference point (i.e., the previous statement, thought, etc.).

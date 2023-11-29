@@ -1,7 +1,449 @@
 stage ３，３。
 /// Stage 3-3 Embedded Information
 
+/// 1: Embedded Clauses
+/// Embedded clauses are the clauses that are buried in certain structures.
+/// Quite a few structures with embedded clauses have already been introduced so far.
+
+/// In this section, the focus will be on how embedded clauses connect to main predicates and modify nouns.
+
+/// (1) Review
+/// # The use of と when reporting
+/// Some quotes or thoughts may be conveyed by such verbs as 言う {いう}, 思う {おもう}, and 聞く {きく}.
+/// The content of quotes (direct or indirect) or thoughts is connected to the final verb by the particle と.
+
+日本語は難しい言葉だと言われています。//It has been said that Japanese is a difficult language.
+日本語はそんなに難しい言葉だとは思いません。//I don’t think Japanese is such a difficult language.
+あの人は一年生だと聞きました。//I heard that that person is a freshman.
+
+/// # Using か in embedded questions
+/// When the content of the speaker’s report is a question, か overrides と.
+/// In the sentence below, the speaker summarizes the content.
+
+あの人に明日は何をするつもりか聞きました。//I asked that person what he was planning to do tomorrow.
+
+/// When と is added to the sentence above, the meaning changes, making the sentence sound more like a verbatim quote than the speaker’s summary of the content.
+
+あの人に明日は何をするつもりかと聞きました。//I asked that person, ‘What are you planning to do tomorrow?’
+
+/// # Adjectival clauses
+/// Adjectival clauses are embedded clauses that modify the nouns that follow them.
+/// The way such a clause is connected to the noun depends on the predicate type in the embedded clause.
+/// The following sentences illustrate, in order, the nominal (both noun and adjectival noun), adjectival, and verbal predicate types that are used in embedded clauses.
+/// All adjectival clauses in the following examples modify the noun ルームメート.
+
+私は専攻が日本語のルームメートと一緒に住んでいます。//I live with a roommate whose major is Japanese.
+僕は魚が嫌いなルームメートと一緒に住んでいます。//I live with a roommate who doesn’t like fish.
+姉は髪が長いルームメートと一緒に住んでいます。//My sister lives with a roommate who has long hair.
+兄は皆に頭がいいと言われているルームメートと一緒に住んでいます。//My brother lives with a roommate who everyone says is smart.
+
+/// (2) の・こと・ということ
+/// In the following examples, the functional noun こと and the pronoun の are modified by adjectival clauses.
+/// As explained in Stage 3–1, the difference between the use of の and こと is that の would imply that the speaker heard Nakada-san playing the piano directly,
+/// while こと would imply that the speaker heard from someone else that Nakada-san has been or is playing the piano.
+
+私は中田さんがピアノをひいているのを聞きました。//I heard Nakada-san playing the piano.
+私は中田さんがピアノをひいていることを聞きました。//I heard that Nakada-san is playing the piano.
+
+/// In embedded clauses connected by こと and those connected by ということ,
+/// the difference is that こと is used to convey a fact,
+/// while ということ is used to paraphrase the speaker’s interpretation of information.
+
+私は中田さんがピアノをひいているということを聞きました。//I heard something to the effect that Nakada-san is playing the piano.
+
+/// In Stage 2–2, the use of こと and ということ was introduced to define a word or a concept.
+/// When defining a word by the use of a noun or a noun phrase, ことmay be used in the predicate.
+/// See the following example.
+
+和食は日本の食べ物のことです。//'washoku' refers to food from Japan.
+
+/// When defining a word by the use of a clause, ということ may be used in the predicate.
+/// See the following:
+
+読書は本を読むということです。//'dokusho' means reading books.
+
+/// # ということ with the verb 知る
+/// In the following sentences with the verb 知る {しる}, the thing that the speaker knows is the direct object, which is marked by を.
+
+私はあの人の名前を知っています。//I know his name.
+
+/// When the direct object is a clause rather than a noun, ということ must be used:
+
+私はあの人が一年生だということを知っています。//I know that that person is a freshman.
+
+/// 2: わけ and というわけ
+/// (1) わけ as an independent noun
+/// わけ is a noun that means “interpretation,” “explanation,” or “reason.”
+/// The following examples show how this word is used as a noun.
+/// When used as a noun, わけ may be expressed in kanji as 訳.
+
+そのわけが分からない。//I don’t understand the reason.
+そのわけを教えて下さい。//Tell me why you think so.
+
+/// Two fixed expressions in which わけ is used are introduced in the following section.
+/// When わけ is used in fixed expressions or in the predicate position, it is not written in kanji.
+
+/// # Fixed expressions with わけがない
+/// わけ in this construction means something more like “a way to interpret something.”
+/// The fixed expression わけがない literally means “it is not possible to interpret the given situation”;
+/// the specific circumstances that are impossible are expressed in the embedded clause that modifies the noun わけ.
+
+子供にこんな難しい漢字が読めるわけがない。//A child couldn’t read such a difficult kanji.
+/// Literally, “it is not possible for a child to be able to read such a difficult kanji.”
+
+/// The entire embedded clause may be referred to by a pronoun in this construction.
+/// Suppose someone has said something, and the speaker wants to respond strongly that what was said is not possible.
+
+そんなわけがありません。//That is inconceivable.
+/// Literally, “Such a thing is not possible.”
+
+/// が, of course, may be topicalized for a stronger negation.
+
+そんなわけはありません。//That is absolutely inconceivable.
+/// Literally, “Such a thing is not at all possible.”
+
+/// # Fixed expressions with わけにいかない
+/// The fixed expression わけにいかない means something like “(the speaker) cannot possibly do (a certain thing)”
+/// or “circumstances do not allow the speaker to do such-and-such.”
+
+今日、そこに行くわけにいきません。//There’s no way that I can go there today.
+
+/// Because the predicate is in the negative form, は often accompanies に for contrast.
+
+今日、そこに行くわけにはいきません。//There’s no way that I can go there today.
+
+/// The verb before わけに（は）いかない must indicate an action that the speaker has control over.
+
+/// the verb 分かる is a non-action verb.
+/// In such a case, はず should be used.
+/// Recall that はず is used when the speaker expects a certain event, situation, or result.
+/// In the example below, however, はずだ is in the negative.
+
+私にそれが分かるはずはありません。//I cannot possibly comprehend that.
+
+/// (2) Complex predicates with わけだ
+/// Since the noun わけ means “reason,” the complex predicate with わけだ can provide a reason or interpretation.
+
+あの人は中国人だから、漢字がよく読めるわけです。//The reason that person can read kanji so well is because he is Chinese.
+
+/// This structure is similar to the complex predicate with の（ん）だ, which also provides a reason or interpretation.
+/// Reasoning or interpretation in the complex predicate with のだ, however, indicates a personal explanation,
+/// while the reasoning in the complex predicate with わけ refers to an objective interpretation of circumstances.
+
+昨日、どうして授業に来ませんでしたか。//Why didn’t you come to class yesterday?
+
+/// In responding to the above question, using のだ sounds better than using わけ,
+/// because the speaker is giving a direct personal account of the reason.
+
+頭が痛かったんです。//Because I had a headache.
+
+/// # という in complex predicates with わけだ
+/// Recall that という, with a clause, is used to define a word.
+/// In the same way, という is often used to connect the content of the message, which is often an embedded clause, to the predicate with わけだ.
+
+車が途中で故障して、遅れてしまったというわけです。//The reason I was late is because the car broke down on the way.
+
+/// In addition, というわけ is often used in questions that ask the addressee to confirm the speaker’s interpretation of the circumstances.
+
+時間がなかったから電話ができなかったというわけですか。//Are you saying that you couldn’t call me because you didn’t have enough time?
+彼が日本にいたから日本語が上手だというわけですか。//Do you mean to say that his Japanese is good because he has been to Japan?
+
+/// In conversation, it is normal to abbreviate the response by using pronouns.
+/// In these cases, the particle と is not used before いう.
+
+ええ、そういうわけです。//Yes, that’s what I am saying.
+/// or “Yes, that’s what I mean.”
+
+いいえ、そういうわけでは（じゃ）ありません。//No, that’s not what I am saying.
+/// or “No, that’s not what I meant.”
+
+
+/// 3: Embedded Questions
+/// Most of the following structures have been already introduced, but there are some important additions below.
+/// The following section summarizes all embedded question types.
+
+/// (1) Embedded information-seeking questions
+/// The following sentences illustrate how direct and indirect questions are expressed.
+/// In indirect questions, there is a difference between the sentences with the quotative と and those without it.
+
+/// # Direct quotation
+
+友達が私に「この大学の日本語の先生はだれですか。」と聞きました。//My friend asked me, ‘Who is the professor of Japanese at this college?’
+友達が「今晩、何をしますか。」と聞きました。//My friend asked me, ‘What will you do tonight?’
+
+/// # Indirect quotation
+/// In embedded questions, か must always be used.
+/// When と is used after か, the sentence focuses on how the question was asked.
+/// When と is not used after か, the sentence conveys the general content of the question.
+/// The sentences with both か and と are somewhere between direct and indirect quotation sentences.
+
+友達が私にこの大学の日本語の先生はだれか（と）聞きました。//My friend asked me who the professor of Japanese at this college is.
+友達が今晩、何をするか（と）聞きました。//My friend asked me what I would do tonight.
+
+/// (2) Embedded yes-no questions
+/// The following examples show that the copula だ is not used in an indirect quotation, and that どうか may be added after the embedded question.
+/// When どうか is used, the quotative と is not used.
+
+/// # Direct quotation
+
+友達は私に「この大学の日本語の先生は日本人ですか。」と聞きました。//My friend asked me, ‘Is the professor of Japanese at this college a Japanese person?’
+
+/// # Indirect quotation
+
+友達は私にこの大学の日本語の先生は日本人か（と）聞きました。//My friend asked me, ‘Is the professor of Japanese at this college a Japanese person?’
+友達は私にこの大学の日本語の先生は日本人かどうか聞きました。//My friend asked me whether the professor of Japanese at this college is Japanese or not.
+
+/// (3) Embedded alternative questions
+/// For embedded alternative questions, either use どうか after the first question, or list two questions side by side if both use the same predicates with different aspects.
+/// When listing two questions, the use of と conveys information as to how the question was worded rather than the content of the question.
+
+/// # Direct quotation
+
+私は友達に「明日、映画に行きますか、行きませんか。」と聞きました。//I asked my friend, ‘Do you want to go to a movie tomorrow or not?’
+
+/// # Indirect quotation
+
+私は友達に明日、映画に行くかどうか聞きました。//I asked my friend whether or not she would go to a movie tomorrow.
+私は友達に明日、映画に行くか行かないか（と）聞きました。//I asked my friend whether or not she would go to a movie tomorrow.
+
+/// The following sentences illustrate that the alternative question does not always contain the same predicate as the first question.
+/// In such cases, どうか may not be used.
+
+/// # Direct quotation
+
+友達に「あなたのお母さんは日本人ですか、アメリカ人ですか。」と聞きました。//I asked my friend, ‘Is your mother Japanese or American?’
+
+/// # Indirect quotation
+
+私は友達に彼のお母さんは日本人かアメリカ人か（と）聞きました。//I asked my friend if his mother was Japanese or American.
+
+/// 4: Adjectival Clauses
+/// It has already been pointed out that embedded clauses are frequently adjectival clauses.
+/// The following section introduces new information regarding embedded clauses that are adjectival clauses.
+
+/// (1) Fixed expressions
+/// # [Imperfective verb] ことがある
+/// As explained in Stage 2–2, a perfective verb with ことがある expresses the topic’s past experience.
+
+あの山に登ったことがあります。//I have climbed that mountain.
+/// Literally, “I have had the experience of climbing that mountain in the past.”
+
+/// When an imperfective predicate is used before ことがある, it expresses an entirely different concept.
+/// When the verb before ことがある is in the imperfective, it refers to events that take place occasionally.
+
+母に日本語で話すことがあります。//There are occasions when I speak to my mother in Japanese.
+
+/// The sentence above conveys the following nuance:
+/// the speaker normally speaks to her or his mother in English (or another non-Japanese language, depending on the context),
+/// but there are some occasions on which the speaker talks to her or his mother in Japanese.
+
+/// The following sentence illustrates a negative imperfective verb being used before ことがある.
+/// This sentence implies that the speaker normally eats breakfast, but there are occasions when he or she skips it.
+
+朝ご飯を食べないことがあります。//There are times that I don’t eat breakfast.
+
+/// (2) Perfective forms in adjectival clauses
+/// One of the uses of the ~ている construction is to express a state of events.
+
+私の父はぼうしをかぶっています。//My father has a hat on.
+
+/// An interesting characteristic of this structure is that the perfective predicate may be used for description.
+/// This is only true with adjectival clauses, however.
+
+あのぼうしをかぶっている人は私の父です。//The person who has a hat on is my father.
+あのぼうしをかぶった人は私の父です。//The person who has a hat on is my father.
+
+/// This may not be applied to ~ている constructions that are not descriptive in nature.
+
+ルームメートは起きています。//My roommate is awake.
+あの起きている学生が私のルームメートです。//The student who is up is my roommate.
+
+/// (3) Double questions
+/// The structure discussed here is quite unique.
+/// The following question sentences contain both yes-no and information-seeking questions.
+/// Let us call these kinds of question sentences “double questions.”
+/// In these sentences, the embedded clause and the main clause are both interrogative clauses.
+
+このバスはどこに行くバスですか。//Where is it that this bus goes?
+/// Literally, “This bus is the bus that goes where?”
+
+あの先生は何を教えている先生ですか。//What is it that that teacher teaches?
+/// Literally, “That teacher is the teacher who teaches what?”
+
+/// Double questions are used when at least some of the possible options are known to the speaker, and she or he asks for the answer to a specific option.
+/// For instance, the person asking the first question above knows that there are a certain number of possible destinations for the buses.
+/// The reading of the second sentence is the same: the options are at least somewhat known to the speaker and the addressee.
+
+/// When the options are not known, the following simple question sentences are used instead of the double questions above, making them open-ended questions.
+
+このバスはどこに行きますか。//Where does this bus go?
+あの先生は何を教えていますか。//What does that teacher teach?
+
+/// # A possible situation for a double question
+/// Suppose the speaker is waiting for a bus because she wants to go to destination A.
+/// She knows that there are three buses that go to different destinations from the bus stop where she is waiting.
+/// She sees a bus coming to the stop.
+/// When the bus arrives, she approaches the bus driver and asks where that particular bus is going, in order to see whether or not it is the right bus for her.
+/// In this case, she can use the double question construction.
+
+このバスはどこに行くバスですか。//Which way is it that this bus is going?
+
+/// Because of the nature of double questions, if the noun the embedded question clause modifies is a specific noun, a double question is not acceptable.
+/// In this case, it is better to simply ask the open-ended question.
+
+あなたのお父さんは何を教えていますか。//What does your father teach?
+
+/// 5: Volitional Forms in Embedded Clauses
+/// The meaning of phrases in which volitional forms are used differs depending on the verb that accompanies the volitional form.
+/// The volitional form with the verb する was introduced in Stage 3–2.
+/// Another structure will be added in this chapter, after a review of direct and indirect quotations with a volitional form in the predicate.
+
+/// (1) The volitional form in quotes
+/// The following sentences contain direct and indirect quotes with predicates in which volitional forms are used.
+
+/// # Direct quotation
+
+私はルームメートに「一緒に映画に行きましょう。」と誘いました。//I invited my roommate, saying, ‘Let’s go to the movie together.’
+
+/// # Indirect quotation
+
+私はルームメートに一緒に映画に行こうと誘いました。//I invited my roommate to go to the movie with me.
+
+/// (2) The volitional form with 思う
+/// The volitional form is used with 思う to express the speaker’s intention.
+/// In this structure, the continuous 思っている is often used to express a thought regarding an action in the near future.
+
+今晩、映画に行こうと思っています。//I’m thinking about going to a movie tonight.
+
+/// The use of the volitional form and 思う is similar to the structure with つもり that expresses the speaker’s plan.
+/// The difference between the two structures is that the sentence with つもり implies that the plan is firm,
+/// while the volitional form with 思う gives the impression that it is still a tentative plan.
+
+今晩、映画に行くつもりです。//I’m planning to go to a movie tonight.
+
+/// When the predicate form before 思う is not in the volitional form,
+/// the sentence indicates that the speaker thinks that someone else will go to the movie;
+/// there is no possibility that it is the speaker who might go to the movie.
+
+田村さんは今晩、映画に行くと思います。//I think that Tamura-san will go to a movie tonight.
+
+/// The above sentence indicates that the speaker believes that 田村さん {たむらさん} will go to the movie.
+/// Even when the person who will go to the movie is not named, the sentence still does not mean that it is the speaker who will go to the movie.
+
+今晩、映画に行くと思います。//I think that (someone) will go to a movie tonight.
+
+/// (3) The volitional form with する
+/// In Stage 3–2, it was explained that combining the volitional form and the verb する expresses the notion that the speaker was about to take some action, but could not (which is expressed in the main-clause).
+
+買い物に行こうとしましたが、友達が来て、行けませんでした。//I was about to go shopping, but I couldn’t go because my friend dropped by.
+
+/// The meaning of the above construction is similar to that of one of the structures with the complex predicate with ところだ, which will be introduced shortly.
+
+勉強しようとしましたが、できませんでした。//I was about to study, but I couldn’t.
+勉強するところでしたが、できませんでした。//I was about to study, but I couldn’t.
+
+/// The difference between the two sentences above will be discussed after the explanation of complex predicates with ところだ below.
+
+/// 6: Complex Predicates with ところだ
+/// The noun 所 {ところ} has been introduced as a word meaning “place.”
+/// ところ used in the complex predicate indicates a place as well, but it refers to a place in time.
+/// When ところ is used in complex predicates, it is not written in kanji.
+
+/// (1) With imperfective verbs
+/// When the imperfective predicate is embedded before ところ, the sentence indicates that the action expressed has not yet begun.
+/// The literal meaning of the sentence is therefore “someone is at a place in time when he or she is about to do something.”
+
+妹は宿題をするところです。//My sister is about to do her homework.
+
+/// The perfective copula in the following sentence indicates that the topic was about to do something in the past.
+/// Therefore, the setting is in the past, but the action did not take place.
+
+妹は宿題をするところでした。//My sister was about to do her homework.
+
+/// (2) With perfective verbs
+/// When the embedded predicate is perfective, the literal meaning of the sentence is “someone is at the point where he/she just finished doing something.”
+
+妹は宿題をしたところです。//My sister has just done her homework.
+
+/// When the copula is perfective, it indicates that the action was completed at a certain time in the past that the speaker has referred to in the discourse.
+
+妹は宿題をしたところでした。//My sister had just done her homework.
+
+/// # The difference between the two structures
+/// The following two structures were presented above in terms of the difference between them because they express a very similar meaning.
+
+勉強しようとしましたが、できませんでした。//I was about to study, but I couldn’t.
+勉強するところでしたが、できませんでした。//I was about to study, but I couldn’t.
+
+/// The first sentence may be used in a situation in which the speaker has actually started studying but was interrupted many times and could not complete what he or she had intended to complete.
+/// The second sentence cannot be used in that situation, as the structure indicates that the speaker has not even started the action.
+
+/// (3) With ~ている
+/// It is possible to use the continuous aspect with this complex predicate.
+/// The meaning of this construction is “the person is at the point where she or he is in the middle of doing something.”
+
+妹は宿題をしているところです。//My sister is doing her homework right now.
+
+/// The sentence above closely resembles the following one in meaning:
+
+妹は宿題をしています。//My sister is doing her homework (right now).
+
+/// # Difference between ~ている and ~ているところ
+/// As indicated above, the continuous aspect may be expressed by ~ている or ~ているところ.
+/// The difference between these two structures is that sentences with ~ているところ emphasize the current action rather than the continuous aspect.
+
+/// ~ている, as has been introduced earlier, may express an ongoing action or an event that has been taking place since some time in the past.
+/// This latter meaning may not be expressed by the complex predicate with ところだ.
+
+妹は九時から宿題をしています。//My sister has been doing her homework since 9:00.
+
+/// ~ている can also be used to expresses a continuous state.
+/// ~ているところmay not be used in these cases, either.
+
+姉はもう起きています。//My sister is awake already.
+
 ーーーーーーーーーーーーーーーーーーーー
 ーーーーーーーーーーーーーーーーーーーー
 カンバセーション。
 
+/// (1) Do you know what I’m saying?
+
+私の言ってることが分かりますか。//Do you know what I’m saying?
+だめだというわけですか。//Are you saying, “No”?
+
+/// こと refers to the content of what someone has said.
+
+/// (2) It’s good, but…
+
+どうですか、あの人の日本語は？//How’s that person’s Japanese?
+上手なことは上手ですが・・・//It’s good, but . . .
+
+/// # 上手なことは上手ですが・・・ {じょうず なことは じょうず ですが・・・}
+/// This expression affirms the addressee’s expectation, but not without a condition.
+/// This second sentence means something like, “The person’s Japanese is good, as you might imagine, but . . .” (the speaker obviously wants to add a few qualifying comments).
+
+/// (3) I wouldn’t worry about her
+
+大丈夫でしょうか。//Do you think she’s all right?
+あの人のことだから、大丈夫ですよ。//I wouldn’t worry about her.
+
+/// # あの人のことだから・・・
+/// This sentence means something like, “because of who he or she is.”
+/// The entire sentence therefore means something like, “Of course she’s all right, because you know how she is.”
+
+/// (4) I really don’t think that’s true
+
+彼は私の言うことは聞かないと思いますが・・・//I don’t think he’ll listen to what I have to say.
+それはどういうことですか。そんなことは絶対にないと思います。//What do you mean? I really don’t think that’s true.
+もう一度、彼に言うところですが・・・//I’ll tell him again, but . . .
+
+/// # 私の言うことは聞かない
+/// In this case, 聞く means that the person would do what the speaker asked him to do.
+
+/// # それはどういうことですか
+/// This expression asks for clarification.
+
+/// # そんなことは絶対にない
+/// This expresses a strong negation: “I really don’t think that would be the case.”
+/// 絶対に {ぜったい に} is an adverb meaning “absolutely; definitely.”
+/// It is acceptable to say this phrase without an adverb, as in そんなことはない, “I don’t think that’s how it is.”
