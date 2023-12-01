@@ -1,7 +1,163 @@
 stage ４，４。
 /// Stage 4-4 Conjunctions
 
-ーーーーーーーーーーーーーーーーーーーー
-ーーーーーーーーーーーーーーーーーーーー
-カンバセーション。
+/// The mainly sentential conjunctions covered here are grouped according to function.
+/// Some have already been introduced. Needless to say, there are many more, but the number of functions is more or less finite.
 
+/// 1: Adding Information
+
+/// (1) その上
+/// 上 {うえ} means “above; over; top,” and the conjunction その上 is used to mean “moreover.”
+/// The function of this conjunction is to add information beyond what has been given in the previous sentence.
+
+あの人は何でもできる天才のようだ。その上、性格も素晴らしいと言われている。//She seems to be a genius who can do anything. On top of that, I hear that she is a wonderful person.
+
+/// (2) しかも
+/// The conjunction しかも is similar to その上.
+/// Derived from the overriding particles, しか and も, しかも forms a sentential conjunction that adds the information in the first sentence onto that of the second sentence.
+/// The two sentences joined by しかも mean something like “not only (information given in the first sentence), but also (information given in the second sentence).”
+
+あの男性は人の言うことなんか全く聞かない。しかも、口から出てくる言葉は文句ばかりだというから、始末に終えない。//That man does not listen to others. Not only that, all he does is complain, so he is very difficult to deal with.
+
+/// The difference between その上 and しかも is the following.
+/// When two sentences are joined by その上, the information given in the second sentence is a simple addition to the first.
+/// When joined by しかも, the information given in the second sentence strengthens the statement made in the first sentence.
+
+/// (3) あるいは
+/// あるいは indicates that the information given in the second sentence is alternative to the information given in the first sentence.
+
+あんなに泣いているのは辛いからなのだろう。あるいは、嬉しいからなのだろうか。//Is she crying because she is in pain? Or is it because she is happy?
+
+/// 2: Consequences
+
+/// (1) したがって
+/// The conjunction したがって derives from the verb 従（したが）う “to follow.”
+/// It is used to link the preceding and following sentences into a cause-and-consequence relation.
+
+この夏の雨量は最低である。したがって、市は水不足対策にとりかかっている。//Rainfall this summer was the lowest ever. The town, therefore, has begun to implement a water shortage strategy.
+
+/// The function of したがって is the same as だから, but だから is less formal.
+
+/// (2) すると
+/// As introduced in Stage 2–5, the clausal conjunction と signals that the event described in the first clause is soon followed by the event described in the second clause.
+
+部屋に入ると、電話がなった。//As soon as I entered the room, the phone rang.
+
+/// This same meaning carries over in usage of the sentential conjunction すると.
+
+いつものように六時頃、部屋に入った。すると、急に電話がなり出した。//I went into the room around 6:00 as usual. Right then, the phone suddenly began ringing.
+
+/// (3) その結果
+/// The noun 結果 {けっか} means “result.”
+/// The conjunction その結果 therefore indicates that the second sentence is the result of the event described in the first sentence.
+
+音楽コンクールに参加するために三年間、毎日、厳しい練習をさせられた。その結果、コンクールで優勝でした。//For three years I had to practice very hard for the music competition. As a result, I won the competition.
+
+/// (4) それで
+/// それで is composed of the demonstrative pronoun それ and で, the conjunctive form of the copula.
+/// それ refers to the content expressed in the first sentence.
+/// で connects the consequence expressed in the second sentence to its reason in the first sentence.
+/// それで together functions as a sentential conjunction.
+
+この漢字が分からなかった。それで、先生に聞きに行った。//I couldn’t read this kanji at all. So, I went to the teacher for help.
+
+/// The conjunction それで is similar to だから.
+
+この漢字が分からなかった。だから、先生に聞きに行った。//I couldn’t read this kanji at all. Therefore, I went to the teacher for help.
+
+/// The difference between それで and だから is the same as that between ~て and から when they are used to connect two clauses,
+/// the first clause giving the reason and the second the consequence (see Stage 2–4).
+/// Recall that the second clause, when joined by ~て, may not be such things as commands and suggestions.
+/// This same restriction applies to the sentential conjunction それで.
+
+これは壊れています。だから、使わないでください。//This is broken, so don’t use it.
+
+/// 3: Rephrasing
+
+/// (1) いわば
+/// Literally meaning “in other words” or “one might say,” いわば is the old form of today’s 言えば {いえば}, the ば-form of the verb 言う.
+/// いわば signals that the second sentence is a rephrasing of the first sentence.
+
+私は父も母もいない者となってしまった。いわば、孤児である。//I became a person with neither father nor mother; in other words, an orphan.
+
+/// (2) すなわち
+/// The rephrasing of a previously stated word, phrase, clause, or sentence is marked with the conjunction すなわち.
+/// The rephrased sentence may contain the speaker’s conclusive statement.
+
+南国の楽園、すなわち、ハワイに住めると健康が取戻せるかもしれない。//You might regain your health if you could live in a southern paradise — somewhere like Hawai‘i.
+今日が僕の最後の日。すなわち、明日から僕の退職生活が始まるということになります。//Today is my last day. In other words, my retirement begins tomorrow.
+
+/// (3) つまり
+/// Like すなわち above, つまり is used to rephrase a word, phrase, clause, or sentence in the following sentence.
+/// Unlike すなわち, it does not convey a conclusive nuance, but rather another expression or interpretation of the event or idea.
+
+私の妹、つまり、洋子はここには住んでいない。//My sister, that is, Yoko, does not live here.
+私は試験に落ちた。つまり、来年は、日本に行けないということだ。//I didn’t pass the test. What that means is that I cannot go to Japan next year.
+
+/// 4: Contradiction
+
+/// (1) しかし
+/// The conjunction しかし, like でも and けれども, is used by the speaker or writer to present a statement in the second sentence that is contradictory to the expectation that is likely to be inferred from the content of the first sentence.
+
+彼は全力を尽くして頑張った。しかし、彼の努力は実らなかった。//He did his best, but his efforts were not rewarded.
+
+/// In the above sentence しかし may be replaced by でも and けれども, and the sentence will have the same meaning.
+/// The tone of しかし, however, is more formal.
+
+/// (2) しかしながら
+/// しかし and しかしながら are similar in meaning and use. しかしながら carries an additional nuance, however.
+/// It conveys the speaker’s or writer’s confirmation the value or truth of the content stated in the first sentence,
+/// but it adds a statement in the second sentence, the content of which might contradict the inference of the first sentence.
+
+勿論、勉強に力を入れるということはいいことだ。しかしながら、勉強し過ぎるというのもどうかと思う。//Of course, I realize it is good to study hard. However, it’s not a good idea to study too much.
+
+/// (3) ところが
+/// The conjunction ところが connects two sentences in which the second sentence expresses an unexpected event or an event opposite to what is described in the first sentence.
+
+主人がいないと思って友人と家に帰った。ところが、主人がもう家に帰っていて、本当にびっくりした。//I went home with my friend thinking that my husband was not there. However, I was surprised to find him home.
+
+/// 5: Clarification
+
+/// (1) だからといって
+/// This conjunction marks a reference to the previous statement, indicating a clarification of its meaning in the second.
+/// The predicate of the second sentence is often interpretative.
+
+私は学生だ。だからといって、働かないわけにはいかない。//I may be a student, but that doesn’t mean that I can afford not to work.
+私には英語が話せない。だからといって、アメリカには絶対に行かないというわけではない。//I cannot speak English, but that does not mean that I will never go to the United States.
+
+/// (2) ただし
+/// When the conjunction ただし (“however; excepting that”) connects two sentences,
+/// the second sentence expresses a condition that is needed if the first sentence’s statement is to be valid or true.
+
+来週は旅行したいと思っている。ただし、社長が許可を出さない場合は駄目になるだろう。//I planned to go on a trip next week. If the president does not approve, however, I may not be able to go.
+
+/// (3) もっとも
+/// When もっとも (“however; though”) is used to connect two sentences, the second sentence presents the possibility of additional interpretation or view.
+
+彼は貴公子のような人だ。もっとも、私が勝手にそう思っている可能性は高いが。//He is like a prince. Of course, the chances are that I am the only one who thinks so.
+
+/// もっとも and ただし are similar to one another,
+/// but the second of the two sentences joined by ただし simply provides a condition,
+/// while the second of those joined by もっとも adds another possible interpretation or view.
+
+/// 6: Stems and Adverbial Forms as Clausal Conjunctions
+/// One of the functions of the て-form is to connect clauses.
+/// Stems of verbs and the adverbial forms of adjectives also have this function, but only in formal writing and speech.
+/// In the examples below, both the conjunctive forms (in parentheses) and the stems or the adverbial forms are given.
+
+日本には山が多くあり（あって）、住める所が少ないと思われているようだ。//People seem to think that the space for dwelling is limited in Japan because there are many mountains.
+あの車は小さく（小さくて）、とても便利だ。//That car is small and easy to drive.
+日本は島国であり（で）、火山が多い。//Japan is an island country and has many volcanic mountains.
+
+/// 7: Criteria of Usage
+/// The phrasal, clausal, and sentential conjunctions introduced here are close in meaning.
+/// It is true that many of them are interchangeable, and the meaning will be conveyed no matter which one the speaker or writer chooses, as long as the connection is made correctly for the content.
+/// Students of Japanese will naturally wonder which to choose in speaking and writing.
+
+/// When trying to choose an appropriate conjunction, one criterion you should keep in mind is the formality of the speech or writing.
+/// It is also good to avoid repetition.
+/// Using different conjunctions between sentences in the same paragraph is more effective in speech and writing.
+
+/// Subtle nuances are important in conveying messages.
+/// As mentioned, many of the conjunctions discussed above, as well as others not listed here, are interchangeable, but carry subtle differences in meaning.
+/// Understanding the nuances of these conjunctions will no doubt make speech and writing more effective and polished, but a great deal of time and effort will of course be required to attain such mastery.

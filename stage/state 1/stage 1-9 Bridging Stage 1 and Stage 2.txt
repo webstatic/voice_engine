@@ -255,9 +255,11 @@ stage １，９。
 
 /// # Copula
 /// [だ → で]
+/// - Ex 先生だ → 先生で
 
 /// # Adjective
 /// [い → くて]
+/// - Ex たかい → たかくて
 
 /// # Verb
 /// Group 1: [る → て]
@@ -269,7 +271,18 @@ stage １，９。
 ///          Exception [いく → いって]
 /// Group 3: [する → して], [くる → きて]
 
+/// - Ex
+/// G1: たべる → たべて
+/// G2: かく → かいて
+///     およぐ → およいで
+///     はなす → はなして
+///     よむ → よんで, しぬ → しんで, あそぶ → あそんで
+///     まつ → まって, かう → かって, かえる → かえって
+
 /// *Negative [~ない → ~なくて], [Vない → Vないで]
+/// -Ex 先生じゃなくて, よくなくて, たべなくて
+///     たべないで
+
 /// The negative imperfectives of predicates, all of which end with ない, are formed in the same way as adjectives.
 /// Verbs have two different negative conjunctive forms.
 
@@ -303,6 +316,11 @@ stage １，９。
 /// Group 2: Change the vowel of the last syllable, {u}, to the vowel {i}.
 /// Group 3: Drop る and change the vowel {u} of the remaining syllable to the vowel {i}.
 ///          [する → し], [くる → き]
+
+/// - Ex
+/// G1: たべる → たべ
+/// G2: かく → かき
+/// G3: する → し, くる → き
 
 /// # Use of the stem 1 -> [stem + ます]
 /// The polite form of a verb is created by combining the stem and the suffix ~ます.
@@ -353,6 +371,10 @@ stage １，９。
 /// Group 2: Change the final {u} to {e} and add る
 /// Group 3: [くる → こられる]
 
+/// - Ex
+/// G1: たべる → たべられる
+/// G2: かく → かける
+
 /// There is no potential form for する; the corresponding verb that expresses ability and possibility is できる.
 
 /// # Verb grouping of potential verbs
@@ -376,6 +398,10 @@ stage １，９。
 /// Group 1, 2: Change the final vowel u to the vowel a and add れる
 /// Group 3: [する → される], [くる → こられる]
 
+/// - Ex
+/// G1: たべる → たべられる, みる → みられる
+/// G2: かく → かかれる, かう → かわれる
+
 /// Like derived potential forms, all derived passive forms are Group 1 verbs.
 /// The following examples show how the conjunctive form is conjugated: たべられる → たべられて, かかれる → かかれて, こられる → こられて
 
@@ -398,6 +424,10 @@ stage １，９。
 /// Group 1: Change る to させる
 /// Group 2: Change the final {u} to {a} and add せる
 /// Group 3: [する → させる], [くる → こさせる]
+
+/// - Ex
+/// G1: たべる → たべさせる, おしえる → おしえさせる
+/// G2: かく → かかせる, かう → かわせる
 
 /// All derived causative verbs are Group 1 verbs.
 /// The following examples show how they conjugate: たべさせる → たべさせて, かわせる → かわせて.

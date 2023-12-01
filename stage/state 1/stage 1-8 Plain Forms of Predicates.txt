@@ -83,6 +83,13 @@ stage １，８。
 ///          There are a small number of verbs that end with る and contain the vowels i or e in the syllable before る (same as Group 1), but nevertheless are Group 2 verbs
 /// Group 3: The two verbs する and くる and compound verbs with する and くる all belong to this group
 
+/// - Ex
+/// G1: たべる, みる, おきる, ねる
+/// G2: かく, およぐ, はなす, よむ, しぬ, よぶ, まつ, かう
+///     わかる, おこる, うる
+///     かえる, はしる
+/// G3: する, くる
+
 /// # Points to remember about verb grouping
 /// There are no exceptions to Group 3. The verbs that contain する and くる are always in Group 3.
 /// There are also no exceptions for verbs ending with a syllable other than る. These verbs are always in Group 2.
@@ -160,6 +167,11 @@ stage １，８。
 ///             Verbs that end with う belong to Group 2, the plain negative imperfective of a う-ending verb is as follows: かう → かわない; つかう → つかわない
 /// Group 3: [くる → こない], [する → しない]
 
+/// - Ex
+/// G1: 食べない
+/// G2: 書かない
+/// G3: こない, しない
+
 テレビは見ない。//I won’t watch TV.
 お金を使わない。//I won’t use any money.
 
@@ -192,6 +204,15 @@ stage １，８。
 /// Group 2: [く → いた], [ぐ → いだ], [す → した], [む, ぬ, ぶ → んだ], [つ, う, る → った]
 /// Group 3: [する → した, くる → きた]
 /// The only exception to the rule above is the verb 行く {いく}. Although this verb ends with く, the plain positive perfective form is 行った {いった}.
+
+/// - Ex
+/// G1: 食べた
+/// G2: 書いた
+///     泳いだ
+///     話した
+///     読んだ, 死んだ, 遊んだ
+///     待った, 使った, 帰った
+/// G3: した, きた
 
 朝ご飯にパンを食べた。//I ate a piece of bread for breakfast.
 ืื時雨さんと映画に行った。//I went to a movie with Shigure-san.
@@ -250,6 +271,11 @@ stage １，８。
 /// Group 1: [る → よう]
 /// Group 2: change the final vowel {u} to the double {o (oo)}
 /// Group 3: [する → しよう], [くる→こよう]
+
+/// - Ex
+/// G1: 見よう
+/// G2: 行こう
+/// G3: しよう, こよう
 
 テレビを見よう。//Let’s watch TV.
 一緒に勉強しよう。//Let’s study together.

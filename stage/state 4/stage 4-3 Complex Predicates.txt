@@ -1,7 +1,181 @@
 stage ４，３。
 /// Stage 4-3 Complex Predicates
 
-ーーーーーーーーーーーーーーーーーーーー
-ーーーーーーーーーーーーーーーーーーーー
-カンバセーション。
+/// 1: Complex Predicates with つもりだ
+/// The complex predicate with つもりだ was introduced and discussed in Stages 1–7, 1–9, and 2–7.
+/// This construction expresses the speaker’s intention to do or not to do something.
+/// These points are reviewed below, and some additional information is added.
 
+/// # When the predicate is in the imperfective
+/// The speaker’s intention to do or not to do something is expressed by the positive and negative imperfective predicate preceding つもりだ, respectively.
+
+私は来年、日本で勉強するつもりです。//I plan to study in Japan next year.
+来年、日本で勉強しないつもりです。//I do not plan to study in Japan next year.
+
+/// This construction may be used to express the speaker’s plan or to ask an addressee directly about his or her plan.
+/// It may not be used to express a third-person’s plan, however.
+
+卒業したら、どんなことをするつもりですか。//What are you planning to do after you graduate?
+
+/// # Denying intention or having no plan
+/// There is a subtle meaning difference depending on whether the negation is placed in the predicate preceding つもりだ or in the main predicate.
+
+/// When the predicate preceding つもりだ is negative, the sentence indicates that the speaker has no plan to do something.
+/// For instance, when asked whether or not he/she plans to study in Japan, the following sentence may be used to respond negatively to that question.
+
+来年は日本で勉強しないつもりです。//I do not plan to study in Japan next year.
+
+/// The following sentence indicates that the speaker negates someone else’s assumption.
+/// For example, when the addressee believes that the speaker will go to Japan next year,
+/// the following response may be used to deny such an assumption.
+
+来年、日本で勉強するつもりはありません。//I have no plan to study in Japan next year.
+/// Literally, “The plan of studying in Japan does not exist.”
+
+/// The above structure is not the negative construction of the complex predicate with つもりだ.
+/// Rather, the functional noun つもり is modified by the adjectival clause, 日本で勉強する, and the verb ある in the negative form is used following it.
+
+/// In fact, the negative structure of the complex predicate with つもりだ is not used to convey the above message.
+
+/// # Perfective copula
+/// When the speaker had a plan or intention that did not materialize, the complex predicate with つもりだ with the perfective copula is used, as follows.
+
+私は今日、行くつもりでしたが、行けませんでした。//I had planned to go, but I couldn’t.
+彼に言うつもりでしたが、言えませんでした。//I meant to tell him, but I couldn’t.
+
+/// # Perfective verbs
+/// When the speaker thought the action had been carried out but then found it had not,
+/// the perfective form in the predicate preceding つもりだ is used.
+
+彼にメールを出したつもりですが、まだ出していなかったのです。//I thought I had sent him an e-mail message, but found I hadn’t done it yet.
+あの子を叱ったつもりですが、あの子は全く気がついていないようです。//I thought I was scolding him, but he didn’t even know that I was.
+
+/// 2: Complex Predicates with はずだ
+/// The complex predicates with はずだwere introduced in Stage 2–7 to express the speaker’s expectation of others or events.
+/// Below, after reviewing the structure in which the imperfective predicate is used preceding はずだ, some additional information is added.
+
+/// # When the predicate is in the imperfective
+/// The complex predicate with はずだ expresses the speaker’s expectation of others, of events, or even of the speaker him/herself.
+/// When the expectation is of the speaker him/herself, it is an objective expectation of him/herself.
+/// The assertion or denial of an expected event is expressed in the predicate preceding はずだ.
+
+あの人からの手紙は今日、来るはずです。//The letter from him ought to arrive today.
+あの人からの手紙は今日は来ないはずです。//I don’t think the letter from him will arrive today.
+
+/// # Denying an expectation or having no expectation
+/// Like the complex predicate with つもりだ, there is a subtle meaning difference depending on whether the negation is placed in the predicate preceding はずだ or in the main predicate.
+
+/// First, when the predicate preceding はずだ is in negative, the sentence indicates that the speaker expects that the event will not occur.
+/// For example, when asked whether or not the letter from a certain person will arrive today,
+/// the following sentence may be used in the case that the speaker expects the letter will not arrive today.
+
+あの人からの手紙は今日、来ないはずです。//I don’t think that the letter from him will arrive today.
+
+/// Secondly, the following sentence indicates that the speaker denies someone else’s expectation that a certain event will take place.
+/// For instance, when the speaker knows that the addressee has an expectation that the letter from a certain person will arrive today,
+/// the following sentence is likely be used to overule such an assumption.
+
+あの人からの手紙が今日、来るはずはありません。//There is no possibility that the letter from him will arrive today.
+
+/// As with つもり, the functional noun はず is modified by the adjectival clause, 手紙が来る, and the verb ある is used in the negative form.
+/// The negative structure of the complex predicate with はずだ is not used.
+
+/// # Perfective copula
+/// When the speaker wants to say that an expected event did not materialize,
+/// the copula of the complex predicate with はずだ must be in the perfective form.
+
+彼は今日、来るはずでしたが、来ませんでした。//He was supposed to come, but he didn’t.
+
+/// # Perfective verbs
+/// When the expectation is that the event had already happened,
+/// the perfective predicate preceding は ずだ must be used.
+
+あの人は来たはずですが、会いませんでした。//I believe he has come, but I haven’t seen him.
+あの子はもう卒業したはずです。//I think he has already graduated.
+
+/// 3: Complex Predicates with ~ずには・~ないではいられない
+/// The complex predicate with ~ずには・~ないではいられない is comprised of the negative verb form and another predicate いられない, the negative potential form of いる.
+/// This construction conveys the following meaning: the topic of the sentence has a strong urge to do something.
+
+/// The negative suffix ~ず is an old way of negating verbs (see Stage 4–2).
+/// To obtain this ず-form, replace the modern negative ~ない with ~ず.
+/// The only exception is the verb する, the old negative of which is せず rather than しず.
+/// The には before いられない are the particles に and は.
+
+/// When ~ない is used instead of ~ず, the conjunctive form of the copula, で, and the particle は must be used before いられない.
+
+/// These two constructions should be considered fixed expressions.
+/// As mentioned above, this sentence with this complex predicate means something like: “one cannot help but do (something).”
+
+東京に行くと、あの人に電話せずにはいられません。//Whenever I go to Tokyo, I cannot help calling him.
+東京に行くと、あの人に電話しないではいられません。//Whenever I go to Tokyo, I cannot help calling him.
+
+あの店では、何か買わずにはいられない。//When I go to that store, I cannot help buying something.
+あの店では、何か買わないではいられない。//When I go to that store, I cannot help buying something.
+
+/// 4: Complex Predicates with とはかぎらない
+/// The complex predicate with とはかぎらない means “(the statement made in the preceding clause) is not necessarily true.”
+/// This meaning comes from the verb at the end, 限る {かぎる}, which means “to limit.”
+/// と is the quotative particle and は is contrastive.
+/// The clause before と indicates a certain statement, and the speaker negates its validity.
+/// This complex predicate should be considered a fixed expression.
+
+野菜だけを食べることが全ての人にとっていいとはかぎりません。//It is not necessarily true that eating only vegetables is good for everyone.
+日本語を勉強している学生が日本に行くとはかぎらない。//It is not always true that students who study Japanese will go to Japan.
+
+/// 5: Complex Predicates with というようなことではない
+/// The use of ということ was introduced in several places in this course (e.g., Stages 2–2 and 2–5).
+/// ということ is used when the speaker rephrases or gives a definition of a certain concept.
+/// ような is used to express a simile (see Stage 3–2).
+/// Thus, the sentence with the complex predicate with というようなことではない means something like:
+/// “(concept) does not mean simply (what is explained preceding という ようなこと).”
+
+子育ていうのは単に食べさせればいいというようなことではない。//Raising a child does not mean simply providing food.
+外国語を勉強するということは単語を覚えるというようなことではない。//Studying a foreign language does not mean simply memorizing words.
+
+/// 6: Complex Predicates with ではないだろうか
+/// The complex predicate with ではないだろうか is used for rhetorical questions, which are questions not particularly addressed to anyone.
+/// It consists of the negative of the copula, ではない, the volitional form of the copula, だろう, and the sentence-final particle か.
+
+こんなものばかりを食べていると、健康の害になるのではないだろうか。//If this is the only kind of thing you are eating, it could be bad for your health.
+あんなに夜も寝ずに勉強していては、病気になってしまうのではないでしょうか。//If she studies without getting much sleep, I am afraid she will get sick.
+
+/// 7: Complex Predicates with ~てたまらない
+/// Sentences with the complex predicate with たまらない express an overwhelming feeling on the part of the speaker.
+/// The feeling is expressed by the て-form of the predicate preceding たまらない.
+
+息子が大学に行ってから、寂しくてたまりません。//Since my son left for college, I am indescribably lonely.
+ヨーロッパに旅行したくてたまりません。//I have a burning desire to travel in Europe.
+
+/// For emphasis, the word in the て-form may be repeated twice or more.
+
+嬉しくて、嬉しくてたまらないといった顔をしている。//She has the look of someone who is indescribably happy.
+/// or He
+
+/// 8: Complex Predicates with ~つつある
+/// Sentences with the complex predicate with ~つつある express that the event described is “about to happen or take place.”
+/// The verb form before ~つつ must be the stem.
+
+私の人生にも面白いドラマが始まりつつある。//An interesting drama in my life is beginning.
+
+/// A similar meaning may be expressed by the complex predicate with ところ, which was introduced in Stage 3–3.
+
+今から、勉強するところです。//I am about to begin studying.
+
+/// Although these examples of the complex predicates with ~つつある and ところ indicate actions that are about to begin, the contexts are different.
+
+/// The construction with ところ may be used for everyday actions such as studying, eating, etc.,
+/// while that with ~つつある is for more serious or unusual events that are about to happen.
+/// Another difference is that the action or event expressed with ~つつある suggests that the initial stage, but not the main event itself, might have already begun,
+/// but the structure with ところ does not imply the same thing.
+
+/// 9: Complex Predicates with ~ ざるをえない
+/// The replacement of the negative ~ない with an old form of the negative, ~ざる, and the addition of をえない forms an expression meaning that the speaker has no choice but to do something.
+
+行きたくないが、行かざるをえない。//I don’t want to go, but I have no choice.
+その時、日本語の勉強をやめざるをえなかった。//I had no choice but to cease studying Japanese at that time.
+
+/// The ざる-negatives of する and くる are せざる and こざる respectively.
+
+運転はあまり好きではないが、緊急の場合は、運転せざるをえない。//I don’t like driving very much, but when there is an emergency I have no choice but to drive.
+あれだけ頼まれると、僕のラップトップを持ってこざるをえなかった。//I was asked so many times that I had no choice but to bring my own laptop.
