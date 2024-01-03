@@ -15,19 +15,19 @@ let inputPath = "./stage - md/stage 3/"
 // })
 
 
-// prepare_synthesis({
-//     useSlow: false,
-//     speakerId: 47,
-//     fileStoragePath: './stream',
-//     convertToKana: false
-// })
-
 prepare_synthesis({
-    useSlow: true,
+    useSlow: false,
     speakerId: 47,
-    fileStoragePath: './stream_slow',
+    fileStoragePath: './stream',
     convertToKana: false
 })
+
+// prepare_synthesis({
+//     useSlow: true,
+//     speakerId: 47,
+//     fileStoragePath: './stream_slow',
+//     convertToKana: false
+// })
 
 // prepare_synthesis({
 //     useSlow: true,
