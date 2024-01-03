@@ -1,0 +1,684 @@
+stage １，７。
+
+# Stage 1-7 Topic, Subject, and Object
+
+<br>
+
+## 1: Subject が
+
+### (1) The subject and its use
+
+/// The topic is described in the comment.
+
+/// The subject is described in the predicate.
+
+<br>
+
+#### The subject particle が
+
+/// が has quite a few different functions. So far, が has been introduced as:
+
+/// a clausal conjunction;
+
+/// the marker for the topic when it is being questioned;
+
+/// the marker for the direct object of the semi-transitive predicate;
+
+/// the marker for the subject.
+
+<br>
+
+### (2) Adverb position
+
+/// When adverbs are used in structures like those above, the natural place to use them is before the comment, rather than immediately before the predicate.
+
+/// This is because the comment, rather than the predicate alone, comprises a complete entity.
+
+<br>
+
+エイミーさんはとても頭がいいです。//Amy-san is very smart.
+
+エイミーさんは頭がとてもいいです。//Amy-san is very smart.
+
+<br>
+
+/// When adverbs are used in structures like those above, the natural place to use them is before the comment, rather than immediately before the predicate.
+
+/// This is because the comment, rather than the predicate alone, comprises a complete entity.
+
+<br>
+
+パクさんは本当に背が高いです。//Park-san is really tall.
+
+パクさんは背が本当に高いです。//Park-san is really tall.
+
+<br>
+
+ーーーーーーーーーーーーーーーーーーーー
+
+## 2: Subject and Object
+
+### (1) が for the subject and object
+
+/// When が is used to mark the subject as well as the object of semi-transitive predicates, it is easy to become confused as to which noun is the subject and which the object.
+
+/// The assignment of the grammatical function (such as the subject and the object) is determined by the predicate.
+
+<br>
+
+ナースロボさんは目が大きいです。//Naasurobo-san has large eyes.
+
+<br>
+
+/// the predicate 大きい {おおきい} describes the subject, 目 {め} “eyes,” rather than the topic. 
+
+<br>
+
+ナースロボさんは自分の目が嫌いです。//Naasurobo-san doesn’t like her [own] eyes.
+
+<br>
+
+/// the predicate 嫌い {きらい} “to dislike” is semi-transitive. That is, what the topic dislikes is the object, 目 {め} “eyes.”
+
+<br>
+
+### (2) Direct objects of adjectives and adjectival nouns
+
+/// Some adjectives and adjectival nouns are classified as semi-transitive predicates, because they require a direct object for the notion to be complete.
+
+/// As is the case with all semi-transitive predicates, the objects of these adjectives and adjectival nouns are marked by が.
+
+<br>
+
+/// examples show cases where these words modify nouns:
+
+/// 好きな本 上手な人 欲しい本 怖い先生
+
+<br>
+
+/// 好き {すき} “to be fond of” and 嫌い {きらい} “to dislike” can be modified by the adverbial prefix 大, which means “big” and is pronounced だい (on-reading).
+
+/// This prefix may not be used for all other adjectives or adjectival nouns. Its use is quite limited.
+
+<br>
+
+私は寿司が大好きです。//I love sushi.
+
+私は寿司が大嫌いです。//I can’t stand sushi.
+
+<br>
+
+/// Even though the words 嫌い and 下手 {へた} carry a negative meaning, they may not be used with the adverb あまり because the structures in which they are used are positive.
+
+/// To convey the intended meaning above, use the following sentence:
+
+<br>
+
+私はこの本があまり好きではありません。//I don’t like this book very much.
+
+<br>
+
+### (3) Emotive words
+
+/// Words such as 欲しい {ほしい} and 怖い {こわい}, known as emotive words, express the speaker’s emotional state.
+
+/// Such words are only used in the predicate when the speaker is the topic, or when directly questioning the addressee.
+
+/// They may not be used to describe a third person’s emotional state.
+
+<br>
+
+私は犬が怖いです。//I am afraid of dogs.
+
+あなたは何が怖いですか。//What are you afraid of?
+
+<br>
+
+/// This does not mean that the speaker can never describe a third person’s emotional state.
+
+/// There are other structures to express this. One way is to report what the third person has said.
+
+<br>
+
+メアリーさんは犬が怖いと言いました。//Mary-san said that she (or he) is afraid of dogs.
+
+<br>
+
+/// Another way is for the speaker to report his or her own inference based on direct observation by adding ようだ（です） to the perceived emotion of the third person. 
+
+<br>
+
+メアリーさんは犬が怖いようです。//It looks to me like Mary-san is afraid of dogs.
+
+<br>
+
+ーーーーーーーーーーーーーーーーーーーー
+
+## 3: Making Verbs into Nouns
+
+/// In these structures the objects are nouns
+
+<br>
+
+あの学生は日本語が上手です。//That student is good at Japanese.
+
+私はすしが欲しいです。//I want some sushi.
+
+<br>
+
+/// Because the element before a particle must be in a nominal form, using a verb alone in the object position would not make an acceptable sentence.
+
+<br>
+
+### (1) Nominalizing verbs with こと
+
+/// The following example shows that adding こと immediately after the plain form of the verb changes the verb to a nominal form.
+
+<br>
+
+あの学生は日本語を話すことが上手です。//That student is good at speaking Japanese.
+
+<br>
+
+/// There are two things to remember for now about nominalizing verbs in general.
+
+/// First of all, verbs that are used in the middle rather than the end of a sentence are normally in the plain form.
+
+/// Second, こと must be used immediately after the verb to give this verb a nominal function.
+
+/// こと here has no meaning except its grammatical function of turning a verb into a nominal form.
+
+/// の instead of こと is also possible, although they are not completely interchangeable.
+
+<br>
+
+### (2) Expressing a desire to do things
+
+/// -> [v-stem + たい]
+
+/// The adjective 欲しい {ほしい} is used to express the speaker’s desire for a thing.
+
+<br>
+
+私は寿司が欲しいです。//I want some sushi.
+
+<br>
+
+/// 欲しい can take a noun, but not a verb (even a nominalized verb), as its object in a sentence.
+
+/// Instead, the following structure must be used:
+
+<br>
+
+私は寿司が食べたいです。//I want to eat some sushi.
+
+<br>
+
+/// 食べたい in the above sentence is a derived adjective which expresses that the speaker wants to eat something.
+
+/// To derive this type of adjective, drop ~ます from the polite form of the verb and add ~たい (e.g. たべます to たべたい).
+
+/// The derived form expresses the speaker’s desire to do something. The newly derived form is an adjective, and is therefore conjugated as an adjective:
+
+<br>
+
+私は寿司が食べたくありません。//I don’t want to eat sushi.
+
+私は寿司が食べたかったです。//I wanted to eat sushi.
+
+私は寿司が食べたくありませんでした。//I did not want to eat sushi.
+
+<br>
+
+/// Like 欲しい, this predicate may be used to express the speaker’s desire to do something, as well as to ask another person directly about his or her desire, but it may not be used to express desire on the part of a third person.
+
+<br>
+
+あなたは何が食べたいですか。//What do you want to eat?
+
+<br>
+
+/// The following structures may be used to express the third-person’s desire:
+
+<br>
+
+メアリーさんは寿司が食べたいと言いました。//Mary-san said that she wants to eat sushi.
+
+メアリーさんは寿司が食べたいようです。//It looks to me like Mary-san wants to eat sushi.
+
+<br>
+
+### (3) Expressing the speaker’s plan
+
+/// -> [(v plain form) + つもり]
+
+/// to express the speaker’s plan or to ask directly about the addressee’s plan.
+
+/// This structure may not be used to talk about a third person’s plan.
+
+<br>
+
+メアリーさんは明日、何をするつもりですが。//What do you plan to do tomorrow, Mary-san?
+
+家に帰るつもりです。//I plan to go home.
+
+<br>
+
+/// For the third person’s plan, the following structure may be used.
+
+<br>
+
+メアリーさんは家に帰るつもりだと言いました。//Mary-san said that she plans to go home.
+
+<br>
+
+ーーーーーーーーーーーーーーーーーーーー
+
+## 4: は and が
+
+/// It is important for learners to understand the differences in how these two particles are used as clearly as possible.
+
+/// the comparison between は and が is made only for the subject が and the topic は. 
+
+<br>
+
+### (1) The topic は
+
+#### The speaker may signal what she or he wants to talk about by bringing it into the topic position, marked by は.
+
+/// Just about anything can be brought to the topic position of a sentence.
+
+<br>
+
+#### When the speaker brings the topic into the sentence,
+
+/// the assumption is that the speaker knows that the audience or addressee understands the referent of the topic.
+
+<br>
+
+#### What the speaker wants to convey to the audience or the addressee is the content described in the comment.
+
+/// In other words, the comment is the new information, and the topic is the information in the sentence that is understood.
+
+<br>
+
+### (2) The subject が
+
+#### In some expressions, the subject and the predicate together constitute a complete unit, called a comment.
+
+/// In these structures, the predicate describes the subject, not the topic.
+
+/// The subject and the predicate together form a single entity, the comment, which describes the topic.
+
+<br>
+
+#### When the subject is used in a sentence,
+
+/// the new information is the subject; the predicate is the given (known) information in the sentence.
+
+/// In this context, in the question about the topic, as well as in the response (that is, when new information is asked for and provided) the noun phrase with が may be called the subject.
+
+<br>
+
+昨日、だれが授業に来ませんでしたか。//Who did not come to the class yesterday?
+
+ずんだもんさんが来ませんでした。//Zundamon-san is the one who did not come.
+
+<br>
+
+### (3) Comparing sentences with the topic and the subject
+
+<br>
+
+日本語の先生はいつもちょうど九時に授業を始めます。//The Japanese teacher always begins the class exactly at 9:00.
+
+<br>
+
+/// The sentence above, using the transitive verb, conveys what the teacher does (the new information is in the comment).
+
+<br>
+
+授業が九時に始まりました。//The class began at 9:00.
+
+<br>
+
+/// The sentence above with the intransitive verb says what it was that began at 9:00 (the new information is the subject).
+
+<br>
+
+#### Other intransitive predicates
+
+/// In fact, the difference noted above can occur with any type of predicate, not just with transitive-intransitive verb pairs.
+
+<br>
+
+ずんだもん先生は九時にいらっしゃいました。//Zundamon-sensei came here at 9:00.
+
+ずんだもん先生がいらっしゃいました。//Zundamon-sensei was the one who came here.
+
+<br>
+
+/// It is common to use the subject が with any kind of intransitive verb, not just the intransitive form of a pair verb, especially when the verb is used with no other information provided.
+
+<br>
+
+雨が降っています。//It’s raining.
+
+授業が始まりです。//The class will begin.
+
+<br>
+
+/// When asking for other information, such as the time when the class begins, the new information is in the predicate.
+
+<br>
+
+授業は何時に始まりますか。//What time will the class begin?
+
+（授業は）九時に始まります。//It will begin at 9:00.
+
+<br>
+
+### (4) The topicalized subject
+
+/// any element may be brought to the topic position and marked with the particle は. This includes the subject.
+
+/// subjects are often topicalized both in speaking and in writing.
+
+/// The following examples show how the subject is topicalized in a series of questions.
+
+<br>
+
+だれが来ましたか。//Who came?
+
+先生がいらっしゃいました。//The teacher was the one who came.
+
+先生はどこからいらっしゃいましたか。//Where did the teacher come from?
+
+（先生は）京都からいらしゃいました。//The teacher came from Kyoto.
+
+<br>
+
+/// What this means is that:
+
+#### Any subject may be topicalized;
+
+#### Not all topics are derived from subjects.
+
+<br>
+
+ーーーーーーーーーーーーーーーーーーーー
+
+## 5: Comparisons
+
+### (1) Comparing two things
+
+#### Reference particle より
+
+/// The particle より indicates that the preceding noun is an item or person being compared to the topic:
+
+<br>
+
+アメリカは日本より大きいです。//America is bigger than Japan.
+
+<br>
+
+/// The adverb もっと may also be used in comparisons, although it is redundant.
+
+/// It need not be included for the sentence to have a comparative meaning.
+
+<br>
+
+アメリカは日本よりもっと大きいです。//America is bigger than Japan.
+
+<br>
+
+/// Using もっと does not change the meaning of the sentence, but it may make the comparative meaning stronger.
+
+<br>
+
+#### Adverb ずっと
+
+/// When the speaker needs to strongly emphasize the degree of the description in the predicate, as in “America is much bigger than Japan,” the adverb ずっと “far more” may be used.
+
+<br>
+
+アメリカは日本よりずっと大きいです。//America is much bigger than Japan.
+
+<br>
+
+/// ずっと and もっと are generally not used together.
+
+<br>
+
+#### Comparative question sentences
+
+/// When asking a question about the two items, the two things to be compared should be listed before forming the question.
+
+/// There are a few different ways to list the items to be compared.
+
+/// アメリカと日本と（とは・で・とで・では・とでは）
+
+<br>
+
+/// The question sentence that follows the list includes the pronoun どちら, which is used only to mean “which of the two.”
+
+/// This pronoun can refer to things, people, or events.
+
+<br>
+
+アメリカと日本と、どちらが大きいですか。//America and Japan, which of the two is big?
+
+<br>
+
+/// The noun 方 {ほう} “side” is often added with の after どちら when comparing two things.
+
+<br>
+
+アメリカと日本とでは、どちらの方が大きいですか。//America and Japan, which side is big?
+
+<br>
+
+#### Answering comparative questions
+
+/// When answering a question about a comparison, it is best to use a structure that parallels the structure of the question.
+
+/// In answering a question that compares two items, the use of 方 is required, although it is optional in the question sentence.
+
+<br>
+
+アメリカと中国とでは、どちら（の方）が大きいですか。//Which is bigger, America or China?
+
+中国の方が大きいです。//China is bigger.
+
+<br>
+
+/// どちらも “both” may be used when the answer does not favor one over the other:
+
+<br>
+
+日本語と英語と、どちらの方が難しいですか。//Which is more difficult, Japanese or English?
+
+どちらも難しいです。//They’re both difficult.
+
+どちらも難しくありません。//Neither of them is difficult.
+
+/// [Literally, “Both are not difficult”]
+
+<br>
+
+#### Comparative sentences with negative predicates
+
+/// If a negative predicate is used in a statement that compares two things, the compared referent is marked by ほど rather than より, as in the following:
+
+<br>
+
+日本はアメリカほど大きくありません。//Japan is not as big as America.
+
+<br>
+
+/// In the above sentence, ほど literally means “degree.”
+
+<br>
+
+#### The experience particle に
+
+/// The particle に has many functions, に is also used to refer to a person who directly experiences a certain feeling described in the predicate.
+
+/// The contrastive は is often used with this に to indicate that this experience is limited to that person (i.e., the one indicated by に).
+
+<br>
+
+私にはカタカナは漢字よりもっと難しいです。//Katakana is more difficult for me than kanji.
+
+あの人の話は私にはよく分かりません。//That person’s talk is quite incomprehensible to me.
+
+<br>
+
+### (2) Comparing more than two things
+
+/// In comparing more than two things or people, the adverb 一番 {いちばん}is placed immediately before the descriptive word.
+
+/// The particle で indicates the boundary of comparison.
+
+<br>
+
+この大学は日本で一番大きい大学です。//This university is the biggest one in Japan.
+
+<br>
+
+#### Forming and responding to a question comparing more than two items
+
+/// When listing things at the beginning of a sentence, the following structures may be used:
+
+<br>
+
+これとそれとあれの中で、どれが一番、安いですか。//Out of this one, that one, and that one over there, which is the cheapest?
+
+<br>
+
+/// The list can be summarized with either ~の中で {なかで} or ~のうちで.
+
+/// It is also possible to provide the category in which a comparison will be made.
+
+/// In this case, the particle で alone or の中で  {なかで} is used:
+
+<br>
+
+飲み物（の中）で、何が一番美味しいですか。//Among all drinks, which is the most delicious?
+
+お茶が一番、美味しいです。//Tea is the most delicious.
+
+<br>
+
+/// The interrogative pronoun in this construction varies depending on what it refers to (どれ, だれ, ど こ, なに, etc).
+
+/// どちら cannot be used in this construction; it is used only when two items are being compared.
+
+<br>
+
+クラスでだれが一番、親切ですか。//Who is the nicest person in class?
+
+アリスさんが一番、親切です。//Alice-san is the nicest.
+
+<br>
+
+/// Particles also vary, depending on what part of the sentence is being questioned:
+
+<br>
+
+友達で、だれに一番よく話しますか。//Which of your friends do you talk to most often?
+
+時雨さんに一番よく話します。//I talk to Shigure-san most often.
+
+<br>
+
+ーーーーーーーーーーーーーーーーーーーー
+
+ーーーーーーーーーーーーーーーーーーーー
+
+カンバセーション。
+
+<br>
+
+### (1) Comparing
+
+<br>
+
+チャンさんは中国語も話せますね？　すごいですねえ。でも、日本語と中国語とどっちが難しいですか。//You can speak Chinese, too, right? Wow! But which is more difficult, Japanese or Chinese?
+
+どっちも難しいですね。//They’re both difficult.
+
+<br>
+
+/// どっち is a colloquial spoken form of どちら.
+
+<br>
+
+### (2) Health talk
+
+<br>
+
+クリスさん、どうしましたか。//What’s wrong, Kurisu-san?
+
+ちょっと、頭が痛いんです。//I have a bit of a headache.
+
+それはいけませんね。お大事に。//Oh, dear, that’s too bad. Do take care.
+
+<br>
+
+/// どうしましたか is a fixed expression used for an equivalent expression in English, “What happened?” 
+
+/// In Japanese, 何 {なん・なに} is used for a very specific thing, but for a vague or openended thing, どう is used.
+
+<br>
+
+/// ちょっと is a colloquial expression of 少し {すこし}, “a little.”
+
+<br>
+
+/// それはいけませんね expresses that the speaker feels badly about the addressee’s poor condition.
+
+<br>
+
+/// お大事に {おだいじに} expresses the speaker’s hope that the addressee will take care of him/herself, because the speaker knows the addressee is not feeling well.
+
+<br>
+
+### (3) When the speaker does not know the answer
+
+<br>
+
+あの背が高い人と低い人と、どちらが時雨さんですか。//Which of those people is Shigure-san, the tall one or the short one?
+
+ええと・・・。さあ、僕にはよく分かりません。すみません。//Let’s see… Uh, it’s hard for me to tell. I’m sorry.
+
+ああ、大丈夫ですよ。ナースロボさんに聞きますから。//Oh, that’s all right. Don’t worry, I’ll ask Naasurobo-san.
+
+<br>
+
+/// ええと is a vocalization that indicates that the speaker is trying to decide or recall what to say.
+
+/// In this case, the speaker is trying to come up with the correct answer.
+
+/// The first syllable of the word may be drawn out while the speaker tries to find the answer or something to say.
+
+<br>
+
+#### 大丈夫です
+
+/// When used in a question as in 大丈夫ですか {だいじょうぶですか} “Are you all right?” the speaker asks if the addressee is all right (health, general circumstances, current state, etc.).
+
+/// 大丈夫です {だいじょうぶです} may either be the response to this question (“I’m OK”), or an expression used by the speaker to ease the worry of the addressee (“That’s OK”).
+
+<br>
+
+#### スミスさんに聞きますから {スミスさんに きき ますから}
+
+/// This is almost like giving a reason as an afterthought.
+
+/// から is the conjunction used to give a reason, but the way it is used here is incomplete.
+
+/// If this clause came before 大丈夫です, it would mean “Because I’ll ask Smith-san, I’ll be all right.”
+
+/// Note that the polite form rather than the plain form is used before から. When using this structure as an afterthought, this is not uncommon.
+

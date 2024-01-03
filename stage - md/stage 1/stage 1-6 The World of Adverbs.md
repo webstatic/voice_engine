@@ -1,0 +1,803 @@
+stage １，６。
+
+# Stage 1-6 The World of Adverbs
+
+<br>
+
+## 1: Adverbs
+
+### (1) Words that are inherently adverbs
+
+/// Some words such as とても and もっと are inherently adverbs.
+
+<br>
+
+アメリカはとても大きいです。中国はもっと大きいです。//America is very big. China is bigger.
+
+<br>
+
+### (2) Nouns used as time adverbs
+
+/// Some nouns that indicate time, such as 今日 {きょう} and 明日 {あした}, may also be used as time adverbs.
+
+<br>
+
+僕は明日、授業に行きます。//I will go to class tomorrow.
+
+<br>
+
+### (3) Adverbs derived from adjectives
+
+/// Adverbs may be derived from adjectives by changing the final ~い of an adjective into ~く.
+
+<br>
+
+あの先生の授業は早いです。//That teacher’s class is early.
+
+明日、ルームメートは、早く起きます。//My roommate will get up early tomorrow.
+
+<br>
+
+#### Adverbs derived from adjectives used as nouns
+
+/// Some adverbs derived from adjectives have a nominal function, such as 近 {ちか}く from 近い {ちかい}, 早く {はやく} from 早い, and 遠く {とおく} from 遠い  {とお}.
+
+<br>
+
+妹は近くの大学に行きます。//My younger sister goes to a nearby college.
+
+妹の大学は家に近いです。//My sister’s college is close to home.
+
+<br>
+
+毎日、朝、早くから、晩、遅くまで勉強します。//I study from early in the morning until late at night every day.
+
+<br>
+
+### (4) Nouns or adjectival nouns with the particle に
+
+/// Adjectival nouns may also be used adverbially by adding に to them.
+
+<br>
+
+ずんだもんさんは元気に話します。//Zundamon-san speaks cheerfully.
+
+ナースロボさんは本当にいい人です。//Naasurobo-san is really a good person.
+
+<br>
+
+### (5) Numbers as adverbs
+
+/// Numbers can function adjectivally or adverbially
+
+<br>
+
+私はペンを二本、買いました。//I bought two pens.
+
+<br>
+
+/// Like other adverbs, the number and counter can be used in any position except at the end of a sentence.
+
+/// But no particle should be used in these adverbial cases:
+
+<br>
+
+私は二本、ペンを買いました。//I bought two pens.
+
+<br>
+
+### (6) Demonstrative adverbs
+
+/// Certain expressions such as そうです and どうですか use the demonstrative adverbs そう and どう.
+
+/// The complete series includes こう, そう, ああ and the interrogative pronoun どう.
+
+<br>
+
+寿司はどう食べますか。//How does one eat sushi?
+
+こう食べます。//We eat it this way.
+
+<br>
+
+明日、どうしましょうか。//What shall we do tomorrow?
+
+どうしましたか。//What happened?
+
+<br>
+
+/// どうしましょう literally means something like “in what way shall we deal with (things)?” The meaning of the expression どうしましたか comes from “how did (something) happen?”
+
+<br>
+
+/// summarizes the demonstrative pronoun series.
+
+/// thing: これ, それ, あれ, どれ
+
+/// place: ここ, そこ, あそこ, どこ
+
+/// adverbial: こう, そう, ああ, どう
+
+/// way, person: こちら, そちら, あちら, どちら
+
+/// thing, person: この, その, あの, どの
+
+/// kind of: こんな, そんな, あんな, どんな
+
+<br>
+
+### (7) Other facts about adverbs
+
+#### もう with numbers and もっと
+
+/// Both もう and もっと are translated into English as “more.”
+
+/// もう is used with a word or a number to indicate an additional number or degree of something.
+
+/// もっと is used to modify adjectives, adverbs, and verbs to indicate a greater amount or degree of something.
+
+<br>
+
+もう少し、ください。//Please give me a little more.
+
+<br>
+
+/// With たくさん, もっと is used to express a greater amount. もう may not be used here.
+
+<br>
+
+もっとたくさん、ください。//Please give me a lot more.
+
+<br>
+
+/// もう rather than もっと must be used before specific numbers.
+
+<br>
+
+リンゴをもう一つ買いました。//I bought one more apple.
+
+授業にもう五十人、来ました。//Another fifty students came to class.
+
+<br>
+
+#### Using the conjunctive form adverbially
+
+<br>
+
+僕は歩いて学校に行きます。//I go to school on foot.
+
+<br>
+
+/// Using the conjunctive form adverbially
+
+<br>
+
+#### The conjunctive form with ください
+
+/// Another example of the conjunctive form used adverbially is a fixed phrase consisting of a conjunctive form and ください.
+
+/// This construction expresses a polite command. Depending on the situation, it may also be used for making a request.
+
+<br>
+
+日本語で話してください。//Please speak in Japanese.
+
+ここに来てください。//Please come here
+
+<br>
+
+ーーーーーーーーーーーーーーーーーーーー
+
+## 2: Onomatopoeia
+
+### (1) What is onomatopoeia?
+
+/// The term onomatopoeia refers to words that originate in imitation of actual sounds.
+
+/// In Japanese, onomatopoeic words, which often contain repeated syllables, are usually written in katakana.
+
+<br>
+
+雨がぜーせー（と）降ります。//It’s raining heavily.
+
+<br>
+
+/// the quotative particle と connects the verb and the content of the quote, thoughts, or sounds.
+
+/// The use of this particle is optional when the onomatopoeia contains repeated syllables.
+
+<br>
+
+#### Quoting
+
+/// in this quotation structure, と connects what someone has said and the verb 言う {いう}（いいます） “to say.”
+
+<br>
+
+ずんだもんさんは「この寿司は美味しいです。」と言いました。//Zundamon-san said, ‘This sushi is delicious.’
+
+<br>
+
+/// When reporting only the content rather than something verbatim, remove the quotation marks and use the plain form for the content.
+
+<br>
+
+ずんだもんさんはこの寿司は美味しいと言いました。//Zundamon-san said the sushi was delicious.
+
+<br>
+
+#### Expressing thoughts
+
+/// the speaker may express an opinion or idea by connect ing his or her own thought with と and the verb 思う {おもう}（おもいます） “to think.”
+
+/// In this case, the predicate form before と must be in the plain form.
+
+/// This verb is used to express the speaker’s own thought; it is not used when the topic is in the third person.
+
+/// When questioning the addressee directly for his or her opinion, the second person may be used in the topic position.
+
+<br>
+
+私はこの寿司は美味しいと思います。//I think that this sushi is delicious.
+
+<br>
+
+### (2) Types of onomatopoeia
+
+/// Besides the onomatopoeia that originate in imitation of actual sounds, there are also other types of onomatopoeia in Japanese: e.g., onomatopoeia of manner and description, which mimic the manner of some activity or the quality of something.
+
+<br>
+
+### (3) The use of hiragana and katakana for onomatopoeia
+
+/// While it is common to use katakana for sound onomatopoeia, onomatopoeia of manner and description are often written in hiragana, like the word きちん “properly” (manner)
+
+/// The rules governing the use of katakana and hiragana for sound, manner, and descriptive onomatopoeia are not rigid, however. Variations in the use of these two kana in expressing onomatopoeia in writing may be observed.
+
+<br>
+
+/// The quotative particle と is necessary when the onomatopoeic word has no repeated elements.
+
+<br>
+
+あの人はいつもきちんと話します。//He always speaks properly.
+
+この服はぼろぼろです。//This outfit is very old.
+
+<br>
+
+### (4) Examples of different onomatopoeia
+
+#### Examples of sound onomatopoeiaa cat meowing
+
+/// ワンワン a dog barking, ニャーニャー a cat meowing, ザーザー the sound of heavy rain, シトシト the sound of quiet rain, ペラペラ the sound of a foreign language spoken fluently, ガヤガヤ the noise made by a crowd of people
+
+<br>
+
+僕の犬は外でワンワン（と）吠えています。//My dog is barking outside.
+
+あの人は日本語をペラペラ（と）話します。//That person speaks Japanese fluently.
+
+<br>
+
+#### Examples of manner onomatopoeia
+
+/// そ（う）quietly; soundlessly, じろじろ（ジロジロ）staring
+
+<br>
+
+/// When the onomatopoeia そ（う） is combined with the particle と, the small つ is needed, forming either そうっと or そっと.
+
+<br>
+
+彼は部屋にぞうっと入ってきました。//He entered the room quietly.
+
+彼女は僕をじろじろ（と）見ました。//She stared at me.
+
+<br>
+
+#### Examples of descriptive onomatopoeia
+
+/// ぼろぼろ（ボロボロ）very old, ぴかぴか（ピカピカ）very shiny
+
+/// In addition to being used in the predicate, descriptive onomatopoeia may be used to modify nouns
+
+<br>
+
+あのボロボロの服は私のです。//That old outfit is mine.
+
+あの人はいつもピカピカの車を運転します。//That person always drives a shiny car.
+
+<br>
+
+#### Descriptive onomatopoeia with する（します）
+
+/// Descriptive verbs may be created by adding する（します） to onomatopoeia.
+
+/// どきどきする “to be nervous” （どきどき is the sound of someone’s heart pounding）
+
+/// わくわくする “to be excited” （わくわく describes the feeling of being excited）
+
+/// おろおろする “to be confused, be lost” （おろおろ describes the feeling of being lost）
+
+/// めそめそする “to be sad” （めそめそ describes someone being weepy）
+
+<br>
+
+試験の前はいつもどきどきします。//I always get nervous before examinations.
+
+<br>
+
+ーーーーーーーーーーーーーーーーーーーー
+
+## 3: Focus on Person or Situation
+
+### (1) Person vs. situation
+
+/// In any language, there are innumerable ways to express an event.
+
+/// The two broad categories are person-focused expressions and situation-focused expressions.
+
+/// In person-focused expressions, “who will do/does/did something” is explicitly stated.
+
+/// In situation-focused expressions, by contrast, the event is expressed without explicitly indicating “who will do/does/did something.” 
+
+/// For instance, if someone spills some milk, the person-focused expression would be “I spilled the milk” while the situation-focused expression might be “The milk spilled.”
+
+<br>
+
+/// Within the context of Japanese culture, in some cases it is preferable to use situation-focused expressions because they are more indirect than person-focused expressions.
+
+<br>
+
+/// する（します） for the person-focused and なる（なります） for the situation-focused.
+
+<br>
+
+### (2) The verb する（します）
+
+#### する（します） for making a choice or decision
+
+/// The verb する（します） may be used to talk about making a choice or decision.
+
+/// In this case, the particle に is used for the thing the speaker will choose (decide) or has chosen (decided).
+
+/// Chosen things are expressed adverbially.
+
+<br>
+
+（あなたは）何にしますか。//What will you have?
+
+（私は）寿司にします。//I’ll have sushi.
+
+<br>
+
+僕は専攻を日本語にしました。//I chose Japanese as my major.
+
+<br>
+
+#### する（します） for making A into B
+
+/// This one expresses changing the function of a certain thing into another, or changing from one state to another.
+
+/// Changed functions or states are expressed adverbially.
+
+<br>
+
+試験をもっと易しくしました。//I made the exam easier.
+
+教室をきれいにしましょう。//Let’s make the classroom beautiful.
+
+この本をこのクラスの教科書にします。//I have selected this book as the textbook for this class.
+
+<br>
+
+### (3) The verb なる（なります）
+
+/// the verb なる（なります） is used for situation-focused expressions.
+
+/// The verb なる（なります） expresses a change of situation.
+
+/// The situation that will be or has been changed into is expressed adverbially.
+
+<br>
+
+#### When a change is expressed with an adjective or a nominal element
+
+<br>
+
+外は寒くなりました。//It’s gotten cold outside.
+
+クリスさんは元気になりました。//Kurisu-san has gotten healthy.
+
+メアリーさんは先生になります。//Mary is going to be a teacher.
+
+あの学生は日本語がペラペラになりました。//That student has become very fluent in Japanese.
+
+<br>
+
+#### When a change is expressed with a verb
+
+/// When a verb is used to express a change, the following structure should be used.
+
+/// The verb must be in the plain form, and ように must be added before なる（なります）.
+
+<br>
+
+去年は漢字が読めませんでしたが、今年、読めるようになりました。//I could not read kanji last year, but this year, I’m able to read it.
+
+うちの子は勉強するようになりました。//Our child studies now.
+
+<br>
+
+### (4) Transitive-intransitive pairs of verbs
+
+#### What are transitive-intransitive verb pairs?
+
+/// 開ける（あけます）open something <-> 開く（あきます）something opens
+
+/// 閉める（しめます）close something <-> 閉まる（しまります）something closes
+
+/// 始める（はじめます）begin something <-> 始まる（はじまります）something begins
+
+/// 終える（おえます）finish something <-> 終わる（おわります）something ends
+
+<br>
+
+/// Transitive verbs are used for person-focused sentences, while the intransitive verbs are used for situation-focused sentences.
+
+/// In the following example of a transitive sentence, the topic is the person who opens the store, while the topic of the intransitive sentence is the store.
+
+<br>
+
+毎朝、私は店を九時に開けます。//I open the store at 9 o’clock every morning.
+
+毎朝、この店は九時に開きます。//This store opens at 9:00 every morning.
+
+ーーーーーーーーーーーーーーーーーーーー
+
+## 4: Counters
+
+### (1) Years
+
+/// 年 {ねん} is a counter for years.
+
+/// This counter cannot be used for age, but it can be used to indicate a specific calendar year or a duration of years, as in “I was in Japan for three years.”
+
+<br>
+
+今年は何年ですか。//What year is it this year?
+
+今年は２００９年です。//This year is the year 2009.
+
+<br>
+
+/// The Western calendar is referred to as 西暦 {せいれき}. To avoid confusion in situations where the year may be ambiguous, 西暦２００９年, which means “the year 2009 in the Western calendar,” may be used.
+
+/// The Japanese calendar years are referred to by the year of the current emperor’s reign, the whole of which is referred to as 時代 {じだい} “era.”
+
+<br>
+
+今年は平成何年ですか。//What year of the Heisei era is this?
+
+（今年は平成）２１年です。//It’s Heisei 21 this year.
+
+<br>
+
+### (2) Months
+
+/// The following are used only to name each month. They cannot be used to indicate duration in months.
+
+/// January 一月 いちがつ
+
+/// February 二月 にがつ
+
+/// March 三月 さんがつ
+
+/// April 四月 しがつ
+
+/// May 五月 ごがつ
+
+/// June 六月 ろくがつ
+
+/// July 七月 しちがつ
+
+/// August 八月 はちがつ
+
+/// September 九月 くがつ
+
+/// October 十月 じゅうがつ
+
+/// November 十一月 じゅういちがつ
+
+/// December 十二月 じゅうにがつ
+
+/// What month? 何月 なんがつ
+
+<br>
+
+### (3) Dates
+
+/// The first to the tenth days of the month are based on the native Japanese numbers with the counter 日; the counter is pronounced か except in the case of the first day of the month, which has a special name, ついたち.
+
+/// 1st 一日 ついたち, 2nd 二日 ふつか, 3rd 三日 みっか, 4th 四日 よっか, 5th 五日 いつか, 6th 六日 むいか, 8th 八日 ようか, 9th 九日 ここのか, 10th 十日 とおか
+
+<br>
+
+/// The counter 日 after the 10th is pronounced にち except for the 14th, the 20th, and the 24th. The 14th and the 24th use a combination of both number systems. The 20th day of each month has a special name, はつか.
+
+<br>
+
+/// with the counter 日 {か・にち}, may be used both to name a specific date (such as “April 3rd”), and to describe the duration of time in days (such as “three days”). The only exception is when talking about something that lasts one day:
+
+/// 一日 {ついたち} means only “the first day of the month.”
+
+/// 一日 {いちにち} means “for one day” or “all day long.”
+
+<br>
+
+/// The order of mentioning a date must be from the bigger time unit to the smaller. Sometimes, people connect these times with the particle の, although it is more common to say dates without の.
+
+/// 1986年（の）1月（の）2日
+
+<br>
+
+### (4) Ages
+
+/// There are two ways to count people’s age. 
+
+/// The first uses the native numbers with the counter つ; the other uses the Sino-Japanese numbers with the counter 才 {さい} or 歳 {さい}.
+
+<br>
+
+#### Ages with the native numbers
+
+/// the numbers one to nine in the native Japanese number system end with つ.
+
+/// This counter may be used with children’s ages.
+
+/// The interrogative pronoun for this counter is いくつ.
+
+<br>
+
+あの子供はいくつですか。//How old is that child?
+
+七つです。//He’s seven.
+
+<br>
+
+/// Ages with the counter 才 {さい}
+
+/// The counter 才 for ages may be used for all ages, including children.
+
+<br>
+
+/// Twenty is a special age in Japan, as it marks the beginning of adulthood. It is written either 二十 or 二十歳, and pronounced either はた ち or にじゅっさい, both of which are used commonly.
+
+<br>
+
+#### Asking “how old are you?”
+
+/// To ask someone’s age, either 何才 {なんさい} or いくつ may be used, but いくつ is normally used for asking children their age.
+
+/// This does not mean that いくつ is not used to ask adults their ages. When asking adults, the polite prefix お is often used, as in おいくつですか.
+
+<br>
+
+妹さんは何才ですか。//How old is your sister?
+
+十八です。//She’s 18 years old.
+
+<br>
+
+### (5) Durational time
+
+/// The counters for specific time and for durational time may be different.
+
+/// The endings, 時 {じ}, 曜日  {ようび}, and 月 {がつ}, are only for specific time.
+
+<br>
+
+#### Specific vs. durational counters
+
+/// The counters for minutes, days, and years cover both the specific and durational time.
+
+/// For these counters, 間 {かん}, which means “interval,” may be added to these counters to indicate the duration, but its use is optional:
+
+<br>
+
+/// Specific Time:
+
+/// Minute 分 {ふん・ぷん}
+
+/// Day 日 {か・にち}
+
+/// Year 年 {ねん}
+
+<br>
+
+/// Durational Time:
+
+/// Minute 分 {ふん・ぷん} or 分間 {ふんかん}
+
+/// Day 日 {か・にち} or 日間 {にっかん, ひあい} 
+
+/// Year 年 {ねん} or 年間 {ねんかん}
+
+<br>
+
+#### The verb かかる（かかります）
+
+/// literally means “it requires (someone) a certain amount of time or money.”
+
+<br>
+
+東京から京都まで電車で三時間ぐらいかかります。//It takes about three hours to get from Tokyo to Kyoto by train.
+
+日本まで二千ドルぐらいかかります。//It costs about 2,000 dollars to go to Japan.
+
+<br>
+
+#### どのぐらい with かかる（かかります）
+
+/// The generic interrogative pronoun どのぐらい may be used with the verb かかる（かかります） to ask either about duration of time, or amount of money (cost).
+
+<br>
+
+日本からアメリカまで飛行機でどのぐらいかかりますか。//About how much does it take to go from Japan to the United States by airplane?
+
+/// or “About how much does it cost to go from Japan to the United States by airplane?”
+
+<br>
+
+/// If the meaning is not clear from context, more specific question words such as いくらぐらい “about how much does it cost” or 何時間ぐらい {なんじかんぐらい} “about how many hours” may be used in place of どのぐらい.
+
+<br>
+
+日本からアメリカまで飛行機で何時間ぐらいかかりますか。//About how many hours does it take to go from Japan to the United States by airplane?
+
+日本からアメリカまで飛行機でいくらぐらいかかりますか。//About how much does it cost to go from Japan to the United States by airplane?
+
+<br>
+
+/// The specific thing that is required, such as 時間 {じかん} or お金 {おかね}, is seldom expressed, although it may be explicitly stated if the sentence is ambiguous without it.
+
+<br>
+
+日本からアメリカまで飛行機で時間はどのぐらいかかりますか。//About how much time does it take to go from Japan to the United States by airplane?
+
+日本からアメリカまで飛行機でお金はどのぐらいかかりますか。//About how much money does it cost to go from Japan to the United States by airplane?
+
+<br>
+
+### (6) Time words with 前 and 後
+
+/// When words that indicate time and 前 {まえ} and 後 {あと or ご} are used, the following time adverbs result.
+
+/// For 後, あと is less formal than ご.
+
+/// 二年前 {にねんまえ} “two years ago”  二年後 {にねんあと・ご} “ two years later”  二日前 {ふつかまえ}“ two days ago”  二日後 {ふつかあと・ご}“ two days later”
+
+<br>
+
+ーーーーーーーーーーーーーーーーーーーー
+
+ーーーーーーーーーーーーーーーーーーーー
+
+カンバセーション。
+
+<br>
+
+### (1) Giving compliments
+
+<br>
+
+ナースロボさん、この頃、随分、日本語が上手になりましたねえ。//Naasurobo-san, your Japanese has gotten much better lately!
+
+いえいえ、まだまだです。//Oh, no. I still have a long way to go.
+
+<br>
+
+#### この頃 {このごろ}
+
+/// This time adverb means “these days” or “recently.”
+
+<br>
+
+#### 日本語が上手になりましたねえ
+
+/// Literally this sentence means something like “you have become skillful with Japanese.”
+
+/// However, the sentence does not imply that the speaker thought that the addressee’s Japanese was bad before, so such a literal translation might cause some misunderstanding.
+
+/// Another commonly misunderstood sentence is the following, often used with young women: とてもきれいになりましたねえ, [literal translation] “You have become very pretty.” Once again, this sentence does not imply that the addressee was ugly earlier. These comments should be interpreted only as compliments.
+
+<br>
+
+/// まだ is an adverb meaning “not yet.”
+
+/// By repeating まだ twice, the speaker emphasizes the imperfection of the skill of speaking Japanese.
+
+/// When given a compliment, it is better, culturally, to give a humble response such as いえいえ、まだまだです, meaning “I still have a long way to go” than to agree to the compliment.
+
+<br>
+
+### (2) Good wishes for birthdays
+
+<br>
+
+ずんだもんさん、誕生日はいつですか。//When is your birthday, Zundamon-san?
+
+実は、今日なんです。//Actually, it’s today.
+
+そうなんですか。お誕生日、おめでとうございます。//Is that so? Happy birthday!
+
+<br>
+
+#### 実は
+
+/// 実 {じつ} is a noun that means “truth.” One can start a sentence with 実は to signal that the speaker is about to explain something.
+
+<br>
+
+/// ~なんです used after the nominal predicate; this combination adds the nuance that the speaker is giving her or his own account of a certain situation to the addressee.
+
+/// When used with other predicates, な is dropped.
+
+/// Use the plain form before ~んです.
+
+<br>
+
+これは高いんです。//Let me tell you, this is expensive.
+
+明日、日本に行くんです。//You may not know this, but the truth is I am going to Japan.
+
+<br>
+
+#### そうなんですか
+
+/// A speaker uses そう with なんですか to acknowledge what he or she has just heard, usually regarding some unexpected information.
+
+/// ~（な）んですか is used to confirm the speaker’s understanding of certain circumstances or facts.
+
+<br>
+
+先生が怖いんですか。//Am I right in interpreting that you are afraid of the teacher?
+
+明日も勉強するんですか。//Are you saying that you are studying again tomorrow?
+
+<br>
+
+/// おめでとうございます (ございます may be omitted in a less formal setting) is used to congratulate a person on many different occasions (a birthday, anniversary, graduation, or a positive achievement, among others).
+
+<br>
+
+（ご）卒業、おめでとう（ございます）。//Congratulations on your graduation.
+
+<br>
+
+### (3) Look-alike
+
+<br>
+
+そちら、弟さんですか。//Is that your brother?
+
+ええ、太郎と言います。//Yes. His name is Taro.
+
+おいくつですか。//How old is he?
+
+来月，１５才に成ります。//He’ll be 15 next month.
+
+あなたにそっくりですねえ。//He looks just like you!
+
+ぞうでしょうか・・・//Do you think so?
+
+<br>
+
+/// そっくり is an onomatopoetic adjectival noun used to express that someone looks quite a bit like someone else.
+
+/// The person one looks like is marked with the particle に.
+
+<br>
+
+あなたはお兄さんにそっくりですね。//You look just like your older brother!

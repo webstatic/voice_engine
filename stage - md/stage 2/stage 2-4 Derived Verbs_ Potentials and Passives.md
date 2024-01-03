@@ -1,0 +1,691 @@
+stage ２，４。
+
+# Stage 2-4 Derived Verbs: Potentials and Passives
+
+<br>
+
+## 1: Potential Verbs and Sentences
+
+### (1) Derived verbs
+
+/// the three types of derived verbs include potential, passive, and causative verbs.
+
+<br>
+
+### (2) Potential verbs
+
+/// When potential verbs were introduced as independent verbs, only their ability-related meaning was given.
+
+/// however, potential verbs can also express possibility (that is, something that is possible in some situations).
+
+<br>
+
+#### Ability-related meaning
+
+/// The following sentences express the topic’s ability to do something.
+
+<br>
+
+クリスさんは日本語が上手に話せます。//Kurisu-san can speak Japanese well.
+
+私は運転できません。//I cannot drive.
+
+<br>
+
+#### Possibility-related meaning
+
+/// Some verbs that do not involve skill or action indicate only possibility, not ability.
+
+<br>
+
+明日は日本語の授業に行けません。//I cannot go to Japanese class tomorrow.
+
+ナンシーさんは明日から図書館でアルバイトできます。//It will be possible for Nancy to work at the library starting tomorrow.
+
+日本に三週間いられます。//I can stay in Japan for three weeks.
+
+<br>
+
+/// Derived potential forms of action verbs have both ability- and possibility-related meanings depending on the context.
+
+/// For instance, the potential verb 話せる may be used for both meanings. (See above for the ability-related meaning with this verb.)
+
+/// As for the possibility-related meaning with the potential forms of action verbs, the topic is often not explicitly expressed.
+
+<br>
+
+この店では日本語が話せます。//In this store, we can speak Japanese.
+
+<br>
+
+#### Expressing possibility-related meaning with かもしれない
+
+/// Some semi-transitive verbs, such as 分かる and ある, have no potential forms because this type of verb does not refer to an action, and thus cannot express ability.
+
+/// Other constructions must be used to express the idea of possibility with these verbs.
+
+<br>
+
+/// One construction that can be used to express possibility with these verbs is the sentence-ending expression かもしれない.
+
+<br>
+
+あの人はお金がたくさんあるかもしれません。//It’s possible that that person has a lot of money.
+
+あの人は日本語が分かるかもしれません。//It’s possible that that person understands Japanese.
+
+<br>
+
+/// When the speaker wants to express more certainty that the situation is true, the volitional copula だろう may be used.
+
+<br>
+
+あの人はお金がたくさんあるでしょう。//I’m quite certain that that person has a lot of money.
+
+あの人は日本語が分かるでしょう。//I’m sure that that person understands Japanese.
+
+<br>
+
+/// In either case, the possibilities expressed by the potential forms and those expressed by かもしれな い or だろう are not quite parallel to each other.
+
+<br>
+
+/// With the potential form, the possibility lies in whether or not the topic is able to carry out the action.
+
+/// When かもしれない or だろう are used, the possibility lies in whether or not the situation is true, with somewhat different degrees of uncertainty.
+
+/// For this reason, both かもしれない and だろう may be used even with potential verbs.
+
+<br>
+
+あの店では日本語が話せるかもしれません。//You may be able to speak Japanese at that store.
+
+<br>
+
+ーーーーーーーーーーーーーーーーーーーー
+
+## 2: Passive Verbs and Sentences
+
+### (1) Passive verb formation
+
+/// Group 1, 2: Change the final vowel u to the vowel a and add れる
+
+/// Group 3: [する → される], [くる → こられる]
+
+<br>
+
+/// all derived passive forms are Group 1 verbs.
+
+<br>
+
+### (2) Different passive sentences in Japanese
+
+/// In both English and Japanese, passive sentences appear more often in formal writing than in casual speech.
+
+<br>
+
+/// In Japanese, there are two different kinds of passive sentences.
+
+/// - One is a regular passive, used most often in formal writing or speech.
+
+/// - The other is a passive expressing that the speaker has been affected by a certain event, resulting in a feeling that is often undesirable.
+
+/// This type of passive, which is used rather frequently in daily conversation, is called the affective passive.
+
+/// Because this type of passive is emotive, the topic is normally the speaker.
+
+<br>
+
+### (3) Regular passive sentences
+
+/// The use of regular passives occurs most often in written work such as essays, or in formal speech.
+
+/// The topic of the essay is often used as the topic of passive sentences.
+
+/// For instance, if an essay is discussing 日本語, 日本語 may be used as the topic of the essay’s opening statement.
+
+<br>
+
+日本語は日本でだけ話されています。//Japanese is spoken only in Japan.
+
+<br>
+
+/// Regular passives do have active counterparts
+
+<br>
+
+この大学では、多くの学生が日本語を勉強しています。//Many students study Japanese at this college.
+
+この大学では、日本語は多くの学生に勉強されています。//At this college, Japanese is studied by many students.
+
+<br>
+
+/// The particle に is used to mark the person who does the action in a regular passive sentence.
+
+/// によって instead of に can also be used in some cases.
+
+<br>
+
+この本は有名な作家に書かれました。//This book was written by a famous writer.
+
+この本は有名な作家によって書かれました。//This book was written by a famous writer.
+
+<br>
+
+/// While the particle に and によって may mark the person who acts, に is the particle used for all types of passive predicates.
+
+/// によって is not used for the verbs that have emotive meanings, such as scolding and praising, as shown in the incorrect sentence below.
+
+/// In cases when both に and によって are acceptable, the use of によって sounds more formal than に.
+
+<br>
+
+日本の生徒は先生に時々、叱られます。//Students in Japan are occasionally scolded by their teachers.
+
+ーーーーーーーーーーーーーーーーーーーー
+
+### (4) Affective passive sentences
+
+/// In English, because passive sentences are formed by making the object of the active sentence into the subject of the passive sentence, only transitive sentences can be converted into passive sentences.
+
+<br>
+
+/// In Japanese, passive verbs can also be used in sentences in which the speaker expresses an emotional response to an event.
+
+/// Feelings such as annoyance or surprise can be conveyed by the use of passive verbs.
+
+/// In this type of passive sentence, even intransitive action verbs may be used in some situations.
+
+/// However, semi-transitive verbs, and the intransitive counterpart of a transitive-intransitive verb pair (such as the intransitive, 始まる {はじまる}, whose transitive counterpart is 始める {はじめる})
+
+/// may not be used even in affective passives.
+
+<br>
+
+/// The structures of the regular passive and affective passive are inherently different.
+
+/// In affective passives, the person who is affected—again, most often the speaker—is the topic of the sentence.
+
+/// Unlike regular passive sentences, the topic of the affective passive does not appear in the active counterpart
+
+<br>
+
+/// Active:
+
+<br>
+
+雨がふりました。//It rained.
+
+<br>
+
+/// Passive:
+
+<br>
+
+私は雨に降られました。//I was affected by the fact that rain fell.
+
+<br>
+
+
+
+去年、私達は犬に死なれました。//Last year, we were saddened by the death of our dog.
+
+私は映画館で子供に泣かれました。//I was really annoyed by the child’s crying in the theater.
+
+私は先生に私の家に来られました。//I was shocked that my teacher came to my house.
+
+<br>
+
+/// The sentences above are translated idiomatically, as there is really no way to provide word-for-word translations for sentences of this type.
+
+<br>
+
+/// Unlike a regular passive, when a transitive sentence is converted into an affective passive, the direct object in the active sentence remains the direct object in the affective passive.
+
+/// The person affected by the event is the topic, and does not appear in the active sentence.
+
+<br>
+
+/// Active:
+
+<br>
+
+友達はボーイフレンドからの手紙を読みました。//My friend read my boyfriend’s letter.
+
+<br>
+
+/// Passive:
+
+<br>
+
+私は友達にボーイフレンドからの手紙を読まれました。//I was upset that my friend read my boyfriend's letter.
+
+<br>
+
+/// In many affective passive sentences, the topic is not mentioned, because it is clear that the speaker is the one who is emotionally affected.
+
+<br>
+
+/// Some passives are affective passives by nature, even though they have the structure of a regular passive, because of the inherent meaning of the verb.
+
+/// This is particularly true of emotive verbs.
+
+<br>
+
+/// Active:
+
+<br>
+
+先生は私を叱りました。//The teacher scolded me.
+
+<br>
+
+/// Passive:
+
+<br>
+
+私は先生に叱られました。//I was upset about being scolded by the teacher.
+
+<br>
+
+#### Affective passives with ~てしまう
+
+/// ~てしまう is often used with the affective passives.
+
+/// Recall that ~てしまう may be used to express a certain unexpected and unintentional result.
+
+/// As the circumstances in which affective passives are used are by nature unexpected, this resultative expression is commonly used in affective passive sentences.
+
+<br>
+
+昨日、先生に叱られてしまいました。//I ended up being scolded by the teacher.
+
+卒業式で雨に降られてしまいました。//It turned out that it rained at the graduation ceremony.
+
+ーーーーーーーーーーーーーーーーーーーー
+
+### (5) Passive and potential sentences
+
+/// In terms of their formation, the passive and potential forms of Group 1 verbs and 来る {くる} are identical.
+
+/// The two forms are used in different structures, however, so the meanings of each are clear.
+
+<br>
+
+このケーキが食べられますか。//Can you eat this cake?
+
+私は妹にケーキを食べられました。//I was upset that my sister ate my cake.
+
+<br>
+
+/// Unlike Group 1 verbs, potentials and passives of the Group 2 verbs and する have different forms.
+
+<br>
+
+ここで日本語が話せます。//We can speak Japanese here.
+
+日本語はここでも話されています。//Japanese is spoken even here.
+
+ーーーーーーーーーーーーーーーーーーーー
+
+### (6) Passives in English and Japanese
+
+/// When the speaker receives some kind of benefit, the use of a passive sentence is not appropriate in Japanese.
+
+<br>
+
+/// It is allowed in English, however, as in the following example:
+
+/// - Japanese is taught by Professor Tanaka.
+
+/// - I was taught Japanese by Professor Tanaka.
+
+/// The second sentence cannot be expressed as a passive sentence in Japanese, because the implication is that the topic is receiving some kind of benefit or favor from Professor Tanaka.
+
+<br>
+
+/// To express this meaning, the following structure must be used:
+
+<br>
+
+私は田中先生に日本語を教えていただきました。//I was taught Japanese by Tanaka-sensei.
+
+<br>
+
+ーーーーーーーーーーーーーーーーーーーー
+
+## 3: て-forms with Giving and Receiving Verbs
+
+/// All verbs of giving and receiving may be combined with other verbs in the て-form.
+
+/// In these cases, what the topic gives and receives are the benefits of actions rather than things.
+
+/// The central meaning of this construction is therefore “doing a favor for or receiving a favor from another individual.”
+
+/// In English, this nuance is expressed by the preposition “for,” as in “I read the book for the child,” or “Mary made the cake for me.” 
+
+<br>
+
+### (1) ~てあげる（さしあげる・やる）
+
+/// This construction indicates that the topic does a favor for another person.
+
+/// The use of あげる, さしあげる, and やる depends on the relationship between the topic and the recipient of the favor.
+
+<br>
+
+私は母に英語の手紙を読んであげました。//I read the letter in English for my mother.
+
+私は友達のおばあさんに新聞を読んでさしあげました。//I read the newspaper for my friend’s grandmother.
+
+私は弟の宿題をしてやりました。//I did my younger brother’s homework for him.
+
+<br>
+
+/// This construction should be used with care, because when a speaker talks about doing a favor for others, it can seem boastful in the context of Japanese culture.
+
+/// The topic may do something for someone voluntarily, or at the request of the receiver; it is not always clear which is the case.
+
+ーーーーーーーーーーーーーーーーーーーー
+
+### (2) ~てくれる（くださる）
+
+/// When the verbs くれる or くださる are used, the recipient is always the speaker or the speaker’s うちgroup.
+
+/// The particle が is often used as the topic marker in this type of sentence because the sentence often expresses who is the person who has offered or will offer the favor.
+
+<br>
+
+ルームメートがこの漢字を教えてくれました。//My roommate is the one who taught me this kanji.
+
+伊藤先生がこの漢字を教えてくださいました。//Ito-sensei is the one who taught me this kanji.
+
+時雨さんが弟に本を読んでくれました。//Shigure-sensei is the one who taught me this kanji.
+
+ーーーーーーーーーーーーーーーーーーーー
+
+### (3) ~てもらう（いただく）
+
+/// This construction is used when the topic receives a favor from someone else,
+
+/// most often as the result of a request or in a prearranged situation.
+
+<br>
+
+僕はルームメートにこの漢字を教えてもらいました。//I had my roommate teach me this kanji.
+
+マイクさんは鈴木先生にこの漢字を教えていただきました。//Mike asked Professor Suzuki to teach him this kanji.
+
+ーーーーーーーーーーーーーーーーーーーー
+
+### (4) Comparison between ~てくれる and ~てもらう
+
+/// The following is a summary of the different situations in which ~てくれる（くださる） and ~てもらう（いただく） may be used.
+
+/// In both of the sentences below, Taro, a man, read the letter for the speaker:
+
+<br>
+
+太郎さんが日本語の手紙を読んでくれました。//Taro read the Japanese letter for me.
+
+私は日本語の手紙を太郎さんに読んでもらいました。//I had Taro read the Japanese letter for me.
+
+<br>
+
+/// The person who did the action of reading the letter is in the topic position in the sentence with ~くれる（くださる）.
+
+/// In contrast, the person who has asked and received the favor is the topic in the sentence with ~もらう（いただく）.
+
+<br>
+
+/// In the first sentence with ~くれる（くださる）, the focus is Taro, who has offered the action of reading.
+
+/// This action may have taken place because the speaker has asked Taro to do so, or Taro may have volunteered (the use of が for the topic indicates the latter).
+
+<br>
+
+/// In the second sentence with ~もらう（いただく）, the speaker asked Taro to read the letter, perhaps because the speaker cannot read Japanese.
+
+/// As a result of this request, the speaker (the topic) received Taro’s help, namely, the reading of the letter.
+
+/// In this case, the speaker is the topic, since the speaker initiated the asking, and the sentence is structured to communicate this fact.
+
+/// This construction is generally used to talk about a favor that the speaker has received as the result of his or her own request.
+
+<br>
+
+#### Causative sentences and ~てもらう（いただく）
+
+/// causative verbs can be used in sentences in which one person makes another do something.
+
+/// This may seem similar to the sentences with ~てもらう（いただく）.
+
+/// The difference is that the topic of a causative sentence is usually someone who has a certain authority over the person whom the topic makes do something; this is not the case with sentences with ~てもらう （いただく）.
+
+/// Another difference is that sentences with ~てもらう（いただく） imply that the topic has requested that another do something, while causative sentences do not imply any such request.
+
+<br>
+
+先生は学生に漢字を書かせました。//The teacher made the students write kanji.
+
+先生は学生に漢字を書いてもらいました。//The teacher had a student write kanji for him.
+
+<br>
+
+#### Noun のために
+
+/// This phrase, a noun with のために, is used to indicate the recipient of a favor in some constructions.
+
+/// ために, rather than に, is used to avoid confusion as to whether the destination or the beneficiary is being named.
+
+<br>
+
+/// Suppose the speaker’s grandmother is ill, so she cannot go shopping.
+
+/// In this situation, the grandmother is the beneficiary on whose behalf the speaker is going to the store.
+
+<br>
+
+/// It is better to use ために in place of the first に:
+
+<br>
+
+私は叔母さんのために店に行ってあげました。//I went to the store for my grandmother.
+
+<br>
+
+/// ために may also be used in cases when に is normally used to indicate the beneficiary of the topic’s action.
+
+/// When both ために and に are possible, the benefit is much more greatly emphasized with た めに than に.
+
+/// Because of this, an inappropriate use of ために may convey the nuance that the gift was overbearing.
+
+<br>
+
+私はおばあさんのためにおいしいケーキを作ってあげました。//I made a great cake for my grandmother.
+
+<br>
+
+ーーーーーーーーーーーーーーーーーーーー
+
+## 4: て-forms for Expressing the Cause
+
+### (1) Different causes
+
+/// Up to this point in the course, only the adverbial clause with the conjunction から has been introduced to express cause.
+
+/// Clauses with ので also express cause.
+
+/// Another way to express cause is to end the first clause with the て-form.
+
+/// This indicates that the first clause is the reason for the result expressed in the second clause.
+
+/// The distinction in this construction is that the result occurs naturally, rather than being a result of the speaker’s action:
+
+<br>
+
+漢字が難しくて、私はこの本が読めません。//I can’t read this book because the kanji are too difficult.
+
+<br>
+
+/// Emotive expressions, such as the verb 困る {こまる} in the following sentence, are often used in the result clause:
+
+<br>
+
+雨が降って、困りました。//It rained, and that caused me some problems.
+
+<br>
+
+### (2) Apologizing
+
+/// Ending the first clause with the て-form is a construction commonly used to form an apology:
+
+<br>
+
+昨日、授業に来なくて、すみません （でした）。//I’m sorry I didn’t come to class yesterday.
+
+<br>
+
+/// A very common mistake when expressing an apology is to connect the two clauses with the conjunction から (or ので)
+
+<br>
+
+/// An apology is best connected with the て-form because it indicates that the speaker’s regret emerges naturally, rather than being the chosen consequence of a causal event.
+
+<br>
+
+### (3) Thanking
+
+/// If the speaker is thanking someone for a specific thing that he or she received, を is used, though it may be deleted in casual conversation:
+
+<br>
+
+面白い本をありがとうございます。//Thank you for the interesting book.
+
+<br>
+
+/// When a speaker thanks someone else, it is because that person has done something nice for him or her.
+
+/// It is therefore most natural that, following the main clause, the first clause contains some kind of giving or receiving verb.
+
+/// Without this, the expression is often inappropriate.
+
+<br>
+
+手伝ってくれて、ありがとう。//Thank you for helping me.
+
+<br>
+
+/// The following is a more polite version of the above sentence; the verb くださる is used rather than く れる, with ございます added at the end.
+
+<br>
+
+手伝ってくださって、ありがとうございます。//Thank you for helping me.
+
+<br>
+
+/// Mistakes commonly made when expressing appreciation include 
+
+/// 1. not using a verb of giving or receiving;
+
+/// 2. joining the first clause to the second clause by から (or ので);
+
+/// 3. using a form other than the て-form in the first clause.
+
+<br>
+
+ーーーーーーーーーーーーーーーーーーーー
+
+ーーーーーーーーーーーーーーーーーーーー
+
+カンバセーション。
+
+<br>
+
+### (1) Thanking someone for advice
+
+<br>
+
+今日も授業で皆に笑われたんです。//People laughed at me again today in class.
+
+ええ？ そうなんですか。どうしたんですか。//Really? Tell me what happened.
+
+全然、知りませんでした。教えてくださって、本当にありがとうございます。//I didn’t know that at all. Thank you very much for telling me.
+
+<br>
+
+#### どうしたんですか
+
+/// the use of ~んですか suggests that the speaker is urging or encouraging the addressee to explain the situation.
+
+<br>
+
+### (2) How did you get here?
+
+<br>
+
+どうやってここまで来られたんですか。//How did you manage to get here?
+
+父に乗せてもらって来たんです。//I asked my father to give me a ride.
+
+<br>
+
+#### どうやって
+
+/// やって in this phrase is from the verb やる “to do,” a colloquial verb equivalent in meaning to する.
+
+/// どうやって is a way of asking how things are done.
+
+<br>
+
+#### 乗せてもらって
+
+/// 乗せる {のせる} is a verb meaning “to give a ride.”
+
+<br>
+
+彼は私を車に乗せてくれた。//He gave me a ride in his car.
+
+<br>
+
+### (3) Feeling upset about a bad grade
+
+<br>
+
+中間試験、ものすごく悪い点をつけられました。//I got a really bad grade on the midterm.
+
+勉強しなかったんですか。僕もあまりいい成績はもらいませんでした。//Was it because you didn’t study for it? I didn’t do very well, either.
+
+一生懸命、勉強したんですが、ちょっと風邪をひいていたんです。//I studied as hard as I could, but I caught a bit of a cold.
+
+それはいけませんね。気をつけてください。//That’s too bad [about the cold]. Please do take care.
+
+<br>
+
+#### 成績をつける and 点をつける
+
+/// 成績 {せいせき} “grade” and 点 {てん} “point” are used to express the grade one receives in a course, on a test, etc.
+
+/// The verbs used with these words are つける (for giving a grade) and もらう (for receiving one).
+
+<br>
+
+/// 一生懸命 {いっしょうけんめい} is used with the particle に, though the particle may be deleted in casual conversation.
+
+/// The phrase means that one does something “as hard as one possibly can.”
+
+/// 一所懸命 (i.e., the second kanji pronounced with a short しょ) is also commonly used.
+
+<br>
+
+#### 気をつける
+
+/// There are quite a few idiomatic phrases with the noun 気 {き}, “spirit; mind; heart.”
+
+/// 気をつける indicates that a person pays attention to things, or is careful about certain things.
+
+/// The thing that the topic pays attention to is marked by に.
+
+<br>
+
+車に気をつけてください。//Watch out for cars, please.

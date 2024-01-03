@@ -1,0 +1,757 @@
+stage １，３。
+
+# Stage 1-3 Aspects of Predicates
+
+## 1: Four Aspects
+
+/// In Japanese, the forms of the predicate indicate aspect rather than tense.
+
+/// Rather than referring to the time of an action or event, aspect refers to such things as whether an action or event is completed, continuous, etc.
+
+<br>
+
+/// Time in Japanese is expressed and interpreted by way of the use of an aspectual form of the predicate together with other elements such as a time adverb and/or context.
+
+<br>
+
+/// In Japanese, all predicates have two aspectual forms: imperfective and perfective.
+
+/// Both imperfective and perfective forms of predicates have positive and negative forms as well.
+
+<br>
+
+/// The imperfective form is used to express 
+
+/// 1. an action that is not completed (for action verbs), or 
+
+/// 2. the current state (for non-action predicates).
+
+<br>
+
+/// The perfective form is used for
+
+/// 1. an action that is or has been completed (for action verbs), or
+
+/// 2. the past state (for non-action predicates).
+
+<br>
+
+ーーーーーーーーーーーーーーーーーーーー
+
+### (2) Positive and negative imperfectives
+
+#### Action verbs
+
+/// The imperfective form of an action verb indicates that the action has not been completed. 
+
+/// Therefore, this form can be used for future action, as in the sentence “I will read a book tonight.”
+
+/// It is also used to express habitual action with no specific time reference as in “I usually read a book before I go to bed.”
+
+/// The difference between future and habitual actions is indicated by the use of certain time adverbs or by the context.
+
+<br>
+
+私は明日、本を読みます。//I will read a book tomorrow.
+
+私は毎日、本を読みます。//I read books every day.
+
+<br>
+
+/// The imperfective positive form does not indicate ongoing action that is currently taking place: “I’m reading a book now.”
+
+<br>
+
+/// the use of negative imperfective forms also indicates negation of either habitual or future actions.
+
+/// the key to distinguishing the habitual from the future sense is the use of time adverbs or context.
+
+<br>
+
+私は明日、本を読みません。//I will not read a book tomorrow.
+
+私は毎日、本を読みません。//I don’t read books every day.
+
+<br>
+
+#### Non-action predicates
+
+/// Nominal, adjectival, and some verbal predicates do not refer to actions.
+
+/// For these predicates, the imperfective forms indicate the current state rather than future or habitual.
+
+<br>
+
+僕は一年生です。//I am a freshman.
+
+僕は一年生じゃありません。//I am not a freshman.
+
+<br>
+
+今日は寒いです。//It is cold today.
+
+今日は寒くありません。//It is not cold today.
+
+<br>
+
+ナースロボさんは日本語が話せます。//Naasurobo-san can speak Japanese.
+
+ナースロボさんは日本語が話せません。//Naasurobo-san cannot speak Japanese.
+
+<br>
+
+ーーーーーーーーーーーーーーーーーーーー
+
+### (3) Aspects of nominal predicates
+
+#### Positive perfective forms
+
+/// -> [です → でした]
+
+/// Aspects of the nominal predicate are expressed by the forms of the copula.
+
+<br>
+
+私は学生です。//I’m a student.
+
+私は学生でした。//I was a student.
+
+<br>
+
+#### Negative perfective forms
+
+/// -> [(the negative imperfective predicate) + でした]
+
+/// Change the predicate to the negative imperfective form first, and then add でした.
+
+<br>
+
+私は一年生ではありませんでした。//I wasn’t a freshman.
+
+私は一年生じゃありませんでした。//I wasn’t a freshman.
+
+<br>
+
+ーーーーーーーーーーーーーーーーーーーー
+
+### (4) Aspects of adjectival predicates
+
+#### Positive perfective forms
+
+/// -> [~い → ~かった + です]
+
+/// です functions as the marker for the polite form.
+
+<br>
+
+大きいです。大きかったです。//is big. was big.
+
+いいです。よかったです。//is good. was good.
+
+<br>
+
+#### Negative perfective forms
+
+/// -> [(the negative imperfective predicate) + でした]
+
+/// Change the predicate to the negative imperfective form first, and then add でした.
+
+<br>
+
+
+
+昨日は寒くありませんでした。//It wasn’t cold yesterday.
+
+<br>
+
+ーーーーーーーーーーーーーーーーーーーー
+
+### (5) Aspects of verbal predicates
+
+#### Positive perfective forms
+
+/// -> [~ます → ~ました]
+
+<br>
+
+昨日、私は日本語を勉強しました。//I studied Japanese yesterday.
+
+<br>
+
+日本語が話せました。//I used to be able to speak Japanese.
+
+<br>
+
+#### Negative perfective forms
+
+/// -> [(the negative imperfective predicate) + でした]
+
+/// Change the predicate into the negative imperfective form first, and then add でした.
+
+<br>
+
+昨日、勉強しませんでした。//I didn’t study yesterday.
+
+<br>
+
+日本語が話せませんでした。//I wasn’t able to speak Japanese.
+
+<br>
+
+ーーーーーーーーーーーーーーーーーーーー
+
+## 2: Other Aspects
+
+### (1) Continuous aspect
+
+/// The continuous aspect of action verbs is constructed by combining what is called the conjunctive form of a verb and another verb, います.
+
+/// In meaning, this construction conveys any continuous aspect of action verbs.
+
+<br>
+
+僕は本を読みます。//I will read a book. I normally read a book.
+
+<br>
+
+僕は本を読んでいます。//I am reading a book (now). I have been reading a book.
+
+僕は本を読んでいません。//I’m not reading a book now. I have not been reading a book.
+
+僕は本を読んでいました。//I was reading a book then. I had been reading a book.
+
+僕は本を読んでいませんでした。//I wasn’t reading a book then. I had not been reading a book.
+
+<br>
+
+#### Conjunctive forms of predicates
+
+/// While the rules for deriving the conjunctive forms from the base forms of the nominal and adjectival predicates are simple, the rules for deriving the conjunctive forms of verbs are quite complex.
+
+<br>
+
+ーーーーーーーーーーーーーーーーーーーー
+
+### (2) Volitional aspect
+
+#### The volitional forms of verbs
+
+/// -> [~ます → ~ましょう]
+
+/// is used when the speaker wants to suggest some action to the addressee(s) that would include the speaker himself or herself, as in “Let’s do such-and-such.”
+
+<br>
+
+行きます。//will go
+
+行きましょう。//Let’s go.
+
+行きましょうか。//Shall we go?
+
+<br>
+
+/// Certain verbs, such as non-action verbs, cannot be used to mean “let’s do such-and-such,” but every verb has a volitional form because the volitional forms are used in other constructions for different meanings.
+
+<br>
+
+#### The volitional form of the copula -> [です→ でしょう]
+
+/// may be used with all predicate types: nominal, adjectival, and verbal predicates.
+
+/// The copula です is used when the speaker is certain about the content of a sentence.
+
+/// When the speaker is not absolutely certain, but fairly sure, about the content expressed in the predicate, then the volitional でしょう is used.
+
+/// The adverb 多分 {たぶん} “perhaps, probably” is often used in a sentence with でしょう, although it is not an obligatory element.
+
+<br>
+
+あの人は学生でしょう。//That person is probably a student.
+
+<br>
+
+多分このかばんは高いでしょう。//This backpack is probably expensive.
+
+<br>
+
+/// For verbal predicates, the plain form of the verb must be used before でしょう
+
+<br>
+
+ナースロボさんは日本語が分かるでしょう。//Naasurobo-san probably understands Japanese.
+
+<br>
+
+ーーーーーーーーーーーーーーーーーーーー
+
+### (3) A summary of aspectual forms
+
+<br>
+
+#### Nominal predicates
+
+<br>
+
+一年生です。//I’m a freshman.
+
+一年生ではありません。//I’m not a freshman.
+
+一年生でした。//I was a freshman.
+
+一年生ではありませんでした。//I wasn’t a freshman.
+
+一年生でしょう。//[Someone else] is probably a freshman.
+
+<br>
+
+#### Adjectival predicates
+
+<br>
+
+今日は寒いです。//It is cold today.
+
+今日は寒くありません。//It is not cold today.
+
+今日は寒かったです。//It was cold today.
+
+今日は寒くありませんでした。//It was not cold today.
+
+今日は寒いでしょう。//It is probably cold today.
+
+<br>
+
+#### Verbal predicates (non-action verbs)
+
+<br>
+
+日本語が話せます。//I can speak Japanese.
+
+日本語が話せません。//I can’t speak Japanese.
+
+日本語が話せました。//I could speak Japanese.
+
+日本語が話せませんでした。//I couldn’t speak Japanese.
+
+日本語が話せるでしょう。//[Someone] can probably speak Japanese.
+
+<br>
+
+#### Verbal predicates (action verbs)
+
+<br>
+
+日本語を勉強します。//I (will) study Japanese.
+
+日本語を勉強しません。//I don’t study Japanese.
+
+日本語を勉強しました。//I studied Japanese.
+
+日本語を勉強しませんでした。//I didn’t study, Japanese.
+
+日本語を勉強しましょう。//Let’s study Japanese.
+
+<br>
+
+日本語を勉強しています。//I’m studying Japanese.
+
+日本語を勉強していません。//I’m not studying Japanese.
+
+日本語を勉強していました。//I was studying Japanese.
+
+日本語を勉強していませんでした。//I wasn’t studying Japanese.
+
+<br>
+
+ーーーーーーーーーーーーーーーーーーーー
+
+## 3: Conjunctions
+
+### (1) Sentential conjunctions その前に, その後で, and その時に
+
+/// When nouns such as 前 {まえ} “before,” 後 {あと} “after,” and 時 {とき} “time,” are used with the demonstrative その, they function as sentential conjunctions (i.e., conjunctions that connect two sentences).
+
+<br>
+
+私は去年、日本に行きました。その前（に）、日本語を勉強しました。//I went to Japan last year. Before that, I studied Japanese.
+
+映画を見ました。その後（で）、ハンバーグを食べました。//I watched a movie. After that, I ate a hamburger.
+
+去年、日本に行きました。その時（に）、日本語を勉強しました。//I went to Japan last year. At that time, I studied Japanese.
+
+<br>
+
+#### Noun with 前, 後, and 時
+
+<br>
+
+朝ご飯の前（に）、勉強しました。//Before breakfast, I studied.
+
+朝ご飯の後（で）、勉強しました。//After breakfast, I studied.
+
+朝ご飯の時（に）、勉強しました。//During breakfast, I studied.
+
+<br>
+
+### (2) Sentential conjunction だから
+
+/// is used at the beginning of a second sentence to indicate a consequence that follows from the first sentence.
+
+/// The first sentence shows the reason for the consequence expressed in the second sentence.
+
+<br>
+
+私は日本語が分かりませんでした。だから、英語を話しました。//I didn’t understand Japanese, so I spoke English.
+
+<br>
+
+ーーーーーーーーーーーーーーーーーーーー
+
+## 4: Joining Predicates with Conjunctive Forms
+
+### (1) Limitations ofと
+
+/// the conjunction と joins only nouns and noun phrases, but may not be used to join predicates or sentences.
+
+/// The reason と is acceptable in the following sentence is that the two nouns are joined in one predicate.
+
+<br>
+
+先生はずんだもん先生と時雨先生です。//The teachers are Zundamon-sensei and Shigure-sensei.
+
+<br>
+
+### (2) First predicate as nominal predicate
+
+/// The conjunctive form of the copula is で.
+
+/// Use で to join a nominal predicate to another predicate
+
+/// also with a nominal predicate that consists of an adjectival noun and the copula.
+
+<br>
+
+僕はナースロボで、日本語の学生です。//I’m Naasurobo, and I’m a student of Japanese.
+
+エイミーさんは元気で、きれいです。//Amy-san is cheerful and pretty.
+
+<br>
+
+### (3) First predicate as adjectival predicate
+
+/// The conjunctive form of an adjective is obtained by changing the final ~い to ~くて
+
+<br>
+
+中国は大きくて、遠いです。//China is large. It’s also far away.
+
+日本語の授業はよくて、楽しいです。//My Japanese class is good as well as fun.
+
+<br>
+
+### (4) First predicate as verbal predicate
+
+#### Action verbs
+
+/// The conjunctive form of the verb します is して.
+
+<br>
+
+私は勉強して、運動します。//I will study and then exercise.
+
+<br>
+
+/// When two action verbs are joined by the conjunctive form, the order of the actions is expressed by the order of their presentation.
+
+/// That is, in interpreting the sentence, the listener understands that the action expressed first will be completed before the action expressed second.
+
+<br>
+
+私は勉強して、運動しました。//I studied and then exercised.
+
+<br>
+
+#### Non-action verbs
+
+/// In sentences with non-action verbs, the meaning is not affected by the order of the predicates.
+
+<br>
+
+あの人は英語も話せて、漢字も読めます。//That person can speak English as well as read kanji.
+
+<br>
+
+/// Since the sentence order does not assume an order of events, it is possible to reverse the order of the above sentence without changing the meaning:
+
+<br>
+
+あの人は漢字も読めて、英語も話せます。//That person can read kanji as well as speak English.
+
+<br>
+
+#### When the topics are different
+
+/// When the topics of the two predicates to be joined are different, the order of the predicates does not imply the order of the actions, even if action verbs are used.
+
+<br>
+
+昨日、僕は勉強して、時雨さんは運動しました。//I studied yesterday, but Shigure-san exercised.
+
+<br>
+
+/// In a real situation, any number of predicates may be joined.
+
+/// In this case, all except the final predicate are joined by using the conjunctive form.
+
+<br>
+
+寮の部屋はきれいで、小さいです。//The dorm room is clean and small.
+
+<br>
+
+ーーーーーーーーーーーーーーーーーーーー
+
+## 5: Particles
+
+### (1) Thematic について
+
+/// indicating that the preceding noun is the theme of speaking, reading, writing, and so forth.
+
+<br>
+
+私は明日、日本について話します。//I will talk about Japan tomorrow.
+
+ーーーーーーーーーーーーーーーーーーーー
+
+### (2) Accompaniment と
+
+/// と used as a particle indicates accompaniment.
+
+<br>
+
+私はナースロボさんと映画に行きます。//I will go to a movie with Naasurobo-san.
+
+昨日、（僕は）ずんだもん先生と話しました。//I talked with Zundamon-sensei yesterday.
+
+ーーーーーーーーーーーーーーーーーーーー
+
+### (3) Instrumental で
+
+/// The particle で gives the instrumental function to the preceding noun,
+
+/// which means that the noun preceding the particle refers to the means by which the event described in the verb is accomplished or carried out.
+
+<br>
+
+日本人は箸で食べます。//Japanese people eat with chopsticks.
+
+（僕は）学校にいつもバスで行きます。//I always go to school by bus.
+
+<br>
+
+/// When the means refers to an action, as in “by walking,” the conjunctive form of a verb is used.
+
+<br>
+
+私は学校にいつも歩いて行きます。//I always go to school on foot.
+
+<br>
+
+#### The place particle で marking the place of action
+
+/// で is used with a place noun to indicate that the action of the verb in the sentence occurs in that place.
+
+/// で here is also instrumental, expressing the use of a place for the action.
+
+<br>
+
+チャンさんは新聞を図書館で読みます。//Chang-san will read the newspaper at the library.
+
+<br>
+
+/// Compare this with the directional particle に:
+
+<br>
+
+チャンさんは図書館に行きます。//Chang-san will go to the library.
+
+<br>
+
+ーーーーーーーーーーーーーーーーーーーー
+
+## 6: Topic and Contrastive は
+
+### (1) Topicalizing an element
+
+/// In Japanese, the speaker can make any element the topic of a sentence by bringing it to the sentence-initial position and marking it with は.
+
+<br>
+
+来年もナースロボさんは日本語を勉強しますか。//Naasurobo-san, will you study Japanese next year as well?
+
+中国語は勉強しませんが、日本語を勉強します。//[As for Chinese,] I will not study it, but I will study Japanese.
+
+<br>
+
+### (2) Contrastive は
+
+/// は also has another function: that is, the contrastive function.
+
+/// The topic can be inherently contrastive.
+
+/// Since the speaker has chosen one element as the focus of his or her comments, that topic is implicitly or explicitly contrasted with some other elements.
+
+<br>
+
+これは私の本ですが、あれはエミリーさんのです。//This book is mine, but that one is EmiLy-san’s.
+
+私は、本は読みますが、新聞は読みません。//I will read a book, but not a newspaper.
+
+<br>
+
+/// when two or more noun phrases are marked by は in a sentence, the first noun (or noun phrase) marked by は is usually the topic of the sentence; any subsequent ones are contrastive elements.
+
+<br>
+
+/// With the exception of particles that are conjunctive in nature such as の, and overriding particles,
+
+/// the same particle may not be used for the same function more than once in a clause or a sentence.
+
+/// Because it is common for a single particle to have multiple functions, as long as the function of the particle is different each time it is used, the same particle may be used multiple times in a sentence.
+
+<br>
+
+/// は, used contrastively and for topicalization, is an overriding particle. Generally speaking, overriding particles replace the particles が and を, and are used together with other particles.
+
+/// In the following example, the particle に is used with the contrastive は:
+
+<br>
+
+今日は、日本語の授業には行きません。//I will not go to Japanese class today.
+
+<br>
+
+ーーーーーーーーーーーーーーーーーーーー
+
+ーーーーーーーーーーーーーーーーーーーー
+
+カンバセーション。
+
+<br>
+
+### (1) Confirming with ね
+
+<br>
+
+アリスさんは二年生ですね。//Alice-san, you’re a sophomore, right?
+
+ええ、そうです。//Yes, I am.
+
+<br>
+
+/// The use of ね with a short vowel indicates that the speaker is confirming his or her understanding of a situation with the addressee.
+
+<br>
+
+### (2) Indirectness in conversation
+
+<br>
+
+アリスさんは二年生ですね。//Alice-san, you’re a sophomore, right?
+
+いえ、僕は三年生ですが・・・。//No, I’m a third grader, but . . . [why do you ask?]
+
+<br>
+
+#### Incomplete sentences in conversation
+
+/// The conjunction が at the end of the second sentence in the example above indicates that the sentence is not quite finished, but the speaker has decided not to continue.
+
+/// This kind of unfinished sentence marked by が happens quite often in conversation in Japanese. Though it sounds very vague, sometimes not finishing a sentence is more polite than saying everything.
+
+<br>
+
+### (3) Confirming with か
+
+<br>
+
+日本語は難しくありませんか。//Isn’t Japanese hard for you?
+
+難しいです。//You’re right. It is difficult.
+
+<br>
+
+日本語は難しくありませんか。//Isn’t Japanese hard for you?
+
+いいえ。易しいです。//I don’t think so. It’s easy.
+
+<br>
+
+#### Negative questions with か
+
+/// A question is often asked with a negative predicate when the speaker is fairly certain about something but not 100 percent certain.
+
+<br>
+
+この本は高くありませんか。//This book is expensive, isn’t it?
+
+<br>
+
+/// the addressee uses ええ to agree with the assumption
+
+<br>
+
+ええ。高いです。//You’re right. It is expensive.
+
+<br>
+
+/// いいえ is used to show that the addressee’s assumption is somewhat different from the reality.
+
+/// So, the actual fact is added after indicating that the addressee’s assumption is incorrect by the use of いいえ.
+
+<br>
+
+いいえ。高くありません。//You are incorrect. It is not expensive.
+
+<br>
+
+### (4) Confirming with ねえ
+
+<br>
+
+日本語は易しくありませんねえ。//Japanese isn’t easy, don’t you think so?
+
+ええ、本当に易しくありませんねえ。//You’re right, it’s not easy.
+
+<br>
+
+#### Negative questions with ねえ
+
+/// When the speaker is trying to convey his or her impression with a negative predicate and wants to confirm that impression with the addressee, the sentence-final particle ねえ is often used in a question
+
+<br>
+
+この本は高くありませんねえ。//This book is not expensive, don’t you agree?
+
+ええ、そんなに高くありませんねえ。//You are right. It is not that expensive.
+
+そうですか。高いです。//Really? It is expensive.
+
+<br>
+
+### (5) Avoiding bluntness
+
+<br>
+
+日本語は易しくありませんねえ。//Japanese isn’t easy, don’t you think so?
+
+そうですか。あんまり難しくありませんが・・・。//Really? It’s not that difficult, but . . .
+
+<br>
+
+#### そうですか
+
+/// At times, giving a negative response with いいえ or いえ may be too blunt. In this case, it is possible to acknowledge the question by saying そうですか, which softens the bluntness of the response.
+
+<br>
+
+/// あんまり is a spoken form of あまり.

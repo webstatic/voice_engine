@@ -1,0 +1,567 @@
+stage ３，５。
+
+# Stage 3-5 Expressions of Simultaneous Events
+
+<br>
+
+## 1: Review of ながら and あいだ（に）
+
+/// There are many structures that express two simultaneous events in Japanese.
+
+/// Many of these constructions are equated with English sentences in which “while” functions as a connector.
+
+/// Sentences expressing simultaneous events with ながら-phrases and あいだ（に）-clauses were introduced in Stage 2–5.
+
+/// This chapter begins with a summary of the differences between these two structures and goes on to introduce new constructions that express similar concepts.
+
+<br>
+
+### (1) Adverbial phrases with ながら
+
+/// Adverbial phrases with ながら are used to express a secondary action that accompanies a main action when both are performed by the same person.
+
+<br>
+
+私はいつも新聞を読みながら、勉強します。//I always read newspapers while studying.
+
+<br>
+
+/// The ながら-adverbial phrase may not be used to describe simultaneous actions performed by different people, however.
+
+/// In addition, if one of the predicates is stative, not active, the ながら-adverbial may not be used.
+
+<br>
+
+### (2) Adverbial clauses with あいだ（に）
+
+/// An adverbial clause with あいだ（に） may be used for simultaneous actions performed by the same person, or by different people.
+
+/// It can also be used for continuous actions, stative events, and even punctual events.
+
+<br>
+
+/// In the following sentences, two different individuals are doing two different things at the same time.
+
+/// When the action expressed in the main clause is shorter in duration than that in the adverbial clause, the particle に should be used immediately after あいだ.
+
+<br>
+
+子供が寝ている間、私は勉強しました。//I studied during the time that my child was sleeping.
+
+子供が寝ている間に、私は勉強しました。//I studied for part of the time that my child was sleeping.
+
+<br>
+
+/// This construction can be used to express simultaneous states as well as simultaneous actions.
+
+<br>
+
+私は日本にいる間、漢字をたくさん勉強しました。//I studied a lot of kanji when I was in Japan.
+
+<br>
+
+## 2: Simultaneous Events with Other Adverbials
+
+### (1) Adverbial clauses with うちに
+
+/// The most salient feature of the structure in which clauses are connected with うちに is that the condition stated in the うち-clause is expected to change relatively soon.
+
+/// うち comes from the noun うち “inside.”
+
+/// The literal interpretation of the condition marked by うち is therefore something like “within the time that the condition holds true.”
+
+/// あいだ-clauses do not have such an assumption regarding changes of condition.
+
+<br>
+
+お茶が熱いうちに、飲んで下さい。//Please drink the tea before it gets cold.
+
+/// Literally, “while it’s still hot”
+
+<br>
+
+あの人がここにいるうちに、聞いておいた方がいいですよ。//You’d better ask him while he is still here.
+
+<br>
+
+/// Because change is a prominent factor in the うち-clause, negative predicates are often used in this clause.
+
+<br>
+
+雨が降らないうちに、家に帰りましょう。//Let’s go home before it starts raining.
+
+/// Literally, “while it’s still not raining”
+
+<br>
+
+寒くならないうちに、部屋に入ってください。//Please go inside before it gets cold.
+
+/// Literally, “while it’s not cold yet”
+
+<br>
+
+### (2) Adverbial phrases with まま（で）
+
+/// Like ながら-adverbials, adverbial phrases with まま are used to express two simultaneous events concerning the same person.
+
+/// This structure cannot be used to discuss simultaneous events concerning different people.
+
+/// The difference between the two structures is that the verb used in the まま-adverbial phrase must be punctual; that is, non-continuous, in nature.
+
+/// In addition, the perfective form of the verb must be used immediately before まま in this phrase, because the phrase implies a state of completed action expressed by the verb.
+
+/// で after まま is optional.
+
+<br>
+
+電車の中で立ったまま（で）、寝てしまいました。//I fell asleep standing on the train.
+
+/// Literally, “I had stood up on the train, and in that state, I fell asleep.”
+
+<br>
+
+服を着たまま（で）、寝てしまいました。//I fell asleep with my clothes on.
+
+/// Literally, “I had put my clothes on, and in that state, I fell asleep.”
+
+<br>
+
+めがねをかけたまま（で）、泳がないで下さい。//Please don’t swim with your glasses on.
+
+/// Literally, “If you have put your glasses on and are still in that state, don’t swim.”
+
+<br>
+
+### (3) ~ながら with stative verbs
+
+/// ながら-phrases have two different functions.
+
+/// The function introduced in Stage 2–5 describes a secondary action accompanying a main action.
+
+/// The second function, which is introduced in this section, is similar to ~ても or のに.
+
+/// In this case, the verb in the phrase with ~ながら must be stative.
+
+/// Using ~ ながら in this way is quite formal.
+
+<br>
+
+あの人は、家にいながら、電話に出ないのは、変ですね。//It’s strange that he’s not answering the phone even though he’s home.
+
+彼はお金がありながら、物を買うことが好きじゃないんですよ。//Hard to believe, but he doesn’t like to buy things, even though he has money.
+
+<br>
+
+/// With adjectives (including adjectival nouns) and adverbs, ながら is used immediately after the word.
+
+/// That is, the form of an adjective does not change in this construction.
+
+<br>
+
+彼女は、小さいながら、とっても元気です。//Although she is small, she is very energetic.
+
+あの人は、ゆっくりながら、日本語をとても上手に話します。//Although she speaks slowly, she speaks Japanese very well.
+
+<br>
+
+### (4) Conjunctions （そのまま・そのうちに・そのあいだに）
+
+/// The conjunctions used for adverbial clauses introduced in this chapter, such as まま and うちに, may actually be used as sentential and clausal conjunctions.
+
+/// In this case, the demonstrative その must precede them.
+
+/// The following pairs of examples illustrate the sentential and clausal uses of these conjunctions.
+
+<br>
+
+とても疲れて、６時頃、ソファに横になった。でも、そのまま、朝まで寝てしまった。//I lay down on the sofa at around 6:00 because I was so tired. But I ended up sleeping until morning.
+
+とても疲れて、６時頃、ソファに横になったら、そのまま、朝まで寝てしまった。//I lay down on the sofa at around 6:00 because I was so tired, and ended up sleeping until morning.
+
+<br>
+
+テレビを見ていた。そしたら、そのうちに、寝てしまった。//I was watching TV. As I sat there watching, I fell asleep.
+
+テレビを見ていたら、そのうちに、寝てしまった。//I was watching TV, and fell asleep as I sat there.
+
+<br>
+
+私は電話で話していた。その間に、ルームメートは晩ご飯を食べてしまった。//I was talking on the phone. While I was still talking, my roommate finished her dinner.
+
+私は電話で話していたら、その間に、ルームメートは晩ご飯を食べてしまった。//During the time I was talking on the phone, my roommate finished her dinner.
+
+<br>
+
+## 3: Similar Adverbial Phrases
+
+/// There are a number of adverbs and adverbial phrases that are quite close in meaning.
+
+/// Knowing the nuances and implications of each of these is very important for successful communication.
+
+/// Some of these adverbs have been already introduced and used, but the following overview presents them all in the same place.
+
+<br>
+
+### (1) せいで and おかげで
+
+/// To attribute the cause of something to another person or thing, せいで or おかげで can be used.
+
+/// The difference between the two is that せいで refers to a negative cause and おかげで to a positive one.
+
+<br>
+
+あなたのせいで、私は試験に失敗しました。//Because of you, I failed the examination.
+
+/// [i.e., it’s the addressee’s fault]
+
+<br>
+
+あなたのおかげで、私は試験に通りました。//Thanks to you, I passed the examination.
+
+<br>
+
+/// The expression おかげさまで,a more polite phrasing ofおかげで, was introduced in the Preparatory Stage, as in the following:
+
+<br>
+
+おかげさまで、元気です。//Thanks to you, I’m well.
+
+<br>
+
+#### せい or おかげ in predicates
+
+/// せい and おかげ may also be used in the nominal predicate.
+
+<br>
+
+あなたが試験に失敗したのは、私のせいです。//It’s my fault that you failed the examination.
+
+私が試験に通ったのは、あなたのおかげです。//Thanks to your help, I passed the test.
+
+<br>
+
+### (2) ほとんど and めったに
+
+/// Some adverbs, such as あまり, そんなに, and 全然（ぜんぜん）, require the predicate to be in the negative form.
+
+/// There are a few more in this category, including ほとんど and めったに, which will be introduced in this section.
+
+<br>
+
+/// ほとんど, which refers to frequency, means “almost never.”
+
+<br>
+
+私は家にほとんど電話しません。//I hardly ever call home.
+
+<br>
+
+/// The adverb めったに indicates a little more frequency than ほとんど, but it is still not often.
+
+<br>
+
+うちの子供はめったに田中さんのお子さんと遊びません。//My child rarely plays with Tanaka-san’s child.
+
+<br>
+
+/// The adverbs 全然（ぜんぜん）, ほとんど, and めったに differ in degree of frequency.
+
+/// The frequency increases from not at all to more frequent, in the following order:
+
+/// 全然 → ほとんど → めったに
+
+<br>
+
+### (3) わざわざ and せっかく
+
+/// In many Japanese–English dictionaries, わざわざ and せっかく are defined similarly as “deliberately; with much trouble.”
+
+/// Adverbs are in general very difficult to translate into another language, because the implications of a given adverb tend to be quite different in each language.
+
+/// As ever, understanding the underlying meaning of each word is more important than learning it via translation alone.
+
+<br>
+
+#### わざわざ
+
+/// This adverb implies that the topic is doing something even though it is not necessary, and that this task may be a lot of trouble to complete.
+
+/// わざわざ may be used in either a dependent or independent clause.
+
+<br>
+
+わざわざ料理したけれども、だれも食べてくれなかった。//I went to the trouble of cooking, but no one ate it.
+
+このパーティーにはわざわざ着物を着なくてもいいですよ。//You needn’t take the trouble to wear a kimono to this party.
+
+<br>
+
+/// Because of its meaning, わざわざ is often used to thank someone for what he or she did.
+
+/// The grateful person wants the addressee to know that it wasn’t necessary to do what was done.
+
+<br>
+
+遠くからわざわざ来てくださって、ありがとうございます。//Thank you for coming here from so far away.
+
+<br>
+
+#### せっかく
+
+/// This adverb indicates that the speaker is taking advantage of his or her current situation to do additional things.
+
+/// The situation described in the dependent clause, in which せっかく is used, provides the opportunity for the action in the independent clause.
+
+/// Because of this structure, せっかく cannot be used in simple sentences.
+
+<br>
+
+せっかくここまで来たのだから、海にも行きましょう。//Since we came all the way here, let’s take advantage of it and go to the beach.
+
+せっかく日本に来たのに、田中さんに会えませんでした。//I came all the way to Japan, but I was unable to see Tanaka-san.
+
+/// Literally, “it was too bad that I couldn’t take advantage of being in Japan to see Tanaka-san”
+
+<br>
+
+/// せっかく may be used to politely decline an offer or invitation by implying that the speaker regrets not being able to take the opportunity.
+
+/// ですが in せっかくですが in this response implies that a more complete structure is abbreviated.
+
+/// This expression has become a fixed expression for declining an offer politely.
+
+<br>
+
+明日、うちにいらっしゃいませんか。//Would you like to come visit me tomorrow?
+
+せっかくですが、明日は行けません。//Thank you for the opportunity, but unfortunately I can’t take advantage of your invitation and visit you tomorrow.
+
+<br>
+
+/// In some cases, わざわざ and せっかく seem to be interchangeable, but there is a difference in nuance originating from the meanings described above.
+
+/// The use of わざわざ modifies the action in the dependent clause, while the use of せっかく gives the reason for the action expressed in the main clause.
+
+<br>
+
+わざわざここまで来たのだから、海にも行きましょう。//Since we took the trouble to come here, let’s go to the beach as well.
+
+せっかくここまで来たのだから、海にも行きましょう。//Since we came all the way here, let’s take advantage of it and go to the beach.
+
+<br>
+
+### (4) やっと and とうとう
+
+/// The adverbs やっと and とうとう, which were introduced in Stages 2–6, may both be translated as “finally” in a dictionary.
+
+/// However, the notions presupposed by these adverbs are quite different.
+
+<br>
+
+/// やっと is used when the speaker’s expectation is reached after a long wait or prolonged effort.
+
+/// In the first sentence below, it sounds as if the speaker has been waiting for rain for quite some time, and this wish has now been fulfilled.
+
+/// In the second sentence, the implication is that the speaker had been making an effort to understand something, and the goal was finally met.
+
+<br>
+
+やっと雨が降ってきました。//The rain that I was hoping for has finally begun.
+
+やっと分かりました。//I finally understood.
+
+<br>
+
+/// とうとう literally means that something has reached its end.
+
+/// This adverb is often, but not always, used when something that the speaker has been afraid might happen actually does happen.
+
+/// This fear does not have to be very strong, however.
+
+<br>
+
+とうとう雨が降ってきました。//It’s starting to rain; I was afraid it would.
+
+とうとうぼくの犬は死んでしまいました。//I was dreading my dog’s death, and it finally happened.
+
+<br>
+
+/// In both cases, the speaker was fearfully anticipating the event in the sentence.
+
+/// In both sentences, the event occurred despite the speaker’s wish that it would not.
+
+<br>
+
+/// Because of the difference in nuance between やっと and とうとう, confusing them could lead to a terrible misunderstanding.
+
+/// For instance, when a long-awaited visitor finally arrives, it is definitely more appropriate to use やっと than とうとう.
+
+<br>
+
+やっと、来たのね。//You’re finally here!
+
+<br>
+
+/// In contrast, when the speaker fears that eventually it will be his or her turn to face something negative, the use of とうとう is more appropriate than やっと.
+
+<br>
+
+とうとう私の番が来てしまいました。//My turn has come, as I knew it would.
+
+<br>
+
+### (5) Adverb あまり with positive predicates
+
+/// あまり was introduced earlier as an adverb that requires a negative predicate.
+
+<br>
+
+この本はあまり面白くありませんでした。//This book was not very interesting.
+
+<br>
+
+/// When this adverb is used with a positive predicate, it stresses that what is expressed in the predicate exceeds expectations.
+
+/// This adverb, however, is used only in a dependent clause;
+
+/// the main clause must express the consequence.
+
+<br>
+
+この本があまり面白かったから、昨日、全部、読んでしまいました。//This book was so interesting that I read the whole thing yesterday.
+
+<br>
+
+/// When あまり is used in this way, the particle に or にも may also accompany it.
+
+<br>
+
+この本があまりに（も）面白かったから、昨日、全部、読んでしまいました。//This book was so interesting that I read the whole thing yesterday.
+
+<br>
+
+ーーーーーーーーーーーーーーーーーーーー
+
+ーーーーーーーーーーーーーーーーーーーー
+
+カンバセーション。
+
+<br>
+
+### (1) Things are too expensive in Japan!
+
+<br>
+
+日本は物があんまり高くて、びっくりしました。//I’m shocked to find how expensive things are here in Japan.
+
+この頃、少しは安くなったという気がしますが、まだまだ高いですよね。//It seems like they’ve gotten a bit cheaper lately, but you’re right, things are still quite expensive.
+
+でも、物の質はいいですよね。//The quality is quite good, though.
+
+それはそうですね。//That’s true.
+
+<br>
+
+#### 気がする {きがする}
+
+/// This idiomatic verb expresses the speaker’s hunch.
+
+/// The feeling is not based so much on evidence as it is on the speaker’s instinct.
+
+<br>
+
+#### 物の質 {もののしつ}
+
+/// 質 {しつ} means “quality.” The meaning of this phrase is therefore “the quality of things.”
+
+<br>
+
+#### まだまだ
+
+/// The repetition of まだ emphasizes that things are still quite expensive.
+
+<br>
+
+#### それはそうですね
+
+/// When the speaker agrees with a specific point, using それ to refer to it, this expression may be used.
+
+/// It means something like “the point you raise is true.”
+
+<br>
+
+### (2) I was able to graduate because of you
+
+<br>
+
+/// おば：
+
+これ、ほんの気持ちだけだけど、卒業のお祝いにと思って・・・。//It’s not much, but here is a gift for your graduation.
+
+/// 私：
+
+お祝いだなんて。卒業できたのは、おばさんのお陰なんだから・・・。//A gift? But if it weren’t for you, I couldn’t have graduated.
+
+/// おば：
+
+そんなことないわよ。あなたが一生懸命、頑張ったからよ。これからも頑張ってちょうだいね。//That’s not true. You worked very hard to graduate. Keep working hard.
+
+/// 私：
+
+うん、頑張るわ。叔母さんの健康がちょっと気になるけど。//Yes, I will. I’m a bit worried about your health, though.
+
+/// おば：
+
+心配しないで。この頃、私、ピンピンしてるんだから。//Don’t worry. I’m quite healthy these days.
+
+<br>
+
+#### ほんの気持ちだけ
+
+/// ほんの means “just a little bit”;
+
+/// 気持ち {きもち} here refers to “the speaker’s thoughts.”
+
+/// So, ほんの気持ちだけ is often used when a person giving a present wants to say that what he or she is about to give is not a big thing, but that it expresses his or her thoughts.
+
+<br>
+
+#### 卒業のお祝いにと思って
+
+/// This phrase means “I thought this might be a good gift to celebrate your graduation.”
+
+/// お祝い {いわい} means “celebration,” but it is also used to mean “gift.”
+
+<br>
+
+#### そんなことない
+
+/// This phrase can be used to negate another person’s statement.
+
+/// It means something like “It’s not like that,” or “That’s not true.”
+
+<br>
+
+#### 頑張ってちょうだい {がんば ってちょうだい}
+
+/// ちょうだい is a colloquial version of ください.
+
+/// When combined with other verbs, this verb may be used only when speaking to someone younger or to someone with less authority.
+
+<br>
+
+#### 気になる
+
+/// When something is either annoying or worrisome to the speaker, he or she can express it with this idiomatic phrase:
+
+<br>
+
+彼の言ったことが気になる。//What he said was annoying.
+
+母の健康が気になる。//I’m worried about my mother’s health.
+
+<br>
+
+#### ピンピンする
+
+/// This onomatopoeia describes someone in good health.
